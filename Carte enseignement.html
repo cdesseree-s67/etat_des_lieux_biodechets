@@ -150,12 +150,14 @@ html, body, #map {
 <option value="Collège">Collèges</option>
 <option value="Lycée">Lycées</option>
 <option value="CROUS">CROUS</option>
+<option value="Crèche">Crèches</option>
 </select>
 
 <select id="FiltreCantine">
 <option value="all">Tous</option>
 <option value="true"> Oui</option>
 <option value="false">Non</option>
+<option value="null">Non spécifié</option>
 </select>
 
 <!-- RESET -->
@@ -379,7 +381,9 @@ var osm = L.tileLayer(
         map.addLayer(layer_DpartementduBasRhin_2);
         function pop_Restaurationscolaire_14(feature, layer) {
             var p = feature.properties;
-            var restaurationLabel = (p['Restauration'] === true || String(p['Restauration']).toLowerCase() === 'true') ? 'Oui' : 'Non';
+            var r = p['Restauration'];
+            var isNull = (r === null || r === undefined);
+            var restaurationLabel = isNull ? 'Non spécifié' : Number(r) === 1 ? 'Oui' : 'Non';
             var popupContent = '<table style="font-family:Arial,sans-serif;font-size:13px;border-collapse:collapse;">' +
               '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Niveau</th>' +
                 '<td style="padding:3px 0">' + (p['Type_etablissement'] || '—') + '</td></tr>' +
@@ -387,6 +391,8 @@ var osm = L.tileLayer(
                 '<td style="padding:3px 0">' + (p['Nom'] || '—') + '</td></tr>' +
               '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Restauration</th>' +
                 '<td style="padding:3px 0">' + restaurationLabel + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Structure de restauration</th>' +
+                '<td style="padding:3px 0">' + (p['Structure'] || '—') + '</td></tr>' +
               '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Adresse</th>' +
                 '<td style="padding:3px 0">' + (p['Adresse'] || '—') + '</td></tr>' +
               '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Effectifs</th>' +
@@ -424,6 +430,7 @@ var osm = L.tileLayer(
           if (type === 'ecole')   return 'rgba(109,235,115,1.0)';
           if (type === 'lycee')   return 'rgba(55,135,227,1.0)';
           if (type === 'crous')   return 'rgba(160,32,240,1.0)';
+          if (type === 'creche')  return 'rgba(201,13,249,1.0)';
           return 'rgba(180,180,180,1.0)';
         }
         map.createPane('pane_Restaurationscolaire_14');
@@ -504,7 +511,7 @@ var osm = L.tileLayer(
         });
         var overlaysTree = [
         {label: '<b>Enseignement</b>',  selectAllCheckbox: true, children: [
-            {label: 'Restauration scolaire<br /><table><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Ecole0.png" /></td><td>Ecole</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Collège1.png" /></td><td>Collège</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Lycée2.png" /></td><td>Lycée</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_CROUS3.png" /></td><td>CROUS</td></tr></table>', layer: cluster_Restaurationscolaire_14},]},
+            {label: 'Restauration scolaire<br /><table><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Ecole0.png" /></td><td>Ecole</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Collège1.png" /></td><td>Collège</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Lycée2.png" /></td><td>Lycée</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_CROUS3.png" /></td><td>CROUS</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Crèche4.png" /></td><td>Crèche</td></tr></table>', layer: cluster_Restaurationscolaire_14},]},
         {label: '<b>Géographie</b>', collapsed: true, selectAllCheckbox: true, children: [
             {label: '<img src="legend/DpartementduBasRhin_2.png" /> Département du Bas-Rhin', layer: layer_DpartementduBasRhin_2},
             {label: '<img src="legend/EPCI_1.png" /> EPCI', layer: layer_EPCI_1},]},]
@@ -600,8 +607,12 @@ function filtrerEsgt() {
                      (p[fieldNiveau] == stateEsgt.Niveau);
 
     // ===== CANTINE =====
+    const _r = p[fieldCantine];
+    const _isNull = (_r === null || _r === undefined);
     const okCantine = (stateEsgt.Cantine === "all") ||
-                      (String(p[fieldCantine]).toLowerCase() === stateEsgt.Cantine);
+                      (stateEsgt.Cantine === "null"  && _isNull) ||
+                      (stateEsgt.Cantine === "true"  && !_isNull && Number(_r) === 1) ||
+                      (stateEsgt.Cantine === "false" && !_isNull && Number(_r) === 0);
 
     // ===== RESULTAT =====
     if (okNiveau && okCantine) {

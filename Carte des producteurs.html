@@ -211,11 +211,13 @@
           <option value="Collège">Collèges</option>
           <option value="Lycée">Lycées</option>
           <option value="CROUS">CROUS</option>
+          <option value="Crèche">Crèches</option>
         </select>
         <select id="FiltreCantine">
           <option value="all">Restauration - Tous</option>
           <option value="true">Avec restauration</option>
           <option value="false">Sans restauration</option>
+          <option value="null">Non spécifié</option>
         </select>
         <button id="resetEsgt">Reset</button>
         <button id="exportEsgt">Export CSV</button>
@@ -485,6 +487,9 @@
         // ===================== ENSEIGNEMENT =====================
         function pop_QGISBDEnseignement(feature, layer) {
           var p = feature.properties;
+          var _rp = p['Restauration'];
+          var _rpStr = (_rp === null || _rp === undefined) ? '' : String(_rp).toLowerCase().trim();
+          var restaurationLabel = (_rp === null || _rp === undefined) ? 'Non spécifié' : Number(_rp) === 1 ? 'Oui' : 'Non';
           var popupContent = '<table style="font-family:Arial,sans-serif;font-size:13px;border-collapse:collapse;">' +
             '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Nom</th>' +
               '<td style="padding:3px 0">' + (p['Nom'] || '—') + '</td></tr>' +
@@ -493,7 +498,9 @@
             '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Adresse</th>' +
               '<td style="padding:3px 0">' + (p['Adresse'] || '—') + '</td></tr>' +
             '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Restauration</th>' +
-              '<td style="padding:3px 0">' + (p['Restauration'] === true || String(p['Restauration']).toLowerCase() === 'true' || String(p['Restauration']).toLowerCase() === 'oui' ? 'Oui' : p['Restauration'] === false || String(p['Restauration']).toLowerCase() === 'false' || String(p['Restauration']).toLowerCase() === 'non' ? 'Non' : p['Restauration'] || '—') + '</td></tr>' +
+              '<td style="padding:3px 0">' + restaurationLabel + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Structure de restauration</th>' +
+              '<td style="padding:3px 0">' + (p['Structure'] || '—') + '</td></tr>' +
             '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Effectifs</th>' +
               '<td style="padding:3px 0">' + (p['Effectifs'] !== null && p['Effectifs'] !== undefined ? p['Effectifs'] : '—') + '</td></tr>' +
             '</table>';
@@ -529,7 +536,8 @@
           if (type === 'ecole')   return 'rgba(109,235,115,1.0)';
           if (type === 'lycee')   return 'rgba(55,135,227,1.0)';
           if (type === 'crous')   return 'rgba(98,222,77,1.0)';
-          return 'rgba(180,180,180,1.0)';
+          if (type === 'creche')  return 'rgba(201,13,249,1.0)';
+          return 'rgba(201,13,249,1.0)';
         }
 
         map.createPane('pane_QGISBDEnseignement');
@@ -747,7 +755,7 @@
           },
           {
             label: '<b>Enseignement</b>', selectAllCheckbox: true, children: [
-              { label: 'Niveau<br /><table><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Ecole0.png" /></td><td>Ecole</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Collège1.png" /></td><td>Collège</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Lycée2.png" /></td><td>Lycée</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_CROUS3.png" /></td><td>CROUS</td></tr></table>', layer: cluster_QGISBDEnseignement }
+              { label: 'Niveau<br /><table><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Ecole0.png" /></td><td>Ecole</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Collège1.png" /></td><td>Collège</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Lycée2.png" /></td><td>Lycée</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_CROUS3.png" /></td><td>CROUS</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Crèche4.png" /></td><td>Crèche</td></tr></table>', layer: cluster_QGISBDEnseignement }
             ]
           },
           {
@@ -1000,10 +1008,12 @@
           layer_QGISBDEnseignement.eachLayer(layer => {
             const p = layer.feature.properties;
             const okNiveau = esgtState.niveau === "all" || p.Type_etablissement === esgtState.niveau;
-            const restBool = p.Restauration === true || String(p.Restauration).toLowerCase() === 'true' || String(p.Restauration).toLowerCase() === 'oui';
+            const _r = p.Restauration;
+            const _isNull = (_r === null || _r === undefined);
             const okCantine = esgtState.cantine === "all"
-              || (esgtState.cantine === "true" && restBool)
-              || (esgtState.cantine === "false" && !restBool);
+              || (esgtState.cantine === "null"  && _isNull)
+              || (esgtState.cantine === "true"  && !_isNull && Number(_r) === 1)
+              || (esgtState.cantine === "false" && !_isNull && Number(_r) === 0);
             if (okNiveau && okCantine) {
               cluster_QGISBDEnseignement.addLayer(layer);
               count++;
@@ -1072,10 +1082,12 @@
             const p = layer.feature.properties;
             const okNiveau = esgtState.niveau === "all" || p.Type_etablissement === esgtState.niveau;
             // Normalise espaces et casse des deux côtés pour éviter les faux non-matchs
-            const restBool2 = p.Restauration === true || String(p.Restauration).toLowerCase() === 'true' || String(p.Restauration).toLowerCase() === 'oui';
+            const _r2 = p.Restauration;
+            const _isNull2 = (_r2 === null || _r2 === undefined);
             const okCantine = esgtState.cantine === "all"
-              || (esgtState.cantine === "true" && restBool2)
-              || (esgtState.cantine === "false" && !restBool2);
+              || (esgtState.cantine === "null"  && _isNull2)
+              || (esgtState.cantine === "true"  && !_isNull2 && Number(_r2) === 1)
+              || (esgtState.cantine === "false" && !_isNull2 && Number(_r2) === 0);
             if (okNiveau && okCantine) {
               rows.push([
                 p.Identifiant_de_l_etablissement ?? "",
