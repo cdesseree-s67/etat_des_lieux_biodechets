@@ -110,9 +110,9 @@
         .filter-actions {
             display: flex;
             gap: 8px;
-            margin-top: 12px;
-            padding-top: 10px;
-            border-top: 1px solid #e0d0f0;
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #e0d0f0;
         }
         .filter-btn {
             flex: 1;
@@ -124,12 +124,10 @@
             font-weight: 600;
             font-family: Arial, sans-serif;
         }
-        .filter-btn-apply  { background: #4a1a6b; color: white; }
-        .filter-btn-apply:hover  { background: #3a1258; }
         .filter-btn-reset  { background: #eee; color: #333; }
         .filter-btn-reset:hover  { background: #ddd; }
-        .filter-btn-deselect { background: #fff0f0; color: #c00; border: 1px solid #f5c0c0; }
-        .filter-btn-deselect:hover { background: #ffe0e0; }
+        .filter-btn-export  { background: #1a5276; color: white; }
+        .filter-btn-export:hover  { background: #154360; }
         .filter-count {
             font-size: 11px;
             color: #888;
@@ -158,10 +156,23 @@
             </div>
             <div id="filter-body">
 
+                <div class="filter-actions">
+                    <button class="filter-btn filter-btn-reset"  onclick="selectAll()">Reset</button>
+                    <button class="filter-btn filter-btn-export" onclick="exportCSV()">Export CSV</button>
+                </div>
+                <div class="filter-count" id="filter-count"></div>
+
+                <!-- FILTRE SUEZ -->
+                <div class="filter-section-title">Gestionnaire biodéchets</div>
+                <select id="SuezFilter" onchange="applyFilters()" style="width:100%;padding:5px 8px;border-radius:6px;border:1px solid #c9b0e0;font-family:Arial,sans-serif;font-size:13px;margin-bottom:6px;">
+                  <option value="all">Tous les gestionnaires</option>
+                  <option value="Suez">Suez uniquement</option>
+                </select>
+
                 <!-- EHPAD -->
                 <div class="filter-section-title">EHPAD</div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_ehpad" value="EHPAD" checked>
+                    <input type="checkbox" id="f_ehpad" value="EHPAD" onchange="applyFilters()">
                     <label for="f_ehpad">EHPAD</label>
                 </div>
 
@@ -169,116 +180,110 @@
                 <div class="filter-section-title">Hôpitaux &amp; foyers (Activité FINESS)</div>
 
                 <div class="filter-row">
-                    <input type="checkbox" id="f_ch" value="Centre Hospitalier (C.H.)" checked>
+                    <input type="checkbox" id="f_ch" value="Centre Hospitalier (C.H.)" onchange="applyFilters()">
                     <label for="f_ch">Centre Hospitalier (C.H.)</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_chr" value="Centre Hospitalier Régional (C.H.R.)" checked>
+                    <input type="checkbox" id="f_chr" value="Centre Hospitalier Régional (C.H.R.)" onchange="applyFilters()">
                     <label for="f_chr">Centre Hospitalier Régional (C.H.R.)</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_chs" value="Centre Hospitalier Spécialisé lutte Maladies Mentales" checked>
+                    <input type="checkbox" id="f_chs" value="Centre Hospitalier Spécialisé lutte Maladies Mentales" onchange="applyFilters()">
                     <label for="f_chs">CH Spécialisé Maladies Mentales</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_csapa" value="Centre soins accompagnement prévention addictologie (CSAPA)" checked>
+                    <input type="checkbox" id="f_csapa" value="Centre soins accompagnement prévention addictologie (CSAPA)" onchange="applyFilters()">
                     <label for="f_csapa">CSAPA</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_eam" value="Etablissement Accueil Médicalisé pour personnes handicapées" checked>
+                    <input type="checkbox" id="f_eam" value="Etablissement Accueil Médicalisé pour personnes handicapées" onchange="applyFilters()">
                     <label for="f_eam">Etab. Accueil Médicalisé (handicapés)</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_eanm" value="Etablissement Accueil Non Médicalisé pour personnes handicapées" checked>
+                    <input type="checkbox" id="f_eanm" value="Etablissement Accueil Non Médicalisé pour personnes handicapées" onchange="applyFilters()">
                     <label for="f_eanm">Etab. Accueil Non Médicalisé (handicapés)</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_ep" value="Etablissement de Placement" checked>
+                    <input type="checkbox" id="f_ep" value="Etablissement de Placement" onchange="applyFilters()">
                     <label for="f_ep">Etablissement de Placement</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_essr" value="Etablissement de santé privé autorisé en SSR" checked>
+                    <input type="checkbox" id="f_essr" value="Etablissement de santé privé autorisé en SSR" onchange="applyFilters()">
                     <label for="f_essr">Etab. privé autorisé en SSR</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_esld" value="Etablissement de Soins Longue Durée" checked>
+                    <input type="checkbox" id="f_esld" value="Etablissement de Soins Longue Durée" onchange="applyFilters()">
                     <label for="f_esld">Etab. Soins Longue Durée</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_esm" value="Etablissement de Soins Médicaux" checked>
+                    <input type="checkbox" id="f_esm" value="Etablissement de Soins Médicaux" onchange="applyFilters()">
                     <label for="f_esm">Etab. Soins Médicaux</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_esp" value="Etablissement de Soins Pluridisciplinaire" checked>
+                    <input type="checkbox" id="f_esp" value="Etablissement de Soins Pluridisciplinaire" onchange="applyFilters()">
                     <label for="f_esp">Etab. Soins Pluridisciplinaire</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_ets" value="Etablissement de Transfusion Sanguine" checked>
+                    <input type="checkbox" id="f_ets" value="Etablissement de Transfusion Sanguine" onchange="applyFilters()">
                     <label for="f_ets">Etab. Transfusion Sanguine</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_eeaa" value="Etablissement Expérimental Autres Adultes" checked>
+                    <input type="checkbox" id="f_eeaa" value="Etablissement Expérimental Autres Adultes" onchange="applyFilters()">
                     <label for="f_eeaa">Etab. Expérimental Adultes</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_eeep" value="Etablissement Expérimental Enfance Protégée" checked>
+                    <input type="checkbox" id="f_eeep" value="Etablissement Expérimental Enfance Protégée" onchange="applyFilters()">
                     <label for="f_eeep">Etab. Expérimental Enfance Protégée</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_eeah" value="Etablissement Expérimental pour Adultes Handicapés" checked>
+                    <input type="checkbox" id="f_eeah" value="Etablissement Expérimental pour Adultes Handicapés" onchange="applyFilters()">
                     <label for="f_eeah">Etab. Expérimental Adultes Handicapés</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_eeeh" value="Etablissement Expérimental pour Enfance Handicapée" checked>
+                    <input type="checkbox" id="f_eeeh" value="Etablissement Expérimental pour Enfance Handicapée" onchange="applyFilters()">
                     <label for="f_eeeh">Etab. Expérimental Enfance Handicapée</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_eeap" value="Etablissement pour Enfants ou Adolescents Polyhandicapés" checked>
+                    <input type="checkbox" id="f_eeap" value="Etablissement pour Enfants ou Adolescents Polyhandicapés" onchange="applyFilters()">
                     <label for="f_eeap">Etab. Enfants/Ados Polyhandicapés</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_espr" value="Etablissement Sanitaire des Prisons" checked>
+                    <input type="checkbox" id="f_espr" value="Etablissement Sanitaire des Prisons" onchange="applyFilters()">
                     <label for="f_espr">Etab. Sanitaire des Prisons</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_ethermal" value="Etablissement Thermal" checked>
+                    <input type="checkbox" id="f_ethermal" value="Etablissement Thermal" onchange="applyFilters()">
                     <label for="f_ethermal">Etablissement Thermal</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_fam" value="Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)" checked>
+                    <input type="checkbox" id="f_fam" value="Foyer d'Accueil Médicalisé pour Adultes Handicapés (F.A.M.)" onchange="applyFilters()">
                     <label for="f_fam">F.A.M. (Adultes Handicapés)</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_fhah" value="Foyer Hébergement Adultes Handicapés" checked>
+                    <input type="checkbox" id="f_fhah" value="Foyer Hébergement Adultes Handicapés" onchange="applyFilters()">
                     <label for="f_fhah">Foyer Hébergement Adultes Handicapés</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_ftm" value="Foyer Travailleurs Migrants non transformé en Résidence Soc." checked>
+                    <input type="checkbox" id="f_ftm" value="Foyer Travailleurs Migrants non transformé en Résidence Soc." onchange="applyFilters()">
                     <label for="f_ftm">Foyer Travailleurs Migrants</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_itep" value="Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)" checked>
+                    <input type="checkbox" id="f_itep" value="Institut Thérapeutique Éducatif et Pédagogique (I.T.E.P.)" onchange="applyFilters()">
                     <label for="f_itep">I.T.E.P.</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_mas" value="Maison d'Accueil Spécialisée (M.A.S.)" checked>
+                    <input type="checkbox" id="f_mas" value="Maison d'Accueil Spécialisée (M.A.S.)" onchange="applyFilters()">
                     <label for="f_mas">M.A.S.</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_mecs" value="Maison d'Enfants à Caractère Social" checked>
+                    <input type="checkbox" id="f_mecs" value="Maison d'Enfants à Caractère Social" onchange="applyFilters()">
                     <label for="f_mecs">Maison d'Enfants à Caractère Social</label>
                 </div>
                 <div class="filter-row">
-                    <input type="checkbox" id="f_mdn" value="Maison de naissance" checked>
+                    <input type="checkbox" id="f_mdn" value="Maison de naissance" onchange="applyFilters()">
                     <label for="f_mdn">Maison de naissance</label>
                 </div>
 
-                <div class="filter-actions">
-                    <button class="filter-btn filter-btn-apply"  onclick="applyFilters()">Appliquer</button>
-                    <button class="filter-btn filter-btn-reset"  onclick="selectAll()">Tout sélect.</button>
-                    <button class="filter-btn filter-btn-deselect" onclick="deselectAll()">Tout désélect.</button>
-                </div>
-                <div class="filter-count" id="filter-count"></div>
             </div>
         </div>
 
@@ -447,17 +452,17 @@
 
         // ===== EHPAD =====
         function pop_EHPAD_4(feature, layer) {
-            var popupContent = '<table>\
-                <tr><th scope="row">SIREN</th><td class="visible-with-data" id="SIREN">' + (feature.properties['SIREN'] !== null ? autolinker.link(String(feature.properties['SIREN']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">SIRET</th><td class="visible-with-data" id="SIRET">' + (feature.properties['SIRET'] !== null ? autolinker.link(String(feature.properties['SIRET']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">Adresse</th><td class="visible-with-data" id="Adresse">' + (feature.properties['Adresse'] !== null ? autolinker.link(String(feature.properties['Adresse']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">Nom</th><td class="visible-with-data" id="Nom">' + (feature.properties['Nom'] !== null ? autolinker.link(String(feature.properties['Nom']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">Code NAF</th><td class="visible-with-data" id="Code NAF">' + (feature.properties['Code NAF'] !== null ? autolinker.link(String(feature.properties['Code NAF']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">Prestataire (NAF 56)</th><td class="visible-with-data" id="Prestataire (NAF 56)">' + (feature.properties['Prestataire (NAF 56)'] !== null ? autolinker.link(String(feature.properties['Prestataire (NAF 56)']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                </table>';
-            var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-            layer.on('popupopen', function(e) { addClassToPopupIfMedia(content, e.popup); });
-            layer.bindPopup(content, { maxHeight: 400 });
+            var p = feature.properties;
+            var popupContent = '<table style="font-family:Arial,sans-serif;font-size:13px;border-collapse:collapse;">' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">SIREN</th><td style="padding:3px 0">' + (p['SIREN'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">SIRET</th><td style="padding:3px 0">' + (p['SIRET'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Nom</th><td style="padding:3px 0">' + (p['Nom'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Adresse</th><td style="padding:3px 0">' + (p['Adresse'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Code NAF</th><td style="padding:3px 0">' + (p['Code NAF'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Prestataire (NAF 56)</th><td style="padding:3px 0">' + (p['Prestataire (NAF 56)'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Gestionnaire biodéchets</th><td style="padding:3px 0">' + (p['Biodéchets'] || '—') + '</td></tr>' +
+              '</table>';
+            layer.bindPopup(popupContent, { maxHeight: 400 });
         }
         function style_EHPAD_4_0() {
             return {
@@ -497,18 +502,18 @@
 
         // ===== HÔPITAUX ET FOYERS =====
         function pop_Hpitauxetfoyers_5(feature, layer) {
-            var popupContent = '<table>\
-                <tr><th scope="row">FINESS</th><td class="visible-with-data" id="FINESS">' + (feature.properties['FINESS'] !== null ? autolinker.link(String(feature.properties['FINESS']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">SIRET</th><td class="visible-with-data" id="SIRET">' + (feature.properties['SIRET'] !== null ? autolinker.link(String(feature.properties['SIRET']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">Adresse</th><td class="visible-with-data" id="Adresse">' + (feature.properties['Adresse'] !== null ? autolinker.link(String(feature.properties['Adresse']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">Nom</th><td class="visible-with-data" id="Nom">' + (feature.properties['Nom'] !== null ? autolinker.link(String(feature.properties['Nom']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">Code NAF</th><td class="visible-with-data" id="Code NAF">' + (feature.properties['Code NAF'] !== null ? autolinker.link(String(feature.properties['Code NAF']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">Prestataire (NAF 56)</th><td class="visible-with-data" id="Prestataire (NAF 56)">' + (feature.properties['Prestataire (NAF 56)'] !== null ? autolinker.link(String(feature.properties['Prestataire (NAF 56)']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                <tr><th scope="row">Activité FINESS</th><td class="visible-with-data" id="Acivité FINESS">' + (feature.properties['Acivité FINESS'] !== null ? autolinker.link(String(feature.properties['Acivité FINESS']).replace(/'/g, '\'').toLocaleString()) : '') + '</td></tr>\
-                </table>';
-            var content = removeEmptyRowsFromPopupContent(popupContent, feature);
-            layer.on('popupopen', function(e) { addClassToPopupIfMedia(content, e.popup); });
-            layer.bindPopup(content, { maxHeight: 400 });
+            var p = feature.properties;
+            var popupContent = '<table style="font-family:Arial,sans-serif;font-size:13px;border-collapse:collapse;">' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">FINESS</th><td style="padding:3px 0">' + (p['FINESS'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">SIRET</th><td style="padding:3px 0">' + (p['SIRET'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Nom</th><td style="padding:3px 0">' + (p['Nom'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Adresse</th><td style="padding:3px 0">' + (p['Adresse'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Code NAF</th><td style="padding:3px 0">' + (p['Code NAF'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Prestataire (NAF 56)</th><td style="padding:3px 0">' + (p['Prestataire (NAF 56)'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Activité FINESS</th><td style="padding:3px 0">' + (p['Acivité FINESS'] || '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Gestionnaire biodéchets</th><td style="padding:3px 0">' + (p['Biodéchets'] || '—') + '</td></tr>' +
+              '</table>';
+            layer.bindPopup(popupContent, { maxHeight: 400 });
         }
         function style_Hpitauxetfoyers_5_0(feature) {
             switch(String(feature.properties['Acivité FINESS'])) {
@@ -683,10 +688,19 @@
 
         function applyFilters() {
             var checked = getCheckedValues();
-            var showEHPAD = checked.indexOf('EHPAD') !== -1;
+            var noneChecked = checked.length === 0;
+            var suezVal = document.getElementById('SuezFilter').value;
+
+            function matchesSuez(feature) {
+                if (suezVal === 'all') return true;
+                var bio = String(feature.properties['Biodéchets'] || '').toLowerCase();
+                return bio.includes('suez');
+            }
+
+            // Logique : rien coché = tout affiché, coché = filtre sur la sélection
+            var showEHPAD = noneChecked || checked.indexOf('EHPAD') !== -1;
 
             // --- EHPAD ---
-            // Retire le cluster de la carte, vide, reconstruit, remet si nécessaire
             map.removeLayer(cluster_EHPAD_4);
             cluster_EHPAD_4.clearLayers();
             if (showEHPAD) {
@@ -696,7 +710,8 @@
                     onEachFeature: pop_EHPAD_4,
                     pointToLayer: function(feature, latlng) {
                         return L.shapeMarker(latlng, style_EHPAD_4_0(feature));
-                    }
+                    },
+                    filter: matchesSuez
                 });
                 cluster_EHPAD_4.addLayer(geoEHPAD);
                 cluster_EHPAD_4.addTo(map);
@@ -714,18 +729,24 @@
                 },
                 filter: function(feature) {
                     var act = String(feature.properties['Acivité FINESS'] || '');
-                    return checked.indexOf(act) !== -1;
+                    return (noneChecked || checked.indexOf(act) !== -1) && matchesSuez(feature);
                 }
             });
             cluster_Hpitauxetfoyers_5.addLayer(geoHop);
             cluster_Hpitauxetfoyers_5.addTo(map);
 
             // --- Compteur ---
-            var totalEHPAD = showEHPAD ? (json_EHPAD_4.features ? json_EHPAD_4.features.length : 0) : 0;
+            var totalEHPAD = 0;
+            if (showEHPAD && json_EHPAD_4.features) {
+                json_EHPAD_4.features.forEach(function(f) {
+                    if (matchesSuez(f)) totalEHPAD++;
+                });
+            }
             var totalHop = 0;
             if (json_Hpitauxetfoyers_5.features) {
                 json_Hpitauxetfoyers_5.features.forEach(function(f) {
-                    if (checked.indexOf(String(f.properties['Acivité FINESS'] || '')) !== -1) totalHop++;
+                    var act = String(f.properties['Acivité FINESS'] || '');
+                    if ((noneChecked || checked.indexOf(act) !== -1) && matchesSuez(f)) totalHop++;
                 });
             }
             document.getElementById('filter-count').textContent =
@@ -733,16 +754,13 @@
         }
 
         function selectAll() {
+            // Reset : tout décocher = tout afficher
             document.querySelectorAll('#filter-body input[type="checkbox"]')
-                .forEach(function(cb) { cb.checked = true; });
+                .forEach(function(cb) { cb.checked = false; });
+            document.getElementById('SuezFilter').value = 'all';
             applyFilters();
         }
 
-        function deselectAll() {
-            document.querySelectorAll('#filter-body input[type="checkbox"]')
-                .forEach(function(cb) { cb.checked = false; });
-            applyFilters();
-        }
 
         function toggleFilterPanel() {
             var body = document.getElementById('filter-body');
@@ -756,12 +774,60 @@
             }
         }
 
+        function exportCSV() {
+            var checked = getCheckedValues();
+            var noneChecked = checked.length === 0;
+            var rows = [];
+
+            // EHPAD
+            if ((noneChecked || checked.indexOf('EHPAD') !== -1) && json_EHPAD_4 && json_EHPAD_4.features) {
+                json_EHPAD_4.features.forEach(function(f) {
+                    var p = Object.assign({}, f.properties);
+                    p['Type'] = 'EHPAD';
+                    rows.push(p);
+                });
+            }
+
+            // Hôpitaux & foyers
+            if (json_Hpitauxetfoyers_5 && json_Hpitauxetfoyers_5.features) {
+                json_Hpitauxetfoyers_5.features.forEach(function(f) {
+                    var act = String(f.properties['Acivité FINESS'] || '');
+                    if (noneChecked || checked.indexOf(act) !== -1) {
+                        var p = Object.assign({}, f.properties);
+                        p['Type'] = 'Hôpitaux & foyers';
+                        rows.push(p);
+                    }
+                });
+            }
+
+            if (!rows.length) { alert('Aucune donnée à exporter.'); return; }
+
+            var headers = Object.keys(rows[0]);
+            var csv = [
+                headers.join(';'),
+                ...rows.map(function(row) {
+                    return headers.map(function(h) {
+                        return '"' + (row[h] != null ? String(row[h]).replace(/"/g, '""') : '') + '"';
+                    }).join(';');
+                })
+            ].join('\n');
+
+            var blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8;' });
+            var a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = 'export_sante_social.csv';
+            a.click();
+        }
+
         // Initialisation du compteur au chargement
         window.addEventListener('load', function() {
             var total = 0;
             if (json_EHPAD_4 && json_EHPAD_4.features) total += json_EHPAD_4.features.length;
             if (json_Hpitauxetfoyers_5 && json_Hpitauxetfoyers_5.features) total += json_Hpitauxetfoyers_5.features.length;
             document.getElementById('filter-count').textContent = total + ' établissement(s) affiché(s)';
+            // Panneau replié par défaut
+            document.getElementById('filter-body').style.display = 'none';
+            document.getElementById('filter-toggle-icon').textContent = '▲';
         });
 
         </script>

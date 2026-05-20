@@ -17,8 +17,9 @@ var santesocial1 = {
         "Nom": "L'ACCUEIL FAMILIAL DU BAS-RHIN",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1001918.8343820586,
-        "Lambert Ordonnée": 6885591.795910283,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6885591.795910283,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -37,8 +38,9 @@ var santesocial1 = {
         "Nom": "HOSPICE SAINT JOSEPH",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1004136.634652507,
-        "Lambert Ordonnée": 6813159.094650847,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6813159.094650847,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -57,8 +59,9 @@ var santesocial1 = {
         "Nom": "ASS AIDE PERSON AGEES VOSGES NORD",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1006782.28776361,
-        "Lambert Ordonnée": 6879252.498190626,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6879252.498190626,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -77,8 +80,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1006857.798119806,
-        "Lambert Ordonnée": 6820489.885599464,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6820489.885599464,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -97,8 +101,9 @@ var santesocial1 = {
         "Nom": "EHPAD DES HETRES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1007526.80116791,
-        "Lambert Ordonnée": 6871535.1230764855,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6871535.1230764855,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -117,8 +122,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE DU PARC",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1011690.9349029326,
-        "Lambert Ordonnée": 6828226.5737874005,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6828226.5737874005,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -137,8 +143,9 @@ var santesocial1 = {
         "Nom": "FONDATION VINCENT DE PAUL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1012001.2688785024,
-        "Lambert Ordonnée": 6828628.6790977465,
-        "Prestataire (NAF 56)": "SODEXHO FRANCE HOPITAUX CLINIQUES"
+        "Lambert ordonnée": 6828628.6790977465,
+        "Prestataire (NAF 56)": "SODEXHO FRANCE HOPITAUX CLINIQUES",
+        "Biodéchets": null
       }
     },
     {
@@ -157,8 +164,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1016672.8744302182,
-        "Lambert Ordonnée": 6832858.253095092,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6832858.253095092,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -177,8 +185,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1017490.9045173208,
-        "Lambert Ordonnée": 6870918.471686854,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6870918.471686854,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -197,8 +206,9 @@ var santesocial1 = {
         "Nom": "EHPAD DU GIESSEN",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1018415.2813638876,
-        "Lambert Ordonnée": 6813129.450581312,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6813129.450581312,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -217,8 +227,9 @@ var santesocial1 = {
         "Nom": "EHPAD CH DE SAVERNE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1019781.6,
-        "Lambert Ordonnée": 6858495.38,
-        "Prestataire (NAF 56)": "SERVICES ET SANTE"
+        "Lambert ordonnée": 6858495.38,
+        "Prestataire (NAF 56)": "SERVICES ET SANTE",
+        "Biodéchets": null
       }
     },
     {
@@ -237,8 +248,9 @@ var santesocial1 = {
         "Nom": "EHPAD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1019781.6000721093,
-        "Lambert Ordonnée": 6858495.37568964,
-        "Prestataire (NAF 56)": "SERVICES ET SANTE"
+        "Lambert ordonnée": 6858495.37568964,
+        "Prestataire (NAF 56)": "SERVICES ET SANTE",
+        "Biodéchets": null
       }
     },
     {
@@ -257,8 +269,9 @@ var santesocial1 = {
         "Nom": "FOYER LES MARRONNIERS",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1019895.9108372984,
-        "Lambert Ordonnée": 6858388.213362316,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6858388.213362316,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -277,8 +290,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE SERVICE LES RIVES DE LA ZORN",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1019944.993157638,
-        "Lambert Ordonnée": 6857852.418260105,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6857852.418260105,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -297,8 +311,9 @@ var santesocial1 = {
         "Nom": "ABRAPA HOME SAINT JOSEPH",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1019949.2319184332,
-        "Lambert Ordonnée": 6853918.730047762,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6853918.730047762,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -317,8 +332,9 @@ var santesocial1 = {
         "Nom": "KORIAN LES RIVES DE LA ZORN",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1019974.9504414122,
-        "Lambert Ordonnée": 6857851.399038062,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6857851.399038062,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -337,8 +353,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE TERRE ROUGE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1020151.58,
-        "Lambert Ordonnée": 6857869.72,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6857869.72,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -357,8 +374,9 @@ var santesocial1 = {
         "Nom": "ASS BAS-RHINOISE AIDE PERSONNES AGEES",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1021441.1799119634,
-        "Lambert Ordonnée": 6857005.928393111,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6857005.928393111,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -377,8 +395,9 @@ var santesocial1 = {
         "Nom": "ASSOCIATION DE GESTION DE LA MAISON D'ACCUEIL DE L'ALTENBERG",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1021633.4188373216,
-        "Lambert Ordonnée": 6859841.444857887,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6859841.444857887,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -397,8 +416,9 @@ var santesocial1 = {
         "Nom": "MR COUVENT REINECKER",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1024350.1368275232,
-        "Lambert Ordonnée": 6851430.245914409,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6851430.245914409,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -417,8 +437,9 @@ var santesocial1 = {
         "Nom": "EHPAD LE BADBRONN",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1026141.382417032,
-        "Lambert Ordonnée": 6806403.003384766,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6806403.003384766,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -437,8 +458,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE STOLTZ-GRIMM",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1026613.0887633278,
-        "Lambert Ordonnée": 6818874.55189289,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6818874.55189289,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -457,8 +479,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE DE LA MOSSIG",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1026866.1101814671,
-        "Lambert Ordonnée": 6846635.976803242,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6846635.976803242,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -477,8 +500,9 @@ var santesocial1 = {
         "Nom": "DE LA RESIDENCE RENE HUG",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1026977.6101419613,
-        "Lambert Ordonnée": 6846603.390783588,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6846603.390783588,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -497,8 +521,9 @@ var santesocial1 = {
         "Nom": "EHPAD DU VIGNOBLE-SITE DE DAMBACH",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1028021.12,
-        "Lambert Ordonnée": 6811794.01,
-        "Prestataire (NAF 56)": "API RESTAURATION"
+        "Lambert ordonnée": 6811794.01,
+        "Prestataire (NAF 56)": "API RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -517,8 +542,9 @@ var santesocial1 = {
         "Nom": "EHPAD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1028024.6687933558,
-        "Lambert Ordonnée": 6807627.729008683,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6807627.729008683,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -537,8 +563,9 @@ var santesocial1 = {
         "Nom": "MAISON RETRAITE CLINIQUE NEUENBERG",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1028705.34636893,
-        "Lambert Ordonnée": 6872870.035063518,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6872870.035063518,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -557,8 +584,9 @@ var santesocial1 = {
         "Nom": "EHPAD HANAU-LICHTENBERG",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1028969.164204861,
-        "Lambert Ordonnée": 6867615.60883708,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6867615.60883708,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -577,8 +605,9 @@ var santesocial1 = {
         "Nom": "LES MAISONS DU DR OBERKIRCH-EHPAD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1028980.1782272868,
-        "Lambert Ordonnée": 6805101.266804644,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6805101.266804644,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -597,8 +626,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE SALEM",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1028980.894807968,
-        "Lambert Ordonnée": 6821375.999247419,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6821375.999247419,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -617,8 +647,9 @@ var santesocial1 = {
         "Nom": "EHPAD DE MUTZIG",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1028996.641943612,
-        "Lambert Ordonnée": 6835911.695147963,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6835911.695147963,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -637,8 +668,9 @@ var santesocial1 = {
         "Nom": "ASS BAS-RHINOISE AIDE PERSONNES AGEES",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1029485.8,
-        "Lambert Ordonnée": 6805161.11,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6805161.11,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -657,8 +689,9 @@ var santesocial1 = {
         "Nom": "LES AMIS DE LA RESIDENCE MARCEL KRIEG",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1029550.9350199366,
-        "Lambert Ordonnée": 6821106.973886591,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6821106.973886591,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -677,8 +710,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE MARCEL KRIEG",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1029550.9350199366,
-        "Lambert Ordonnée": 6821106.973886591,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6821106.973886591,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -697,8 +731,9 @@ var santesocial1 = {
         "Nom": "EHPAD HOPITAL LOCAL DE ROSHEIM",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1029553.18,
-        "Lambert Ordonnée": 6830936.51,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6830936.51,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -717,8 +752,9 @@ var santesocial1 = {
         "Nom": "AGE ET DIGNITE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1029627.2208389308,
-        "Lambert Ordonnée": 6804715.5691403765,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6804715.5691403765,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -737,8 +773,9 @@ var santesocial1 = {
         "Nom": "LOGEMENT FOYER POUR PERSONNES AGEES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1029784.8096391204,
-        "Lambert Ordonnée": 6821290.4136634525,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6821290.4136634525,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -757,8 +794,9 @@ var santesocial1 = {
         "Nom": "EHPAD DU VIGNOBLE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1030503.2785418082,
-        "Lambert Ordonnée": 6816041.461517441,
-        "Prestataire (NAF 56)": "API RESTAURATION"
+        "Lambert ordonnée": 6816041.461517441,
+        "Prestataire (NAF 56)": "API RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -777,8 +815,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE DU STIFT",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1030576.0561016568,
-        "Lambert Ordonnée": 6845018.284553648,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6845018.284553648,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -797,8 +836,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE SAINTE FAMILLE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1030625.9582742658,
-        "Lambert Ordonnée": 6845052.079718218,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6845052.079718218,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -817,8 +857,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE FLEURIE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1030774.488096842,
-        "Lambert Ordonnée": 6805332.014402726,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6805332.014402726,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -837,8 +878,9 @@ var santesocial1 = {
         "Nom": "ASSOCIATION DE LA RESIDENCE STE RICHARDE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1030787.2079500976,
-        "Lambert Ordonnée": 6845029.744482778,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6845029.744482778,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -857,8 +899,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE LE CHATEAU",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1030840.3698503636,
-        "Lambert Ordonnée": 6845213.718994883,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6845213.718994883,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -877,8 +920,9 @@ var santesocial1 = {
         "Nom": "ASSOCIATION MDR MISSIONS AFRICAINES",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1030889.462048325,
-        "Lambert Ordonnée": 6818918.923324977,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6818918.923324977,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -897,8 +941,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE DE SAINTE ODILE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1030932.0076610782,
-        "Lambert Ordonnée": 6827397.257345276,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6827397.257345276,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -917,8 +962,9 @@ var santesocial1 = {
         "Nom": "EHPAD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1031215.3658105588,
-        "Lambert Ordonnée": 6836348.9795581205,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6836348.9795581205,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -937,8 +983,9 @@ var santesocial1 = {
         "Nom": "SAREPTA MAISON DE RETRAITE ET D'ACCUEIL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1031411.4922309106,
-        "Lambert Ordonnée": 6834554.692079229,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6834554.692079229,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -957,8 +1004,9 @@ var santesocial1 = {
         "Nom": "EHPAD RESIDENCE MARIE ROBERTA",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1031645.4694655868,
-        "Lambert Ordonnée": 6830035.499238192,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6830035.499238192,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -977,8 +1025,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE SAINT LEON",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1031832.2787784594,
-        "Lambert Ordonnée": 6839066.810008006,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6839066.810008006,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -997,8 +1046,9 @@ var santesocial1 = {
         "Nom": "MAISON D'ACCUEIL DU KOCHERSBERG",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1031898.6680503116,
-        "Lambert Ordonnée": 6850712.265315236,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6850712.265315236,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1017,8 +1067,9 @@ var santesocial1 = {
         "Nom": "EHPAD DE KRUMMBRUECHEL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1032644.401851804,
-        "Lambert Ordonnée": 6836725.450107322,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6836725.450107322,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1037,8 +1088,9 @@ var santesocial1 = {
         "Nom": "EHPAD SCHAUENBURG",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1035725.2657718982,
-        "Lambert Ordonnée": 6860788.9944652,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6860788.9944652,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1057,8 +1109,9 @@ var santesocial1 = {
         "Nom": "EHPAD DE MARCKOLSHEIM",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1037412.3982162228,
-        "Lambert Ordonnée": 6794669.034203121,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6794669.034203121,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1077,8 +1130,9 @@ var santesocial1 = {
         "Nom": "MAISON NOTRE DAME",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1037567.7162506488,
-        "Lambert Ordonnée": 6881201.5013612695,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6881201.5013612695,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1097,8 +1151,9 @@ var santesocial1 = {
         "Nom": "EHPAD SAINT MARTIN",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1037935.5237405922,
-        "Lambert Ordonnée": 6807946.704233223,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6807946.704233223,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1117,8 +1172,9 @@ var santesocial1 = {
         "Nom": "EHPAD RESIDENCE DOCTEUR MORITZ",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1038421.8527790294,
-        "Lambert Ordonnée": 6870254.791361584,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6870254.791361584,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1137,8 +1193,9 @@ var santesocial1 = {
         "Nom": "ADEF RESIDENCES LA MAISON DU LENDEHOF",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1039202.6489223893,
-        "Lambert Ordonnée": 6849209.556650733,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6849209.556650733,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1157,8 +1214,9 @@ var santesocial1 = {
         "Nom": "MAISON DE VACANCES",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1039895.1926390298,
-        "Lambert Ordonnée": 6882343.16690947,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6882343.16690947,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1177,8 +1235,9 @@ var santesocial1 = {
         "Nom": "EHPAD MERE ALPHONSE-MARIE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1039980.517294696,
-        "Lambert Ordonnée": 6882166.279318221,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6882166.279318221,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1197,8 +1256,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE ET CLOS DE L ILLMATT",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1040138.8341563036,
-        "Lambert Ordonnée": 6817511.98901898,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6817511.98901898,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1217,8 +1277,9 @@ var santesocial1 = {
         "Nom": "FOYER RESID PERSONNES AGEES",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1040151.1679823332,
-        "Lambert Ordonnée": 6817273.551955732,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6817273.551955732,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1237,8 +1298,9 @@ var santesocial1 = {
         "Nom": "MAISON RETRAITE DU SACRE COEUR",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1041371.558525581,
-        "Lambert Ordonnée": 6868712.225022451,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6868712.225022451,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1257,8 +1319,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE MARZOLFF",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1041633.2872611346,
-        "Lambert Ordonnée": 6880552.433679018,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6880552.433679018,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1277,8 +1340,9 @@ var santesocial1 = {
         "Nom": "ASS BAS-RHINOISE AIDE PERSONNES AGEES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1041760.6896878683,
-        "Lambert Ordonnée": 6839040.832007202,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6839040.832007202,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1297,8 +1361,9 @@ var santesocial1 = {
         "Nom": "EHPAD SANS SOUCI",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1042672.0746439188,
-        "Lambert Ordonnée": 6833794.284894082,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6833794.284894082,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1317,8 +1382,9 @@ var santesocial1 = {
         "Nom": "EHPAD LES HAUTS DE LA ZINSEL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1043047.2968618474,
-        "Lambert Ordonnée": 6872814.763465604,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6872814.763465604,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1337,8 +1403,9 @@ var santesocial1 = {
         "Nom": "ACCUEIL DE JOUR POUR PERSONNES AGEES",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1043514.3682456948,
-        "Lambert Ordonnée": 6863330.581220171,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6863330.581220171,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1357,8 +1424,9 @@ var santesocial1 = {
         "Nom": "EHPAD AU FIL DE L'EAU",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1043836.46030157,
-        "Lambert Ordonnée": 6841390.854439538,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6841390.854439538,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1377,8 +1445,9 @@ var santesocial1 = {
         "Nom": "LOGEMENTS FOYER POUR PERSONNES AGEES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1044327.7275082254,
-        "Lambert Ordonnée": 6824129.666806009,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6824129.666806009,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1397,8 +1466,9 @@ var santesocial1 = {
         "Nom": "EHPAD LES JARDINS D'IRMENGARD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1044612.03,
-        "Lambert Ordonnée": 6823690.38,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6823690.38,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1417,8 +1487,9 @@ var santesocial1 = {
         "Nom": "EHPAD RESIDENCE DU PARC",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1045555.9071897276,
-        "Lambert Ordonnée": 6837836.73387822,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6837836.73387822,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1437,8 +1508,9 @@ var santesocial1 = {
         "Nom": "MAISON RETRAITE SANTE BETHEL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1045577.0138215924,
-        "Lambert Ordonnée": 6844602.1708451,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6844602.1708451,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1457,8 +1529,9 @@ var santesocial1 = {
         "Nom": "ASS RES PERSONNES AGEES DE LINGOLSHEIM",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1045912.01665041,
-        "Lambert Ordonnée": 6838501.232373908,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6838501.232373908,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1477,8 +1550,9 @@ var santesocial1 = {
         "Nom": "EHPAD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1045946.5720417184,
-        "Lambert Ordonnée": 6824744.485289212,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6824744.485289212,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1497,8 +1571,9 @@ var santesocial1 = {
         "Nom": "DELTA NJC",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1046174.7786351836,
-        "Lambert Ordonnée": 6831186.049471624,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6831186.049471624,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1517,8 +1592,9 @@ var santesocial1 = {
         "Nom": "FEDERATION DE CHARITE CARITAS ALSACE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1046377.7661549076,
-        "Lambert Ordonnée": 6841694.602824436,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6841694.602824436,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1537,8 +1613,9 @@ var santesocial1 = {
         "Nom": "EHPAD LES TILLEULS DE JEANNE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1046418.9973928956,
-        "Lambert Ordonnée": 6840978.973002576,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6840978.973002576,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1557,8 +1634,9 @@ var santesocial1 = {
         "Nom": "EHPAD LE GENTIL'HOME",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1046492.1028916708,
-        "Lambert Ordonnée": 6831255.919859339,
-        "Prestataire (NAF 56)": "COMPASS GROUPE FRANCE ENS SANTE"
+        "Lambert ordonnée": 6831255.919859339,
+        "Prestataire (NAF 56)": "COMPASS GROUPE FRANCE ENS SANTE",
+        "Biodéchets": null
       }
     },
     {
@@ -1577,8 +1655,9 @@ var santesocial1 = {
         "Nom": "WISE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1046530.64,
-        "Lambert Ordonnée": 6843029.53,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6843029.53,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1597,8 +1676,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE EMMAUS",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1046591.2503403426,
-        "Lambert Ordonnée": 6851081.932958223,
-        "Prestataire (NAF 56)": "SODEXO SANTE MEDICO SOCIAL"
+        "Lambert ordonnée": 6851081.932958223,
+        "Prestataire (NAF 56)": "SODEXO SANTE MEDICO SOCIAL",
+        "Biodéchets": null
       }
     },
     {
@@ -1617,8 +1697,9 @@ var santesocial1 = {
         "Nom": "FONDATION ELISA",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1046601.4213386432,
-        "Lambert Ordonnée": 6834185.250276055,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6834185.250276055,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1637,8 +1718,9 @@ var santesocial1 = {
         "Nom": "ABRAPA",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1046638.809124446,
-        "Lambert Ordonnée": 6843911.691259447,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6843911.691259447,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1657,8 +1739,9 @@ var santesocial1 = {
         "Nom": "EHPAD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1046984.1457325334,
-        "Lambert Ordonnée": 6858008.408927559,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6858008.408927559,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1677,8 +1760,9 @@ var santesocial1 = {
         "Nom": "ABRAPA HERRADE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1047026.5698779714,
-        "Lambert Ordonnée": 6841490.847933105,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6841490.847933105,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1697,8 +1781,9 @@ var santesocial1 = {
         "Nom": "ABRAPA OVIDE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1047039.8250640735,
-        "Lambert Ordonnée": 6841440.855962311,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6841440.855962311,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1717,8 +1802,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE EMMAUS",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1047566.8244791868,
-        "Lambert Ordonnée": 6838239.055145571,
-        "Prestataire (NAF 56)": "SODEXO SANTE MEDICO SOCIAL"
+        "Lambert ordonnée": 6838239.055145571,
+        "Prestataire (NAF 56)": "SODEXO SANTE MEDICO SOCIAL",
+        "Biodéchets": null
       }
     },
     {
@@ -1737,8 +1823,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE EMMAUS",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1047622.5273198176,
-        "Lambert Ordonnée": 6841248.588453647,
-        "Prestataire (NAF 56)": "SODEXHO FRANCE HOPITAUX CLINIQUES"
+        "Lambert ordonnée": 6841248.588453647,
+        "Prestataire (NAF 56)": "SODEXHO FRANCE HOPITAUX CLINIQUES",
+        "Biodéchets": null
       }
     },
     {
@@ -1757,8 +1844,9 @@ var santesocial1 = {
         "Nom": "EHPAD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1047668.41397728,
-        "Lambert Ordonnée": 6881639.19713454,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6881639.19713454,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1777,8 +1865,9 @@ var santesocial1 = {
         "Nom": "EHPAD DU MANOIR",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1047747.986936238,
-        "Lambert Ordonnée": 6819164.961530652,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6819164.961530652,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1797,8 +1886,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE EMMAUS",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1047765.7890497796,
-        "Lambert Ordonnée": 6842795.479308416,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6842795.479308416,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1817,8 +1907,9 @@ var santesocial1 = {
         "Nom": "ABRAPA LES CLARISSES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1047837.3631377736,
-        "Lambert Ordonnée": 6843061.144212962,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6843061.144212962,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1837,8 +1928,9 @@ var santesocial1 = {
         "Nom": "EHPAD LA ROSELIERE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1047987.4267203356,
-        "Lambert Ordonnée": 6868140.185143748,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6868140.185143748,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1857,8 +1949,9 @@ var santesocial1 = {
         "Nom": "MAISON RETRAITE LE BRULIG",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1048091.8161744868,
-        "Lambert Ordonnée": 6840615.922930927,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6840615.922930927,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1877,8 +1970,9 @@ var santesocial1 = {
         "Nom": "ABRAPA ERMITAGE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1048332.1082824132,
-        "Lambert Ordonnée": 6832141.961147621,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6832141.961147621,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1897,8 +1991,9 @@ var santesocial1 = {
         "Nom": "ASSOCIATION RESIDENCE NIEDERBOURG",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1048358.0226251353,
-        "Lambert Ordonnée": 6836528.381362047,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6836528.381362047,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1917,8 +2012,9 @@ var santesocial1 = {
         "Nom": "EHPAD L ORCHIDEE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1048563.4397150412,
-        "Lambert Ordonnée": 6812226.947760291,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6812226.947760291,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1937,8 +2033,9 @@ var santesocial1 = {
         "Nom": "MONSIEUR HERVE GOUGELET",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1049142.6,
-        "Lambert Ordonnée": 6836528.07,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6836528.07,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -1957,8 +2054,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE SAINT CHARLES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1049219.200650332,
-        "Lambert Ordonnée": 6844349.81491057,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6844349.81491057,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1977,8 +2075,9 @@ var santesocial1 = {
         "Nom": "EHPAD L'ARC-EN-CIEL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1049315.0816794457,
-        "Lambert Ordonnée": 6849010.329084109,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6849010.329084109,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -1997,8 +2096,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE HALLES",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1049467.4144454256,
-        "Lambert Ordonnée": 6842357.498864022,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6842357.498864022,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -2017,8 +2117,9 @@ var santesocial1 = {
         "Nom": "BARTISCHGUT",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1049541.7575470123,
-        "Lambert Ordonnée": 6838322.751636898,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6838322.751636898,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2037,8 +2138,9 @@ var santesocial1 = {
         "Nom": "JA SILVER",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1049576.582568104,
-        "Lambert Ordonnée": 6844656.080546956,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6844656.080546956,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2057,8 +2159,9 @@ var santesocial1 = {
         "Nom": "FOYER D ACCEUIL MEDICALISE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1049669.2450926409,
-        "Lambert Ordonnée": 6836999.811217262,
-        "Prestataire (NAF 56)": "SODEXO SANTE MEDICO SOCIAL"
+        "Lambert ordonnée": 6836999.811217262,
+        "Prestataire (NAF 56)": "SODEXO SANTE MEDICO SOCIAL",
+        "Biodéchets": null
       }
     },
     {
@@ -2077,8 +2180,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE MATHIS",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1049715.5419310932,
-        "Lambert Ordonnée": 6841703.75513787,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6841703.75513787,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2097,8 +2201,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE EMMAUS",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1049731.169147981,
-        "Lambert Ordonnée": 6841295.300784718,
-        "Prestataire (NAF 56)": "SODEXHO FRANCE HOPITAUX CLINIQUES"
+        "Lambert ordonnée": 6841295.300784718,
+        "Prestataire (NAF 56)": "SODEXHO FRANCE HOPITAUX CLINIQUES",
+        "Biodéchets": null
       }
     },
     {
@@ -2117,8 +2222,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE DE LA TOUSSAINT",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1049742.084834332,
-        "Lambert Ordonnée": 6842370.45350793,
-        "Prestataire (NAF 56)": "SODEXHO FRANCE HOPITAUX CLINIQUES"
+        "Lambert ordonnée": 6842370.45350793,
+        "Prestataire (NAF 56)": "SODEXHO FRANCE HOPITAUX CLINIQUES",
+        "Biodéchets": null
       }
     },
     {
@@ -2137,8 +2243,9 @@ var santesocial1 = {
         "Nom": "EHPAD LES COLOMBES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1049750.5398708808,
-        "Lambert Ordonnée": 6846899.249668955,
-        "Prestataire (NAF 56)": "SODEXHO FRANCE HOTELLERIE ET SANTE"
+        "Lambert ordonnée": 6846899.249668955,
+        "Prestataire (NAF 56)": "SODEXHO FRANCE HOTELLERIE ET SANTE",
+        "Biodéchets": null
       }
     },
     {
@@ -2157,8 +2264,9 @@ var santesocial1 = {
         "Nom": "UNITE SOINS LONGUE DUREE STE ELISABETH",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1049836.8999265688,
-        "Lambert Ordonnée": 6841339.861189047,
-        "Prestataire (NAF 56)": "SODEXHO FRANCE HOPITAUX CLINIQUES"
+        "Lambert ordonnée": 6841339.861189047,
+        "Prestataire (NAF 56)": "SODEXHO FRANCE HOPITAUX CLINIQUES",
+        "Biodéchets": null
       }
     },
     {
@@ -2177,8 +2285,9 @@ var santesocial1 = {
         "Nom": "FONDATION PARTAGE ET VIE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1050026.9769415436,
-        "Lambert Ordonnée": 6843840.438801003,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6843840.438801003,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2197,8 +2306,9 @@ var santesocial1 = {
         "Nom": "LOGEMENT FOYER PERSONNES AGEES",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1050155.83128519,
-        "Lambert Ordonnée": 6844671.131714719,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6844671.131714719,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -2217,8 +2327,9 @@ var santesocial1 = {
         "Nom": "LA VOUTE ETOILEE",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1050177.91424259,
-        "Lambert Ordonnée": 6845328.004623787,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6845328.004623787,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2237,8 +2348,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE ST ARBOGAST",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1050234.8276799645,
-        "Lambert Ordonnée": 6842052.976819919,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6842052.976819919,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -2257,8 +2369,9 @@ var santesocial1 = {
         "Nom": "KACHELOFE MEINAU",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1050249.1930813482,
-        "Lambert Ordonnée": 6838163.170708776,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6838163.170708776,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2277,8 +2390,9 @@ var santesocial1 = {
         "Nom": "EHPAD - PAUL BERTOLOLY",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1050290.7164299414,
-        "Lambert Ordonnée": 6888353.622388397,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6888353.622388397,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2297,8 +2411,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE CHARLES HUCK",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1050357.956798088,
-        "Lambert Ordonnée": 6845683.226057231,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6845683.226057231,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2317,8 +2432,9 @@ var santesocial1 = {
         "Nom": "MADAME JEANNE ZEH MBALLA",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1050426.6341524587,
-        "Lambert Ordonnée": 6840905.616167663,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6840905.616167663,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2337,8 +2453,9 @@ var santesocial1 = {
         "Nom": "UNITE DE SOINS LONGUE DUREE LES MESANGES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1050446.8248513222,
-        "Lambert Ordonnée": 6846620.344418155,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6846620.344418155,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -2357,8 +2474,9 @@ var santesocial1 = {
         "Nom": "LES JARDINS D'ARCADIE EXPLOITATION",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1050560.891893122,
-        "Lambert Ordonnée": 6842280.002433549,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6842280.002433549,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2377,8 +2495,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE SAINT GOTHARD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1050621.9242144718,
-        "Lambert Ordonnée": 6841504.421319739,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6841504.421319739,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2397,8 +2516,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE G BORD",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1050741.80609289,
-        "Lambert Ordonnée": 6841901.004467919,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6841901.004467919,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2417,8 +2537,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE KRUTENAU",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1050792.432326364,
-        "Lambert Ordonnée": 6841636.323254426,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6841636.323254426,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2437,8 +2558,9 @@ var santesocial1 = {
         "Nom": "EHPAD BETHESDA ARC EN CIEL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1050840.373284785,
-        "Lambert Ordonnée": 6843011.535345892,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6843011.535345892,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2457,8 +2579,9 @@ var santesocial1 = {
         "Nom": "ASSOCIATION ADELE DE GLAUBITZ",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1050915.9799821642,
-        "Lambert Ordonnée": 6839611.94353655,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6839611.94353655,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2477,8 +2600,9 @@ var santesocial1 = {
         "Nom": "EHPAD BETHESDA ARC EN CIEL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1050977.8400964008,
-        "Lambert Ordonnée": 6843026.627987264,
-        "Prestataire (NAF 56)": "SODEXO SANTE MEDICO SOCIAL"
+        "Lambert ordonnée": 6843026.627987264,
+        "Prestataire (NAF 56)": "SODEXO SANTE MEDICO SOCIAL",
+        "Biodéchets": null
       }
     },
     {
@@ -2497,8 +2621,9 @@ var santesocial1 = {
         "Nom": "E.H.P.A.D LES MELEZES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1051076.1328738222,
-        "Lambert Ordonnée": 6840506.441391882,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6840506.441391882,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2517,8 +2642,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE STE AGNES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1051089.0446577778,
-        "Lambert Ordonnée": 6840039.133069748,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6840039.133069748,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -2537,8 +2663,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE EHPAD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1051407.2048776671,
-        "Lambert Ordonnée": 6867970.9728165,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6867970.9728165,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2557,8 +2684,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE SAINT MARTIN",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1051434.9942461306,
-        "Lambert Ordonnée": 6867850.124890099,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6867850.124890099,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2577,8 +2705,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE DE L'AAR",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1051472.099208548,
-        "Lambert Ordonnée": 6846410.419677167,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6846410.419677167,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2597,8 +2726,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE POUR PERSONNES AGEES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1051522.317869142,
-        "Lambert Ordonnée": 6840610.798781012,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6840610.798781012,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2617,8 +2747,9 @@ var santesocial1 = {
         "Nom": "ASS BAS-RHINOISE AIDE PERSONNES AGEES",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1051542.4649384574,
-        "Lambert Ordonnée": 6840965.842058537,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6840965.842058537,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -2637,8 +2768,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1051687.321411963,
-        "Lambert Ordonnée": 6854080.898571609,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6854080.898571609,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -2657,8 +2789,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE MARYSE BASTIE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1051958.0690024202,
-        "Lambert Ordonnée": 6838135.0041816505,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6838135.0041816505,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2677,8 +2810,9 @@ var santesocial1 = {
         "Nom": "ABRAPA STEPHANIE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1051973.445204104,
-        "Lambert Ordonnée": 6835765.57764286,
-        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION"
+        "Lambert ordonnée": 6835765.57764286,
+        "Prestataire (NAF 56)": "L'ALSACIENNE DE RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -2697,8 +2831,9 @@ var santesocial1 = {
         "Nom": "MAISON RETRAITE FAISANDERIE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1052085.0293869376,
-        "Lambert Ordonnée": 6835862.868615682,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6835862.868615682,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2717,8 +2852,9 @@ var santesocial1 = {
         "Nom": "MAISON DE RETRAITE ST JOSEPH",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1052274.048356613,
-        "Lambert Ordonnée": 6842476.226583127,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6842476.226583127,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2737,8 +2873,9 @@ var santesocial1 = {
         "Nom": "PLUME",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1052590.6769293374,
-        "Lambert Ordonnée": 6842611.251378293,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6842611.251378293,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2757,8 +2894,9 @@ var santesocial1 = {
         "Nom": "KORIAN L'AIR DU TEMPS",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1052835.6470316714,
-        "Lambert Ordonnée": 6843937.3276935145,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6843937.3276935145,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2777,8 +2915,9 @@ var santesocial1 = {
         "Nom": "EHPAD BOIS FLEURI",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1052956.7289532006,
-        "Lambert Ordonnée": 6844366.570198216,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6844366.570198216,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2797,8 +2936,9 @@ var santesocial1 = {
         "Nom": "EHPAD SAINT FRANCOIS",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1053715.6731444146,
-        "Lambert Ordonnée": 6864205.922560925,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6864205.922560925,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2817,8 +2957,9 @@ var santesocial1 = {
         "Nom": "OVELIA",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1053779.6988201549,
-        "Lambert Ordonnée": 6840864.86416601,
-        "Prestataire (NAF 56)": "SOGERES"
+        "Lambert ordonnée": 6840864.86416601,
+        "Prestataire (NAF 56)": "SOGERES",
+        "Biodéchets": null
       }
     },
     {
@@ -2837,8 +2978,9 @@ var santesocial1 = {
         "Nom": "ASDEPAL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1054841.9722392384,
-        "Lambert Ordonnée": 6850481.783680486,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6850481.783680486,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2857,8 +2999,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE AU BORD DE L'ILL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1054951.341529161,
-        "Lambert Ordonnée": 6850901.591550041,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6850901.591550041,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2877,8 +3020,9 @@ var santesocial1 = {
         "Nom": "EHPAD - M RETRAITE JULIE GSELL",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1056704.5144638596,
-        "Lambert Ordonnée": 6863327.9568157885,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6863327.9568157885,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2897,8 +3041,9 @@ var santesocial1 = {
         "Nom": "EHPAD MAISON DES AINES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1056859.8893405085,
-        "Lambert Ordonnée": 6862341.63860482,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6862341.63860482,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2917,8 +3062,9 @@ var santesocial1 = {
         "Nom": "EHPAD LA MAISON DU DIACONAT",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1056953.12,
-        "Lambert Ordonnée": 6863206.92,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6863206.92,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2937,8 +3083,9 @@ var santesocial1 = {
         "Nom": "UNITE DE VIE EUGENE LAMBLING",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1057023.9839487076,
-        "Lambert Ordonnée": 6863038.065896079,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6863038.065896079,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2957,8 +3104,9 @@ var santesocial1 = {
         "Nom": "FONDATION PARTAGE ET VIE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1057609.3010514877,
-        "Lambert Ordonnée": 6882011.045716951,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6882011.045716951,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2977,8 +3125,9 @@ var santesocial1 = {
         "Nom": "EHPAD LES AULNES",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1059951.369239296,
-        "Lambert Ordonnée": 6877434.516403704,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6877434.516403704,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -2997,8 +3146,9 @@ var santesocial1 = {
         "Nom": "EHPAD INTRAHOSPITALIER CH WISSEMBOURG",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1060209.5007509687,
-        "Lambert Ordonnée": 6893531.493820233,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6893531.493820233,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -3017,8 +3167,9 @@ var santesocial1 = {
         "Nom": "EHPAD LE CLOS FLEURI",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1060413.3155584282,
-        "Lambert Ordonnée": 6858690.17474458,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6858690.17474458,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -3037,8 +3188,9 @@ var santesocial1 = {
         "Nom": "EHPAD STANISLAS",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1061071.87467979,
-        "Lambert Ordonnée": 6893043.129890685,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6893043.129890685,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -3057,8 +3209,9 @@ var santesocial1 = {
         "Nom": "FONDATION WESTERCAMP",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1061186.2794553284,
-        "Lambert Ordonnée": 6893292.663733535,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6893292.663733535,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -3077,8 +3230,9 @@ var santesocial1 = {
         "Nom": "RESIDENCE MASSOL",
         "Code NAF": "87.30A",
         "Lambert abscisse": 1061481.9903824066,
-        "Lambert Ordonnée": 6892492.182049846,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6892492.182049846,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -3097,8 +3251,9 @@ var santesocial1 = {
         "Nom": "ACCUEIL DE JOUR VILLA GERMANIA",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1061866.6733937978,
-        "Lambert Ordonnée": 6893154.942055333,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6893154.942055333,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -3117,8 +3272,9 @@ var santesocial1 = {
         "Nom": "EHPAD L'OREE DU BOIS",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1063409.3718204484,
-        "Lambert Ordonnée": 6870354.950706894,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6870354.950706894,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -3137,8 +3293,9 @@ var santesocial1 = {
         "Nom": "EHPAD BEL AUTOMNE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1063694.9291520163,
-        "Lambert Ordonnée": 6863390.474450799,
-        "Prestataire (NAF 56)": "API RESTAURATION"
+        "Lambert ordonnée": 6863390.474450799,
+        "Prestataire (NAF 56)": "API RESTAURATION",
+        "Biodéchets": null
       }
     },
     {
@@ -3157,8 +3314,9 @@ var santesocial1 = {
         "Nom": "EHPAD SAINTE ADELAIDE",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1074195.195363355,
-        "Lambert Ordonnée": 6878004.720960747,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6878004.720960747,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -3177,8 +3335,9 @@ var santesocial1 = {
         "Nom": "EHPAD",
         "Code NAF": "87.10A",
         "Lambert abscisse": 1078956.4568573695,
-        "Lambert Ordonnée": 6887424.014594108,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6887424.014594108,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -3197,8 +3356,9 @@ var santesocial1 = {
         "Nom": "EHPAD DE SARRE UNION",
         "Code NAF": "87.10A",
         "Lambert abscisse": 999103.73483738,
-        "Lambert Ordonnée": 6879010.823832226,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6879010.823832226,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     },
     {
@@ -3217,8 +3377,9 @@ var santesocial1 = {
         "Nom": "UNITE DE VIE RESIDENCE PERSONNES AGES",
         "Code NAF": "87.30A",
         "Lambert abscisse": 999293.49018004,
-        "Lambert Ordonnée": 6878523.908474446,
-        "Prestataire (NAF 56)": null
+        "Lambert ordonnée": 6878523.908474446,
+        "Prestataire (NAF 56)": null,
+        "Biodéchets": null
       }
     }
   ]

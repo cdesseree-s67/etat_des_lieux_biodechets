@@ -6,6 +6,2316 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.190806364254995,
+          48.94014194996367
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671741D",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège de l'Eichel",
+        "Adresse": "6 RUE DU COLLÈGE, 67430 DIEMERINGEN",
+        "Restauration": 1.0,
+        "Effectifs": 266.0,
+        "Lambert abscisse": 1006858.0,
+        "Lambert ordonnée": 6879275.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.195447279943691,
+          48.86815765224819
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670014B",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège des racines et des ailes",
+        "Adresse": "1 RUE DU COLLÈGE, 67320 DRULINGEN",
+        "Restauration": 1.0,
+        "Effectifs": 423.0,
+        "Lambert abscisse": 1007622.6,
+        "Lambert ordonnée": 6871299.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.209875537173809,
+          48.46617484796928
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671697F",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Frison Roche",
+        "Adresse": "149 RUE DU GÉNÉRAL DE GAULLE, 67130 LA BROQUE",
+        "Restauration": 1.0,
+        "Effectifs": 481.0,
+        "Lambert abscisse": 1011061.1,
+        "Lambert ordonnée": 6826728.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.230617165289163,
+          48.48356217104681
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670068K",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Haute Bruche",
+        "Adresse": "18 RUE DES GRIVES, 67130 SCHIRMECK",
+        "Restauration": 1.0,
+        "Effectifs": 386.0,
+        "Lambert abscisse": 1012488.7,
+        "Lambert ordonnée": 6828740.2,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.312924520001162,
+          48.52262039756946
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672579P",
+        "Type_etablissement": "Collège",
+        "Nom": "Cours privé Saint-Thomas d'Aquin - Collège",
+        "Adresse": "LE MULLERHOF, 67280 URMATT",
+        "Restauration": 1.0,
+        "Effectifs": 42.0,
+        "Lambert abscisse": 1018325.2,
+        "Lambert ordonnée": 6833404.4,
+        "Structure": "Newrest",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.298487506145079,
+          48.34332143966042
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671601B",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège",
+        "Adresse": "4 RUE BELLE VUE, 67220 VILLÉ",
+        "Restauration": 1.0,
+        "Effectifs": 474.0,
+        "Lambert abscisse": 1018345.1,
+        "Lambert ordonnée": 6813445.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.368348307879217,
+          48.91591427381988
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671739B",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège",
+        "Adresse": "29 ROUTE DE ZITTERSHEIM, 67290 WINGEN-SUR-MODER",
+        "Restauration": 1.0,
+        "Effectifs": 217.0,
+        "Lambert abscisse": 1019993.9,
+        "Lambert ordonnée": 6877289.5,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.360921215935775,
+          48.74068771218689
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671987W",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Poincaré",
+        "Adresse": "17 RUE POINCARÉ, 67700 SAVERNE",
+        "Restauration": 1.0,
+        "Effectifs": 443.0,
+        "Lambert abscisse": 1020525.9,
+        "Lambert ordonnée": 6857805.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.364736757987543,
+          48.734656962369534
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671986V",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Les Sources",
+        "Adresse": "10 RUE SAINTE-MARIE, 67700 SAVERNE",
+        "Restauration": 1.0,
+        "Effectifs": 599.0,
+        "Lambert abscisse": 1020843.1,
+        "Lambert ordonnée": 6857151.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.374506582191127,
+          48.68857798100393
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671985U",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Léonard de Vinci",
+        "Adresse": "2 RUE ALBERT SCHWEITZER, 67440 MARMOUTIER",
+        "Restauration": 1.0,
+        "Effectifs": 403.0,
+        "Lambert abscisse": 1021844.2,
+        "Lambert ordonnée": 6852075.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.433626827129548,
+          48.639595662201614
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671740C",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Marcel Pagnol",
+        "Adresse": "ROUTE DE ROMANSWILLER, 67310 WASSELONNE",
+        "Restauration": 1.0,
+        "Effectifs": 519.0,
+        "Lambert abscisse": 1026494.9,
+        "Lambert ordonnée": 6846881.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.407760316822058,
+          48.27085249268358
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671962U",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège des Châteaux",
+        "Adresse": "23 ROUTE ROMAINE, 67730 CHÂTENOIS",
+        "Restauration": 1.0,
+        "Effectifs": 532.0,
+        "Lambert abscisse": 1026878.9,
+        "Lambert ordonnée": 6805849.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.470241408543962,
+          48.87383987398875
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670035Z",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège",
+        "Adresse": "4 RUE DU GYMNASE, 67340 INGWILLER",
+        "Restauration": 1.0,
+        "Effectifs": 280.0,
+        "Lambert abscisse": 1027714.7,
+        "Lambert ordonnée": 6873036.1,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4456352950794855,
+          48.537459596942156
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671828Y",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Louis Arbogast",
+        "Adresse": "13 RUE DU DR SCHWEITZER, 67190 MUTZIG",
+        "Restauration": 1.0,
+        "Effectifs": 661.0,
+        "Lambert abscisse": 1028017.2,
+        "Lambert ordonnée": 6835594.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.469408670858299,
+          48.761080683693834
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672197Z",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Tomi Ungerer",
+        "Adresse": "RUE MARIE CURIE, 67490 DETTWILLER",
+        "Restauration": 1.0,
+        "Effectifs": 237.0,
+        "Lambert abscisse": 1028363.0,
+        "Lambert ordonnée": 6860514.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.436406717747714,
+          48.32438112687729
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670011Y",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège du Bernstein",
+        "Adresse": "4 RUE DU COLLÈGE, 67650 DAMBACH-LA-VILLE",
+        "Restauration": 1.0,
+        "Effectifs": 366.0,
+        "Lambert abscisse": 1028667.0,
+        "Lambert ordonnée": 6811908.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.482649082472225,
+          48.826532260016954
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672076T",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège du Bastberg",
+        "Adresse": "BOULEVARD KOCH, 67330 BOUXWILLER",
+        "Restauration": 1.0,
+        "Effectifs": 570.0,
+        "Lambert abscisse": 1028921.8,
+        "Lambert ordonnée": 6867835.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4571480547800215,
+          48.41344184188627
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0673006D",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège de Heiligenstein",
+        "Adresse": "1 RUE DU TORENBERG, 67140 BARR",
+        "Restauration": 1.0,
+        "Effectifs": 374.0,
+        "Lambert abscisse": 1029643.5,
+        "Lambert ordonnée": 6821878.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.456880060168286,
+          48.409263664358924
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672133E",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège de Barr",
+        "Adresse": "5 RUE DU LYCÉE, 67140 BARR",
+        "Restauration": 1.0,
+        "Effectifs": 483.0,
+        "Lambert abscisse": 1029649.9,
+        "Lambert ordonnée": 6821413.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.451193110146282,
+          48.252786616841064
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671830A",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Jean Mentel",
+        "Adresse": "QUAI ALBRECHT, 67600 SÉLESTAT",
+        "Restauration": 1.0,
+        "Effectifs": 742.0,
+        "Lambert abscisse": 1030209.6,
+        "Lambert ordonnée": 6804025.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.477051806276984,
+          48.50057729064198
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671913R",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Herrade de Landsberg",
+        "Adresse": "4 RUE DU STADE, 67560 ROSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 656.0,
+        "Lambert abscisse": 1030565.1,
+        "Lambert ordonnée": 6831632.2,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.456925277002202,
+          48.26305579939863
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672134F",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Beatus Rhenanus",
+        "Adresse": "2 BOULEVARD CHARLEMAGNE, 67600 SÉLESTAT",
+        "Restauration": 1.0,
+        "Effectifs": 413.0,
+        "Lambert abscisse": 1030570.0,
+        "Lambert ordonnée": 6805189.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.494367120792618,
+          48.61885862881052
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671989Y",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Grégoire de Tours",
+        "Adresse": "2 RUE DU COLLÈGE, 67520 MARLENHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 604.0,
+        "Lambert abscisse": 1031094.2,
+        "Lambert ordonnée": 6844832.5,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.49073310762775,
+          48.534789960889256
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672131C",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Henri Meck",
+        "Adresse": "10 RUE HENRI MECK, 67120 MOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 352.0,
+        "Lambert abscisse": 1031358.0,
+        "Lambert ordonnée": 6835486.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.491705594552114,
+          48.53133739915627
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672606U",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Rembrandt Bugatti",
+        "Adresse": "1 PLACE LA ROYALE BUGATTI, 67120 MOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 633.0,
+        "Lambert abscisse": 1031451.5,
+        "Lambert ordonnée": 6835107.5,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.490494066145932,
+          48.45986046424773
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672132D",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Freppel",
+        "Adresse": "1 RUE DU STADE, 67210 OBERNAI",
+        "Restauration": 1.0,
+        "Effectifs": 442.0,
+        "Lambert abscisse": 1031813.8,
+        "Lambert ordonnée": 6827169.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.498824008636578,
+          48.46037465507215
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672078V",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Europe",
+        "Adresse": "AVENUE DES CHAMPS VERTS, 67210 OBERNAI",
+        "Restauration": 1.0,
+        "Effectifs": 536.0,
+        "Lambert abscisse": 1032425.4,
+        "Lambert ordonnée": 6827261.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.567089572844274,
+          48.76042719459355
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671961T",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Gustave Doré",
+        "Adresse": "14B RUE DE SCHERLENHEIM, 67270 HOCHFELDEN",
+        "Restauration": 1.0,
+        "Effectifs": 717.0,
+        "Lambert abscisse": 1035535.8,
+        "Lambert ordonnée": 6860853.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.570894033035214,
+          48.532176060568
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672896J",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Nicolas Copernic",
+        "Adresse": "RUE DU STADE, 67120 DUTTLENHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 373.0,
+        "Lambert abscisse": 1037283.1,
+        "Lambert ordonnée": 6835535.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.550272441528101,
+          48.16297072914352
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671600A",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Jean Jacques Waltz",
+        "Adresse": "8 RUE DES TABACS, 67390 MARCKOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 550.0,
+        "Lambert abscisse": 1038126.6,
+        "Lambert ordonnée": 6794479.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.615416152385016,
+          48.852744708045456
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671598Y",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Val de Moder",
+        "Adresse": "13 RUE DE L'ÉCOLE, 67350 LA WALCK",
+        "Restauration": 1.0,
+        "Effectifs": 431.0,
+        "Lambert abscisse": 1038482.6,
+        "Lambert ordonnée": 6871306.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604233274645277,
+          48.65522843147309
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670107C",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Kochersberg",
+        "Adresse": "1 RUE PEREZ, 67370 TRUCHTERSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 664.0,
+        "Lambert abscisse": 1038943.2,
+        "Lambert ordonnée": 6849335.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.636131020519615,
+          48.957237826033605
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671738A",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Charles Munch",
+        "Adresse": "4 RUE DES SOEURS, 67110 NIEDERBRONN-LES-BAINS",
+        "Restauration": 1.0,
+        "Effectifs": 371.0,
+        "Lambert abscisse": 1039318.2,
+        "Lambert ordonnée": 6882995.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599434885788695,
+          48.37166720676742
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670003P",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Robert Schuman",
+        "Adresse": "6 RUE DU LUXEMBOURG, 67230 BENFELD",
+        "Restauration": 1.0,
+        "Effectifs": 707.0,
+        "Lambert abscisse": 1040425.4,
+        "Lambert ordonnée": 6817846.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623867240162896,
+          48.582316763289626
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671686U",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Paul Wernert",
+        "Adresse": "4 RUE DU COLLÈGE, 67204 ACHENHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 479.0,
+        "Lambert abscisse": 1040861.3,
+        "Lambert ordonnée": 6841327.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657190645894618,
+          48.9284305942498
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671595V",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Françoise Dolto",
+        "Adresse": "14 RUE DU CERF, 67110 REICHSHOFFEN",
+        "Restauration": 1.0,
+        "Effectifs": 474.0,
+        "Lambert abscisse": 1041046.6,
+        "Lambert ordonnée": 6879888.1,
+        "Structure": "Sur place",
+        "Biodéchets": "SUEZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608600995838591,
+          48.24974670416463
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670106B",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège du Grand Ried",
+        "Adresse": "5 RUE DU COLLÈGE, 67920 SUNDHOUSE",
+        "Restauration": 1.0,
+        "Effectifs": 458.0,
+        "Lambert abscisse": 1041893.5,
+        "Lambert ordonnée": 6804358.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622284301199218,
+          48.39485140959735
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671604E",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé Saint-Joseph",
+        "Adresse": "1 RUE E MERTIAN, 67150 MATZENHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 374.0,
+        "Lambert abscisse": 1041963.9,
+        "Lambert ordonnée": 6820518.0,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.651548947615875,
+          48.517972806391406
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671824U",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Jean de la Fontaine",
+        "Adresse": "1 RUE DU COLLÈGE, 67400 GEISPOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 613.0,
+        "Lambert abscisse": 1043320.7,
+        "Lambert ordonnée": 6834307.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.687912995537176,
+          48.86705735016937
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671912P",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Jacques Tati",
+        "Adresse": "12 RUE LOUIS PASTEUR, 67580 MERTZWILLER",
+        "Restauration": 1.0,
+        "Effectifs": 264.0,
+        "Lambert abscisse": 1043698.7,
+        "Lambert ordonnée": 6873208.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.668283918731713,
+          48.639406341943506
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672193V",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège de la Souffel",
+        "Adresse": "4 RUE DE GRIESHEIM SUR SOUFFEL, 67370 PFULGRIESHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 497.0,
+        "Lambert abscisse": 1043756.8,
+        "Lambert ordonnée": 6847856.2,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654459936141609,
+          48.422424897777724
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670017E",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Romain Rolland",
+        "Adresse": "4 RUE DE WISSEMBOURG, 67150 ERSTEIN",
+        "Restauration": 1.0,
+        "Effectifs": 765.0,
+        "Lambert abscisse": 1044161.0,
+        "Lambert ordonnée": 6823717.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681478392463369,
+          48.561141802175435
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671690Y",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Maxime Alexandre",
+        "Adresse": "31 RUE DU TRAVAIL, 67380 LINGOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 604.0,
+        "Lambert abscisse": 1045242.8,
+        "Lambert ordonnée": 6839228.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.68732785528159,
+          48.54962892691025
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672765S",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Galilée",
+        "Adresse": "1 RUE JEAN ROSTAND, 67380 LINGOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 477.0,
+        "Lambert abscisse": 1045749.6,
+        "Lambert ordonnée": 6837976.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.690375925464217,
+          48.57621738177706
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670016D",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Katia et Maurice Krafft",
+        "Adresse": "6 RUE DU COLLÈGE, 67201 ECKBOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 431.0,
+        "Lambert abscisse": 1045798.7,
+        "Lambert ordonnée": 6840940.2,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.696410288760468,
+          48.59942538187309
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671825V",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège François Truffaut",
+        "Adresse": "30 BOULEVARD RONSARD, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 597.0,
+        "Lambert abscisse": 1046089.7,
+        "Lambert ordonnée": 6843542.1,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.706393880230152,
+          48.666553313013885
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672658A",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège La pierre polie",
+        "Adresse": "RUE DU VIGNOBLE, 67550 VENDENHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 274.0,
+        "Lambert abscisse": 1046380.0,
+        "Lambert ordonnée": 6851035.5,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70079616635562,
+          48.59189984860678
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672459J",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Erasme",
+        "Adresse": "40 BOULEVARD VICTOR HUGO, 67000 STRASBOURG",
+        "Restauration": 0.0,
+        "Effectifs": 432.0,
+        "Lambert abscisse": 1046462.3,
+        "Lambert ordonnée": 6842726.2,
+        "Structure": "/",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.714005979166217,
+          48.73186935937816
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670009W",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège",
+        "Adresse": "3 RUE DU COLLÈGE, 67170 BRUMATH",
+        "Restauration": 1.0,
+        "Effectifs": 599.0,
+        "Lambert abscisse": 1046506.3,
+        "Lambert ordonnée": 6858317.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.708655161305476,
+          48.64423517431012
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672013Z",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Paul-Emile Victor",
+        "Adresse": "2 RUE DU CERF, 67450 MUNDOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 498.0,
+        "Lambert abscisse": 1046694.1,
+        "Lambert ordonnée": 6848568.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.72683623441636,
+          48.824650640963114
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671960S",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Bois Fleuri",
+        "Adresse": "RUE DES SPORTS, 67590 SCHWEIGHOUSE-SUR-MODER",
+        "Restauration": 1.0,
+        "Effectifs": 428.0,
+        "Lambert abscisse": 1046831.1,
+        "Lambert ordonnée": 6868671.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7055771967708315,
+          48.581034141559925
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671508A",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Jacques Twinger",
+        "Adresse": "10 RUE OVIDE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 654.0,
+        "Lambert abscisse": 1046886.2,
+        "Lambert ordonnée": 6841541.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.740014645773035,
+          48.940914962810474
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671596W",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Maréchal de Mac Mahon",
+        "Adresse": "2 RUE VICTOR HUGO, 67360 WOERTH",
+        "Restauration": 1.0,
+        "Effectifs": 439.0,
+        "Lambert abscisse": 1047021.3,
+        "Lambert ordonnée": 6881634.8,
+        "Structure": "Sur place",
+        "Biodéchets": "SUEZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.713080930646206,
+          48.578350634845
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671619W",
+        "Type_etablissement": "Collège",
+        "Nom": "Ecole privée Michaël - Pédagogie R Steiner - Collège",
+        "Adresse": "2C RUE DU SCHNOKELOCH, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 68.0,
+        "Lambert abscisse": 1047456.5,
+        "Lambert ordonnée": 6841276.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.714336246323835,
+          48.551988158925674
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672072N",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Martin Schongauer",
+        "Adresse": "1 RUE ALBERT GERIG, 67540 OSTWALD",
+        "Restauration": 0.0,
+        "Effectifs": 515.0,
+        "Lambert abscisse": 1047723.8,
+        "Lambert ordonnée": 6838356.7,
+        "Structure": "/",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719251489407021,
+          48.60107034312517
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671590P",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Sophie Germain",
+        "Adresse": "50 RUE DU RIETH, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 640.0,
+        "Lambert abscisse": 1047760.0,
+        "Lambert ordonnée": 6843825.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.718020925078198,
+          48.56944055937947
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671907J",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Hans Arp",
+        "Adresse": "16 RUE VAN EYCK, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 592.0,
+        "Lambert abscisse": 1047879.4,
+        "Lambert ordonnée": 6840309.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7154043002504284,
+          48.53272296019726
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671956M",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège du Parc",
+        "Adresse": "5 RUE DU PARC, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": 1.0,
+        "Effectifs": 415.0,
+        "Lambert abscisse": 1047930.3,
+        "Lambert ordonnée": 6836223.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.713202597069939,
+          48.48656852251228
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671687V",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Sébastien Brant",
+        "Adresse": "5 RUE DU COLLÈGE, 67114 ESCHAU",
+        "Restauration": 1.0,
+        "Effectifs": 649.0,
+        "Lambert abscisse": 1048074.1,
+        "Lambert ordonnée": 6831092.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.704268183089503,
+          48.37307495698584
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672135G",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège",
+        "Adresse": "8 RUE DES CIGOGNES, 67150 GERSTHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 332.0,
+        "Lambert abscisse": 1048166.2,
+        "Lambert ordonnée": 6818460.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7215295178245755,
+          48.5207128298964
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672194W",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège des Roseaux",
+        "Adresse": "2A RUE DES ROSEAUX, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": 1.0,
+        "Effectifs": 603.0,
+        "Lambert abscisse": 1048461.5,
+        "Lambert ordonnée": 6834917.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.731105515288077,
+          48.60901317851837
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670065G",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Leclerc",
+        "Adresse": "9 AVENUE DU 23 NOVEMBRE, 67300 SCHILTIGHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 547.0,
+        "Lambert abscisse": 1048579.6,
+        "Lambert ordonnée": 6844758.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.738769162394281,
+          48.63190937337042
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672254L",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège les sept Arpents",
+        "Adresse": "RUE DU COLLÈGE, 67460 SOUFFELWEYERSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 504.0,
+        "Lambert abscisse": 1048990.9,
+        "Lambert ordonnée": 6847333.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737823568239103,
+          48.61387048231138
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671822S",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Lamartine",
+        "Adresse": "9 RUE LAMARTINE, 67800 BISCHHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 316.0,
+        "Lambert abscisse": 1049041.6,
+        "Lambert ordonnée": 6845327.4,
+        "Structure": "Collège Sophie Germain",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.713448769301128,
+          48.31945449750006
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671963V",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège",
+        "Adresse": "31 RUE DE LA CHASSE, 67860 RHINAU",
+        "Restauration": 1.0,
+        "Effectifs": 286.0,
+        "Lambert abscisse": 1049200.4,
+        "Lambert ordonnée": 6812551.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7384544785391665,
+          48.57336226156931
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672129A",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Louis Pasteur",
+        "Adresse": "RUE DE LA PLAINE DES BOUCHERS, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 604.0,
+        "Lambert abscisse": 1049358.1,
+        "Lambert ordonnée": 6840835.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.742212978063253,
+          48.577749698961036
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672306T",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé Le Gymnase Lucie Berger Jean Sturm",
+        "Adresse": "8 PLACE DES ÉTUDIANTS, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 728.0,
+        "Lambert abscisse": 1049605.6,
+        "Lambert ordonnée": 6841338.5,
+        "Structure": "Sodexo",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.743535061431642,
+          48.58769078019634
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672899M",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé Notre Dame",
+        "Adresse": "6 RUE DES BONNES GENS, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 365.0,
+        "Lambert abscisse": 1049636.6,
+        "Lambert ordonnée": 6842447.5,
+        "Structure": "Scolarest",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74594502892675,
+          48.548353143727084
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670105A",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Lezay Marnésia",
+        "Adresse": "16 RUE DU POITOU, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 535.0,
+        "Lambert abscisse": 1050076.7,
+        "Lambert ordonnée": 6838093.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74990752251427,
+          48.58313239341022
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671608J",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé Institution La Providence",
+        "Adresse": "3 RUE DU SANGLIER, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 1121.0,
+        "Lambert abscisse": 1050136.2,
+        "Lambert ordonnée": 6841969.9,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751281866512909,
+          48.588605186854934
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671958P",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Foch",
+        "Adresse": "7 RUE DU GÉNÉRAL FRÈRE, 67000 STRASBOURG",
+        "Restauration": 0.0,
+        "Effectifs": 476.0,
+        "Lambert abscisse": 1050200.8,
+        "Lambert ordonnée": 6842583.3,
+        "Structure": "Lycée CASSIN",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752661653638768,
+          48.59100929543728
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672519Z",
+        "Type_etablissement": "Collège",
+        "Nom": "Centre privé Eshel - Collège",
+        "Adresse": "19 RUE SCHWEIGHAEUSER, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 52.0,
+        "Lambert abscisse": 1050286.3,
+        "Lambert ordonnée": 6842856.2,
+        "Structure": "/",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752478292738727,
+          48.58451926140539
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672303P",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé La Doctrine Chrétienne",
+        "Adresse": "14 RUE BRULÉE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 395.0,
+        "Lambert abscisse": 1050316.2,
+        "Lambert ordonnée": 6842135.2,
+        "Structure": "/",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.753253984609503,
+          48.589723992553374
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672304R",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé Aquiba",
+        "Adresse": "4 RUE BALDUNG GRIEN, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 192.0,
+        "Lambert abscisse": 1050338.5,
+        "Lambert ordonnée": 6842716.2,
+        "Structure": "/",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756524935125098,
+          48.59496768226151
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670133F",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Kléber",
+        "Adresse": "25 PLACE DE BORDEAUX, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 578.0,
+        "Lambert abscisse": 1050544.2,
+        "Lambert ordonnée": 6843312.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755982480011762,
+          48.58311297467814
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672301M",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé Saint-Etienne",
+        "Adresse": "2 RUE DE LA PIERRE LARGE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 773.0,
+        "Lambert abscisse": 1050583.6,
+        "Lambert ordonnée": 6841994.7,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755617675420176,
+          48.57775390783902
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671742E",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Fustel de Coulanges",
+        "Adresse": "4 RUE JACQUES PEIROTES, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 568.0,
+        "Lambert abscisse": 1050592.6,
+        "Lambert ordonnée": 6841398.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763287842598953,
+          48.61927408766835
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670004R",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège le Ried",
+        "Adresse": "4 RUE DU GUIRBADEN, 67800 BISCHHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 593.0,
+        "Lambert abscisse": 1050879.1,
+        "Lambert ordonnée": 6846039.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.760543844398476,
+          48.56363439829508
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671620X",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé Sainte-Anne",
+        "Adresse": "128 ROUTE DU POLYGONE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 476.0,
+        "Lambert abscisse": 1051049.9,
+        "Lambert ordonnée": 6839853.5,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.790348286629226,
+          48.88588354992282
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672302N",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé Séminaire des jeunes",
+        "Adresse": "60 GRAND'RUE, 67360 WALBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 393.0,
+        "Lambert abscisse": 1051072.8,
+        "Lambert ordonnée": 6875748.9,
+        "Structure": "Scolarest",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.783400144712632,
+          48.803529816127735
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671734W",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Kléber",
+        "Adresse": "22 RUE KLEBER, 67500 HAGUENAU",
+        "Restauration": 1.0,
+        "Effectifs": 641.0,
+        "Lambert abscisse": 1051118.6,
+        "Lambert ordonnée": 6866577.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766308883211685,
+          48.589969100715976
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671607H",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé Notre Dame de Sion",
+        "Adresse": "8 BOULEVARD DE LA DORDOGNE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 667.0,
+        "Lambert abscisse": 1051297.9,
+        "Lambert ordonnée": 6842801.4,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.762684469825641,
+          48.54743712909448
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671692A",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Solignac",
+        "Adresse": "16 RUE LOUIS BRAILLE, 67000 STRASBOURG",
+        "Restauration": 0.0,
+        "Effectifs": 371.0,
+        "Lambert abscisse": 1051316.1,
+        "Lambert ordonnée": 6838065.7,
+        "Structure": "/",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.768346112428026,
+          48.60889382264041
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670066H",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Rouget de Lisle",
+        "Adresse": "1 RUE DU BÉARN, 67300 SCHILTIGHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 784.0,
+        "Lambert abscisse": 1051320.9,
+        "Lambert ordonnée": 6844910.5,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763942488940322,
+          48.53822958103367
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671691Z",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Stockfeld",
+        "Adresse": "71 RUE DES JESUITES, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 586.0,
+        "Lambert abscisse": 1051470.5,
+        "Lambert ordonnée": 6837049.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.789990268686853,
+          48.81139908662876
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672298J",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé Sainte Philomène",
+        "Adresse": "19A BOULEVARD HANAUER, 67500 HAGUENAU",
+        "Restauration": 1.0,
+        "Effectifs": 504.0,
+        "Lambert abscisse": 1051548.7,
+        "Lambert ordonnée": 6867480.3,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7695039708550935,
+          48.567707117103936
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671593T",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Louise Weiss",
+        "Adresse": "68 RUE SAINT ALOÏSE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 668.0,
+        "Lambert abscisse": 1051682.5,
+        "Lambert ordonnée": 6840345.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.771000514394565,
+          48.56352319979184
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672128Z",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Jean Monnet",
+        "Adresse": "2 PLACE ALBERT SCHWEITZER, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 409.0,
+        "Lambert abscisse": 1051820.8,
+        "Lambert ordonnée": 6839887.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.794060855059172,
+          48.812597165636085
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672136H",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Foch",
+        "Adresse": "13 RUE DU MARÉCHAL FOCH, 67500 HAGUENAU",
+        "Restauration": 1.0,
+        "Effectifs": 684.0,
+        "Lambert abscisse": 1051839.0,
+        "Lambert ordonnée": 6867631.4,
+        "Structure": "Lycée Robert Schuman",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.776082913293106,
+          48.60093789388693
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0673017R",
+        "Type_etablissement": "Collège",
+        "Nom": "Ecole européenne de Strasbourg",
+        "Adresse": "70 BOULEVARD D'ANVERS, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 323.0,
+        "Lambert abscisse": 1051943.7,
+        "Lambert ordonnée": 6844062.1,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.774154909512343,
+          48.57774430701548
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671915T",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Esplanade",
+        "Adresse": "20 RUE DE LONDRES, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 814.0,
+        "Lambert abscisse": 1051957.6,
+        "Lambert ordonnée": 6841479.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.777625194332288,
+          48.581957576079255
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671909L",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Vauban",
+        "Adresse": "70 BOULEVARD D'ANVERS, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 520.0,
+        "Lambert abscisse": 1052184.8,
+        "Lambert ordonnée": 6841962.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.798601760567853,
+          48.80179440509586
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671603D",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège privé des Missions Africaines",
+        "Adresse": "1 RUE DES MISSIONS AFRICAINES, 67500 HAGUENAU",
+        "Restauration": 1.0,
+        "Effectifs": 575.0,
+        "Lambert abscisse": 1052244.8,
+        "Lambert ordonnée": 6866452.7,
+        "Structure": "Ansamble",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.781742035063705,
+          48.603257160376
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671594U",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Robertsau",
+        "Adresse": "115 RUE BOECKLIN, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 453.0,
+        "Lambert abscisse": 1052344.6,
+        "Lambert ordonnée": 6844344.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.790725453974179,
+          48.700429438485806
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672012Y",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Baldung Grien",
+        "Adresse": "6 RUE DES ALOUETTES, 67720 HOERDT",
+        "Restauration": 1.0,
+        "Effectifs": 433.0,
+        "Lambert abscisse": 1052350.7,
+        "Lambert ordonnée": 6855168.1,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.829557456117059,
+          48.66063780215728
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671689X",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège André Malraux",
+        "Adresse": "4 RUE DES JARDINS, 67610 LA WANTZENAU",
+        "Restauration": 1.0,
+        "Effectifs": 518.0,
+        "Lambert abscisse": 1055473.6,
+        "Lambert ordonnée": 6850926.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.847541941802112,
+          48.77894026322285
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672130B",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège André Maurois",
+        "Adresse": "1 RUE DU LYCÉE, 67240 BISCHWILLER",
+        "Restauration": 1.0,
+        "Effectifs": 946.0,
+        "Lambert abscisse": 1055988.7,
+        "Lambert ordonnée": 6864135.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.893503239550828,
+          48.93005309530008
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671827X",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège de l'Outre forêt",
+        "Adresse": "40 RUE DE SELTZ, 67250 SOULTZ-SOUS-FORÊTS",
+        "Restauration": 1.0,
+        "Effectifs": 652.0,
+        "Lambert abscisse": 1058319.0,
+        "Lambert ordonnée": 6881114.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.899881433823841,
+          48.730520084062405
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671911N",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège",
+        "Adresse": "1 RUE DU COLLÈGE, 67850 HERRLISHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 310.0,
+        "Lambert abscisse": 1060161.3,
+        "Lambert ordonnée": 6858999.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9535162528357475,
+          49.036471537396025
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671984T",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Otfried",
+        "Adresse": "11 RUE DES QUATRE VENTS, 67160 WISSEMBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 680.0,
+        "Lambert abscisse": 1061965.7,
+        "Lambert ordonnée": 6893200.0,
+        "Structure": "Sur place",
+        "Biodéchets": "SUEZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.955564897822311,
+          48.75992098668574
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672074R",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège",
+        "Adresse": "4 RUE DU COLLÈGE, 67410 DRUSENHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 417.0,
+        "Lambert abscisse": 1064043.9,
+        "Lambert ordonnée": 6862517.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.963504045593752,
+          48.83538011914308
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670076U",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Albert Camus",
+        "Adresse": "38 ROUTE DE BETSCHDORF, 67620 SOUFFLENHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 585.0,
+        "Lambert abscisse": 1064099.3,
+        "Lambert ordonnée": 6870928.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.111954856057821,
+          48.90272456895932
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671597X",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Charles de Gaulle",
+        "Adresse": "3 RUE DU GÉNÉRAL DE GAULLE, 67470 SELTZ",
+        "Restauration": 1.0,
+        "Effectifs": 537.0,
+        "Lambert abscisse": 1074489.5,
+        "Lambert ordonnée": 6879095.5,
+        "Structure": "Sur place",
+        "Biodéchets": "SUEZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.182694859797936,
+          48.972683306949996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671688W",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Georges Holderith",
+        "Adresse": "8 RUE DES GLACIS, 67630 LAUTERBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 318.0,
+        "Lambert abscisse": 1079154.1,
+        "Lambert ordonnée": 6887196.2,
+        "Structure": "Sur place",
+        "Biodéchets": "SUEZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.08953225954641,
+          48.937666698664515
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670056X",
+        "Type_etablissement": "Collège",
+        "Nom": "Collège Pierre Claude",
+        "Adresse": "7 RUE DES ROSES, 67260 SARRE-UNION",
+        "Restauration": 1.0,
+        "Effectifs": 470.0,
+        "Lambert abscisse": 999463.5,
+        "Lambert ordonnée": 6878611.3,
+        "Structure": "Cantine",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.734425,
           48.81923099999999
         ]
@@ -644,6 +2954,10786 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.122626950628746,
+          48.928658981434694
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 10066190900018,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAM LES PETITES LENTILLES",
+        "Adresse": " RUE DES PRES, 67260 RIMSDORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1001937.0,
+        "Lambert ordonnée": 6877737.0,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.132471999999997,
+          48.390982
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564203600583,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA GAMINERIE AGF",
+        "Adresse": "3 RUE DES ECOLES, 67420 SAULXURES",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1005784.3634413396,
+        "Lambert ordonnée": 6818079.533618443,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1861799999999985,
+          48.94102899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79458546300027,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA MAISON DES LUTINS",
+        "Adresse": "12 RUE DES REMPARTS, 67430 DIEMERINGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1006514.3402065936,
+        "Lambert ordonnée": 6879355.535808382,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.196476999999998,
+          48.863783
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670105200070,
+        "Type_etablissement": "Crèche",
+        "Nom": "A PETITS PAS",
+        "Adresse": "23 RUE DE PHALSBOURG, 67320 DRULINGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1007723.8710130552,
+        "Lambert ordonnée": 6870817.95525257,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.204372999999999,
+          48.46220700000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 34447157800015,
+        "Type_etablissement": "Crèche",
+        "Nom": "AGF  LE P'TIOT",
+        "Adresse": "28 RUE DU GENERAL LECLERC, 67570 LA BROQUE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1010678.3839272624,
+        "Lambert ordonnée": 6826266.203008304,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.210345999999999,
+          48.458364
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 85120213500014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES BAMBINS DE LA VALLEE",
+        "Adresse": "16 RUE DE SCHIRMECK, 67570 ROTHAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1011142.1021922048,
+        "Lambert ordonnée": 6825863.147043714,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.212462977410962,
+          48.47431698642599
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 99020312700016,
+        "Type_etablissement": "Crèche",
+        "Nom": "AU PAYS DE MYIA",
+        "Adresse": "2 ROUTE DE FRECONRUPT, 67130 LA BROQUE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1011203.84,
+        "Lambert ordonnée": 6827642.28,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.257658000000002,
+          48.49603
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90918950800015,
+        "Type_etablissement": "Crèche",
+        "Nom": "CHEZ LILY",
+        "Adresse": "8 RUE DE LA GARE, 67130 RUSS",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1014409.4107856952,
+        "Lambert ordonnée": 6830231.471798118,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.287874999999999,
+          48.52191100000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 38848414900025,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE AGF",
+        "Adresse": "12 RUE DE LA PAIX, 67130 LUTZELHOUSE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1016482.4663296096,
+        "Lambert ordonnée": 6833224.966748492,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.304757999999998,
+          48.344546
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84235536400022,
+        "Type_etablissement": "Crèche",
+        "Nom": "ENFANTS DE NATURE",
+        "Adresse": "4 RUE DE LA LIBERATION, 67220 VILLE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1018801.6152162995,
+        "Lambert ordonnée": 6813606.904145565,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.307796000000001,
+          48.34614599999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95338012800017,
+        "Type_etablissement": "Crèche",
+        "Nom": "KODO Prestations - KOD",
+        "Adresse": "16 RUE BEAU REGARD, 67220 VILLE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1019016.6830317436,
+        "Lambert ordonnée": 6813796.746935079,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.326128999999998,
+          48.526537000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 43144359700015,
+        "Type_etablissement": "Crèche",
+        "Nom": "ACTI JEUNES LES PTITS BOUTS DE CHOU",
+        "Adresse": "71 RUE DU GENERAL DE GAULLE, 67280 URMATT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1019274.9713232792,
+        "Lambert ordonnée": 6833892.444055374,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.355432999999998,
+          48.74619800000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81235437100013,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS CHATELAINS",
+        "Adresse": "10 COTE DE SAVERNE, 67700 SAVERNE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1020089.1519595612,
+        "Lambert ordonnée": 6858394.759727493,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.358835000000001,
+          48.74757
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 34883131400029,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ASSOCIATION  LES BAMBINS",
+        "Adresse": "33 RUE DU SERPENT, 67700 SAVERNE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1020330.5011790508,
+        "Lambert ordonnée": 6858560.868171348,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.360222999999998,
+          48.74273300000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87747860200015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA COUR DES PETITS",
+        "Adresse": "17  GRAND-RUE, 67700 SAVERNE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1020462.0830357528,
+        "Lambert ordonnée": 6858029.522165919,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.364451999999999,
+          48.737629999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 26670056600075,
+        "Type_etablissement": "Crèche",
+        "Nom": "MULTI ACCUEIL LE PAYS ENCHANTE",
+        "Adresse": "17 AVENUE DE LA ROSERAIE, 67700 SAVERNE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1020803.9282068134,
+        "Lambert ordonnée": 6857480.190061847,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.399946000000001,
+          48.801816
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 92009086700010,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA MAISON DES ASSISTANTES MATERNELLES DES PAPOOSES",
+        "Adresse": "219  GRAND RUE, 67330 DOSSENHEIM-SUR-ZINSEL",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1023012.7226377396,
+        "Lambert ordonnée": 6864750.515876064,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.400352,
+          48.800070000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84532077900034,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA MAISON DE NINON",
+        "Adresse": "20 RUE DES VIOLETTES, 67330 DOSSENHEIM-SUR-ZINSEL",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1023053.310501474,
+        "Lambert ordonnée": 6864558.341292927,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.394094962976226,
+          48.66934897397214
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 94320813200010,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE NID DES CHOUETTES",
+        "Adresse": "4 RUE DE L'ARTISANAT, 67440 SOMMERAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1023402.79,
+        "Lambert ordonnée": 6850021.29,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.427664999999999,
+          48.83034399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564203601409,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE AGF",
+        "Adresse": "5 RUE D'INGWILLER, 67330 NEUWILLER-LES-SAVERNE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1024867.7542270182,
+        "Lambert ordonnée": 6868031.334118527,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.440981977847375,
+          48.87233796895238
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87931987900026,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ILE AUX DOUDOUS",
+        "Adresse": "121 RUE PRINCIPALE, 67340 WEINBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1025581.34,
+        "Lambert ordonnée": 6872748.32,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.394790999999999,
+          48.254472
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87884348100010,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES OUISTITIS A LA MONTAGNE",
+        "Adresse": "46 RUE DE LA LIBERTE, 67600 KINTZHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1026019.3659189504,
+        "Lambert ordonnée": 6803978.45252192,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.402708,
+          48.268493
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77881759300057,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA CAPUCINE",
+        "Adresse": "12 RUE DE RIBEAUVILLE, 67730 CHATENOIS",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1026519.2235573056,
+        "Lambert ordonnée": 6805567.065090803,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.439612999999998,
+          48.64389200000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81975716200022,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES APPRENTIS SAGES",
+        "Adresse": "7 RUE DES PAQUERETTES, 67310 WASSELONNE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1026908.4200304748,
+        "Lambert ordonnée": 6847382.956035435,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.444408999999999,
+          48.638066000000016
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 51206987300036,
+        "Type_etablissement": "Crèche",
+        "Nom": "ASSOCIATION LES P TITS LUTINS",
+        "Adresse": "84 RUE DU GENERAL DE GAULLE, 67310 WASSELONNE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1027297.6346685638,
+        "Lambert ordonnée": 6846756.146972481,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.444990952363275,
+          48.63818204447352
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 93014679000025,
+        "Type_etablissement": "Crèche",
+        "Nom": "NAMASTE MICROCRECHE",
+        "Adresse": "11 COUR DU CHATEAU, 67310 WASSELONNE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1027339.72,
+        "Lambert ordonnée": 6846771.44,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4513529999999975,
+          48.70214399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81975716200014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES APPRENTIS SAGES",
+        "Adresse": " PLACE DES TILLEULS, 67700 WOLSCHHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1027407.07859734,
+        "Lambert ordonnée": 6853897.632574112,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.466243999999999,
+          48.86368199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84532077900026,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA MAISON DE NINON",
+        "Adresse": "13 RUE DU COMMERCE, 67340 INGWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1027485.8147885248,
+        "Lambert ordonnée": 6871891.80609697,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.450674000000002,
+          48.63766700000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89035081200016,
+        "Type_etablissement": "Crèche",
+        "Nom": "BABY TREES",
+        "Adresse": "26 RUE DU GENERAL DE GAULLE, 67310 WASSELONNE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1027761.015846168,
+        "Lambert ordonnée": 6846737.845574297,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.428542,
+          48.32258900000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91449338200016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE SAPIN DES PETITS OURS",
+        "Adresse": "7 ROUTE DU VIN, 67650 DAMBACH-LA-VILLE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1028096.1268643192,
+        "Lambert ordonnée": 6811677.217829828,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.465316,
+          48.75511500000002
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82757689300024,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS AMOURS DES CHERUBINS",
+        "Adresse": "12 RUE DE L'ECOLE, 67490 DETTWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1028100.1256145022,
+        "Lambert ordonnée": 6859835.652370432,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4321850000000005,
+          48.30153699999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80179034600028,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA CABANE ENCHANTEE DE SCHERWILLER",
+        "Adresse": "17 RUE DES ROSSIGNOLS, 67750 SCHERWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1028497.00825471,
+        "Lambert ordonnée": 6809356.206544425,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.452816999999998,
+          48.535627
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 38974220600029,
+        "Type_etablissement": "Crèche",
+        "Nom": "MARIE LOUISE PIRE",
+        "Adresse": "2 RUE DU SPIESS, 67190 MUTZIG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1028558.016293121,
+        "Lambert ordonnée": 6835421.0611304,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.471845999999999,
+          48.754392
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82215638600010,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAM LES CHRYSALIDES",
+        "Adresse": "27 RUE DES VOSGES, 67490 DETTWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1028583.9708836046,
+        "Lambert ordonnée": 6859782.5473764,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.457875999999999,
+          48.537472
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81244950200267,
+        "Type_etablissement": "Crèche",
+        "Nom": "HAPILI MUTZIG",
+        "Adresse": "1 PLACE DE L’ABATTOIR, 67190 MUTZIG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1028919.333176354,
+        "Lambert ordonnée": 6835646.895508059,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4340709999999985,
+          48.25232299999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89918251300015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS KOLAMS",
+        "Adresse": "2 ALLEE THOMAS EDISON, 67600 SELESTAT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1028943.63445646,
+        "Lambert ordonnée": 6803902.889785246,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.476371,
+          48.741457
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82757689300016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS COEURS DES CHERUBINS",
+        "Adresse": "3 RUE DU STADE, 67490 LUPSTEIN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1028997.5904073636,
+        "Lambert ordonnée": 6858365.527525045,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4508930000000015,
+          48.406499999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79420326500036,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS BARR'BOUILLEURS",
+        "Adresse": "5 RUE DES JARDINS, 67140 BARR",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029224.847194094,
+        "Lambert ordonnée": 6821082.218747805,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.451856000000002,
+          48.40733199999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89218609900016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA CABANE DES CIGOGNEAUX",
+        "Adresse": "29  GRAND RUE, 67140 BARR",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029290.7919650606,
+        "Lambert ordonnée": 6821178.5671101,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.467824999999999,
+          48.572395
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80492955200011,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE LES PETITS HIBOUX",
+        "Adresse": "54 ROUTE DU VIN, 67310 DANGOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029433.0785401606,
+        "Lambert ordonnée": 6839564.436224254,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.441749999999999,
+          48.26083400000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80306181100011,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE TRAIN DES GALOPINS",
+        "Adresse": "5 RUE DES VOSGES, 67600 SELESTAT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029459.5227445804,
+        "Lambert ordonnée": 6804879.333993685,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.443564999999997,
+          48.266904
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 44886840601637,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE ATTITUDE",
+        "Adresse": "5 RUE DE BARR, 67600 SELESTAT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029556.06086557,
+        "Lambert ordonnée": 6805560.471444537,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.443118000000002,
+          48.256457
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80306181100029,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA ROUTE DES GALOPINS",
+        "Adresse": "21 ROUTE DE COLMAR, 67600 SELESTAT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029588.2431919453,
+        "Lambert ordonnée": 6804399.346516091,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.444121000000002,
+          48.262896000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79145032300104,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS GEANTS",
+        "Adresse": "10 RUE DE LA MANUFACTURE, 67600 SELESTAT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029622.3106596709,
+        "Lambert ordonnée": 6805118.040577633,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.456473000000002,
+          48.402845000000006
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82157579200014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE BARR",
+        "Adresse": "5 RUE DE LA GARE, 67140 BARR",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029660.0686734264,
+        "Lambert ordonnée": 6820699.879802716,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.465372999999996,
+          48.49561799999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82493635500083,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES ANGES DES VIOLETTES",
+        "Adresse": "39 RUE DU GENERAL DE GAULLE, 67560 ROSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029734.8694652026,
+        "Lambert ordonnée": 6831032.971701786,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4800949999999995,
+          48.667768
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80070545100022,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS LOUPS",
+        "Adresse": "39 RUE PRINCIPALE, 67310 RANGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029735.5810772844,
+        "Lambert ordonnée": 6850201.474625926,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.469995999999998,
+          48.530556000000004
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82248188300012,
+        "Type_etablissement": "Crèche",
+        "Nom": "PICCOLO",
+        "Adresse": "3 RUE MERCURE, 67190 MUTZIG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029856.1381446812,
+        "Lambert ordonnée": 6834929.867637524,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.478252,
+          48.62162000000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 92059808300011,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUDI'POTES",
+        "Adresse": "132 RUE DU GENERAL DE GAULLE, 67520 MARLENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029890.894247964,
+        "Lambert ordonnée": 6845071.543878642,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.448254,
+          48.260121000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95071738900056,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA FARANDOLE",
+        "Adresse": "5 RUE DU DOCTEUR BRONNER, 67600 SELESTAT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029945.8979722944,
+        "Lambert ordonnée": 6804827.372605841,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.449012,
+          48.262912
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89464498800012,
+        "Type_etablissement": "Crèche",
+        "Nom": "ADELA",
+        "Adresse": "9 ROUTE DE STRASBOURG, 67600 SELESTAT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1029984.5942841752,
+        "Lambert ordonnée": 6805140.24432355,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.451148,
+          48.261829
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88805037400014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES SENS DU JEU",
+        "Adresse": "4 ALLEE DU MAIRE KNOLL, 67600 SELESTAT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1030149.6357783638,
+        "Lambert ordonnée": 6805028.997517761,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.460264000000001,
+          48.360045
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 78902017900014,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE GAIA",
+        "Adresse": "8 RUE DE LA MONTAGNE, 67680 EPFIG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1030208.7795852585,
+        "Lambert ordonnée": 6815966.020384575,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.474709,
+          48.49693799999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90010861400018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE PETIT TERRIER",
+        "Adresse": "2 RUE DE BISCHOFFSHEIM, 67560 ROSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1030415.2161493544,
+        "Lambert ordonnée": 6831218.495354536,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.477795999999999,
+          48.52503499999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80369040300016,
+        "Type_etablissement": "Crèche",
+        "Nom": "MON MONDE A MOI",
+        "Adresse": "4 RUE DE L'ALTENBERG, 67120 DORLISHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1030465.895023286,
+        "Lambert ordonnée": 6834349.729728516,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.488393,
+          48.621112999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82289952200012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE P'TIT EMILE",
+        "Adresse": "68 RUE DU GENERAL DE GAULLE, 67520 MARLENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1030640.3303749058,
+        "Lambert ordonnée": 6845057.685668016,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.472259999999999,
+          48.386058000000006
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90517505500029,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES JARDINS D'ATHENA",
+        "Adresse": "32 RUE PRINCIPALE, 67140 SAINT-PIERRE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1030932.2635041918,
+        "Lambert ordonnée": 6818902.980447499,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.492836999999998,
+          48.621629999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 35212603100033,
+        "Type_etablissement": "Crèche",
+        "Nom": "HANSEL ET GRETEL",
+        "Adresse": "11 RUE DU LIN, 67520 MARLENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1030964.0787506618,
+        "Lambert ordonnée": 6845133.686412709,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.479197999999999,
+          48.461957999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80425054600012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS CRECHE ET GARDERIE",
+        "Adresse": "97 RUE DU GENERAL GOURAUD, 67210 OBERNAI",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1030966.7831707752,
+        "Lambert ordonnée": 6827355.174806496,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.480068974229395,
+          48.46228800900687
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 98880657600019,
+        "Type_etablissement": "Crèche",
+        "Nom": "BABYCHOU SERVICES",
+        "Adresse": "1 PLACE DE L'ETOILE, 67210 OBERNAI",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031028.99,
+        "Lambert ordonnée": 6827395.45,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.489872000000001,
+          48.56989599999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83284946700010,
+        "Type_etablissement": "Crèche",
+        "Nom": "AU FIL DES PAS",
+        "Adresse": "37 RUE DE MOLSHEIM, 67120 SOULTZ-LES-BAINS",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031072.7441043772,
+        "Lambert ordonnée": 6839379.283951881,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.487786999999998,
+          48.540595
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81755158300013,
+        "Type_etablissement": "Crèche",
+        "Nom": "A P'TITS PAS",
+        "Adresse": "1 RUE DE LA SOURCE, 67120 MOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031104.1931128318,
+        "Lambert ordonnée": 6836118.515493564,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.491842999999999,
+          48.536132
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 26670050900026,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE FAMILIALE MUNICIPALE",
+        "Adresse": "7 RUE HENRI MECK, 67120 MOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031431.325285922,
+        "Lambert ordonnée": 6835640.204148451,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.493819999999999,
+          48.54050600000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 39842019000033,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS OURS",
+        "Adresse": "6 RUE NOTRE-DAME, 67120 MOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031549.383920423,
+        "Lambert ordonnée": 6836133.952282462,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.494805,
+          48.54292599999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82289952200020,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE PTIT EMILE",
+        "Adresse": "31 RUE DE LA BOUCHERIE, 67120 MOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031606.672466904,
+        "Lambert ordonnée": 6836406.672706072,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.501590999999998,
+          48.61476999999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80070545100030,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES COCCINELLES",
+        "Adresse": "5 RUE DES PRES, 67520 MARLENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031651.6966378988,
+        "Lambert ordonnée": 6844409.01178983,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.514171000000001,
+          48.74998200000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79455629000029,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA RONDE DES PETITS PETONS",
+        "Adresse": "4 RUE DE LA CHAPELLE, 67270 WILWISHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031718.5860628613,
+        "Lambert ordonnée": 6859469.981912416,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.490422999999998,
+          48.46728899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 52857022902001,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS CHAPERONS ROUGES OBERNAI",
+        "Adresse": "1 RUE DE PULLY, 67210 OBERNAI",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031761.6214555504,
+        "Lambert ordonnée": 6827993.910535151,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.509605999999998,
+          48.679330000000014
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90070038600015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS PETONS",
+        "Adresse": "17 ROUTE DE HOCHFELDEN, 67370 WILLGOTTHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031831.8682737842,
+        "Lambert ordonnée": 6851608.449555177,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.489119999999999,
+          48.42971899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81327864500029,
+        "Type_etablissement": "Crèche",
+        "Nom": "LUCIOLES & CABRIOLES",
+        "Adresse": "422 ROUTE NATIONALE, 67210 GOXWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031902.7498850592,
+        "Lambert ordonnée": 6823819.012025261,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4955310000000015,
+          48.502787000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84510831500019,
+        "Type_etablissement": "Crèche",
+        "Nom": "MILLE ET UN PAS",
+        "Adresse": "4 RUE JEAN MARIE LEHN, 67560 ROSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1031914.0709238756,
+        "Lambert ordonnée": 6831954.95704578,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.514642,
+          48.708753
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95357589100023,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE HIBOU DES CHERUBINS",
+        "Adresse": "14 RUE PRINCIPALE, 67270 SAESSOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1032015.1014120508,
+        "Lambert ordonnée": 6854895.505103175,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.493866999999996,
+          48.46039199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82755130000011,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE LES CANAILLOUX",
+        "Adresse": "2 BOULEVARD DE L’EUROPE, 67210 OBERNAI",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1032059.4046821428,
+        "Lambert ordonnée": 6827242.967799577,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.530089995782661,
+          48.8473309783324
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81072743800030,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE REPERE DES BOUT'CHOU",
+        "Adresse": "1 RUE DES TILLEULS, 67330 OBERMODERN-ZUTZENDORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1032266.45,
+        "Lambert ordonnée": 6870343.33,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.505645,
+          48.53225100000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 47918275003216,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA RUCHE",
+        "Adresse": "24 ROUTE ECOSPACE, 67120 MOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1032473.2084508518,
+        "Lambert ordonnée": 6835267.497056816,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.502152999999998,
+          48.48306599999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95172155400024,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES BUBBELE DU PIEMONT",
+        "Adresse": "17 RUE DU STADE, 67870 BISCHOFFSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1032527.3807785348,
+        "Lambert ordonnée": 6829794.170326314,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.540007000000001,
+          48.909057
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90331960600021,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS NEKEL",
+        "Adresse": "24 RUE DE LA LIBERATION, 67340 OFFWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1032598.607477696,
+        "Lambert ordonnée": 6877237.523720898,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.503531999999997,
+          48.482491
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81099965600012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CIGOGNEAUX",
+        "Adresse": "21 RUE DU STADE, 67870 BISCHOFFSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1032632.766228894,
+        "Lambert ordonnée": 6829736.165373045,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.501665000000001,
+          48.45969399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670348800231,
+        "Type_etablissement": "Crèche",
+        "Nom": "MULTI ACCUEIL",
+        "Adresse": "18 RUE DES ERABLES, 67210 OBERNAI",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1032639.4091221684,
+        "Lambert ordonnée": 6827198.3267213935,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5108749999999995,
+          48.53262800000002
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 52857022900484,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS CHAPERONS ROUGES MOLSHEIM",
+        "Adresse": " RUE GASTON ROMAZZOTTI, 67120 MOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1032856.3195923896,
+        "Lambert ordonnée": 6835331.371469442,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.515004,
+          48.537353
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83331151700019,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE LES DOUX REVEURS",
+        "Adresse": " ROUTE INDUSTRIELLE DE LA HARDT, 67120 MOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1033130.648356609,
+        "Lambert ordonnée": 6835873.17918886,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.501388999999997,
+          48.30403900000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77881759300040,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MARCASSINS",
+        "Adresse": "3 PLACE DE LA MAIRIE, 67600 EBERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1033604.7917286528,
+        "Lambert ordonnée": 6809923.984894864,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.528867000000001,
+          48.57019900000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81329565600017,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS D'ERGERSHEIM",
+        "Adresse": "3 IMPASSE DU CHATEAU, 67120 ERGERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1033943.0740357502,
+        "Lambert ordonnée": 6839577.119321565,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.525870999999999,
+          48.522933
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81244950200044,
+        "Type_etablissement": "Crèche",
+        "Nom": "HAPILI",
+        "Adresse": "8 RUE DE LA CHAPELLE, 67120 ALTORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1034023.399048445,
+        "Lambert ordonnée": 6834318.725056322,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.517347999999997,
+          48.420576000000004
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80127084400096,
+        "Type_etablissement": "Crèche",
+        "Nom": "BIM BAM",
+        "Adresse": " RUE DU MOULIN, 67210 VALFF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1034045.6238040008,
+        "Lambert ordonnée": 6822923.40697534,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.531868028030992,
+          48.555153009118655
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 94522615700010,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE CALLIHOP",
+        "Adresse": "127 RUE D'ALTORF, 67120 DACHSTEIN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1034260.06,
+        "Lambert ordonnée": 6837919.95,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.533167031366188,
+          48.550899031123265
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 98373455900021,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE DACHSTEIN",
+        "Adresse": "153 RUE D'ALTORF, 67120 DACHSTEIN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1034382.9,
+        "Lambert ordonnée": 6837453.33,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.557594,
+          48.80662600000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87931987900018,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ILE AUX DOUDOUS",
+        "Adresse": " RUE DES 4 VENTS, 67350 RINGENDORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1034542.6326859304,
+        "Lambert ordonnée": 6865940.881573672,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.532686,
+          48.50207499999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82158791200014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS LOU",
+        "Adresse": "54 RUE DU CIMETIERE, 67870 GRIESHEIM-PRES-MOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1034658.8385235677,
+        "Lambert ordonnée": 6832032.763780871,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.559725999999999,
+          48.61075
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 98119649600013,
+        "Type_etablissement": "Crèche",
+        "Nom": "MES PREMIERS SIGNES",
+        "Adresse": "7 RUE DE LA MAIRIE, 67117 FURDENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1035955.8151202978,
+        "Lambert ordonnée": 6844208.595497731,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.567661999999997,
+          48.682445000000016
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80127084400112,
+        "Type_etablissement": "Crèche",
+        "Nom": "KIKERIKI",
+        "Adresse": "1 PLACE DE LA MAIRIE, 67270 DURNINGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1036079.0649962672,
+        "Lambert ordonnée": 6852199.73290019,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.563279999999999,
+          48.61697000000002
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 85332389700027,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE NID D'ABEILLES",
+        "Adresse": "6 RUE DU STADE, 67117 FURDENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1036177.4394326338,
+        "Lambert ordonnée": 6844914.056215925,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5690009999999965,
+          48.657510999999985
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 44153386600014,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE PARENTALE AU PAYS DES LUTINS",
+        "Adresse": "2 RUE DE LA GRANGE DIMIERE, 67370 SCHNERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1036337.7874313188,
+        "Lambert ordonnée": 6849437.986249653,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.536783999999998,
+          48.267016
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75341276600044,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE P'TIT HOME D'ALSACE",
+        "Adresse": "22 RUE DE WITTISHEIM, 67600 MUTTERSHOLTZ",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1036461.3827609934,
+        "Lambert ordonnée": 6805966.0321386,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.585123956361186,
+          48.807802003418466
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91198972100020,
+        "Type_etablissement": "Crèche",
+        "Nom": "AUX MILLE COULEURS",
+        "Adresse": "2 RUE GAERTEL, 67350 ETTENDORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1036553.57,
+        "Lambert ordonnée": 6866188.41,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.539525,
+          48.237331000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95071738900023,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA CLE DES CHAMPS",
+        "Adresse": "7 RUE PRINCIPALE, 67600 BALDENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1036854.005992381,
+        "Lambert ordonnée": 6802683.94740137,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590882999999998,
+          48.792445
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82408482600034,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS LOUPS D'ALTECKENDORF",
+        "Adresse": "10 RUE DU POMMIER, 67270 ALTECKENDORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1037075.034911213,
+        "Lambert ordonnée": 6864508.320502998,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592672000000003,
+          48.75707100000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88112213900010,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHAUDOUDOUX",
+        "Adresse": "33 RUE DES VOSGES, 67270 SCHWINDRATZHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1037434.8724005852,
+        "Lambert ordonnée": 6860589.482936186,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.548169999999996,
+          48.172386999999986
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82902559200017,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE LES CHERUBINS DU RIED",
+        "Adresse": "1 RUE DE L'ORTENBOURG, 67390 MARCKOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1037910.29980917,
+        "Lambert ordonnée": 6795515.135161056,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5590639999999985,
+          48.283950999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75341276600036,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE P'TIT HOME D'ALSACE",
+        "Adresse": "1 RUE DU CYGNE, 67600 HILSENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038003.2892087236,
+        "Lambert ordonnée": 6807940.267188012,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.569884000000003,
+          48.37932499999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80127084400120,
+        "Type_etablissement": "Crèche",
+        "Nom": "KLIPP KLAPP",
+        "Adresse": "4 RUE DU SOLEIL, 67230 KERTZFELD",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038191.4197084708,
+        "Lambert ordonnée": 6818569.453803501,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.553385999999999,
+          48.163649
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90325285600013,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'OCEAN DES CHERUBINS",
+        "Adresse": "5 AVENUE DE L EUROPE, 67390 MARCKOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038353.3649379428,
+        "Lambert ordonnée": 6794567.9908741545,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.554272000000001,
+          48.166553
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90468317400018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS LOUPS",
+        "Adresse": "18 AVENUE DE L EUROPE, 67390 MARCKOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038400.525080289,
+        "Lambert ordonnée": 6794893.9847662775,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6065380000000005,
+          48.75784699999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82963894900018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES JARDI'POTES",
+        "Adresse": "9 RUE DU TOURNESOL, 67270 SCHWINDRATZHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038447.4565902874,
+        "Lambert ordonnée": 6860734.959645169,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.588341999999998,
+          48.53938199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83404127900029,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MANNELES",
+        "Adresse": "2 RUE DE L’ARTISANAT, 67120 DUPPIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038522.6058443832,
+        "Lambert ordonnée": 6836410.264078328,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.595712999999998,
+          48.603273
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 53780534300010,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE LE CARROUSEL AUX 1001 COULEURS",
+        "Adresse": "6 RUE LOUIS PASTEUR, 67117 ITTENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038652.6677234028,
+        "Lambert ordonnée": 6843532.491250961,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599213,
+          48.64150999999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79455629000011,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA RONDE DES PETITS PETONS",
+        "Adresse": "23 ALLEE DE L’ECONOMIE, 67370 WIWERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038662.8306723948,
+        "Lambert ordonnée": 6847791.203111599,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.599376999999996,
+          48.642956
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82944946100013,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE NID DE CIGOGNES",
+        "Adresse": "3 ALLEE DE L’ECONOMIE, 67370 WIWERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038665.5346579908,
+        "Lambert ordonnée": 6847952.391996126,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5965240000000005,
+          48.60304000000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82161751100018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS D'ITTENHEIM",
+        "Adresse": "16 ROUTE DE PARIS, 67117 ITTENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038713.8688336208,
+        "Lambert ordonnée": 6843510.110843671,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.618147999999997,
+          48.844042
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82408482600026,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS LOUPS",
+        "Adresse": "3 RUE DU RAIL, 67350 NIEDERMODERN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038739.281643572,
+        "Lambert ordonnée": 6870352.377812168,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.591952999999997,
+          48.535151
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81244950200135,
+        "Type_etablissement": "Crèche",
+        "Nom": "HAPILI DUPPIGHEIM",
+        "Adresse": "10 RUE DES SAPINS, 67120 DUPPIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1038816.057470672,
+        "Lambert ordonnée": 6835956.207661442,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.60001300183868,
+          48.58083404408428
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90808798400021,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUTINS DES CHATEAUX",
+        "Adresse": "1 RUE ALBERT SCHWEITZER, 67112 BREUSCHWICKERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1039114.41,
+        "Lambert ordonnée": 6841060.64,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.584603999999994,
+          48.373715000000004
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89504153100016,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ATELIER DU NIDO",
+        "Adresse": "25 AVENUE DE LA GARE, 67230 BENFELD",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1039315.7254955972,
+        "Lambert ordonnée": 6818010.09368239,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.622427999999998,
+          48.786744999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 92278399800011,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAISON D'ASSISTANTES MATERNELLES LA BEL'ESCALE",
+        "Adresse": "20 RUE HAUTE, 67270 MINVERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1039425.5964523214,
+        "Lambert ordonnée": 6864010.753772053,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6337119999999965,
+          48.907288999999984
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82187314800018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITES POMMES",
+        "Adresse": "3 RUE DE LA FORET, 67110 GUMBRECHTSHOFFEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1039467.1167498383,
+        "Lambert ordonnée": 6877440.024561599,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.592202999999998,
+          48.370933999999984
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90296647200018,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE LA SAVANE",
+        "Adresse": "3 RUE DU GENERAL LECLERC, 67230 BENFELD",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1039895.475727547,
+        "Lambert ordonnée": 6817734.18758833,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.604779999999998,
+          48.50457199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88407501100012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS PANDAS",
+        "Adresse": "14 RUE DU MARECHAL FOCH, 67113 BLAESHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1039959.5419673248,
+        "Lambert ordonnée": 6832617.839161125,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.585627999999998,
+          48.267515
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75341276600051,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE P'TIT HOME D'ALSACE",
+        "Adresse": "4 RUE DE LA GARE, 67820 WITTISHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1040076.5285727351,
+        "Lambert ordonnée": 6806230.64338996,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.608071994588774,
+          48.50637904338729
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88407501100020,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES KOALAS",
+        "Adresse": "14 RUE DU MARECHAL FOCH, 67113 BLAESHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1040190.59,
+        "Lambert ordonnée": 6832832.55,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649811999999995,
+          48.947589
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 49097180100033,
+        "Type_etablissement": "Crèche",
+        "Nom": "AU JARDIN D'ALBIN",
+        "Adresse": "40 AVENUE FOCH, 67110 NIEDERBRONN-LES-BAINS",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1040381.5025518764,
+        "Lambert ordonnée": 6881983.0410003895,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647923,
+          48.90484899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95141794800019,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE LE PARADIS DES DOUDOUS",
+        "Adresse": "8 RUE DES HIRONDELLES, 67110 GUNDERSHOFFEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1040522.9798006136,
+        "Lambert ordonnée": 6877230.354456228,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.623874999999998,
+          48.62751000000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79408859100035,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA JOYEUSE TRIBU",
+        "Adresse": "1 RUE DU MOULIN, 67370 STUTZHEIM-OFFENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1040567.8344835448,
+        "Lambert ordonnée": 6846343.496175349,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.603841,
+          48.37404000000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83032171700027,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE LA LUCIOLE",
+        "Adresse": "19 RUE D'OBERNAI, 67230 BENFELD",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1040735.7791147276,
+        "Lambert ordonnée": 6818128.994339962,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639387969331905,
+          48.76121699564356
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 93965694800014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITES LOUTRES",
+        "Adresse": "30 RUE DE LA LIBERTE, 67670 MOMMENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1040836.21,
+        "Lambert ordonnée": 6861250.31,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.645799000000003,
+          48.80061200000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90983620700011,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES JEUNES POUSSES",
+        "Adresse": "8 RUE DE DAUCHINGEN, 67270 HUTTENDORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041049.0933664468,
+        "Lambert ordonnée": 6865650.656263825,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64235,
+          48.758745
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 92360942400018,
+        "Type_etablissement": "Crèche",
+        "Nom": "1,2,3 SOLEIL",
+        "Adresse": "27 RUE DE LA REPUBLIQUE, 67670 MOMMENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041069.7168062284,
+        "Lambert ordonnée": 6860988.724274713,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642134999999996,
+          48.75619
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82068687100014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE MOMMENHEIM",
+        "Adresse": "2 RUE DE LA GARE, 67670 MOMMENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041070.6302325624,
+        "Lambert ordonnée": 6860704.208056304,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6424840000000005,
+          48.756667
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 85049724900019,
+        "Type_etablissement": "Crèche",
+        "Nom": "AU PAYS DES MERVEILLES",
+        "Adresse": "40 RUE DU GENERAL LECLERC, 67670 MOMMENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041093.1263478042,
+        "Lambert ordonnée": 6860758.65926871,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658470999999998,
+          48.931042000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91848597000019,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITES CIGOGNES",
+        "Adresse": "36 RUE DU GENERAL KOENIG, 67110 REICHSHOFFEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041123.1294953246,
+        "Lambert ordonnée": 6880183.520187271,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.658295999999999,
+          48.925573
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91876097600012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE NID'ANGES",
+        "Adresse": "10 RUE DES FORGES, 67110 REICHSHOFFEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041146.1869173156,
+        "Lambert ordonnée": 6879575.656872908,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.629936000000001,
+          48.580435
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83265334900031,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS PRODIGES",
+        "Adresse": "45 RUE BOURGEND, 67204 ACHENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041320.4220704236,
+        "Lambert ordonnée": 6841145.280650259,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.605469999999999,
+          48.24878799999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75341276600077,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE P'TIT HOME D'ALSACE",
+        "Adresse": "24 RUE DU TRAMWAY, 67920 SUNDHOUSE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041667.6986394472,
+        "Lambert ordonnée": 6804238.478077859,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6663079417668305,
+          48.89984397391703
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 98847696600011,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA CABANE DES DOUDOUS",
+        "Adresse": "36 RUE DES MINIERES, 67110 GUNDERSHOFFEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041901.23,
+        "Lambert ordonnée": 6876754.21,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.666307999999997,
+          48.89984400000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82404542100222,
+        "Type_etablissement": "Crèche",
+        "Nom": "INFANS GUNDERSHOFFEN",
+        "Adresse": "36 RUE DES MINIERES, 67110 GUNDERSHOFFEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041901.234090486,
+        "Lambert ordonnée": 6876754.213147493,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649456000000001,
+          48.70019500000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79755683400050,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE DE L'EVEIL",
+        "Adresse": "1 RUE DE MITTELHAUSEN, 67170 MITTELSCHAEFFOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1041974.2699228711,
+        "Lambert ordonnée": 6854520.983249789,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.639587000000001,
+          48.558482000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81169815800011,
+        "Type_etablissement": "Crèche",
+        "Nom": "BABY'BULLES",
+        "Adresse": "25 RUE DE L'ANGLE, 67810 HOLTZHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042174.3904770432,
+        "Lambert ordonnée": 6838750.787770417,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.640562964026344,
+          48.556861023526864
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83778344800025,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ILL DES ENFANTS",
+        "Adresse": "17 RUE DE L'ECOLE, 67810 HOLTZHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042256.87,
+        "Lambert ordonnée": 6838575.13,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.654380999999999,
+          48.701814
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88364555800015,
+        "Type_etablissement": "Crèche",
+        "Nom": "BRINS D'EVEIL",
+        "Adresse": "7 RUE PRINCIPALE, 67170 MITTELSCHAEFFOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042325.4876271482,
+        "Lambert ordonnée": 6854722.011535008,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.660017,
+          48.752906999999986
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90468704300011,
+        "Type_etablissement": "Crèche",
+        "Nom": "GRAINE DE MALICE",
+        "Adresse": "4 RUE DE ROME, 67670 MOMMENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042404.4774069118,
+        "Lambert ordonnée": 6860417.211381416,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.642908000000002,
+          48.558681
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82493635500034,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES ANGES DE HOLTZHEIM",
+        "Adresse": "21 RUE DU LIEUTENANT LESPAGNOL, 67810 HOLTZHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042417.7354597732,
+        "Lambert ordonnée": 6838787.268020871,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647470040038867,
+          48.58577004142522
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 94458628800010,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ILE DES ENFANTS",
+        "Adresse": "63 RUE DU GENERAL DE GAULLE, 67203 OBERSCHAEFFOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042576.66,
+        "Lambert ordonnée": 6841813.28,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649240990694821,
+          48.589499970853446
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 93958107000025,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'AMIRAL DES CHERUBINS",
+        "Adresse": "17 RUE DES PEUPLIERS, 67203 OBERSCHAEFFOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042682.65,
+        "Lambert ordonnée": 6842234.9,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.657176999999999,
+          48.6781
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84521361000015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA BULLE DES PETITS OURS",
+        "Adresse": "9 RUE DE LA CANARDIERE, 67370 BERSTETT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042686.3017771676,
+        "Lambert ordonnée": 6852102.226492345,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.647206052592004,
+          48.53838401398767
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79482166000022,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS AVIATEURS",
+        "Adresse": "3 ALLEE DES FORGERONS, 67960 ENTZHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042867.07,
+        "Lambert ordonnée": 6836553.49,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6385070000000015,
+          48.421956
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79845122500014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES BOUTS EN TRAIN",
+        "Adresse": "4 RUE DE L'EXPANSION, 67150 ERSTEIN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042985.824264248,
+        "Lambert ordonnée": 6823595.957168564,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.653104000000003,
+          48.58656300000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88833678100016,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ETOILE DES CHERUBINS",
+        "Adresse": "19 RUE DU GENERAL DE GAULLE, 67203 OBERSCHAEFFOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042986.2811257005,
+        "Lambert ordonnée": 6841925.737168809,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.64728499591145,
+          48.520010016574524
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564203601573,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS CHOUX AGF",
+        "Adresse": "17 RUE DES ARTISANS, 67118 GEISPOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1042993.03,
+        "Lambert ordonnée": 6834514.84,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.649522,
+          48.53846300000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80487904700012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS D'ENTZHEIM",
+        "Adresse": "14 RUE DU CORDONNIER, 67960 ENTZHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1043037.2245171288,
+        "Lambert ordonnée": 6836572.313957455,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.679274999999999,
+          48.863325
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 44781860001067,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE TIPI DES PETITS",
+        "Adresse": "8 PLACE DE LA LIBERTE, 67580 MERTZWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1043090.719098975,
+        "Lambert ordonnée": 6872756.742687074,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.643509,
+          48.45679799999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90489277500019,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE VOYAGE DU KOALA",
+        "Adresse": "10 RUE DU VIN, 67150 LIMERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1043127.6406348834,
+        "Lambert ordonnée": 6827483.909102801,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.679717999999999,
+          48.839668
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 85261004700015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE NEUBOURG",
+        "Adresse": "2 RUE DE LA GARE, 67350 DAUENDORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1043278.9696814034,
+        "Lambert ordonnée": 6870132.757547541,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.655636999999998,
+          48.545429
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79482166000014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE MONDE DES LUTINS",
+        "Adresse": "1C RUE PEGASE, 67960 ENTZHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1043442.2297976108,
+        "Lambert ordonnée": 6837371.928400086,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.66082,
+          48.586580999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75163456900014,
+        "Type_etablissement": "Crèche",
+        "Nom": "COCCI'BULLES",
+        "Adresse": "2 ALLEE DES ROMAINS, 67202 WOLFISHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1043554.2592369644,
+        "Lambert ordonnée": 6841961.278184251,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6786509999999994,
+          48.748783
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79755683400043,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MICRO-CRECHES DE L'EVEIL",
+        "Adresse": "7 RUE D’OSLO, 67170 BERNOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1043799.2024648824,
+        "Lambert ordonnée": 6860040.454519801,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.670015000000002,
+          48.63218700000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81285506200046,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE 1,2,3 SOLEIL",
+        "Adresse": "24 RUE LE CORBUSIER, 67370 DINGSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1043931.5623557068,
+        "Lambert ordonnée": 6847062.539364631,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6689549999999995,
+          48.59059800000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81114185200038,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE PETIT A PETON",
+        "Adresse": "4 RUE CHARLES ADOLPHE WURTZ, 67202 WOLFISHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1044126.8111959996,
+        "Lambert ordonnée": 6842442.490478297,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.673337,
+          48.629746999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84331152300016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS PAS DE DINGSHEIM",
+        "Adresse": "26 RUE DE MITTELHAUSBERGEN, 67370 DINGSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1044191.9764623533,
+        "Lambert ordonnée": 6846806.225971279,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6705919999999965,
+          48.584559000000006
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83087888000012,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ARCHE A BOUTCHOU",
+        "Adresse": "21 RUE DE LA MAIRIE, 67202 WOLFISHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1044287.0130616516,
+        "Lambert ordonnée": 6841779.448305493,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.685079981764324,
+          48.73715496140985
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79755683400076,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MICRO-CRECHES DE L'EVEIL (MCE)",
+        "Adresse": "3 RUE DES BERGERS, 67170 KRAUTWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1044347.73,
+        "Lambert ordonnée": 6858777.89,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.675648999999999,
+          48.630807000000004
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79951712300011,
+        "Type_etablissement": "Crèche",
+        "Nom": "CHOU A LA CRECHE",
+        "Adresse": "29 RUE DE FIRMINY, 67370 DINGSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1044355.082735754,
+        "Lambert ordonnée": 6846933.943426353,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.688892000000001,
+          48.756948000000015
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79755683400035,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MICRO-CRECHES DE L'EVEIL",
+        "Adresse": "44 RUE PRINCIPALE, 67170 BERNOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1044496.9774254533,
+        "Lambert ordonnée": 6860991.316075602,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6671539999999965,
+          48.48990499999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83483584500019,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA GRANGE DES CHERUBINS",
+        "Adresse": "8 RUE DE L'ANDLAU, 67640 LIPSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1044655.4430933476,
+        "Lambert ordonnée": 6831260.640737664,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.678837999999997,
+          48.607878
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400474,
+        "Type_etablissement": "Crèche",
+        "Nom": "ESPACE TOUT PETIT",
+        "Adresse": "37 RUE DES VIGNES, 67205 OBERHAUSBERGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1044740.627336903,
+        "Lambert ordonnée": 6844403.260485965,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.692575999999999,
+          48.74401
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79755683400027,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MICRO-CRECHES DE L'EVEIL",
+        "Adresse": "6 RUE DES FRERES LUMIERE, 67170 BRUMATH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1044852.7626614096,
+        "Lambert ordonnée": 6859571.42816442,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.678782999999999,
+          48.5864
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91753224400014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE ROYAUME A BOUTCHOU",
+        "Adresse": "23 RUE DU MAGNOLIA, 67201 ECKBOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1044877.9766821756,
+        "Lambert ordonnée": 6842019.496702992,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.694928999999999,
+          48.74324699999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79755683400068,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MICRO-CRECHES DE L'EVEIL",
+        "Adresse": "7 RUE DES GRAVIERES, 67170 BRUMATH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045030.5195604292,
+        "Lambert ordonnée": 6859497.023566429,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.686994020583033,
+          48.647797988992785
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564203601540,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES ALISIERS",
+        "Adresse": "4 RUE DES ALISIERS, 67450 LAMPERTHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045077.59,
+        "Lambert ordonnée": 6848869.11,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6816039320966265,
+          48.583247983354894
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75163456900022,
+        "Type_etablissement": "Crèche",
+        "Nom": "MILLE ET UNE BULLES",
+        "Adresse": "2 IMPASSE DES HORTICULTEURS, 67201 ECKBOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045106.43,
+        "Lambert ordonnée": 6841682.03,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.681001000000001,
+          48.556557000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670267000144,
+        "Type_etablissement": "Crèche",
+        "Nom": "MULTI ACCUEIL LES PETITS JARDINS",
+        "Adresse": "104 RUE DU MARECHAL FOCH, 67380 LINGOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045237.8318929072,
+        "Lambert ordonnée": 6838717.43053062,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.678348000000001,
+          48.522525
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91498193100019,
+        "Type_etablissement": "Crèche",
+        "Nom": "BABY'S HOME LE COLIBRI",
+        "Adresse": "13 RUE ALFRED KLEM, 67118 GEISPOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045266.4073632238,
+        "Lambert ordonnée": 6834929.303873701,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.68625602888034,
+          48.605231985913484
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95172155400040,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES BUBBELE D'OBER",
+        "Adresse": "65 ROUTE DE SAVERNE, 67205 OBERHAUSBERGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045304.0,
+        "Lambert ordonnée": 6844142.03,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.686137999999998,
+          48.603199999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79408859100027,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA JOYEUSE TRIBU D'OBER",
+        "Adresse": "3 RUE D'ENTZHEIM, 67205 OBERHAUSBERGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045308.7116671688,
+        "Lambert ordonnée": 6843916.013921246,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.686959,
+          48.605715
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83278540600014,
+        "Type_etablissement": "Crèche",
+        "Nom": "M.A.M. D'KINDERKUTSCH",
+        "Adresse": "37 RUE DES VIGNES, 67205 OBERHAUSBERGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045352.5517493788,
+        "Lambert ordonnée": 6844198.706916384,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.698646,
+          48.735710999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81006461800046,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA COURTE ECHELLE",
+        "Adresse": "4 RUE DE LA SCIERIE, 67170 BRUMATH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045353.1880941069,
+        "Lambert ordonnée": 6858676.875496147,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.680341,
+          48.521355
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564203600112,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAISON DE L ENFANT AGF",
+        "Adresse": " RUE DE PARIS, 67118 GEISPOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045421.0249573352,
+        "Lambert ordonnée": 6834808.187331824,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.688259999999997,
+          48.604105000000004
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83116123700019,
+        "Type_etablissement": "Crèche",
+        "Nom": "IL ETAIT UNE FOIS CHEZ NOUS - IEUFCN",
+        "Adresse": "3 RUE NEUVE, 67205 OBERHAUSBERGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045458.9223015176,
+        "Lambert ordonnée": 6844025.727987466,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.684715,
+          48.55792900000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 44886840601348,
+        "Type_etablissement": "Crèche",
+        "Nom": "SCHNIPP-SCHNAPP",
+        "Adresse": "65 RUE DU MARECHAL FOCH, 67380 LINGOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045502.3856825968,
+        "Lambert ordonnée": 6838885.92748165,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6868810000000005,
+          48.579886
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 85253395900015,
+        "Type_etablissement": "Crèche",
+        "Nom": "AU BONHEUR DES CHERUBINS",
+        "Adresse": "4 RUE DU GENERAL LECLERC, 67201 ECKBOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045517.1457006092,
+        "Lambert ordonnée": 6841332.016976163,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6854169999999975,
+          48.55789599999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87973700500014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE LINGOLSHEIM",
+        "Adresse": "59 RUE DU MARECHAL FOCH, 67380 LINGOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045554.3156584784,
+        "Lambert ordonnée": 6838885.337287228,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6903219999999965,
+          48.604987
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91986264900010,
+        "Type_etablissement": "Crèche",
+        "Nom": "UN DEUX TROIS LILAS",
+        "Adresse": "6 RUE DES LILAS, 67205 OBERHAUSBERGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045604.863197104,
+        "Lambert ordonnée": 6844132.630971351,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6804679999999985,
+          48.490270999999986
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670137500083,
+        "Type_etablissement": "Crèche",
+        "Nom": "MULTI-ACCUEIL LA MARELLE",
+        "Adresse": "5 RUE AUGUSTE EHRHARD, 67640 FEGERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045635.0821230774,
+        "Lambert ordonnée": 6831359.449846387,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.680751999999999,
+          48.49187500000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89503942800019,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS OURSONS",
+        "Adresse": "47 RUE DE LYON, 67640 FEGERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045645.466669535,
+        "Lambert ordonnée": 6831538.681706178,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.691854999999999,
+          48.61182199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 53287164700014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE JARDIN DES CHERUBINS",
+        "Adresse": "10 RUE AUGUSTE RODIN, 67206 MITTELHAUSBERGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045672.5657237668,
+        "Lambert ordonnée": 6844897.856239367,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6962660191765595,
+          48.651694960219025
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564203601557,
+        "Type_etablissement": "Crèche",
+        "Nom": "BIDIBULE",
+        "Adresse": "1 PLACE DU GENERAL DE GAULLE, 67450 LAMPERTHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045733.68,
+        "Lambert ordonnée": 6849342.15,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.704591999999997,
+          48.73645
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90928563700015,
+        "Type_etablissement": "Crèche",
+        "Nom": "COUCOU P'TITS BOUTS",
+        "Adresse": "40 RUE DES TUILES, 67170 BRUMATH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045784.8131313096,
+        "Lambert ordonnée": 6858784.916174438,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.692992999999999,
+          48.58223399999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81770083400028,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUTINS DES ROMAINS",
+        "Adresse": "240 ROUTE DES ROMAINS, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1045951.6880213402,
+        "Lambert ordonnée": 6841619.342135282,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.694596000000001,
+          48.587035
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400342,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAISON DE L'ENFANCE DES POTERIES",
+        "Adresse": "10 RUE JEAN-GEOFFROY CONRATH, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046038.0035574108,
+        "Lambert ordonnée": 6842159.146199874,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.692365999999997,
+          48.562033
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670267000193,
+        "Type_etablissement": "Crèche",
+        "Nom": "MULTI ACCUEIL  MIESELE : LES PETITES SOURIS",
+        "Adresse": " RUE DE LA BIBLIOTHEQUE, 67380 LINGOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046038.8951410616,
+        "Lambert ordonnée": 6839374.85543273,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.708058,
+          48.73232200000002
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88519269000026,
+        "Type_etablissement": "Crèche",
+        "Nom": "IL ETAIT UNE FOIS",
+        "Adresse": "51 RUE DES REMPARTS, 67170 BRUMATH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046066.6093361718,
+        "Lambert ordonnée": 6858341.951716455,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.701539,
+          48.649003
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81244950200101,
+        "Type_etablissement": "Crèche",
+        "Nom": "HAPILI LAMPERTHEIM",
+        "Adresse": "18 RUE DE MUNDOLSHEIM, 67450 LAMPERTHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046139.2211454333,
+        "Lambert ordonnée": 6849066.501825643,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.708948999999999,
+          48.730796
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81006461800020,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAISON DE L'ENFANCE",
+        "Adresse": "11 RUE JACQUES KABLE, 67170 BRUMATH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046142.1368117352,
+        "Lambert ordonnée": 6858176.493747699,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.703319000000001,
+          48.667
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84358388100019,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE VENDENHEIM",
+        "Adresse": "21 RUE ALBERT JACQUARD, 67550 VENDENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046151.0072496132,
+        "Lambert ordonnée": 6851071.589094578,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.709601934106068,
+          48.7327870226791
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 98417409400032,
+        "Type_etablissement": "Crèche",
+        "Nom": "PETITES ETOILES FILANTES",
+        "Adresse": "16 RUE DU GENERAL DE GAULLE, 67170 BRUMATH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046176.88,
+        "Lambert ordonnée": 6858400.33,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.717390999999998,
+          48.816399999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88378365600019,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PTITS LOUPS",
+        "Adresse": "6 RUE MARANO, 67590 SCHWEIGHOUSE-SUR-MODER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046193.6574071734,
+        "Lambert ordonnée": 6867714.590742902,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.698417999999999,
+          48.593241
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87760689700032,
+        "Type_etablissement": "Crèche",
+        "Nom": "WEEKEND & KID 3",
+        "Adresse": "15 AVENUE CERVANTES, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046278.3629687284,
+        "Lambert ordonnée": 6842864.599677448,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.699310999999996,
+          48.591577999999984
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400086,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE HAUTEPIERRE",
+        "Adresse": "19 RUE GIOBERTI, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046355.0963331131,
+        "Lambert ordonnée": 6842683.968110246,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.691143999999998,
+          48.49249399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83032171700035,
+        "Type_etablissement": "Crèche",
+        "Nom": "SUR MON NUAGE",
+        "Adresse": "7 RUE LOUIS PASTEUR, 67640 FEGERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046407.8660065988,
+        "Lambert ordonnée": 6831652.908627812,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.700695999999997,
+          48.59627100000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 52524288900075,
+        "Type_etablissement": "Crèche",
+        "Nom": "AUTEUIL PETITE ENFANCE",
+        "Adresse": "6 ALLEE CHARLES PERRAULT, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046426.0148380684,
+        "Lambert ordonnée": 6843210.840344726,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.698149999999998,
+          48.55857399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 85126716100012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUTINS DE LINGO",
+        "Adresse": "3 RUE OLYMPE DE GOUGES, 67380 LINGOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046487.7987809576,
+        "Lambert ordonnée": 6839016.372525461,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.700981999999999,
+          48.581392
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77885938900026,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE LILIANE OEHLER",
+        "Adresse": "45 RUE VIRGILE, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046545.4843011769,
+        "Lambert ordonnée": 6841560.935111891,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.70315,
+          48.603378000000006
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400573,
+        "Type_etablissement": "Crèche",
+        "Nom": "MULTI ACCUEIL OBERHAUSBERGEN",
+        "Adresse": "1 ALLEE SAINT-SAUVEUR-LE-VICOMTE, 67205 OBERHAUSBERGEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046559.6214959174,
+        "Lambert ordonnée": 6844010.296842056,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7002510000000015,
+          48.548894
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82493635500091,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES ANGES DE OSTWALD",
+        "Adresse": "62 RUE DE LINGOLSHEIM, 67540 OSTWALD",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046706.5807455556,
+        "Lambert ordonnée": 6837951.409819418,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.703534000000001,
+          48.579173
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79208376800012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE BATEAU DE PAPIER",
+        "Adresse": "13 RUE CESAR JULIEN, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046748.0747477048,
+        "Lambert ordonnée": 6841325.892388581,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.703853999999999,
+          48.579255999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79497597900012,
+        "Type_etablissement": "Crèche",
+        "Nom": "PETIT BOURGEON",
+        "Adresse": "12 RUE CESAR JULIEN, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046771.0881443302,
+        "Lambert ordonnée": 6841336.5082795285,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.712097999999998,
+          48.66699299999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79145032300054,
+        "Type_etablissement": "Crèche",
+        "Nom": "PREMIERS PAS",
+        "Adresse": "22 RUE CHARLES GOUNOD, 67550 VENDENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046796.3968667616,
+        "Lambert ordonnée": 6851109.332980094,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.707275000000002,
+          48.613119000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79145032300021,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITES ETOILES",
+        "Adresse": "10 RUE DE LA HAYE, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046798.7001599896,
+        "Lambert ordonnée": 6845109.404343593,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.706341000000001,
+          48.58727199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 47918275001202,
+        "Type_etablissement": "Crèche",
+        "Nom": "SAUTE MOUTON",
+        "Adresse": "23 RUE JACOBI-NETTER, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046901.1323184673,
+        "Lambert ordonnée": 6842236.981081138,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7072449999999995,
+          48.596700999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91265467000021,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE LE JARDIN D'ALICE",
+        "Adresse": "10 RUE DE SCHNERSHEIM, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046905.2353418712,
+        "Lambert ordonnée": 6843287.310517222,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.707240999999998,
+          48.592727000000004
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 26670057400293,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE HAUTEPIERRE",
+        "Adresse": "1 AVENUE MOLIERE, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046931.262000576,
+        "Lambert ordonnée": 6842846.288145859,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.706959,
+          48.582785
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81404292500010,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE KOENIGSHOFFEN",
+        "Adresse": "39 RUE DE L'ENGELBREIT, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1046976.3475521829,
+        "Lambert ordonnée": 6841741.766410328,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.710420999999998,
+          48.612748999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81244950200077,
+        "Type_etablissement": "Crèche",
+        "Nom": "HAPILI",
+        "Adresse": "2 RUE DE DUBLIN, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047032.652586524,
+        "Lambert ordonnée": 6845082.165661848,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7084649999999995,
+          48.590941
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87760689700016,
+        "Type_etablissement": "Crèche",
+        "Nom": "WEEKEND & KID",
+        "Adresse": "45 BOULEVARD LA FONTAINE, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047033.1981493656,
+        "Lambert ordonnée": 6842653.470365465,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.699403999999999,
+          48.486296999999986
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87838173000018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE JARDIN DES MERVEILLES",
+        "Adresse": "9 RUE CAMILLE CLAUDEL, 67640 FEGERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047058.0620594964,
+        "Lambert ordonnée": 6831001.53429419,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.710317999999997,
+          48.591681
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564203600971,
+        "Type_etablissement": "Crèche",
+        "Nom": "3 BRIGANDS",
+        "Adresse": "2 ALLEE MARGUERITE THIEBOLD, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047164.7054060776,
+        "Lambert ordonnée": 6842743.734986461,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.717551,
+          48.666743999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87883402700012,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ILE AUX ENFANTS",
+        "Adresse": "13 RUE DE LA GARE, 67550 VENDENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047198.8970323332,
+        "Lambert ordonnée": 6851105.662335021,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.742875999999997,
+          48.938458999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84042885800038,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE JARDIN MAGIQUE",
+        "Adresse": "2 RUE D’ELSASSHAUSEN, 67360 WŒRTH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047246.9253164568,
+        "Lambert ordonnée": 6881374.759728213,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.709293999999998,
+          48.55545899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 26670065700031,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CROCOD'ILL",
+        "Adresse": "3 RUE ALBERT GERIG, 67540 OSTWALD",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047329.3334756946,
+        "Lambert ordonnée": 6838719.662104683,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.689250999999999,
+          48.330875999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 49097180100074,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUCIOLES",
+        "Adresse": "11 RUE DE DAUBENSAND, 67860 BOOFZHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047334.4544898324,
+        "Lambert ordonnée": 6813711.788449979,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739588978731261,
+          48.87664399893988
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81946654100029,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES BEBES D'ESCHBACH",
+        "Adresse": "15 RUE DES VERGERS, 67360 ESCHBACH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047418.9,
+        "Lambert ordonnée": 6874498.85,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.709658,
+          48.543241
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 47918275004271,
+        "Type_etablissement": "Crèche",
+        "Nom": "GINKGO",
+        "Adresse": "1 PLACE DU GENERAL DE GAULLE, 67540 OSTWALD",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047437.1104057006,
+        "Lambert ordonnée": 6837365.453344816,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.712599000000001,
+          48.57169899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79420326500010,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE PETIT BOIS CAROTTE",
+        "Adresse": "114 ROUTE DE SCHIRMECK, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047465.1187511856,
+        "Lambert ordonnée": 6840536.345623183,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.710147999999998,
+          48.54411900000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87973700500022,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS D'OSTWALD",
+        "Adresse": "7 RUE DU GENERAL LECLERC, 67540 OSTWALD",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047467.3967850416,
+        "Lambert ordonnée": 6837465.039104445,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.715092000000001,
+          48.597676000000014
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83265334900023,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS PRODIGES",
+        "Adresse": "144 ROUTE DE MITTELHAUSBERGEN, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047476.372600336,
+        "Lambert ordonnée": 6843430.011169899,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.715883,
+          48.596473
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82192412300028,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LOUPIOTS",
+        "Adresse": "135 ROUTE DE MITTELHAUSBERGEN, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047542.5781228936,
+        "Lambert ordonnée": 6843299.992949801,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.714414999999996,
+          48.578650999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 38471777300046,
+        "Type_etablissement": "Crèche",
+        "Nom": "JARDIN D ENFANTS RUDOLF STEINER",
+        "Adresse": "3 RUE DU SCHNOKELOCH, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047552.7406168762,
+        "Lambert ordonnée": 6841315.802757714,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.743145,
+          48.88940100000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83501412700012,
+        "Type_etablissement": "Crèche",
+        "Nom": "M.A.M. A MALICE",
+        "Adresse": "1 RUE DES ORMES, 67360 HEGENEY",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047594.0895156612,
+        "Lambert ordonnée": 6875930.492019461,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719986000000002,
+          48.62267700000002
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90093011600018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS D'HOENHEIM",
+        "Adresse": "13 RUE DU DEPOT, 67800 HŒNHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047670.5644153344,
+        "Lambert ordonnée": 6846225.990942885,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.717803000000003,
+          48.59482200000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80127084400070,
+        "Type_etablissement": "Crèche",
+        "Nom": "TAM-TAM",
+        "Adresse": "1 RUE JACOB, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047694.8660444354,
+        "Lambert ordonnée": 6843125.230979723,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.722124999999999,
+          48.64257399999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 92409833800016,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE FAMILIALE",
+        "Adresse": "3 RUE DES PIVOINES, 67450 MUNDOLSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047695.729072415,
+        "Lambert ordonnée": 6848443.475386436,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.712984,
+          48.52857900000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400631,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE FAMILIALE DE L'ILL",
+        "Adresse": "1 AVENUE MESSMER, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047779.4069846396,
+        "Lambert ordonnée": 6835753.098304091,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719893999999997,
+          48.59187399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82192412300036,
+        "Type_etablissement": "Crèche",
+        "Nom": "A PAS DE LOUPS",
+        "Adresse": "7 ROUTE D'OBERHAUSBERGEN, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047868.3639727668,
+        "Lambert ordonnée": 6842807.296809582,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.714092999999998,
+          48.52415800000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90191504100015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA PETITE SYMPHONIE",
+        "Adresse": "24 RUE DE L'ESPERANCE, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047890.4674917306,
+        "Lambert ordonnée": 6835267.40339902,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.701567999999997,
+          48.37651699999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 49097180100025,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LIBELLULES",
+        "Adresse": "13 RUE DE DAUBENSAND, 67150 GERSTHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1047943.8274282764,
+        "Lambert ordonnée": 6818830.005658476,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.722604999999999,
+          48.60136799999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100408,
+        "Type_etablissement": "Crèche",
+        "Nom": "AGES MULTI ACCUEIL CRONENBOURG",
+        "Adresse": "87 RUE DE HOCHFELDEN, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048004.8464971094,
+        "Lambert ordonnée": 6843872.806022078,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.713176000000002,
+          48.48732500000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87838263900010,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE JARDIN ENCHANTE",
+        "Adresse": "4 RUE DU COLLEGE, 67114 ESCHAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048067.1218434176,
+        "Lambert ordonnée": 6831176.223351866,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.713306999999998,
+          48.48303700000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 94976214000018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUTINS D'ESCHAU",
+        "Adresse": "77 RUE DE LA 1ERE DIVISION BLINDEE, 67114 ESCHAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048105.2195553916,
+        "Lambert ordonnée": 6830700.994536658,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.723214999999996,
+          48.592911
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83265334900015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS PRODIGES",
+        "Adresse": "40 ROUTE DE MITTELHAUSBERGEN, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048105.9466979651,
+        "Lambert ordonnée": 6842937.009477091,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.745023000000001,
+          48.830512999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 44886840601322,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE CHÂTEAU DE SABLE",
+        "Adresse": "2 RUE DE LA SABLIERE, 67590 SCHWEIGHOUSE-SUR-MODER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048124.801026726,
+        "Lambert ordonnée": 6869402.507769068,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.718379999999997,
+          48.532377999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82493635500059,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ILL DES ANGES",
+        "Adresse": "156 ROUTE DE LYON, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048151.8934137208,
+        "Lambert ordonnée": 6836198.43702423,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.722300999999999,
+          48.572117
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100093,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE FAMILIALE MONTAGNE VERTE",
+        "Adresse": "14 QUAI DU BRULIG, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048176.8284157622,
+        "Lambert ordonnée": 6840625.467159175,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.722409999999997,
+          48.57205400000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100028,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECT MONTAGNE VERTE",
+        "Adresse": "12 QUAI DU BRULIG, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048185.2740431768,
+        "Lambert ordonnée": 6840618.956729193,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7074739999999995,
+          48.383857
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81441364700011,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PAPILLONS DES CHERUBINS",
+        "Adresse": " RUE LA BRIGADE ALSACE LORRAINE, 67150 GERSTHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048331.7792993884,
+        "Lambert ordonnée": 6819670.447658234,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.720025000000001,
+          48.518787
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100192,
+        "Type_etablissement": "Crèche",
+        "Nom": "HALTE GARDERIE LA MAISONELLE",
+        "Adresse": "20 RUE DES ROSEAUX, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048363.384089987,
+        "Lambert ordonnée": 6834697.562395839,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.724852999999998,
+          48.567468999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77885977700022,
+        "Type_etablissement": "Crèche",
+        "Nom": "ALEF ELSAU",
+        "Adresse": "6 RUE MATHIAS GRUNEWALD, 67200 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048395.6633027416,
+        "Lambert ordonnée": 6840120.94003744,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.719242999999998,
+          48.48985399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87880348500027,
+        "Type_etablissement": "Crèche",
+        "Nom": "TERRE D'EVEIL LES ARBUSTES",
+        "Adresse": "36 RUE DES JARDINS, 67114 ESCHAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048497.8437348512,
+        "Lambert ordonnée": 6831483.607026714,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.722925000000001,
+          48.52409599999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100135,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE LES VIGNES",
+        "Adresse": "2 RUE GEORGE SAND, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048541.8863916596,
+        "Lambert ordonnée": 6835299.471744246,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.733026000000005,
+          48.60861499999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 34777042200033,
+        "Type_etablissement": "Crèche",
+        "Nom": "ASSOCIATION LA RIBAMBELLE",
+        "Adresse": "11 RUE KELLERMANN, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048723.580222851,
+        "Lambert ordonnée": 6844722.993172036,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.733808999999997,
+          48.607934
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91144866000025,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES 3 LUCIOLES",
+        "Adresse": "11 RUE KLEBER, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048785.7375448602,
+        "Lambert ordonnée": 6844650.879831879,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.731420999999998,
+          48.580771999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79453825600015,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ARBRE A VOILES",
+        "Adresse": "19 BOULEVARD DE NANCY, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048790.8267590643,
+        "Lambert ordonnée": 6841626.154914268,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.732544999999999,
+          48.580431
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 34826364100014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE PETIT PRINCE",
+        "Adresse": "4 RUE DE MUTZIG, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048875.8572049062,
+        "Lambert ordonnée": 6841593.27993654,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.729068000000001,
+          48.541577
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 43910814300033,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ILL AUX ENFANTS",
+        "Adresse": "8 RUE DES IRIS, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048878.3722583672,
+        "Lambert ordonnée": 6837266.386274966,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.732855000000001,
+          48.58098799999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 34193478400016,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE PARENTALE LES PITCHOUN'S",
+        "Adresse": "5 RUE DE ROSHEIM, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048894.9733504157,
+        "Lambert ordonnée": 6841656.459426917,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.736455948139962,
+          48.61245800098573
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32368669101035,
+        "Type_etablissement": "Crèche",
+        "Nom": "CENTRE SOCIAL LEO LAGRANGE",
+        "Adresse": "4 RUE VICTOR HUGO, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048950.38,
+        "Lambert ordonnée": 6845164.61,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.735865999999996,
+          48.60473000000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84103615500015,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'OASIS DES CHERUBINS",
+        "Adresse": "3 RUE DE MOLSHEIM, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1048958.4652343444,
+        "Lambert ordonnée": 6844304.416168664,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.726958000000001,
+          48.48514300000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 87880348500019,
+        "Type_etablissement": "Crèche",
+        "Nom": "TERRE D'EVEIL",
+        "Adresse": "3 RUE DE L'INDUSTRIE, 67114 ESCHAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049098.2168183753,
+        "Lambert ordonnée": 6830994.94582584,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.740394,
+          48.630651
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82875524900012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES BOU'T CHOU",
+        "Adresse": "11 RUE DES SEPT-ARPENTS, 67460 SOUFFELWEYERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049118.8123543176,
+        "Lambert ordonnée": 6847200.93697627,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.730764999999996,
+          48.52410699999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80521755100029,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS D'ILLKIRCH",
+        "Adresse": "6 RUE EUGENIE BRAZIER, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049119.6967748422,
+        "Lambert ordonnée": 6835335.326953499,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737684,
+          48.58509799999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 47918275003794,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES BOUT'EN TRAIN",
+        "Adresse": "15 RUE THIERGARTEN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049223.1314103892,
+        "Lambert ordonnée": 6842133.889382975,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.740498999999997,
+          48.612451
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79145032300120,
+        "Type_etablissement": "Crèche",
+        "Nom": "LEA ET LEO",
+        "Adresse": "6 RUE GABRIELLE COLETTE, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049247.93391811,
+        "Lambert ordonnée": 6845181.707734081,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.738545000000006,
+          48.584503
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 33827890600015,
+        "Type_etablissement": "Crèche",
+        "Nom": "HALTE GARDERIE LES EXPLORATEURS",
+        "Adresse": "29 RUE KAGENECK, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049290.488081375,
+        "Lambert ordonnée": 6842071.671079517,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.738617999999999,
+          48.585038
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88193454100015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS FLIBUSTIERS DE STRASBOURG",
+        "Adresse": "18 RUE KUHN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049292.295598941,
+        "Lambert ordonnée": 6842131.362401696,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.739302999999999,
+          48.58725399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82138735400029,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'AVANCEE DES CHERUBINS",
+        "Adresse": "46 RUE DU FAUBOURG-DE-SAVERNE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049327.9505393407,
+        "Lambert ordonnée": 6842380.300140349,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.736973000000002,
+          48.54958700000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 85126716100020,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUTINS DE LA MEINAU",
+        "Adresse": "1 RUE DU RHONE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049407.4646570857,
+        "Lambert ordonnée": 6838190.176427682,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.741151000000002,
+          48.59166000000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81244950200069,
+        "Type_etablissement": "Crèche",
+        "Nom": "HAPILI",
+        "Adresse": "23 RUE ADELE RITON, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049434.6083365916,
+        "Lambert ordonnée": 6842877.407487924,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.740904999999996,
+          48.58806399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80836384000022,
+        "Type_etablissement": "Crèche",
+        "Nom": "APPLE TREE",
+        "Adresse": "5 PLACE DES HALLES, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049440.486826297,
+        "Lambert ordonnée": 6842477.273472811,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7414629999999995,
+          48.589290000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 38351559000016,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE PARENTALE LA PETITE JUNGLE",
+        "Adresse": "9 RUE DE BOUXWILLER, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049473.387077729,
+        "Lambert ordonnée": 6842615.79109887,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737545999999999,
+          48.54507099999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95322179300011,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE BABY'S HOUSE ILLKIRCH",
+        "Adresse": "27 AVENUE DE STRASBOURG, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049479.7815369577,
+        "Lambert ordonnée": 6837691.590945615,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.742669999999997,
+          48.600638999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90210410800029,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA BULLE DE PAPOU",
+        "Adresse": "5 ALLEE FREDERIQUE KLEINKNECHT, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049486.5097999196,
+        "Lambert ordonnée": 6843880.5272850655,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.742075000000001,
+          48.590988
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83398310900020,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS PRECIEUX",
+        "Adresse": "20 RUE DE WISSEMBOURG, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049507.1113093405,
+        "Lambert ordonnée": 6842806.92552977,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.738432000000001,
+          48.546634
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 53409475000021,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES JARDINS D'ISIS",
+        "Adresse": "5 RUE FIN DE BANLIEUE, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049534.6412535366,
+        "Lambert ordonnée": 6837868.951740406,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.738897,
+          48.550705000000015
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 31049821701240,
+        "Type_etablissement": "Crèche",
+        "Nom": "ALEF MICRO CRECHE DU BARTISCH",
+        "Adresse": "7 RUE BARTISCH, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049541.7575470123,
+        "Lambert ordonnée": 6838322.751636898,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.731529,
+          48.46745899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81304413800010,
+        "Type_etablissement": "Crèche",
+        "Nom": "TROIS PETITS PANDAS",
+        "Adresse": "8 RUE DE LA DEMI-LUNE, 67115 PLOBSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049553.112554978,
+        "Lambert ordonnée": 6829052.947977679,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748282999999996,
+          48.64663099999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 26670080600034,
+        "Type_etablissement": "Crèche",
+        "Nom": "HALTE-GARDERIE LA COCCINELLE",
+        "Adresse": " PLACE DES VIOLETTES, 67116 REICHSTETT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049592.3523493744,
+        "Lambert ordonnée": 6849009.195677021,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7441279440644895,
+          48.59120495839771
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89491592500024,
+        "Type_etablissement": "Crèche",
+        "Nom": "KANGOUROU KIDS",
+        "Adresse": "10 RUE DE HAGUENAU, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049656.79,
+        "Lambert ordonnée": 6842840.09,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.745289999999999,
+          48.601551999999984
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88101670300012,
+        "Type_etablissement": "Crèche",
+        "Nom": "PREMIERS PAS",
+        "Adresse": "54 ROUTE DE BISCHWILLER, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049673.2487757031,
+        "Lambert ordonnée": 6843993.442074005,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.744384000000001,
+          48.590153
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81240776500013,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECH' AND DO",
+        "Adresse": "2 PLACE DU FAUBOURG-DE-PIERRE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049682.6617442602,
+        "Lambert ordonnée": 6842724.489081736,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746004999999997,
+          48.60411
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79145032300047,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MOUSSAILLONS",
+        "Adresse": "6 RUE DE SAINTE MARIE AUX MINES, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049708.7906571238,
+        "Lambert ordonnée": 6844280.469824629,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.743876999999993,
+          48.57729400000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91789644100016,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE NATURE DES DIACONESSES DE STRASBOURG",
+        "Adresse": "3 RUE SAINTE-ELISABETH, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049731.169147981,
+        "Lambert ordonnée": 6841295.300784718,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746842,
+          48.608789999999985
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82493635500026,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE LES ANGES DE SCHILICK",
+        "Adresse": "9 RUE DE LAUTERBOURG, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049739.1326725406,
+        "Lambert ordonnée": 6844803.517836715,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.745621999999999,
+          48.58896
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 33044765700017,
+        "Type_etablissement": "Crèche",
+        "Nom": "ASSOCIATION LA LUCIOLE",
+        "Adresse": "36 RUE DU FAUBOURG-DE-PIERRE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049781.7640411905,
+        "Lambert ordonnée": 6842597.586434635,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.747615,
+          48.60518499999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81114185200020,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE PETIT A PETON",
+        "Adresse": "52 ROUTE DE BISCHWILLER, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049820.099216418,
+        "Lambert ordonnée": 6844406.894171446,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746580999999996,
+          48.59170499999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 52857022901995,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS CHAPERONS ROUGES STRASBOURG",
+        "Adresse": "2 RUE DE VENDENHEIM, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049834.030413231,
+        "Lambert ordonnée": 6842906.444350341,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746640000000001,
+          48.589128
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 51954471200010,
+        "Type_etablissement": "Crèche",
+        "Nom": "L ILE AUX LUTINS",
+        "Adresse": "31 RUE DU FOSSE DES TREIZE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049855.584547347,
+        "Lambert ordonnée": 6842620.739114181,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.747128,
+          48.590599000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80836384000030,
+        "Type_etablissement": "Crèche",
+        "Nom": "ORANGE TREE",
+        "Adresse": "75 AVENUE DES VOSGES, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049881.684376767,
+        "Lambert ordonnée": 6842786.1363747865,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748653999999996,
+          48.604123
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 47918275001103,
+        "Type_etablissement": "Crèche",
+        "Nom": "BERGAMOTE",
+        "Adresse": "18 RUE DE LA MAIRIE, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049903.659733483,
+        "Lambert ordonnée": 6844293.647588299,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.74114,
+          48.518592
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79145032300062,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ARBRE A BULLES",
+        "Adresse": " RUE BENJAMIN BAILLAUD, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049921.217065292,
+        "Lambert ordonnée": 6834769.28704264,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.744650999999999,
+          48.55324899999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 53409475000013,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA CRECHE D'ISIS",
+        "Adresse": "269 AVENUE DE COLMAR, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049948.679957922,
+        "Lambert ordonnée": 6838630.534507199,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7497549999999995,
+          48.603576
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 47918275001558,
+        "Type_etablissement": "Crèche",
+        "Nom": "TROTTINETTE",
+        "Adresse": "5 SQUARE DU CHATEAU, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049988.3445167546,
+        "Lambert ordonnée": 6844237.826512827,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.753485999999997,
+          48.64423200000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81285506200038,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE 1 2 3 SOLEIL",
+        "Adresse": "65 RUE DU GENERAL DE GAULLE, 67116 REICHSTETT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1049991.006581713,
+        "Lambert ordonnée": 6848766.018769896,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754736,
+          48.650726
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81244950200275,
+        "Type_etablissement": "Crèche",
+        "Nom": "HAPILI",
+        "Adresse": "16 RUE NORDFELD, 67116 REICHSTETT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050039.4834617053,
+        "Lambert ordonnée": 6849492.220919885,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751146,
+          48.60904800000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84877580500049,
+        "Type_etablissement": "Crèche",
+        "Nom": "BIOBULLE NIDA",
+        "Adresse": "3 RUE DE HAGUENAU, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050054.136605636,
+        "Lambert ordonnée": 6844851.219956905,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748527000000002,
+          48.580025000000006
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89490720300026,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES JARDINS D'ATHENA 2",
+        "Adresse": "2 RUE DE L'EPINE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050055.3197937808,
+        "Lambert ordonnée": 6841618.958583104,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.750922,
+          48.604642
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82800963900018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PAPILLONS",
+        "Adresse": "51 RUE PRINCIPALE, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050067.1058276205,
+        "Lambert ordonnée": 6844361.293379736,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748552000000001,
+          48.57549000000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 97877203600023,
+        "Type_etablissement": "Crèche",
+        "Nom": "MINIDO",
+        "Adresse": "2 RUE MARIE HAMM, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050087.4601875665,
+        "Lambert ordonnée": 6841115.831768232,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749004000000002,
+          48.579184999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77885938900018,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE STENGER BACHMANN FONDATION",
+        "Adresse": "2 RUE DE LA DOUANE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050096.0540417405,
+        "Lambert ordonnée": 6841527.860505225,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.749938999999997,
+          48.58865799999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80127084400062,
+        "Type_etablissement": "Crèche",
+        "Nom": "FLICK-FLACK",
+        "Adresse": "7 RUE DU GENERAL DE CASTELNAU, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050101.5883496404,
+        "Lambert ordonnée": 6842583.205777974,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748992999999999,
+          48.577253
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 26670057400269,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE HOPITAL CIVIL",
+        "Adresse": "1 PLACE DE L'HOPITAL, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050108.1535544784,
+        "Lambert ordonnée": 6841313.422502557,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752592945513101,
+          48.615337021245125
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81299132100033,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PAPILLONS",
+        "Adresse": "41 ROUTE DE BISCHWILLER, 67800 BISCHHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050118.56,
+        "Lambert ordonnée": 6845555.53,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752895999999999,
+          48.61574499999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88101670300020,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE PREMIERS PAS",
+        "Adresse": "49 ROUTE DE BISCHWILLER, 67800 BISCHHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050138.1303404064,
+        "Lambert ordonnée": 6845602.147417519,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7500449999999965,
+          48.57723699999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32464400400032,
+        "Type_etablissement": "Crèche",
+        "Nom": "BABY BOOM",
+        "Adresse": "41 RUE DES BOUCHERS, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050185.723109824,
+        "Lambert ordonnée": 6841316.311956972,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754874000000002,
+          48.622209
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80127084400054,
+        "Type_etablissement": "Crèche",
+        "Nom": "TATU-TATA",
+        "Adresse": "41 RUE DE LA REPUBLIQUE, 67800 HŒNHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050240.4235128704,
+        "Lambert ordonnée": 6846328.234872837,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751265,
+          48.57508599999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670482501397,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE MUNICIPALE STOLTZ",
+        "Adresse": "7 RUE ALOISE STOLTZ, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050289.9357733326,
+        "Lambert ordonnée": 6841083.032848365,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755681,
+          48.620977
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82800963900026,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PAPILLONS",
+        "Adresse": "24 RUE DE LA REPUBLIQUE, 67800 HŒNHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050308.0386262983,
+        "Lambert ordonnée": 6846195.098514694,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754963999999996,
+          48.61234299999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 35213526300023,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS SCHTROUMPFS",
+        "Adresse": "8 RUE DU CYGNE, 67800 BISCHHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050313.053469049,
+        "Lambert ordonnée": 6845233.798589706,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.753082,
+          48.59048299999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 45353623700028,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE NID DES GEANTS",
+        "Adresse": "11 RUE OBERLIN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050320.763159934,
+        "Lambert ordonnée": 6842799.662677057,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.751141999999994,
+          48.569118
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82493635500109,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES ANGES DE NEUDORF",
+        "Adresse": "62 ROUTE DE L'HOPITAL, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050320.7739439935,
+        "Lambert ordonnée": 6840420.237472646,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755080999999999,
+          48.607898
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84877580500056,
+        "Type_etablissement": "Crèche",
+        "Nom": "BIOBULLE ADELE",
+        "Adresse": "61 RUE D'ADELSHOFFEN, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050351.402705618,
+        "Lambert ordonnée": 6844741.056500409,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756338999999998,
+          48.620853000000004
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670204300110,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE FAMILIALE LES TATILOUS",
+        "Adresse": "7 RUE DU MARECHAL LECLERC, 67800 HŒNHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050357.2787754796,
+        "Lambert ordonnée": 6846184.257483287,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752346999999998,
+          48.57589999999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84146598200012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CANAILLOUX",
+        "Adresse": "4 RUE SPIELMANN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050364.167659783,
+        "Lambert ordonnée": 6841178.160439785,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.750825999999998,
+          48.551253
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 33453768500045,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE LA CHENILLE",
+        "Adresse": "1 RUE DE CHAMPAGNE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050416.9187479652,
+        "Lambert ordonnée": 6838436.432685582,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.750697999999997,
+          48.548162999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400151,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE DE LA CANARDIERE",
+        "Adresse": "53 RUE DE LA CANARDIERE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050428.143005743,
+        "Lambert ordonnée": 6838092.983393405,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754818,
+          48.590105
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 39125484400015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA FLUTE ENCHANTEE",
+        "Adresse": "5 RUE STRAUSS-DURKHEIM, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050451.0873848677,
+        "Lambert ordonnée": 6842765.419983552,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.775197999999997,
+          48.81193399999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81327974200015,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE SAINT VINCENT",
+        "Adresse": "34 RUE SAINT VINCENT, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050460.791626829,
+        "Lambert ordonnée": 6867473.913509722,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755473999999999,
+          48.59162100000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 37859907000026,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA TOUPIE",
+        "Adresse": "36 RUE OBERLIN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050489.2353268329,
+        "Lambert ordonnée": 6842936.559289862,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755378999999999,
+          48.589025
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82002745600012,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE TOM ET LILI",
+        "Adresse": "6 AVENUE DE LA PAIX-SIMONE VEIL, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050499.61178951,
+        "Lambert ordonnée": 6842648.064524046,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.775598999999999,
+          48.808369
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75264833700034,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES BEBES JOYEUX",
+        "Adresse": "18 ROUTE DE WINTERSHOUSE, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050514.1449107386,
+        "Lambert ordonnée": 6867080.024307779,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755969999999998,
+          48.59191
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83219786700019,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE TIM ET LILOU",
+        "Adresse": "40 RUE OBERLIN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050523.813511916,
+        "Lambert ordonnée": 6842970.830784428,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.778189999999999,
+          48.835134
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88358245400012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA PETITE FERME",
+        "Adresse": "15 RUE DE LA FERME HUND, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050524.1073076988,
+        "Lambert ordonnée": 6870062.123547696,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754092999999999,
+          48.56944800000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82493635500075,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES ANGES DU NEUFELD",
+        "Adresse": "2 RUE DU NEUFELD, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050535.8927478476,
+        "Lambert ordonnée": 6840469.95265753,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7580249999999955,
+          48.609435
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83778344800017,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS BOO",
+        "Adresse": "15 RUE DE LA ZORN, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050557.762416863,
+        "Lambert ordonnée": 6844924.68301149,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754986999999999,
+          48.570909
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88185738700016,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE TAMAÏTI",
+        "Adresse": "1 RUE DE NOMENY, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050591.9562866376,
+        "Lambert ordonnée": 6840636.043474866,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756966986953364,
+          48.5914489935165
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 94540933200018,
+        "Type_etablissement": "Crèche",
+        "Nom": "TIPOUCE",
+        "Adresse": "20 AVENUE DE LA PAIX-SIMONE VEIL, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050600.29,
+        "Lambert ordonnée": 6842924.1,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.757223,
+          48.593537999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400409,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE FAMILIALE CENTRE VILLE NORD",
+        "Adresse": "72 RUE JACQUES KABLE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050605.15308327,
+        "Lambert ordonnée": 6843157.049841433,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755821999999999,
+          48.57651899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32508018200026,
+        "Type_etablissement": "Crèche",
+        "Nom": "ASSOCIATION LA PETITE BULLE",
+        "Adresse": "16 RUE DE GENEVE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050615.9083429903,
+        "Lambert ordonnée": 6841262.273403597,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756177999999999,
+          48.57837800000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100127,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE SAINT-GOTHARD",
+        "Adresse": "3 RUE DE L'ARDECHE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050629.6817302788,
+        "Lambert ordonnée": 6841470.141547792,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75666,
+          48.57876600000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 85204272000015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES JARDINS D'ATHENA",
+        "Adresse": "3 RUE DU SAINT-GOTHARD, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050662.5754473992,
+        "Lambert ordonnée": 6841515.337112684,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756198000000002,
+          48.57229
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 47918275003422,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ILE AUX ETOILES",
+        "Adresse": "17 ROUTE DE VIENNE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050671.895390923,
+        "Lambert ordonnée": 6840794.665444771,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756666999999999,
+          48.576796999999985
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400367,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE BELIN",
+        "Adresse": "11 RUE DE GENEVE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050676.2687794848,
+        "Lambert ordonnée": 6841296.874526244,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756013000000002,
+          48.56848000000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82814394100031,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES BERCEAUX DU NEUHOF",
+        "Adresse": "10 RUE DE MULHOUSE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050683.7674488355,
+        "Lambert ordonnée": 6840371.062610029,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.762830999999998,
+          48.64317700000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79420326500028,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS PUTTINI",
+        "Adresse": "4 RUE DE L'ARTISANAT, 67116 REICHSTETT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050685.2993733897,
+        "Lambert ordonnée": 6848690.404153777,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756448999999999,
+          48.571117000000015
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88392583600016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES TILIONCEAUX",
+        "Adresse": "13 ROUTE DU POLYGONE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050698.2292285587,
+        "Lambert ordonnée": 6840665.616701769,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.761612,
+          48.62491199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 98386853000012,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE SWEET BABY",
+        "Adresse": "28 RUE FRANCOIS MAURIAC, 67800 HŒNHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050718.028369897,
+        "Lambert ordonnée": 6846658.096066463,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756654999999999,
+          48.56444900000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84877580500031,
+        "Type_etablissement": "Crèche",
+        "Nom": "BIOBULLE LEONIE",
+        "Adresse": "9 AVENUE LEON DACHEUX, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050758.0258676286,
+        "Lambert ordonnée": 6839926.61085649,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7600409999999975,
+          48.60062599999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 35213526300015,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE MUNICIPALE WACKEN",
+        "Adresse": "4 RUE DU JASMIN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050765.1146625413,
+        "Lambert ordonnée": 6843956.109068842,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.758482999999998,
+          48.57948600000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80425075100018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS CRECHE ET GARDERIE",
+        "Adresse": "51 RUE DE ZURICH, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050791.9843449364,
+        "Lambert ordonnée": 6841603.330468538,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7800379999999985,
+          48.815042000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88982412400016,
+        "Type_etablissement": "Crèche",
+        "Nom": "MINIATURE",
+        "Adresse": "11 RUE DU MOULIN NEUF, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050794.6674144822,
+        "Lambert ordonnée": 6867840.353637372,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.758582999999999,
+          48.577731000000014
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 52477730700025,
+        "Type_etablissement": "Crèche",
+        "Nom": "GIVING TREE",
+        "Adresse": "1 RUE DE L'HOPITAL MILITAIRE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050811.0977584722,
+        "Lambert ordonnée": 6841409.028106285,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.759841999999998,
+          48.58925299999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32407937500014,
+        "Type_etablissement": "Crèche",
+        "Nom": "JARDIN D'ENFANTS LA BUISSONNIERE DE L'AAR",
+        "Adresse": "11 QUAI ZORN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050826.636031724,
+        "Lambert ordonnée": 6842693.184838537,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7582790000000035,
+          48.565391000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79145032300112,
+        "Type_etablissement": "Crèche",
+        "Nom": "LEA ET LEO",
+        "Adresse": "6 RUE SIMONIS, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050871.328858405,
+        "Lambert ordonnée": 6840038.355561497,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.759662999999998,
+          48.57966199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670482501405,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE MUNICIPALE FRITZ",
+        "Adresse": "11 RUE FRITZ, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050877.68908244,
+        "Lambert ordonnée": 6841628.103430414,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.776108,
+          48.753307999999976
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95309969400028,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MALICETTES",
+        "Adresse": "93 RUE PRINCIPALE, 67500 WEITBRUCH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050921.5325298938,
+        "Lambert ordonnée": 6860971.38266167,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7614719999999995,
+          48.583257
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 34327914700015,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE PARENTALE LA TROTTINETTE",
+        "Adresse": "16 BOULEVARD DE LA VICTOIRE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1050986.8005627147,
+        "Lambert ordonnée": 6842035.068883274,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.765934,
+          48.629428999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81285506200012,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE 1,2,3, SOLEIL",
+        "Adresse": "2 AVENUE DE L'ENERGIE, 67800 BISCHHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051005.689205687,
+        "Lambert ordonnée": 6847178.555158353,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.777684999999996,
+          48.755404
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88856838300036,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUCIOLES",
+        "Adresse": "73 RUE PRINCIPALE, 67500 WEITBRUCH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051023.1683199676,
+        "Lambert ordonnée": 6861211.009476852,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.762908999999999,
+          48.592909000000006
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100416,
+        "Type_etablissement": "Crèche",
+        "Nom": "AGES MICRO CRECHE DES CONTADES",
+        "Adresse": "17 RUE DU GENERAL DUCROT, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051027.9159087727,
+        "Lambert ordonnée": 6843112.51292434,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.760328000000003,
+          48.564297
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88488157400013,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA P'TITE CABANE",
+        "Adresse": "114 ROUTE DU POLYGONE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051029.5646367,
+        "Lambert ordonnée": 6839926.066201473,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764953000000001,
+          48.60744199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79145032300039,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUTINS DU MARAIS",
+        "Adresse": "3 RUE DE NORMANDIE, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051080.9405759447,
+        "Lambert ordonnée": 6844734.3015580345,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.784357999999999,
+          48.812471
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84933538500019,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA CABANE A JOUER",
+        "Adresse": "16 BOULEVARD NESSEL, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051128.623630622,
+        "Lambert ordonnée": 6867574.207262364,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.761715999999999,
+          48.56294999999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83267570600010,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ODYSSEE DES P'TITS BOUTS",
+        "Adresse": "2 RUE DU LAZARET, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051140.8170573371,
+        "Lambert ordonnée": 6839782.767469369,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767238999999999,
+          48.622263
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670204300102,
+        "Type_etablissement": "Crèche",
+        "Nom": "HALTE GARDERIE LES P'TITS BOUTS",
+        "Adresse": "7 AVENUE DU RIED, 67800 HŒNHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051149.7524064402,
+        "Lambert ordonnée": 6846389.143810162,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.761622999999997,
+          48.552776
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 33310065900015,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAISON QUARTIER ZIEGELWASSER",
+        "Adresse": "5 RUE DE BERGERAC, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051202.1285473786,
+        "Lambert ordonnée": 6838653.399931485,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.785371999999999,
+          48.811263
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80364851800022,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE HAGUENAU",
+        "Adresse": "8 BD DU 2E REGIMENT DE DRAGONS, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051211.086065141,
+        "Lambert ordonnée": 6867444.645147724,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.785906999999995,
+          48.816147
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 52857022903405,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS CHAPERONS ROUGES HAGUENAU",
+        "Adresse": "30 RUE DU MAIRE ANDRE TRABAND, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051217.4086408855,
+        "Lambert ordonnée": 6867989.083323967,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.786548999999996,
+          48.82110199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81240233700016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PAPILLONS",
+        "Adresse": "10 RUE DES MOINES, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051231.087371139,
+        "Lambert ordonnée": 6868541.879704705,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766954000000001,
+          48.60682
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 30663974100033,
+        "Type_etablissement": "Crèche",
+        "Nom": "HALTE GARDERIE DU MARAIS",
+        "Adresse": "8 RUE DE TOURAINE, 67300 SCHILTIGHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051232.3667550534,
+        "Lambert ordonnée": 6844674.177744489,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763312999999998,
+          48.56567699999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84877580500023,
+        "Type_etablissement": "Crèche",
+        "Nom": "BIOBULLE CELESTE",
+        "Adresse": "37 RUE DE SELESTAT, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051240.1647155397,
+        "Lambert ordonnée": 6840092.47209579,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.762290999999998,
+          48.553517
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 38218693000022,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE LA HALT'JEUX",
+        "Adresse": "21 RUE DES CANONNIERS, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051246.3733056767,
+        "Lambert ordonnée": 6838738.595633834,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763229999999999,
+          48.56200900000002
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89352386000011,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE BABY'S HOUSE POLYGONE",
+        "Adresse": "159 ROUTE DU POLYGONE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051258.6341882355,
+        "Lambert ordonnée": 6839685.083233581,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.763878000000001,
+          48.56421300000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32091524200251,
+        "Type_etablissement": "Crèche",
+        "Nom": "APEDI - MULTIACCUEIL",
+        "Adresse": "60 RUE DE LA GROSSAU, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051291.5893205835,
+        "Lambert ordonnée": 6839932.532630484,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.787217,
+          48.811703000000016
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84108216700039,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS POUSSINS D'ISIS",
+        "Adresse": "7 RUE NEUVE, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051343.3653121097,
+        "Lambert ordonnée": 6867501.686911277,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.782271000000002,
+          48.75403900000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81283655900011,
+        "Type_etablissement": "Crèche",
+        "Nom": "MA MAM A MOI",
+        "Adresse": "1 RUE DE LA FORET, 67500 WEITBRUCH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051368.8822658723,
+        "Lambert ordonnée": 6861079.916788905,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767007,
+          48.586276
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80127084400047,
+        "Type_etablissement": "Crèche",
+        "Nom": "PLITSCH-PLATSCH",
+        "Adresse": "9 RUE SLEIDAN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051374.062417618,
+        "Lambert ordonnée": 6842394.69423547,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.768001,
+          48.590704
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 39445575200029,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA SOURIS VERTE",
+        "Adresse": "61 ALLEE DE LA ROBERTSAU, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051417.5346410673,
+        "Lambert ordonnée": 6842890.47899613,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.788928999999999,
+          48.816138999999986
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80364851800014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA DECAPOLE DES CHERUBINS",
+        "Adresse": "5 RUE DES CHAUDRONNIERS, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051438.9624263176,
+        "Lambert ordonnée": 6868001.641233376,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.789207999999999,
+          48.81659899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82146297500011,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE PETIT ROYAUME",
+        "Adresse": "3 PLACE BARBEROUSSE, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051456.3116247728,
+        "Lambert ordonnée": 6868053.936835345,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.789400999999997,
+          48.81817999999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 33340197400014,
+        "Type_etablissement": "Crèche",
+        "Nom": "HALTE GARDERIE",
+        "Adresse": "4 RUE DES ROSES, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051459.8015218354,
+        "Lambert ordonnée": 6868230.265767696,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7684219999999975,
+          48.584582000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32306860100042,
+        "Type_etablissement": "Crèche",
+        "Nom": "HALTE GARDERIE RECHIT HOCHMA",
+        "Adresse": "42 AVENUE DE LA FORET-NOIRE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051489.6001480112,
+        "Lambert ordonnée": 6842213.014482906,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767808999999998,
+          48.573656
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89833114500018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS BATEAUX",
+        "Adresse": "9 RUE DE L'ELBE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051517.7651936002,
+        "Lambert ordonnée": 6840997.87149361,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.771868999999997,
+          48.612907
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400078,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE DE L'ILL",
+        "Adresse": "35 RUE DE L'ILL, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051553.1969818843,
+        "Lambert ordonnée": 6845371.51627951,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767275999999999,
+          48.560044999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83070462300016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE NID DES CHERUBINS",
+        "Adresse": "13 RUE D'ALTKIRCH, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051569.8126649612,
+        "Lambert ordonnée": 6839485.155082883,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.780118000000002,
+          48.700246
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 33120499000021,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUTINS",
+        "Adresse": "1 RUE DE L’ECOLE, 67720 HŒRDT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051572.7257830205,
+        "Lambert ordonnée": 6855100.461873188,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.780241000000003,
+          48.697124
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80790910600070,
+        "Type_etablissement": "Crèche",
+        "Nom": "MES 1ERS COPAINS",
+        "Adresse": "22 RUE DU TRAINEAU, 67720 HŒRDT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051602.7613796245,
+        "Lambert ordonnée": 6854754.542535724,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767677947330515,
+          48.55920702949091
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82793556000025,
+        "Type_etablissement": "Crèche",
+        "Nom": "BABY ZEN (MAISON D'ASSISTANTES MATERNELLES)",
+        "Adresse": "7 RUE DE GUEBWILLER, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051605.04,
+        "Lambert ordonnée": 6839393.96,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.768549000000001,
+          48.564364
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100374,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE FAMILIALE NEUDORF",
+        "Adresse": "146 RUE DE BALE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051634.6002968792,
+        "Lambert ordonnée": 6839970.079004314,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.770650000000001,
+          48.585838
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80127084400088,
+        "Type_etablissement": "Crèche",
+        "Nom": "TICK TACK",
+        "Adresse": "9 RUE DE VERDUN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051645.1997533413,
+        "Lambert ordonnée": 6842362.308085373,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.779293,
+          48.679543
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81244950200168,
+        "Type_etablissement": "Crèche",
+        "Nom": "HAPILI",
+        "Adresse": "1 RUE SOPHIE GERMAIN, 67720 HŒRDT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051651.352083079,
+        "Lambert ordonnée": 6852799.268837581,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767426,
+          48.549258999999985
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100291,
+        "Type_etablissement": "Crèche",
+        "Nom": "AGES CRECHE FAMILIALE DU NEUHOF",
+        "Adresse": "7 RUE DE CLAIRVIVRE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051653.2103153935,
+        "Lambert ordonnée": 6838288.967036976,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7704059999999995,
+          48.57565399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100366,
+        "Type_etablissement": "Crèche",
+        "Nom": "ASSOC GESTION EQUIPEMENTS SOCIAUX",
+        "Adresse": "7 RUE D'ISTANBUL, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051695.59155569,
+        "Lambert ordonnée": 6841231.144539069,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.791810297053498,
+          48.80874645270509
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 98996211300019,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAM LE COIN DES REVEURS",
+        "Adresse": "25 ROUTE DE WEITBRUCH, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051700.0,
+        "Lambert ordonnée": 6867194.0,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.771270000000001,
+          48.58254999999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84809364700016,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE DE L'OBSERVATOIRE",
+        "Adresse": "11 BOULEVARD LEBLOIS, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051712.9175682329,
+        "Lambert ordonnée": 6842000.212585558,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.771032999999997,
+          48.579812000000004
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100051,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE ESPLANADE",
+        "Adresse": "5 RUE DE COPENHAGUE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051713.8483638868,
+        "Lambert ordonnée": 6841695.332312058,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.781167999999999,
+          48.688866000000004
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82493635500067,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES ANGES DE HOERDT",
+        "Adresse": "23 RUE DU MANEGE, 67720 HŒRDT",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051726.419913845,
+        "Lambert ordonnée": 6853842.236156201,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767786999999998,
+          48.53992499999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82814394100023,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES BERCEAUX DU NEUHOF",
+        "Adresse": "38 ROUTE D'ALTENHEIM, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051742.4196936567,
+        "Lambert ordonnée": 6837254.847016428,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.772841000000003,
+          48.58085
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77886984200014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES TOUTS PETITS D'ALSACE",
+        "Adresse": "21 RUE VAUBAN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051839.998632789,
+        "Lambert ordonnée": 6841818.569386515,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.794134999999997,
+          48.810734000000004
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 31251933300057,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PREMIERS PAS",
+        "Adresse": " PASSAGE FRANCOISE DOLTO, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051857.0050496408,
+        "Lambert ordonnée": 6867424.945675994,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.773555999999999,
+          48.582185
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670482501629,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE MUNICI¨PALE FORET NOIRE",
+        "Adresse": "76 AVENUE DE LA FORET-NOIRE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051883.6756811647,
+        "Lambert ordonnée": 6841969.894756037,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.772670999999999,
+          48.56686599999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 98420926200018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE JOYAU DES CHERUBINS",
+        "Adresse": "92 AVENUE JEAN JAURES, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051921.3868283671,
+        "Lambert ordonnée": 6840266.075815167,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7743689999999965,
+          48.581390000000006
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670482501389,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE MUNICIPALE FLANDRE",
+        "Adresse": "8 RUE DE FLANDRE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051948.873587341,
+        "Lambert ordonnée": 6841885.300353573,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.775808999999999,
+          48.595226
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100267,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE CONSEIL DE L'EUROPE",
+        "Adresse": "1 QUAI JACOUTOT, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1051961.9225272597,
+        "Lambert ordonnée": 6843427.047255659,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.796894000000001,
+          48.815781
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 44886840601314,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA BAC A SABLE",
+        "Adresse": "31 RUE DES DOMINICAINS, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052025.1777088477,
+        "Lambert ordonnée": 6867997.387635131,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7759399999999985,
+          48.584292999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80127084400021,
+        "Type_etablissement": "Crèche",
+        "Nom": "RATZ-FATZ",
+        "Adresse": "11 RUE DE BRUXELLES, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052045.033086108,
+        "Lambert ordonnée": 6842214.436970953,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7752719999999975,
+          48.56733
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400169,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE MUSAU RISLER",
+        "Adresse": "16 AVENUE ARISTIDE BRIAND, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052109.82487556,
+        "Lambert ordonnée": 6840329.158581424,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.775993999999999,
+          48.570178
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88526385500029,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITES PERLES",
+        "Adresse": "122 AVENUE DU RHIN, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052143.8593876276,
+        "Lambert ordonnée": 6840648.404891455,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.778734999999999,
+          48.59949000000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 51996340900049,
+        "Type_etablissement": "Crèche",
+        "Nom": "NATURABULLE",
+        "Adresse": "41 RUE BOECKLIN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052148.6258300135,
+        "Lambert ordonnée": 6843913.255487209,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.776120999999999,
+          48.567733999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670482501454,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE MUNICIPALE TUILERIE",
+        "Adresse": "13 QUAI DE LA TUILERIE, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052169.635578567,
+        "Lambert ordonnée": 6840377.774338651,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.778458,
+          48.58218899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 33944402800015,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE PARENTALE LA FARANDOLE",
+        "Adresse": "87 BOULEVARD D'ANVERS, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052244.5597523716,
+        "Lambert ordonnée": 6841992.194803463,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.777686,
+          48.568367000000016
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81273754200017,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS LOU D'ISIS",
+        "Adresse": "5 RUE DE SOULTZ, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052280.6356546504,
+        "Lambert ordonnée": 6840454.995635941,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.781099999999998,
+          48.604853000000006
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 85256936700018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITES COCCINELLES DES CHERUBINS 2",
+        "Adresse": "112 RUE BOECKLIN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052286.613727731,
+        "Lambert ordonnée": 6844518.921054171,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.778069000000001,
+          48.56813700000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77886335700035,
+        "Type_etablissement": "Crèche",
+        "Nom": "JARDIN D'ENFANTS L'ENVOL",
+        "Adresse": "7 RUE DE SOULTZ, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052310.3877464312,
+        "Lambert ordonnée": 6840431.182654621,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.799686,
+          48.797834999999985
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81285506200020,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE 1, 2, 3, SOLEIL",
+        "Adresse": "1 RUE MAURICE KOECHLIN, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052351.034817943,
+        "Lambert ordonnée": 6866018.106474078,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.782180020203446,
+          48.60085604281966
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 83267570600028,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ODYSSEE ENCHANTEE",
+        "Adresse": "3 RUE DES JARDINIERS, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052392.99,
+        "Lambert ordonnée": 6844080.21,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.801244,
+          48.805389999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88419235200018,
+        "Type_etablissement": "Crèche",
+        "Nom": "ASSOCIATION LES COCCINELLES",
+        "Adresse": "17 RUE DES MOUTONS, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052414.2223505464,
+        "Lambert ordonnée": 6866863.544542979,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.800991999999999,
+          48.800358999999986
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88776123700015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA CABANE D'ACHILLE ET CAMILLE HAGU",
+        "Adresse": "65 ROUTE DE MARIENTHAL, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052429.7390036804,
+        "Lambert ordonnée": 6866304.058232911,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.782987999999995,
+          48.602067
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100101,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE BOECKLIN",
+        "Adresse": "84 RUE BOECKLIN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052444.3066974003,
+        "Lambert ordonnée": 6844218.19210679,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.783896999999999,
+          48.603251
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 26670057400301,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE ROBERTSAU",
+        "Adresse": "6 RUE MELANIE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052503.2366496157,
+        "Lambert ordonnée": 6844353.634404348,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.794361,
+          48.71680200000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82768615500025,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE LES P'TITS TEO",
+        "Adresse": "16 RUE DE LA CERAMIQUE, 67720 WEYERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052507.3045923002,
+        "Lambert ordonnée": 6857001.285498517,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7845809999999975,
+          48.599249
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 34826369000011,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES FRIPOUILLES",
+        "Adresse": "27 RUE DES JARDINIERS, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052580.5174164474,
+        "Lambert ordonnée": 6843912.599896286,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.783775020000139,
+          48.584552026267794
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 97838565600019,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE BABY'S HOUSE ESPLANADE",
+        "Adresse": "46 RUE D'YPRES, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052620.12,
+        "Lambert ordonnée": 6842278.14,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.787604999999999,
+          48.611904
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84108216700021,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS BOUTS D'ISIS",
+        "Adresse": "30 RUE DE LA RENAISSANCE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052717.8377497,
+        "Lambert ordonnée": 6845330.390540335,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.800105,
+          48.71783100000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81793699000016,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE LESLOUPIOTS",
+        "Adresse": "85 RUE DE LA REPUBLIQUE, 67720 WEYERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052922.1640383124,
+        "Lambert ordonnée": 6857141.137775685,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.785944,
+          48.56030499999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564203600419,
+        "Type_etablissement": "Crèche",
+        "Nom": "AU RENDEZ VOUS DES PETITS",
+        "Adresse": "38 RUE DE WATTWILLER, 67100 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052943.07819553,
+        "Lambert ordonnée": 6839597.284706882,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.792069999999997,
+          48.61936600000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 42294878600013,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA PETITE TABLE RONDE",
+        "Adresse": "255 ROUTE DE LA WANTZENAU, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1052996.0708270022,
+        "Lambert ordonnée": 6846178.382160274,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.791291,
+          48.603181
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400110,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE LOVISA",
+        "Adresse": "66 RUE MELANIE, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1053047.8699008592,
+        "Lambert ordonnée": 6844378.900449388,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.81027,
+          48.80384300000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84139183200018,
+        "Type_etablissement": "Crèche",
+        "Nom": "O CLAIR DE LA LUNE",
+        "Adresse": "77 ROUTE DE BISCHWILLER, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1053086.3893951825,
+        "Lambert ordonnée": 6866732.174305144,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.805351000000003,
+          48.71362800000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88038889700014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA MAM DE WIRSCHE",
+        "Adresse": "18 RUE BALDUNG GRIEN, 67720 WEYERSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1053335.814318356,
+        "Lambert ordonnée": 6856698.167743633,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.794668000000002,
+          48.572045000000024
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82947632400019,
+        "Type_etablissement": "Crèche",
+        "Nom": "O COMME 3 POMMES",
+        "Adresse": "14 RUE DE L'ABBE FRANCOIS XAVIER SCHERER, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1053506.4476165797,
+        "Lambert ordonnée": 6840939.014642136,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.811738,
+          48.7558
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88856838300028,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PAPILLONS",
+        "Adresse": "39 CHEMIN DE HAGUENAU, 67240 GRIES",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1053519.3216840464,
+        "Lambert ordonnée": 6861406.876546088,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8151079999999995,
+          48.785953
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79400040600049,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LIBELLULES",
+        "Adresse": "22 RUE DE LA FERME ROEHRI, 67500 HAGUENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1053562.294981548,
+        "Lambert ordonnée": 6864768.346412622,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.797638999999999,
+          48.573885
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 21670482501546,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE DU PORT DU RHIN",
+        "Adresse": "172 ROUTE DU RHIN, 67000 STRASBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1053712.806725248,
+        "Lambert ordonnée": 6841156.491341672,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.814649993069333,
+          48.755995014009834
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88856838300051,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES COCCINELLES",
+        "Adresse": "1 RUE DES BRIQUES, 67240 GRIES",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1053731.68,
+        "Lambert ordonnée": 6861441.56,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.821196,
+          48.75769899999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 91391963500056,
+        "Type_etablissement": "Crèche",
+        "Nom": "LILY & PABLO LES OURSONS",
+        "Adresse": "28 RUE DU STADE, 67240 GRIES",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1054200.4563505976,
+        "Lambert ordonnée": 6861660.009338541,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.834977,
+          48.790669
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84933538500027,
+        "Type_etablissement": "Crèche",
+        "Nom": "CABANE A JOUER",
+        "Adresse": "28 RUE PRINCIPALE, 67240 KALTENHOUSE",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1054987.3224546756,
+        "Lambert ordonnée": 6865380.876296918,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.835254000000002,
+          48.770962
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81040098600016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA CLE DES CHAMPS",
+        "Adresse": "3 RUE DES MOISSONS, 67240 BISCHWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1055141.726822314,
+        "Lambert ordonnée": 6863195.05588038,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8266079999999985,
+          48.660819
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 51423519100038,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES ANGES GARDIENS",
+        "Adresse": "18 RUE DU STADE SAINT-PAUL, 67610 LA WANTZENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1055255.54886042,
+        "Lambert ordonnée": 6850933.233417581,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.826942000000004,
+          48.65856600000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 53385487300023,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES PETITS PAS",
+        "Adresse": "24 RUE DES HEROS, 67610 LA WANTZENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1055295.4039923197,
+        "Lambert ordonnée": 6850684.724519216,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.827382999999998,
+          48.651045999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100283,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE COLLECTIVE LA WANTZENAU",
+        "Adresse": "17 RUE DE PERIGUEUX, 67610 LA WANTZENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1055378.903713469,
+        "Lambert ordonnée": 6849852.230824193,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8288210000000005,
+          48.66020699999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32069482100168,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAISON DE L'ENFANT DE LA WANTZENAU",
+        "Adresse": "4 RUE DES JARDINS, 67610 LA WANTZENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1055422.388761015,
+        "Lambert ordonnée": 6850875.279518569,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.829827999999998,
+          48.656017
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 98506770100013,
+        "Type_etablissement": "Crèche",
+        "Nom": "MA CRAPA'HUTTE DES EXPLORATEURS",
+        "Adresse": "1 PLACE DE LA POSTE, 67610 LA WANTZENAU",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1055524.8909789613,
+        "Lambert ordonnée": 6850414.857039381,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.854481999999998,
+          48.791068
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81072743800048,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO-CRECHE GRAINES DE CHERUBINS",
+        "Adresse": "1 PLACE CHERIFI, 67240 OBERHOFFEN-SUR-MODER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1056414.8661567676,
+        "Lambert ordonnée": 6865513.020929472,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.879391000000003,
+          48.976151
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89329210200017,
+        "Type_etablissement": "Crèche",
+        "Nom": "INFANS BIRLENBACH",
+        "Adresse": "1 RUE DE L'ECOLE BIRLENBACH, 67160 DRACHENBRONN-BIRLENBACH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1056970.3985475749,
+        "Lambert ordonnée": 6886167.279282196,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.860633999999998,
+          48.768414000000014
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 34423750800033,
+        "Type_etablissement": "Crèche",
+        "Nom": "DU COCON AU PAPILLON",
+        "Adresse": "6 RUE DU CHATEAU, 67240 BISCHWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1057020.9266506345,
+        "Lambert ordonnée": 6863026.737729952,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.860633999999998,
+          48.768414000000014
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 34423750800025,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE FAMILIALE BISCHWILLER ET ENVIRONS",
+        "Adresse": "6 RUE DU CHATEAU, 67240 BISCHWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1057020.9266506345,
+        "Lambert ordonnée": 6863026.737729952,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.864607,
+          48.78325699999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81072743800022,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE AU PARADIS DES BAMBINS",
+        "Adresse": "17 RUE DE L’HIVER, 67240 OBERHOFFEN-SUR-MODER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1057210.7723218726,
+        "Lambert ordonnée": 6864691.926990852,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.869068999999996,
+          48.772821
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 92465239900016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS LOUPS",
+        "Adresse": "14 RUE DE BISCHWILLER, 67240 OBERHOFFEN-SUR-MODER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1057609.5096843522,
+        "Lambert ordonnée": 6863553.976572186,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.88767,
+          48.936278
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 53141381300019,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE PRIVEE POMME D'ANOURES",
+        "Adresse": "30 RUE DU FROHNACKER, 67250 SOULTZ-SOUS-FORETS",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1057849.5957318214,
+        "Lambert ordonnée": 6881779.146499147,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.873982999999999,
+          48.785382
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 51518921500012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS PANDAS",
+        "Adresse": "48 RUE DU DOCTEUR SCHWEITZER, 67240 OBERHOFFEN-SUR-MODER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1057883.8085685,
+        "Lambert ordonnée": 6864970.207264163,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.896957000000001,
+          48.898683000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 89229352300015,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAM CHEZ LES P'TITS POTIERS",
+        "Adresse": "41 RUE DES POTIERS, 67660 BETSCHDORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1058787.7696740571,
+        "Lambert ordonnée": 6877648.702626397,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.879722999999997,
+          48.69169500000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84042885800012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE JARDIN MAGIQUE",
+        "Adresse": "93 ROUTE NATIONALE, 67760 GAMBSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1058948.0511951623,
+        "Lambert ordonnée": 6854599.678055439,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.900294,
+          48.902086
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79506813900034,
+        "Type_etablissement": "Crèche",
+        "Nom": "A PETITS PAS",
+        "Adresse": "10 RUE DE L'ANGLE, 67660 BETSCHDORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1059008.48086192,
+        "Lambert ordonnée": 6878041.553587177,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.893008000000001,
+          48.80234200000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75009581200020,
+        "Type_etablissement": "Crèche",
+        "Nom": "WALDHASLE",
+        "Adresse": "20 RUE DE LA CLAIRIERE, 67240 SCHIRRHEIN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1059162.2006712118,
+        "Lambert ordonnée": 6866938.745615297,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.902257999999999,
+          48.894779
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88354135100010,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAM LES CIGOGNEAUX",
+        "Adresse": "8 RUE DES POTIERS, 67660 BETSCHDORF",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1059202.5962093628,
+        "Lambert ordonnée": 6877239.517428289,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.906579999999999,
+          48.92640300000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77564176400623,
+        "Type_etablissement": "Crèche",
+        "Nom": "CRECHE DE HOHWILLER",
+        "Adresse": "6 RUE DE L’ECOLE, 67250 SOULTZ-SOUS-FORETS",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1059300.4995255528,
+        "Lambert ordonnée": 6880769.0038801655,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.912311999999998,
+          48.94986799999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82124359900056,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE PETIT PRINCE",
+        "Adresse": "12 RUE DU TILLEUL, 67250 SCHŒNENBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1059557.475752725,
+        "Lambert ordonnée": 6883399.438846801,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.891965000000002,
+          48.699166
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88942819900026,
+        "Type_etablissement": "Crèche",
+        "Nom": "PLANETE EVEIL",
+        "Adresse": "3 RUE DES POMPIERS, 67760 GAMBSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1059795.9842153173,
+        "Lambert ordonnée": 6855484.424801187,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.903465999999998,
+          48.757429
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75264833700026,
+        "Type_etablissement": "Crèche",
+        "Nom": "AU MONDE DES BEUBIZ",
+        "Adresse": "2 RUE DES VERGERS, 67410 ROHRWILLER",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1060238.771652862,
+        "Lambert ordonnée": 6862002.228858,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.908644999999998,
+          48.802129
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 98511951000016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE COCON DE MINA",
+        "Adresse": "50 RUE PRINCIPALE, 67240 SCHIRRHEIN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1060310.0004958443,
+        "Lambert ordonnée": 6866986.346651762,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.903268999999998,
+          48.72484899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90883098700016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LEZARTISTES",
+        "Adresse": "43 RUE DE GAMBSHEIM, 67850 HERRLISHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1060449.1079677574,
+        "Lambert ordonnée": 6858385.947118965,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.903928999999998,
+          48.72587399999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79122396900019,
+        "Type_etablissement": "Crèche",
+        "Nom": "LEZAR'TISTES",
+        "Adresse": " RUE DE GAMBSHEIM, 67850 HERRLISHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1060490.4905041496,
+        "Lambert ordonnée": 6858502.702126909,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.906216999999998,
+          48.733214
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82240026300015,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS D'HERRLISHEIM",
+        "Adresse": "3 RUE DE BISCHWILLER, 67850 HERRLISHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1060607.7928650938,
+        "Lambert ordonnée": 6859327.655400817,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.909437999999999,
+          48.690681000000005
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 80870563600013,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MOUSSAILLONS DU RHIN",
+        "Adresse": "1 ROUTE DE L’ILL, 67760 GAMBSHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1061138.055996055,
+        "Lambert ordonnée": 6854622.649820386,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.946795000000001,
+          49.03567
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79865778900011,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MARMOTTES EN HERBE",
+        "Adresse": "7 RUE DES ECOLES, 67160 WISSEMBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1061480.7853927384,
+        "Lambert ordonnée": 6893080.243549107,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.926251999999998,
+          48.80889899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75009581200038,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHOUETTES",
+        "Adresse": "2 RUE DU FAUCON, 67240 SCHIRRHOFFEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1061553.8036282132,
+        "Lambert ordonnée": 6867818.12371641,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.949634999999998,
+          49.037732999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95382881100026,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LOUPI'DOUX",
+        "Adresse": "2 RUE DES FLEURS, 67160 WISSEMBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1061673.6707316872,
+        "Lambert ordonnée": 6893322.231565778,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.942609000000001,
+          48.93040300000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81061677100012,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE BRIN D'EVEIL",
+        "Adresse": "3 RUE DU TILLEUL, 67250 HOFFEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1061907.5834196666,
+        "Lambert ordonnée": 6881377.484738351,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.953458999999996,
+          48.90291899999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 92244092000010,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE RITTERSHOFFEN",
+        "Adresse": "85 RUE PRINCIPALE, 67690 RITTERSHOFFEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1062892.5990024686,
+        "Lambert ordonnée": 6878377.028692333,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.956467999999998,
+          48.82997300000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95394701700026,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE MONDE FANTASTIQUE DES CHERUBINS",
+        "Adresse": "26 RUE DE HAGUENAU, 67620 SOUFFLENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1063621.5618236335,
+        "Lambert ordonnée": 6870295.531728103,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.950579999999999,
+          48.759635999999986
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 81100451400022,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE COCON DES CHERUBINS 2",
+        "Adresse": "6 RUE DES ECRIVAINS, 67410 DRUSENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1063680.1667178292,
+        "Lambert ordonnée": 6862463.105337206,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.961307000000001,
+          48.82871999999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88960749500013,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE SOUFFLENHEIM",
+        "Adresse": "9 RUE DE SCHIRRHEIN, 67620 SOUFFLENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1063984.8466576166,
+        "Lambert ordonnée": 6870178.777119168,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.970886999999999,
+          48.82820300000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 75009581200012,
+        "Type_etablissement": "Crèche",
+        "Nom": "L'ILE AUX CALINS",
+        "Adresse": "41 RUE DE ROUNTZENHEIM, 67620 SOUFFLENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1064690.3692997124,
+        "Lambert ordonnée": 6870165.6070999205,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.978006,
+          48.90085400000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 82124359900031,
+        "Type_etablissement": "Crèche",
+        "Nom": "BULLES D'ANGES",
+        "Adresse": "1 RUE DU TEMPLE NEUF, 67690 HATTEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1064703.0126598394,
+        "Lambert ordonnée": 6878260.9490006,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.983859999999999,
+          48.934965999999996
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84067823900012,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES P'TITS INDIENS",
+        "Adresse": "16 RUE NEUVE, 67250 ASCHBACH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1064892.06231697,
+        "Lambert ordonnée": 6882073.745511795,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.991784999999999,
+          48.96783700000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 92290140000015,
+        "Type_etablissement": "Crèche",
+        "Nom": "MAM LES PETITS FILOUS",
+        "Adresse": "37 RUE DES EGLISES, 67160 SEEBACH",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1065240.5859145052,
+        "Lambert ordonnée": 6885758.503473488,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.984862063826022,
+          48.79051699548201
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 99271146500011,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA CABANE DES REVES",
+        "Adresse": "1 RUE DES PEUPLIERS, 67770 SESSENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1065978.65,
+        "Lambert ordonnée": 6866048.27,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.018253999999999,
+          48.84042
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 92025290500012,
+        "Type_etablissement": "Crèche",
+        "Nom": "AU JARDIN DES CHTOUP'S",
+        "Adresse": "73 RUE PRINCIPALE, 67480 LEUTENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1068074.5292951472,
+        "Lambert ordonnée": 6871741.113758979,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.029471999999998,
+          48.824002
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79984065700016,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES GIRAFONS",
+        "Adresse": "2 RUE IMMENLACH, 67480 RŒSCHWOOG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1069012.4250830386,
+        "Lambert ordonnée": 6869971.6056215735,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.041102000000004,
+          48.83023000000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79984065700024,
+        "Type_etablissement": "Crèche",
+        "Nom": "D'FELDMISLE",
+        "Adresse": "6 RUE DES CHAMPS, 67480 RŒSCHWOOG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1069820.3794252565,
+        "Lambert ordonnée": 6870717.111918896,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.049569,
+          48.90241499999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 90185677300022,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES MINI MOYS",
+        "Adresse": "3 RUE DU STADE, 67470 NIEDERRŒDERN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1069927.732546883,
+        "Lambert ordonnée": 6878767.076491921,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.05373,
+          48.84231400000003
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95253032700032,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE ROPPENHEIM",
+        "Adresse": "10 RUE PRINCIPALE, 67480 ROPPENHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1070659.581159911,
+        "Lambert ordonnée": 6872117.234103492,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.084022999999998,
+          48.86265200000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95253032700040,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE BEINHEIM",
+        "Adresse": "29 RUE PRINCIPALE, 67930 BEINHEIM",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1072732.8167441525,
+        "Lambert ordonnée": 6874516.648788785,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.104891044363912,
+          48.89485202719504
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95253032700065,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES CHERUBINS DE SELTZ",
+        "Adresse": "10 RUE DE LA GARE, 67470 SELTZ",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1074029.3,
+        "Lambert ordonnée": 6878188.43,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.109510000000004,
+          48.89289799999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79360231900014,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE LES ANOLIS",
+        "Adresse": "12 RUE DU PONT DU RHIN, 67470 SELTZ",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1074381.3034413557,
+        "Lambert ordonnée": 6877993.488267392,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.135167999999998,
+          48.97702600000001
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 84103656900017,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LUTINS DU PONT",
+        "Adresse": "32 RUE DES TIRAILLEURS TUNISIENS, 67630 SCHEIBENHARD",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1075650.6846620291,
+        "Lambert ordonnée": 6887450.95258224,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.153268999999998,
+          48.931476
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79360231900022,
+        "Type_etablissement": "Crèche",
+        "Nom": "MICRO CRECHE LES PETITS PIRATES DE MATRA",
+        "Adresse": "10 RUE DE LA MAIRIE, 67470 MOTHERN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1077303.285948868,
+        "Lambert ordonnée": 6882482.613804717,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.181186999999998,
+          48.974352999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 95382881100018,
+        "Type_etablissement": "Crèche",
+        "Nom": "LES LOUPI'DOUX",
+        "Adresse": "6 RUE DE LA CASERNE, 67630 LAUTERBOURG",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 1079031.771905591,
+        "Lambert ordonnée": 6887374.242679246,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.040233999999997,
+          48.934315999999995
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 88214950300014,
+        "Type_etablissement": "Crèche",
+        "Nom": "LA MAISON CITROUILLE",
+        "Adresse": "1 RUE VERTE, 67260 HARSKIRCHEN",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 995875.7713632344,
+        "Lambert ordonnée": 6878053.3429263495,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.044769030956678,
+          48.97305804664261
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 92808231200010,
+        "Type_etablissement": "Crèche",
+        "Nom": "LE NID DES CIGOGNEAUX",
+        "Adresse": "1 RUE DU CASTEL, 67260 KESKASTEL",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 995987.0,
+        "Lambert ordonnée": 6882373.0,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.095719999999998,
+          48.932032
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 79458546300043,
+        "Type_etablissement": "Crèche",
+        "Nom": "1,2,3 SOLEIL",
+        "Adresse": "16 RUE VINCENT D'INDY, 67260 SARRE-UNION",
+        "Restauration": null,
+        "Effectifs": null,
+        "Lambert abscisse": 999948.688945653,
+        "Lambert ordonnée": 6878009.032165919,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.711977999999999,
+          48.604484000000014
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600280,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS CRONENBOURG - RESTAURANT UNIVERSITAIRE CRONENBOURG",
+        "Adresse": "RUE DU LOESS, 67200 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1047202.0233049542,
+        "Lambert ordonnée": 6844171.814606073,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.732506999999998,
+          48.60787999999998
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600371,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS GALLIA - RESTAURANT UNIVERSITAIRE GALLIA",
+        "Adresse": "QUAI DU MAIRE DIETRICH, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1048690.2810319178,
+        "Lambert ordonnée": 6844639.137081172,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737484901849596,
+          48.5289210325419
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600124,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS ILLKIRCH - RESTAURANT UNIVERSITAIRE ILLKIRCH",
+        "Adresse": "ROUTE DU RHIN, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1049582.927745897,
+        "Lambert ordonnée": 6835899.242660733,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.745962089162593,
+          48.57926733971299
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 32582607100012,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS - LE STIFT",
+        "Adresse": "QUAI SAINT-THOMAS, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1049871.52505686,
+        "Lambert ordonnée": 6841523.514954755,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746691000000001,
+          48.577221
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600389,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS - CAFETERIA DU CARDO",
+        "Adresse": "RUE DE L'ECARLATE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1049938.862346113,
+        "Lambert ordonnée": 6841299.667274722,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.747316999999997,
+          48.55722699999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600132,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS PAUL APPELL - RESTAURANT UNIVERSITAIRE PAUL APPELL",
+        "Adresse": "RUE DU JURA, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1050118.507002546,
+        "Lambert ordonnée": 6839083.774216059,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754461999999998,
+          48.582964999999994
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 77883684100016,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS - FEC",
+        "Adresse": "PLACE SAINT-ETIENNE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1050472.6443795778,
+        "Lambert ordonnée": 6841971.52995677,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.753048931756253,
+          48.56129597002351
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600470,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS - CAFETERIA INSPE",
+        "Adresse": "AVENUE DE COLMAR, 67100 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1050513.52,
+        "Lambert ordonnée": 6839560.72,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.764963989615029,
+          48.578385016780764
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600405,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS - CAFETERIA LE PATIO",
+        "Adresse": "RUE RENE DESCARTES, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1051276.56,
+        "Lambert ordonnée": 6841509.97,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7659639999999985,
+          48.58177199999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600116,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS ESPLANADE - RESTAURANT UNIVERSITAIRE ESPLANADE",
+        "Adresse": "BOULEVARD DE LA VICTOIRE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1051327.4796118694,
+        "Lambert ordonnée": 6841890.259958959,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767793033525395,
+          48.57892996621862
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600397,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS - CAFETERIA FACULTE DE DROIT",
+        "Adresse": "PLACE D'ATHENES, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1051481.21,
+        "Lambert ordonnée": 6841583.03,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.768136059711173,
+          48.58035601589305
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600413,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS - CAFETERIA LA MISHA",
+        "Adresse": "ALLEE DU GENERAL ROUVILLOIS, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1051496.9,
+        "Lambert ordonnée": 6841742.8,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.772983,
+          48.58304399999999
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": 18670644600306,
+        "Type_etablissement": "CROUS",
+        "Nom": "CROUS - CAFETERIA DU P.E.G.E",
+        "Adresse": "AVENUE DE LA FORET-NOIRE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1051835.7195830657,
+        "Lambert ordonnée": 6842062.66111049,
+        "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.112691611326234,
           48.90133298870857
         ]
@@ -746,28 +13836,6 @@ var enseignement = {
         "Lambert abscisse": 1001825.3,
         "Lambert ordonnée": 6867598.2,
         "Structure": "Rauwiller",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.122626950628746,
-          48.928658981434694
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 10066190900018,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAM LES PETITES LENTILLES",
-        "Adresse": " RUE DES PRES, 67260 RIMSDORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1001937.0,
-        "Lambert ordonnée": 6877737.0,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -952,28 +14020,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.132471999999997,
-          48.390982
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564203600583,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA GAMINERIE AGF",
-        "Adresse": "3 RUE DES ECOLES, 67420 SAULXURES",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1005784.3634413396,
-        "Lambert ordonnée": 6818079.533618443,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.132621703752075,
           48.39098728503618
         ]
@@ -1106,28 +14152,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.1861799999999985,
-          48.94102899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79458546300027,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA MAISON DES LUTINS",
-        "Adresse": "12 RUE DES REMPARTS, 67430 DIEMERINGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1006514.3402065936,
-        "Lambert ordonnée": 6879355.535808382,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.187686821657544,
           48.94339838529673
         ]
@@ -1186,28 +14210,6 @@ var enseignement = {
         "Lambert abscisse": 1006718.3,
         "Lambert ordonnée": 6883883.7,
         "Structure": "CSC Sarre-Union",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.190806364254995,
-          48.94014194996367
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671741D",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège de l'Eichel",
-        "Adresse": "6 RUE DU COLLÈGE, 67430 DIEMERINGEN",
-        "Restauration": 1.0,
-        "Effectifs": 266.0,
-        "Lambert abscisse": 1006858.0,
-        "Lambert ordonnée": 6879275.0,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -1282,28 +14284,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.195447279943691,
-          48.86815765224819
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670014B",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège des racines et des ailes",
-        "Adresse": "1 RUE DU COLLÈGE, 67320 DRULINGEN",
-        "Restauration": 1.0,
-        "Effectifs": 423.0,
-        "Lambert abscisse": 1007622.6,
-        "Lambert ordonnée": 6871299.7,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.198400072041638,
           48.891104230924654
         ]
@@ -1318,28 +14298,6 @@ var enseignement = {
         "Lambert abscisse": 1007703.3,
         "Lambert ordonnée": 6873859.2,
         "Structure": "Drulingen",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.196476999999998,
-          48.863783
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670105200070,
-        "Type_etablissement": "Crèche",
-        "Nom": "A PETITS PAS",
-        "Adresse": "23 RUE DE PHALSBOURG, 67320 DRULINGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1007723.8710130552,
-        "Lambert ordonnée": 6870817.95525257,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -1568,28 +14526,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.204372999999999,
-          48.46220700000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 34447157800015,
-        "Type_etablissement": "Crèche",
-        "Nom": "AGF  LE P'TIOT",
-        "Adresse": "28 RUE DU GENERAL LECLERC, 67570 LA BROQUE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1010678.3839272624,
-        "Lambert ordonnée": 6826266.203008304,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.204516325230524,
           48.46177847179021
         ]
@@ -1678,28 +14614,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.209875537173809,
-          48.46617484796928
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671697F",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Frison Roche",
-        "Adresse": "149 RUE DU GÉNÉRAL DE GAULLE, 67130 LA BROQUE",
-        "Restauration": 1.0,
-        "Effectifs": 481.0,
-        "Lambert abscisse": 1011061.1,
-        "Lambert ordonnée": 6826728.3,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.209461313535057,
           48.45979677906004
         ]
@@ -1714,50 +14628,6 @@ var enseignement = {
         "Lambert abscisse": 1011068.3,
         "Lambert ordonnée": 6826018.7,
         "Structure": "AGF67",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.210345999999999,
-          48.458364
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 85120213500014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES BAMBINS DE LA VALLEE",
-        "Adresse": "16 RUE DE SCHIRMECK, 67570 ROTHAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1011142.1021922048,
-        "Lambert ordonnée": 6825863.147043714,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.212462977410962,
-          48.47431698642599
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 99020312700016,
-        "Type_etablissement": "Crèche",
-        "Nom": "AU PAYS DE MYIA",
-        "Adresse": "2 ROUTE DE FRECONRUPT, 67130 LA BROQUE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1011203.84,
-        "Lambert ordonnée": 6827642.28,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -1942,50 +14812,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.230617165289163,
-          48.48356217104681
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670068K",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Haute Bruche",
-        "Adresse": "18 RUE DES GRIVES, 67130 SCHIRMECK",
-        "Restauration": 1.0,
-        "Effectifs": 386.0,
-        "Lambert abscisse": 1012488.7,
-        "Lambert ordonnée": 6828740.2,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.231456735086654,
-          48.484528626580925
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670067J",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel Haute Bruche",
-        "Adresse": "18 RUE DES GRIVES, 67130 SCHIRMECK",
-        "Restauration": 1.0,
-        "Effectifs": 132.0,
-        "Lambert abscisse": 1012544.9,
-        "Lambert ordonnée": 6828850.8,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.258650847919806,
           48.805113459915155
         ]
@@ -2162,28 +14988,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.257658000000002,
-          48.49603
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90918950800015,
-        "Type_etablissement": "Crèche",
-        "Nom": "CHEZ LILY",
-        "Adresse": "8 RUE DE LA GARE, 67130 RUSS",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1014409.4107856952,
-        "Lambert ordonnée": 6830231.471798118,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.29900715412764,
           48.948043626134776
         ]
@@ -2286,28 +15090,6 @@ var enseignement = {
         "Lambert abscisse": 1016271.6,
         "Lambert ordonnée": 6811779.0,
         "Structure": "MJC Vivarium",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.287874999999999,
-          48.52191100000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 38848414900025,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE AGF",
-        "Adresse": "12 RUE DE LA PAIX, 67130 LUTZELHOUSE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1016482.4663296096,
-        "Lambert ordonnée": 6833224.966748492,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -2558,72 +15340,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.312924520001162,
-          48.52262039756946
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672579P",
-        "Type_etablissement": "Collège",
-        "Nom": "Cours privé Saint-Thomas d'Aquin - Collège",
-        "Adresse": "LE MULLERHOF, 67280 URMATT",
-        "Restauration": 1.0,
-        "Effectifs": 42.0,
-        "Lambert abscisse": 1018325.2,
-        "Lambert ordonnée": 6833404.4,
-        "Structure": "Newrest",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.312924520001162,
-          48.52262039756946
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672582T",
-        "Type_etablissement": "Lycée",
-        "Nom": "Cours privé Saint-Thomas d'Aquin - Lycée",
-        "Adresse": "LE MULLERHOF, 67280 URMATT",
-        "Restauration": 1.0,
-        "Effectifs": 22.0,
-        "Lambert abscisse": 1018325.2,
-        "Lambert ordonnée": 6833404.4,
-        "Structure": "Newrest",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.298487506145079,
-          48.34332143966042
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671601B",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège",
-        "Adresse": "4 RUE BELLE VUE, 67220 VILLÉ",
-        "Restauration": 1.0,
-        "Effectifs": 474.0,
-        "Lambert abscisse": 1018345.1,
-        "Lambert ordonnée": 6813445.7,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.299372099233244,
           48.34278382207586
         ]
@@ -2638,28 +15354,6 @@ var enseignement = {
         "Lambert abscisse": 1018413.8,
         "Lambert ordonnée": 6813389.6,
         "Structure": "MJC Vivarium",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.304757999999998,
-          48.344546
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84235536400022,
-        "Type_etablissement": "Crèche",
-        "Nom": "ENFANTS DE NATURE",
-        "Adresse": "4 RUE DE LA LIBERATION, 67220 VILLE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1018801.6152162995,
-        "Lambert ordonnée": 6813606.904145565,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -2704,28 +15398,6 @@ var enseignement = {
         "Lambert abscisse": 1018956.7,
         "Lambert ordonnée": 6849554.1,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.307796000000001,
-          48.34614599999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95338012800017,
-        "Type_etablissement": "Crèche",
-        "Nom": "KODO Prestations - KOD",
-        "Adresse": "16 RUE BEAU REGARD, 67220 VILLE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1019016.6830317436,
-        "Lambert ordonnée": 6813796.746935079,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -2792,28 +15464,6 @@ var enseignement = {
         "Lambert abscisse": 1019244.5,
         "Lambert ordonnée": 6830123.6,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.326128999999998,
-          48.526537000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 43144359700015,
-        "Type_etablissement": "Crèche",
-        "Nom": "ACTI JEUNES LES PTITS BOUTS DE CHOU",
-        "Adresse": "71 RUE DU GENERAL DE GAULLE, 67280 URMATT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1019274.9713232792,
-        "Lambert ordonnée": 6833892.444055374,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -2954,72 +15604,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.351727803102949,
-          48.730592430241835
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672534R",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent du Haut-Barr",
-        "Adresse": "4 RUE JEAN DE MANDERSCHEID, 67700 SAVERNE",
-        "Restauration": 1.0,
-        "Effectifs": 664.0,
-        "Lambert abscisse": 1019912.7,
-        "Lambert ordonnée": 6856647.3,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.368348307879217,
-          48.91591427381988
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671739B",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège",
-        "Adresse": "29 ROUTE DE ZITTERSHEIM, 67290 WINGEN-SUR-MODER",
-        "Restauration": 1.0,
-        "Effectifs": 217.0,
-        "Lambert abscisse": 1019993.9,
-        "Lambert ordonnée": 6877289.5,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.355432999999998,
-          48.74619800000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81235437100013,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS CHATELAINS",
-        "Adresse": "10 COTE DE SAVERNE, 67700 SAVERNE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1020089.1519595612,
-        "Lambert ordonnée": 6858394.759727493,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.352207610581268,
           48.70204299049997
         ]
@@ -3130,94 +15714,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.358835000000001,
-          48.74757
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 34883131400029,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ASSOCIATION  LES BAMBINS",
-        "Adresse": "33 RUE DU SERPENT, 67700 SAVERNE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1020330.5011790508,
-        "Lambert ordonnée": 6858560.868171348,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.360222999999998,
-          48.74273300000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87747860200015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA COUR DES PETITS",
-        "Adresse": "17  GRAND-RUE, 67700 SAVERNE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1020462.0830357528,
-        "Lambert ordonnée": 6858029.522165919,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.360523616847585,
-          48.74086799429743
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670057Y",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Leclerc",
-        "Adresse": "8 RUE POINCARÉ, 67700 SAVERNE",
-        "Restauration": 1.0,
-        "Effectifs": 833.0,
-        "Lambert abscisse": 1020495.6,
-        "Lambert ordonnée": 6857823.7,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.360921215935775,
-          48.74068771218689
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671987W",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Poincaré",
-        "Adresse": "17 RUE POINCARÉ, 67700 SAVERNE",
-        "Restauration": 1.0,
-        "Effectifs": 443.0,
-        "Lambert abscisse": 1020525.9,
-        "Lambert ordonnée": 6857805.3,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.361764082501563,
           48.739740789315405
         ]
@@ -3298,50 +15794,6 @@ var enseignement = {
         "Lambert abscisse": 1020742.2,
         "Lambert ordonnée": 6857945.8,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.364451999999999,
-          48.737629999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 26670056600075,
-        "Type_etablissement": "Crèche",
-        "Nom": "MULTI ACCUEIL LE PAYS ENCHANTE",
-        "Adresse": "17 AVENUE DE LA ROSERAIE, 67700 SAVERNE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1020803.9282068134,
-        "Lambert ordonnée": 6857480.190061847,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.364736757987543,
-          48.734656962369534
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671986V",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Les Sources",
-        "Adresse": "10 RUE SAINTE-MARIE, 67700 SAVERNE",
-        "Restauration": 1.0,
-        "Effectifs": 599.0,
-        "Lambert abscisse": 1020843.1,
-        "Lambert ordonnée": 6857151.3,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -3438,28 +15890,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.370880115712275,
-          48.73524626865714
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670058Z",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel Jules Verne",
-        "Adresse": "31 RUE SAINT NICOLAS, 67700 SAVERNE",
-        "Restauration": 1.0,
-        "Effectifs": 423.0,
-        "Lambert abscisse": 1021290.6,
-        "Lambert ordonnée": 6857241.7,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.338877683959015,
           48.30634596230706
         ]
@@ -3540,28 +15970,6 @@ var enseignement = {
         "Lambert abscisse": 1021758.7,
         "Lambert ordonnée": 6857290.7,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.374506582191127,
-          48.68857798100393
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671985U",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Léonard de Vinci",
-        "Adresse": "2 RUE ALBERT SCHWEITZER, 67440 MARMOUTIER",
-        "Restauration": 1.0,
-        "Effectifs": 403.0,
-        "Lambert abscisse": 1021844.2,
-        "Lambert ordonnée": 6852075.8,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -3658,50 +16066,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.399946000000001,
-          48.801816
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 92009086700010,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA MAISON DES ASSISTANTES MATERNELLES DES PAPOOSES",
-        "Adresse": "219  GRAND RUE, 67330 DOSSENHEIM-SUR-ZINSEL",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1023012.7226377396,
-        "Lambert ordonnée": 6864750.515876064,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.400352,
-          48.800070000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84532077900034,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA MAISON DE NINON",
-        "Adresse": "20 RUE DES VIOLETTES, 67330 DOSSENHEIM-SUR-ZINSEL",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1023053.310501474,
-        "Lambert ordonnée": 6864558.341292927,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.405027950774571,
           48.80668988488713
         ]
@@ -3738,28 +16102,6 @@ var enseignement = {
         "Lambert abscisse": 1023394.2,
         "Lambert ordonnée": 6867254.4,
         "Structure": "Dossenheim-sur-Zinsel",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.394094962976226,
-          48.66934897397214
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 94320813200010,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE NID DES CHOUETTES",
-        "Adresse": "4 RUE DE L'ARTISANAT, 67440 SOMMERAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1023402.79,
-        "Lambert ordonnée": 6850021.29,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -3966,28 +16308,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.427664999999999,
-          48.83034399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564203601409,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE AGF",
-        "Adresse": "5 RUE D'INGWILLER, 67330 NEUWILLER-LES-SAVERNE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1024867.7542270182,
-        "Lambert ordonnée": 6868031.334118527,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.424273743018321,
           48.78963102831157
         ]
@@ -4098,28 +16418,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.440981977847375,
-          48.87233796895238
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87931987900026,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ILE AUX DOUDOUS",
-        "Adresse": "121 RUE PRINCIPALE, 67340 WEINBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1025581.34,
-        "Lambert ordonnée": 6872748.32,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.4020123361099,
           48.37005686030145
         ]
@@ -4178,28 +16476,6 @@ var enseignement = {
         "Lambert abscisse": 1025980.9,
         "Lambert ordonnée": 6803997.5,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.394790999999999,
-          48.254472
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87884348100010,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES OUISTITIS A LA MONTAGNE",
-        "Adresse": "46 RUE DE LA LIBERTE, 67600 KINTZHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1026019.3659189504,
-        "Lambert ordonnée": 6803978.45252192,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -4288,50 +16564,6 @@ var enseignement = {
         "Lambert abscisse": 1026377.5,
         "Lambert ordonnée": 6805636.6,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.433626827129548,
-          48.639595662201614
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671740C",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Marcel Pagnol",
-        "Adresse": "ROUTE DE ROMANSWILLER, 67310 WASSELONNE",
-        "Restauration": 1.0,
-        "Effectifs": 519.0,
-        "Lambert abscisse": 1026494.9,
-        "Lambert ordonnée": 6846881.3,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.402708,
-          48.268493
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77881759300057,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA CAPUCINE",
-        "Adresse": "12 RUE DE RIBEAUVILLE, 67730 CHATENOIS",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1026519.2235573056,
-        "Lambert ordonnée": 6805567.065090803,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -4450,28 +16682,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.407760316822058,
-          48.27085249268358
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671962U",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège des Châteaux",
-        "Adresse": "23 ROUTE ROMAINE, 67730 CHÂTENOIS",
-        "Restauration": 1.0,
-        "Effectifs": 532.0,
-        "Lambert abscisse": 1026878.9,
-        "Lambert ordonnée": 6805849.8,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.4640729715270115,
           48.934106975283726
         ]
@@ -4508,28 +16718,6 @@ var enseignement = {
         "Lambert abscisse": 1026901.5,
         "Lambert ordonnée": 6846309.9,
         "Structure": "AGF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.439612999999998,
-          48.64389200000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81975716200022,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES APPRENTIS SAGES",
-        "Adresse": "7 RUE DES PAQUERETTES, 67310 WASSELONNE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1026908.4200304748,
-        "Lambert ordonnée": 6847382.956035435,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -4670,50 +16858,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.444408999999999,
-          48.638066000000016
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 51206987300036,
-        "Type_etablissement": "Crèche",
-        "Nom": "ASSOCIATION LES P TITS LUTINS",
-        "Adresse": "84 RUE DU GENERAL DE GAULLE, 67310 WASSELONNE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1027297.6346685638,
-        "Lambert ordonnée": 6846756.146972481,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.444990952363275,
-          48.63818204447352
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 93014679000025,
-        "Type_etablissement": "Crèche",
-        "Nom": "NAMASTE MICROCRECHE",
-        "Adresse": "11 COUR DU CHATEAU, 67310 WASSELONNE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1027339.72,
-        "Lambert ordonnée": 6846771.44,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.4452627136609415,
           48.63904722637319
         ]
@@ -4780,28 +16924,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.4513529999999975,
-          48.70214399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81975716200014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES APPRENTIS SAGES",
-        "Adresse": " PLACE DES TILLEULS, 67700 WOLSCHHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1027407.07859734,
-        "Lambert ordonnée": 6853897.632574112,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.446001110019255,
           48.638986311516774
         ]
@@ -4838,28 +16960,6 @@ var enseignement = {
         "Lambert abscisse": 1027428.5,
         "Lambert ordonnée": 6842785.9,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.466243999999999,
-          48.86368199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84532077900026,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA MAISON DE NINON",
-        "Adresse": "13 RUE DU COMMERCE, 67340 INGWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1027485.8147885248,
-        "Lambert ordonnée": 6871891.80609697,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -4978,28 +17078,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.470241408543962,
-          48.87383987398875
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670035Z",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège",
-        "Adresse": "4 RUE DU GYMNASE, 67340 INGWILLER",
-        "Restauration": 1.0,
-        "Effectifs": 280.0,
-        "Lambert abscisse": 1027714.7,
-        "Lambert ordonnée": 6873036.1,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.4272775638484685,
           48.36395411184002
         ]
@@ -5014,28 +17092,6 @@ var enseignement = {
         "Lambert abscisse": 1027744.9,
         "Lambert ordonnée": 6816262.4,
         "Structure": "AGF67",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.450674000000002,
-          48.63766700000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89035081200016,
-        "Type_etablissement": "Crèche",
-        "Nom": "BABY TREES",
-        "Adresse": "26 RUE DU GENERAL DE GAULLE, 67310 WASSELONNE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1027761.015846168,
-        "Lambert ordonnée": 6846737.845574297,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -5080,28 +17136,6 @@ var enseignement = {
         "Lambert abscisse": 1027998.7,
         "Lambert ordonnée": 6828939.9,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4456352950794855,
-          48.537459596942156
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671828Y",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Louis Arbogast",
-        "Adresse": "13 RUE DU DR SCHWEITZER, 67190 MUTZIG",
-        "Restauration": 1.0,
-        "Effectifs": 661.0,
-        "Lambert abscisse": 1028017.2,
-        "Lambert ordonnée": 6835594.6,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -5176,28 +17210,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.428542,
-          48.32258900000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91449338200016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE SAPIN DES PETITS OURS",
-        "Adresse": "7 ROUTE DU VIN, 67650 DAMBACH-LA-VILLE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1028096.1268643192,
-        "Lambert ordonnée": 6811677.217829828,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.47557442696,
           48.87484739684883
         ]
@@ -5212,28 +17224,6 @@ var enseignement = {
         "Lambert abscisse": 1028098.9,
         "Lambert ordonnée": 6873170.1,
         "Structure": "AGF67",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.465316,
-          48.75511500000002
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82757689300024,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS AMOURS DES CHERUBINS",
-        "Adresse": "12 RUE DE L'ECOLE, 67490 DETTWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1028100.1256145022,
-        "Lambert ordonnée": 6859835.652370432,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -5308,72 +17298,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.469408670858299,
-          48.761080683693834
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672197Z",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Tomi Ungerer",
-        "Adresse": "RUE MARIE CURIE, 67490 DETTWILLER",
-        "Restauration": 1.0,
-        "Effectifs": 237.0,
-        "Lambert abscisse": 1028363.0,
-        "Lambert ordonnée": 6860514.9,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4321850000000005,
-          48.30153699999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80179034600028,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA CABANE ENCHANTEE DE SCHERWILLER",
-        "Adresse": "17 RUE DES ROSSIGNOLS, 67750 SCHERWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1028497.00825471,
-        "Lambert ordonnée": 6809356.206544425,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.452816999999998,
-          48.535627
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 38974220600029,
-        "Type_etablissement": "Crèche",
-        "Nom": "MARIE LOUISE PIRE",
-        "Adresse": "2 RUE DU SPIESS, 67190 MUTZIG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1028558.016293121,
-        "Lambert ordonnée": 6835421.0611304,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.456463700807287,
           48.57594305938583
         ]
@@ -5388,50 +17312,6 @@ var enseignement = {
         "Lambert abscisse": 1028574.0,
         "Lambert ordonnée": 6839910.9,
         "Structure": "ALEF - Dangolsheim",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.471845999999999,
-          48.754392
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82215638600010,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAM LES CHRYSALIDES",
-        "Adresse": "27 RUE DES VOSGES, 67490 DETTWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1028583.9708836046,
-        "Lambert ordonnée": 6859782.5473764,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.478156244113986,
-          48.82748174766205
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672118N",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel agricole privé Schattenmann",
-        "Adresse": "88 GRAND RUE, 67330 BOUXWILLER",
-        "Restauration": 0.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1028586.5,
-        "Lambert ordonnée": 6867922.5,
-        "Structure": "Dupont restauration",
         "Biodéchets": null
       }
     },
@@ -5498,28 +17378,6 @@ var enseignement = {
         "Lambert abscisse": 1028635.9,
         "Lambert ordonnée": 6818446.0,
         "Structure": "AGF67",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.436406717747714,
-          48.32438112687729
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670011Y",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège du Bernstein",
-        "Adresse": "4 RUE DU COLLÈGE, 67650 DAMBACH-LA-VILLE",
-        "Restauration": 1.0,
-        "Effectifs": 366.0,
-        "Lambert abscisse": 1028667.0,
-        "Lambert ordonnée": 6811908.8,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -5638,72 +17496,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.457875999999999,
-          48.537472
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81244950200267,
-        "Type_etablissement": "Crèche",
-        "Nom": "HAPILI MUTZIG",
-        "Adresse": "1 PLACE DE L’ABATTOIR, 67190 MUTZIG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1028919.333176354,
-        "Lambert ordonnée": 6835646.895508059,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.482649082472225,
-          48.826532260016954
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672076T",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège du Bastberg",
-        "Adresse": "BOULEVARD KOCH, 67330 BOUXWILLER",
-        "Restauration": 1.0,
-        "Effectifs": 570.0,
-        "Lambert abscisse": 1028921.8,
-        "Lambert ordonnée": 6867835.8,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4340709999999985,
-          48.25232299999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89918251300015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS KOLAMS",
-        "Adresse": "2 ALLEE THOMAS EDISON, 67600 SELESTAT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1028943.63445646,
-        "Lambert ordonnée": 6803902.889785246,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.435293053145411,
           48.26410243935381
         ]
@@ -5740,50 +17532,6 @@ var enseignement = {
         "Lambert abscisse": 1028969.9,
         "Lambert ordonnée": 6804729.7,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.476371,
-          48.741457
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82757689300016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS COEURS DES CHERUBINS",
-        "Adresse": "3 RUE DU STADE, 67490 LUPSTEIN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1028997.5904073636,
-        "Lambert ordonnée": 6858365.527525045,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.483880626586566,
-          48.82567172142951
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670007U",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Adrien Zeller",
-        "Adresse": "4 PLACE DU CHÂTEAU, 67330 BOUXWILLER",
-        "Restauration": 1.0,
-        "Effectifs": 564.0,
-        "Lambert abscisse": 1029017.5,
-        "Lambert ordonnée": 6867745.4,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -5880,28 +17628,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.4508930000000015,
-          48.406499999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79420326500036,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS BARR'BOUILLEURS",
-        "Adresse": "5 RUE DES JARDINS, 67140 BARR",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029224.847194094,
-        "Lambert ordonnée": 6821082.218747805,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.473602494041506,
           48.66343835588368
         ]
@@ -5916,28 +17642,6 @@ var enseignement = {
         "Lambert abscisse": 1029285.5,
         "Lambert ordonnée": 6849693.8,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.451856000000002,
-          48.40733199999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89218609900016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA CABANE DES CIGOGNEAUX",
-        "Adresse": "29  GRAND RUE, 67140 BARR",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029290.7919650606,
-        "Lambert ordonnée": 6821178.5671101,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -5990,50 +17694,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.467824999999999,
-          48.572395
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80492955200011,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE LES PETITS HIBOUX",
-        "Adresse": "54 ROUTE DU VIN, 67310 DANGOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029433.0785401606,
-        "Lambert ordonnée": 6839564.436224254,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.441749999999999,
-          48.26083400000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80306181100011,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE TRAIN DES GALOPINS",
-        "Adresse": "5 RUE DES VOSGES, 67600 SELESTAT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029459.5227445804,
-        "Lambert ordonnée": 6804879.333993685,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.467983987654675,
           48.569911896516246
         ]
@@ -6078,28 +17738,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.443564999999997,
-          48.266904
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 44886840601637,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE ATTITUDE",
-        "Adresse": "5 RUE DE BARR, 67600 SELESTAT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029556.06086557,
-        "Lambert ordonnée": 6805560.471444537,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.494453995393624,
           48.8600422169582
         ]
@@ -6122,116 +17760,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.443118000000002,
-          48.256457
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80306181100029,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA ROUTE DES GALOPINS",
-        "Adresse": "21 ROUTE DE COLMAR, 67600 SELESTAT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029588.2431919453,
-        "Lambert ordonnée": 6804399.346516091,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.444121000000002,
-          48.262896000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79145032300104,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS GEANTS",
-        "Adresse": "10 RUE DE LA MANUFACTURE, 67600 SELESTAT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029622.3106596709,
-        "Lambert ordonnée": 6805118.040577633,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4571480547800215,
-          48.41344184188627
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0673006D",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège de Heiligenstein",
-        "Adresse": "1 RUE DU TORENBERG, 67140 BARR",
-        "Restauration": 1.0,
-        "Effectifs": 374.0,
-        "Lambert abscisse": 1029643.5,
-        "Lambert ordonnée": 6821878.7,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.456880060168286,
-          48.409263664358924
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672133E",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège de Barr",
-        "Adresse": "5 RUE DU LYCÉE, 67140 BARR",
-        "Restauration": 1.0,
-        "Effectifs": 483.0,
-        "Lambert abscisse": 1029649.9,
-        "Lambert ordonnée": 6821413.9,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.456473000000002,
-          48.402845000000006
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82157579200014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE BARR",
-        "Adresse": "5 RUE DE LA GARE, 67140 BARR",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029660.0686734264,
-        "Lambert ordonnée": 6820699.879802716,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.48541730868228,
           48.73626839094146
         ]
@@ -6246,72 +17774,6 @@ var enseignement = {
         "Lambert abscisse": 1029694.5,
         "Lambert ordonnée": 6857827.3,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.457798657049757,
-          48.40911556724403
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670002N",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Edouard Schuré",
-        "Adresse": "2 RUE DU LYCÉE, 67140 BARR",
-        "Restauration": 1.0,
-        "Effectifs": 467.0,
-        "Lambert abscisse": 1029718.7,
-        "Lambert ordonnée": 6821401.3,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.465372999999996,
-          48.49561799999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82493635500083,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES ANGES DES VIOLETTES",
-        "Adresse": "39 RUE DU GENERAL DE GAULLE, 67560 ROSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029734.8694652026,
-        "Lambert ordonnée": 6831032.971701786,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4800949999999995,
-          48.667768
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80070545100022,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS LOUPS",
-        "Adresse": "39 RUE PRINCIPALE, 67310 RANGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029735.5810772844,
-        "Lambert ordonnée": 6850201.474625926,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -6364,28 +17826,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.469995999999998,
-          48.530556000000004
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82248188300012,
-        "Type_etablissement": "Crèche",
-        "Nom": "PICCOLO",
-        "Adresse": "3 RUE MERCURE, 67190 MUTZIG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029856.1381446812,
-        "Lambert ordonnée": 6834929.867637524,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.463662583518902,
           48.452213278607026
         ]
@@ -6400,28 +17840,6 @@ var enseignement = {
         "Lambert abscisse": 1029881.3,
         "Lambert ordonnée": 6826208.7,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.478252,
-          48.62162000000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 92059808300011,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUDI'POTES",
-        "Adresse": "132 RUE DU GENERAL DE GAULLE, 67520 MARLENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029890.894247964,
-        "Lambert ordonnée": 6845071.543878642,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -6452,94 +17870,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.448254,
-          48.260121000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95071738900056,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA FARANDOLE",
-        "Adresse": "5 RUE DU DOCTEUR BRONNER, 67600 SELESTAT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029945.8979722944,
-        "Lambert ordonnée": 6804827.372605841,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.449012,
-          48.262912
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89464498800012,
-        "Type_etablissement": "Crèche",
-        "Nom": "ADELA",
-        "Adresse": "9 ROUTE DE STRASBOURG, 67600 SELESTAT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1029984.5942841752,
-        "Lambert ordonnée": 6805140.24432355,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.448992731877997,
-          48.252313487437924
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671832C",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Jean Baptiste Schwilgué",
-        "Adresse": "1 RUE DU STADE, 67600 SÉLESTAT",
-        "Restauration": 1.0,
-        "Effectifs": 1133.0,
-        "Lambert abscisse": 1030049.5,
-        "Lambert ordonnée": 6803964.1,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.450056733757132,
-          48.26222520162036
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671696E",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel Economique",
-        "Adresse": "PLACE DU DOCTEUR FRANÇOIS KRETZ, 67600 SÉLESTAT",
-        "Restauration": 1.0,
-        "Effectifs": 500.0,
-        "Lambert abscisse": 1030066.3,
-        "Lambert ordonnée": 6805068.4,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.450401334655442,
           48.25633649379457
         ]
@@ -6554,72 +17884,6 @@ var enseignement = {
         "Lambert abscisse": 1030128.7,
         "Lambert ordonnée": 6804416.4,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.451148,
-          48.261829
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88805037400014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES SENS DU JEU",
-        "Adresse": "4 ALLEE DU MAIRE KNOLL, 67600 SELESTAT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1030149.6357783638,
-        "Lambert ordonnée": 6805028.997517761,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.460264000000001,
-          48.360045
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 78902017900014,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE GAIA",
-        "Adresse": "8 RUE DE LA MONTAGNE, 67680 EPFIG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1030208.7795852585,
-        "Lambert ordonnée": 6815966.020384575,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.451193110146282,
-          48.252786616841064
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671830A",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Jean Mentel",
-        "Adresse": "QUAI ALBRECHT, 67600 SÉLESTAT",
-        "Restauration": 1.0,
-        "Effectifs": 742.0,
-        "Lambert abscisse": 1030209.6,
-        "Lambert ordonnée": 6804025.8,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -6716,28 +17980,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.474709,
-          48.49693799999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90010861400018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE PETIT TERRIER",
-        "Adresse": "2 RUE DE BISCHOFFSHEIM, 67560 ROSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1030415.2161493544,
-        "Lambert ordonnée": 6831218.495354536,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.467780130100907,
           48.41091122115351
         ]
@@ -6774,28 +18016,6 @@ var enseignement = {
         "Lambert abscisse": 1030451.9,
         "Lambert ordonnée": 6805968.2,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.477795999999999,
-          48.52503499999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80369040300016,
-        "Type_etablissement": "Crèche",
-        "Nom": "MON MONDE A MOI",
-        "Adresse": "4 RUE DE L'ALTENBERG, 67120 DORLISHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1030465.895023286,
-        "Lambert ordonnée": 6834349.729728516,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -6870,72 +18090,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.4567860000074635,
-          48.26383427185267
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670071N",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Docteur Koeberlé",
-        "Adresse": "BOULEVARD CHARLEMAGNE, 67600 SÉLESTAT",
-        "Restauration": 1.0,
-        "Effectifs": 1278.0,
-        "Lambert abscisse": 1030554.8,
-        "Lambert ordonnée": 6805275.1,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.477051806276984,
-          48.50057729064198
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671913R",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Herrade de Landsberg",
-        "Adresse": "4 RUE DU STADE, 67560 ROSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 656.0,
-        "Lambert abscisse": 1030565.1,
-        "Lambert ordonnée": 6831632.2,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.456925277002202,
-          48.26305579939863
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672134F",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Beatus Rhenanus",
-        "Adresse": "2 BOULEVARD CHARLEMAGNE, 67600 SÉLESTAT",
-        "Restauration": 1.0,
-        "Effectifs": 413.0,
-        "Lambert abscisse": 1030570.0,
-        "Lambert ordonnée": 6805189.3,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.456886922120811,
           48.260513193891235
         ]
@@ -6994,28 +18148,6 @@ var enseignement = {
         "Lambert abscisse": 1030610.2,
         "Lambert ordonnée": 6845322.6,
         "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.488393,
-          48.621112999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82289952200012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE P'TIT EMILE",
-        "Adresse": "68 RUE DU GENERAL DE GAULLE, 67520 MARLENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1030640.3303749058,
-        "Lambert ordonnée": 6845057.685668016,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -7090,50 +18222,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.472259999999999,
-          48.386058000000006
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90517505500029,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES JARDINS D'ATHENA",
-        "Adresse": "32 RUE PRINCIPALE, 67140 SAINT-PIERRE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1030932.2635041918,
-        "Lambert ordonnée": 6818902.980447499,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.492836999999998,
-          48.621629999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 35212603100033,
-        "Type_etablissement": "Crèche",
-        "Nom": "HANSEL ET GRETEL",
-        "Adresse": "11 RUE DU LIN, 67520 MARLENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1030964.0787506618,
-        "Lambert ordonnée": 6845133.686412709,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.472399465410396,
           48.38223938247011
         ]
@@ -7148,116 +18236,6 @@ var enseignement = {
         "Lambert abscisse": 1030966.6,
         "Lambert ordonnée": 6818479.8,
         "Structure": "AGF67",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.479197999999999,
-          48.461957999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80425054600012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS CRECHE ET GARDERIE",
-        "Adresse": "97 RUE DU GENERAL GOURAUD, 67210 OBERNAI",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1030966.7831707752,
-        "Lambert ordonnée": 6827355.174806496,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.480068974229395,
-          48.46228800900687
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 98880657600019,
-        "Type_etablissement": "Crèche",
-        "Nom": "BABYCHOU SERVICES",
-        "Adresse": "1 PLACE DE L'ETOILE, 67210 OBERNAI",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031028.99,
-        "Lambert ordonnée": 6827395.45,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.489872000000001,
-          48.56989599999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83284946700010,
-        "Type_etablissement": "Crèche",
-        "Nom": "AU FIL DES PAS",
-        "Adresse": "37 RUE DE MOLSHEIM, 67120 SOULTZ-LES-BAINS",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031072.7441043772,
-        "Lambert ordonnée": 6839379.283951881,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.494367120792618,
-          48.61885862881052
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671989Y",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Grégoire de Tours",
-        "Adresse": "2 RUE DU COLLÈGE, 67520 MARLENHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 604.0,
-        "Lambert abscisse": 1031094.2,
-        "Lambert ordonnée": 6844832.5,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.487786999999998,
-          48.540595
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81755158300013,
-        "Type_etablissement": "Crèche",
-        "Nom": "A P'TITS PAS",
-        "Adresse": "1 RUE DE LA SOURCE, 67120 MOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031104.1931128318,
-        "Lambert ordonnée": 6836118.515493564,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -7288,50 +18266,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.490760599432358,
-          48.5355854259969
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670041F",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Henri Meck",
-        "Adresse": "10 RUE HENRI MECK, 67120 MOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 1187.0,
-        "Lambert abscisse": 1031355.0,
-        "Lambert ordonnée": 6835575.0,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.49073310762775,
-          48.534789960889256
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672131C",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Henri Meck",
-        "Adresse": "10 RUE HENRI MECK, 67120 MOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 352.0,
-        "Lambert abscisse": 1031358.0,
-        "Lambert ordonnée": 6835486.6,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.490181949539903,
           48.52395972998088
         ]
@@ -7354,28 +18288,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.491842999999999,
-          48.536132
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 26670050900026,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE FAMILIALE MUNICIPALE",
-        "Adresse": "7 RUE HENRI MECK, 67120 MOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031431.325285922,
-        "Lambert ordonnée": 6835640.204148451,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.485613146431468,
           48.46129046080506
         ]
@@ -7390,28 +18302,6 @@ var enseignement = {
         "Lambert abscisse": 1031444.5,
         "Lambert ordonnée": 6827308.0,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.491705594552114,
-          48.53133739915627
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672606U",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Rembrandt Bugatti",
-        "Adresse": "1 PLACE LA ROYALE BUGATTI, 67120 MOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 633.0,
-        "Lambert abscisse": 1031451.5,
-        "Lambert ordonnée": 6835107.5,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -7464,50 +18354,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.4869606488726905,
-          48.461157489578945
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670049P",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Freppel",
-        "Adresse": "25 RUE DU GÉNÉRAL GOURAUD, 67210 OBERNAI",
-        "Restauration": 1.0,
-        "Effectifs": 697.0,
-        "Lambert abscisse": 1031544.8,
-        "Lambert ordonnée": 6827298.9,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.493819999999999,
-          48.54050600000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 39842019000033,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS OURS",
-        "Adresse": "6 RUE NOTRE-DAME, 67120 MOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031549.383920423,
-        "Lambert ordonnée": 6836133.952282462,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.494192359847853,
           48.54444782113162
         ]
@@ -7552,50 +18398,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.494805,
-          48.54292599999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82289952200020,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE PTIT EMILE",
-        "Adresse": "31 RUE DE LA BOUCHERIE, 67120 MOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031606.672466904,
-        "Lambert ordonnée": 6836406.672706072,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.501590999999998,
-          48.61476999999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80070545100030,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES COCCINELLES",
-        "Adresse": "5 RUE DES PRES, 67520 MARLENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031651.6966378988,
-        "Lambert ordonnée": 6844409.01178983,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.52442583769639,
           48.87287476471591
         ]
@@ -7610,28 +18412,6 @@ var enseignement = {
         "Lambert abscisse": 1031688.8,
         "Lambert ordonnée": 6873155.2,
         "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.514171000000001,
-          48.74998200000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79455629000029,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA RONDE DES PETITS PETONS",
-        "Adresse": "4 RUE DE LA CHAPELLE, 67270 WILWISHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031718.5860628613,
-        "Lambert ordonnée": 6859469.981912416,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -7662,28 +18442,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.496392727535987,
-          48.53950894726023
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670043H",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel Camille Schneider",
-        "Adresse": "13 AVENUE DE LA GARE, 67120 MOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 336.0,
-        "Lambert abscisse": 1031745.3,
-        "Lambert ordonnée": 6836034.1,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.496751954815127,
           48.54211282047826
         ]
@@ -7698,50 +18456,6 @@ var enseignement = {
         "Lambert abscisse": 1031755.3,
         "Lambert ordonnée": 6836324.6,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.490422999999998,
-          48.46728899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 52857022902001,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS CHAPERONS ROUGES OBERNAI",
-        "Adresse": "1 RUE DE PULLY, 67210 OBERNAI",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031761.6214555504,
-        "Lambert ordonnée": 6827993.910535151,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.490264123197592,
-          48.462460663827535
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670050R",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Paul Emile Victor",
-        "Adresse": "1A AVENUE DE GAIL, 67210 OBERNAI",
-        "Restauration": 1.0,
-        "Effectifs": 253.0,
-        "Lambert abscisse": 1031780.4,
-        "Lambert ordonnée": 6827457.4,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -7772,50 +18486,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.490494066145932,
-          48.45986046424773
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672132D",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Freppel",
-        "Adresse": "1 RUE DU STADE, 67210 OBERNAI",
-        "Restauration": 1.0,
-        "Effectifs": 442.0,
-        "Lambert abscisse": 1031813.8,
-        "Lambert ordonnée": 6827169.8,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.509605999999998,
-          48.679330000000014
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90070038600015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS PETONS",
-        "Adresse": "17 ROUTE DE HOCHFELDEN, 67370 WILLGOTTHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031831.8682737842,
-        "Lambert ordonnée": 6851608.449555177,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.529621631131977,
           48.90772631250582
         ]
@@ -7829,8 +18499,8 @@ var enseignement = {
         "Effectifs": 37.0,
         "Lambert abscisse": 1031847.1,
         "Lambert ordonnée": 6877046.1,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 6",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -7860,50 +18530,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.489119999999999,
-          48.42971899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81327864500029,
-        "Type_etablissement": "Crèche",
-        "Nom": "LUCIOLES & CABRIOLES",
-        "Adresse": "422 ROUTE NATIONALE, 67210 GOXWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031902.7498850592,
-        "Lambert ordonnée": 6823819.012025261,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.4955310000000015,
-          48.502787000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84510831500019,
-        "Type_etablissement": "Crèche",
-        "Nom": "MILLE ET UN PAS",
-        "Adresse": "4 RUE JEAN MARIE LEHN, 67560 ROSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1031914.0709238756,
-        "Lambert ordonnée": 6831954.95704578,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.507648306884254,
           48.63184094153136
         ]
@@ -7918,72 +18544,6 @@ var enseignement = {
         "Lambert abscisse": 1031989.2,
         "Lambert ordonnée": 6846329.2,
         "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.514642,
-          48.708753
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95357589100023,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE HIBOU DES CHERUBINS",
-        "Adresse": "14 RUE PRINCIPALE, 67270 SAESSOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1032015.1014120508,
-        "Lambert ordonnée": 6854895.505103175,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.493866999999996,
-          48.46039199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82755130000011,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE LES CANAILLOUX",
-        "Adresse": "2 BOULEVARD DE L’EUROPE, 67210 OBERNAI",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1032059.4046821428,
-        "Lambert ordonnée": 6827242.967799577,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.500710960941873,
-          48.53686487354072
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672615D",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Louis Marchal",
-        "Adresse": "2 ROUTE DE LA HARDT, 67120 MOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 802.0,
-        "Lambert abscisse": 1032080.3,
-        "Lambert ordonnée": 6835758.8,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -8058,28 +18618,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.496901221346838,
-          48.46710384283478
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671685T",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée agricole d'Obernai",
-        "Adresse": "44 BOULEVARD DE L'EUROPE, 67210 OBERNAI",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1032240.9,
-        "Lambert ordonnée": 6828000.6,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.5134002085991165,
           48.658681365869036
         ]
@@ -8124,28 +18662,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.530089995782661,
-          48.8473309783324
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81072743800030,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE REPERE DES BOUT'CHOU",
-        "Adresse": "1 RUE DES TILLEULS, 67330 OBERMODERN-ZUTZENDORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1032266.45,
-        "Lambert ordonnée": 6870343.33,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.515455873612915,
           48.669061584452805
         ]
@@ -8160,28 +18676,6 @@ var enseignement = {
         "Lambert abscisse": 1032327.1,
         "Lambert ordonnée": 6850493.3,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.498824008636578,
-          48.46037465507215
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672078V",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Europe",
-        "Adresse": "AVENUE DES CHAMPS VERTS, 67210 OBERNAI",
-        "Restauration": 1.0,
-        "Effectifs": 536.0,
-        "Lambert abscisse": 1032425.4,
-        "Lambert ordonnée": 6827261.9,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -8226,28 +18720,6 @@ var enseignement = {
         "Lambert abscisse": 1032450.8,
         "Lambert ordonnée": 6866651.3,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.505645,
-          48.53225100000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 47918275003216,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA RUCHE",
-        "Adresse": "24 ROUTE ECOSPACE, 67120 MOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1032473.2084508518,
-        "Lambert ordonnée": 6835267.497056816,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -8322,50 +18794,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.502152999999998,
-          48.48306599999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95172155400024,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES BUBBELE DU PIEMONT",
-        "Adresse": "17 RUE DU STADE, 67870 BISCHOFFSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1032527.3807785348,
-        "Lambert ordonnée": 6829794.170326314,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.540007000000001,
-          48.909057
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90331960600021,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS NEKEL",
-        "Adresse": "24 RUE DE LA LIBERATION, 67340 OFFWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1032598.607477696,
-        "Lambert ordonnée": 6877237.523720898,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.540206180729141,
           48.90969597922822
         ]
@@ -8379,52 +18807,8 @@ var enseignement = {
         "Effectifs": 44.0,
         "Lambert abscisse": 1032609.1,
         "Lambert ordonnée": 6877309.3,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.503531999999997,
-          48.482491
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81099965600012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CIGOGNEAUX",
-        "Adresse": "21 RUE DU STADE, 67870 BISCHOFFSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1032632.766228894,
-        "Lambert ordonnée": 6829736.165373045,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.501665000000001,
-          48.45969399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670348800231,
-        "Type_etablissement": "Crèche",
-        "Nom": "MULTI ACCUEIL",
-        "Adresse": "18 RUE DES ERABLES, 67210 OBERNAI",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1032639.4091221684,
-        "Lambert ordonnée": 6827198.3267213935,
-        "Structure": null,
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 6",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -8468,28 +18852,6 @@ var enseignement = {
         "Lambert abscisse": 1032731.4,
         "Lambert ordonnée": 6839380.9,
         "Structure": "Lutins des boius",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.5108749999999995,
-          48.53262800000002
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 52857022900484,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS CHAPERONS ROUGES MOLSHEIM",
-        "Adresse": " RUE GASTON ROMAZZOTTI, 67120 MOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1032856.3195923896,
-        "Lambert ordonnée": 6835331.371469442,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -8586,28 +18948,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.515004,
-          48.537353
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83331151700019,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE LES DOUX REVEURS",
-        "Adresse": " ROUTE INDUSTRIELLE DE LA HARDT, 67120 MOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1033130.648356609,
-        "Lambert ordonnée": 6835873.17918886,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.5104107834227944,
           48.45221759098982
         ]
@@ -8666,28 +19006,6 @@ var enseignement = {
         "Lambert abscisse": 1033425.0,
         "Lambert ordonnée": 6870996.7,
         "Structure": "Le verrier gourmand",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.501388999999997,
-          48.30403900000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77881759300040,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MARCASSINS",
-        "Adresse": "3 PLACE DE LA MAIRIE, 67600 EBERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1033604.7917286528,
-        "Lambert ordonnée": 6809923.984894864,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -8784,28 +19102,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.528867000000001,
-          48.57019900000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81329565600017,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS D'ERGERSHEIM",
-        "Adresse": "3 IMPASSE DU CHATEAU, 67120 ERGERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1033943.0740357502,
-        "Lambert ordonnée": 6839577.119321565,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.529234613165207,
           48.56957932963398
         ]
@@ -8820,50 +19116,6 @@ var enseignement = {
         "Lambert abscisse": 1033974.1,
         "Lambert ordonnée": 6839509.9,
         "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.525870999999999,
-          48.522933
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81244950200044,
-        "Type_etablissement": "Crèche",
-        "Nom": "HAPILI",
-        "Adresse": "8 RUE DE LA CHAPELLE, 67120 ALTORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1034023.399048445,
-        "Lambert ordonnée": 6834318.725056322,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.517347999999997,
-          48.420576000000004
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80127084400096,
-        "Type_etablissement": "Crèche",
-        "Nom": "BIM BAM",
-        "Adresse": " RUE DU MOULIN, 67210 VALFF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1034045.6238040008,
-        "Lambert ordonnée": 6822923.40697534,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -8960,28 +19212,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.531868028030992,
-          48.555153009118655
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 94522615700010,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE CALLIHOP",
-        "Adresse": "127 RUE D'ALTORF, 67120 DACHSTEIN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1034260.06,
-        "Lambert ordonnée": 6837919.95,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.498598246479389,
           48.162151648126276
         ]
@@ -9018,28 +19248,6 @@ var enseignement = {
         "Lambert abscisse": 1034344.9,
         "Lambert ordonnée": 6823028.2,
         "Structure": "AGF67",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.533167031366188,
-          48.550899031123265
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 98373455900021,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE DACHSTEIN",
-        "Adresse": "153 RUE D'ALTORF, 67120 DACHSTEIN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1034382.9,
-        "Lambert ordonnée": 6837453.33,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -9114,28 +19322,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.557594,
-          48.80662600000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87931987900018,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ILE AUX DOUDOUS",
-        "Adresse": " RUE DES 4 VENTS, 67350 RINGENDORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1034542.6326859304,
-        "Lambert ordonnée": 6865940.881573672,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.559645723540443,
           48.81986701490002
         ]
@@ -9172,28 +19358,6 @@ var enseignement = {
         "Lambert abscisse": 1034656.9,
         "Lambert ordonnée": 6832112.4,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.532686,
-          48.50207499999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82158791200014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS LOU",
-        "Adresse": "54 RUE DU CIMETIERE, 67870 GRIESHEIM-PRES-MOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1034658.8385235677,
-        "Lambert ordonnée": 6832032.763780871,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -9356,28 +19520,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.567089572844274,
-          48.76042719459355
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671961T",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Gustave Doré",
-        "Adresse": "14B RUE DE SCHERLENHEIM, 67270 HOCHFELDEN",
-        "Restauration": 1.0,
-        "Effectifs": 717.0,
-        "Lambert abscisse": 1035535.8,
-        "Lambert ordonnée": 6860853.0,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.54029422580033,
           48.44925051076814
         ]
@@ -9532,50 +19674,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.559725999999999,
-          48.61075
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 98119649600013,
-        "Type_etablissement": "Crèche",
-        "Nom": "MES PREMIERS SIGNES",
-        "Adresse": "7 RUE DE LA MAIRIE, 67117 FURDENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1035955.8151202978,
-        "Lambert ordonnée": 6844208.595497731,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.567661999999997,
-          48.682445000000016
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80127084400112,
-        "Type_etablissement": "Crèche",
-        "Nom": "KIKERIKI",
-        "Adresse": "1 PLACE DE LA MAIRIE, 67270 DURNINGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1036079.0649962672,
-        "Lambert ordonnée": 6852199.73290019,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.531604994888454,
           48.26573195149704
         ]
@@ -9611,29 +19709,7 @@ var enseignement = {
         "Effectifs": 65.0,
         "Lambert abscisse": 1036124.9,
         "Lambert ordonnée": 6878587.1,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.563279999999999,
-          48.61697000000002
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 85332389700027,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE NID D'ABEILLES",
-        "Adresse": "6 RUE DU STADE, 67117 FURDENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1036177.4394326338,
-        "Lambert ordonnée": 6844914.056215925,
-        "Structure": null,
+        "Structure": "ComCom Niederbronn 2",
         "Biodéchets": null
       }
     },
@@ -9656,28 +19732,6 @@ var enseignement = {
         "Lambert abscisse": 1036235.5,
         "Lambert ordonnée": 6844490.4,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.5690009999999965,
-          48.657510999999985
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 44153386600014,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE PARENTALE AU PAYS DES LUTINS",
-        "Adresse": "2 RUE DE LA GRANGE DIMIERE, 67370 SCHNERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1036337.7874313188,
-        "Lambert ordonnée": 6849437.986249653,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -9752,28 +19806,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.536783999999998,
-          48.267016
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75341276600044,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE P'TIT HOME D'ALSACE",
-        "Adresse": "22 RUE DE WITTISHEIM, 67600 MUTTERSHOLTZ",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1036461.3827609934,
-        "Lambert ordonnée": 6805966.0321386,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.542970184568251,
           48.33712432329914
         ]
@@ -9788,28 +19820,6 @@ var enseignement = {
         "Lambert abscisse": 1036471.6,
         "Lambert ordonnée": 6813771.7,
         "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.585123956361186,
-          48.807802003418466
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91198972100020,
-        "Type_etablissement": "Crèche",
-        "Nom": "AUX MILLE COULEURS",
-        "Adresse": "2 RUE GAERTEL, 67350 ETTENDORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1036553.57,
-        "Lambert ordonnée": 6866188.41,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -9950,28 +19960,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.539525,
-          48.237331000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95071738900023,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA CLE DES CHAMPS",
-        "Adresse": "7 RUE PRINCIPALE, 67600 BALDENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1036854.005992381,
-        "Lambert ordonnée": 6802683.94740137,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.540107554280851,
           48.23732890243068
         ]
@@ -9986,28 +19974,6 @@ var enseignement = {
         "Lambert abscisse": 1036897.2,
         "Lambert ordonnée": 6802686.2,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.590882999999998,
-          48.792445
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82408482600034,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS LOUPS D'ALTECKENDORF",
-        "Adresse": "10 RUE DU POMMIER, 67270 ALTECKENDORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1037075.034911213,
-        "Lambert ordonnée": 6864508.320502998,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -10104,28 +20070,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.570894033035214,
-          48.532176060568
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672896J",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Nicolas Copernic",
-        "Adresse": "RUE DU STADE, 67120 DUTTLENHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 373.0,
-        "Lambert abscisse": 1037283.1,
-        "Lambert ordonnée": 6835535.9,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.595217366858935,
           48.79252489359561
         ]
@@ -10140,28 +20084,6 @@ var enseignement = {
         "Lambert abscisse": 1037392.4,
         "Lambert ordonnée": 6864535.7,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.592672000000003,
-          48.75707100000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88112213900010,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHAUDOUDOUX",
-        "Adresse": "33 RUE DES VOSGES, 67270 SCHWINDRATZHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1037434.8724005852,
-        "Lambert ordonnée": 6860589.482936186,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -10205,7 +20127,7 @@ var enseignement = {
         "Effectifs": 58.0,
         "Lambert abscisse": 1037627.5,
         "Lambert ordonnée": 6881082.9,
-        "Structure": "ComCom Niederbronn",
+        "Structure": "ComCom Niederbronn 2",
         "Biodéchets": null
       }
     },
@@ -10324,28 +20246,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.548169999999996,
-          48.172386999999986
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82902559200017,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE LES CHERUBINS DU RIED",
-        "Adresse": "1 RUE DE L'ORTENBOURG, 67390 MARCKOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1037910.29980917,
-        "Lambert ordonnée": 6795515.135161056,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.551918499508574,
           48.209445671869325
         ]
@@ -10390,28 +20290,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5590639999999985,
-          48.283950999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75341276600036,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE P'TIT HOME D'ALSACE",
-        "Adresse": "1 RUE DU CYGNE, 67600 HILSENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038003.2892087236,
-        "Lambert ordonnée": 6807940.267188012,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.568505761421535,
           48.37979765434581
         ]
@@ -10425,7 +20303,7 @@ var enseignement = {
         "Effectifs": 104.0,
         "Lambert abscisse": 1038086.5,
         "Lambert ordonnée": 6818616.0,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Kertzfeld",
         "Biodéchets": null
       }
     },
@@ -10456,28 +20334,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.550272441528101,
-          48.16297072914352
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671600A",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Jean Jacques Waltz",
-        "Adresse": "8 RUE DES TABACS, 67390 MARCKOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 550.0,
-        "Lambert abscisse": 1038126.6,
-        "Lambert ordonnée": 6794479.4,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.589662428358448,
           48.61470209153157
         ]
@@ -10492,28 +20348,6 @@ var enseignement = {
         "Lambert abscisse": 1038133.5,
         "Lambert ordonnée": 6844775.0,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.569884000000003,
-          48.37932499999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80127084400120,
-        "Type_etablissement": "Crèche",
-        "Nom": "KLIPP KLAPP",
-        "Adresse": "4 RUE DU SOLEIL, 67230 KERTZFELD",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038191.4197084708,
-        "Lambert ordonnée": 6818569.453803501,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -10537,50 +20371,6 @@ var enseignement = {
         "Lambert ordonnée": 6874971.5,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.553385999999999,
-          48.163649
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90325285600013,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'OCEAN DES CHERUBINS",
-        "Adresse": "5 AVENUE DE L EUROPE, 67390 MARCKOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038353.3649379428,
-        "Lambert ordonnée": 6794567.9908741545,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.554272000000001,
-          48.166553
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90468317400018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS LOUPS",
-        "Adresse": "18 AVENUE DE L EUROPE, 67390 MARCKOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038400.525080289,
-        "Lambert ordonnée": 6794893.9847662775,
-        "Structure": null,
-        "Biodéchets": null
       }
     },
     {
@@ -10632,28 +20422,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6065380000000005,
-          48.75784699999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82963894900018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES JARDI'POTES",
-        "Adresse": "9 RUE DU TOURNESOL, 67270 SCHWINDRATZHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038447.4565902874,
-        "Lambert ordonnée": 6860734.959645169,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.593490973365676,
           48.60825697475882
         ]
@@ -10668,50 +20436,6 @@ var enseignement = {
         "Lambert abscisse": 1038456.9,
         "Lambert ordonnée": 6844076.1,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.615416152385016,
-          48.852744708045456
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671598Y",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Val de Moder",
-        "Adresse": "13 RUE DE L'ÉCOLE, 67350 LA WALCK",
-        "Restauration": 1.0,
-        "Effectifs": 431.0,
-        "Lambert abscisse": 1038482.6,
-        "Lambert ordonnée": 6871306.7,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.588341999999998,
-          48.53938199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83404127900029,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MANNELES",
-        "Adresse": "2 RUE DE L’ARTISANAT, 67120 DUPPIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038522.6058443832,
-        "Lambert ordonnée": 6836410.264078328,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -10800,51 +20524,7 @@ var enseignement = {
         "Lambert abscisse": 1038627.4,
         "Lambert ordonnée": 6838883.5,
         "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.595712999999998,
-          48.603273
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 53780534300010,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE LE CARROUSEL AUX 1001 COULEURS",
-        "Adresse": "6 RUE LOUIS PASTEUR, 67117 ITTENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038652.6677234028,
-        "Lambert ordonnée": 6843532.491250961,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.599213,
-          48.64150999999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79455629000011,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA RONDE DES PETITS PETONS",
-        "Adresse": "23 ALLEE DE L’ECONOMIE, 67370 WIWERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038662.8306723948,
-        "Lambert ordonnée": 6847791.203111599,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -10866,28 +20546,6 @@ var enseignement = {
         "Lambert abscisse": 1038664.5,
         "Lambert ordonnée": 6801723.5,
         "Structure": "AGF67",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.599376999999996,
-          48.642956
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82944946100013,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE NID DE CIGOGNES",
-        "Adresse": "3 ALLEE DE L’ECONOMIE, 67370 WIWERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038665.5346579908,
-        "Lambert ordonnée": 6847952.391996126,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -10918,50 +20576,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.5965240000000005,
-          48.60304000000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82161751100018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS D'ITTENHEIM",
-        "Adresse": "16 ROUTE DE PARIS, 67117 ITTENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038713.8688336208,
-        "Lambert ordonnée": 6843510.110843671,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.618147999999997,
-          48.844042
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82408482600026,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS LOUPS",
-        "Adresse": "3 RUE DU RAIL, 67350 NIEDERMODERN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038739.281643572,
-        "Lambert ordonnée": 6870352.377812168,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.632530231450561,
           49.00225885224945
         ]
@@ -10975,29 +20589,7 @@ var enseignement = {
         "Effectifs": 59.0,
         "Lambert abscisse": 1038761.4,
         "Lambert ordonnée": 6887977.9,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.591952999999997,
-          48.535151
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81244950200135,
-        "Type_etablissement": "Crèche",
-        "Nom": "HAPILI DUPPIGHEIM",
-        "Adresse": "10 RUE DES SAPINS, 67120 DUPPIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1038816.057470672,
-        "Lambert ordonnée": 6835956.207661442,
-        "Structure": null,
+        "Structure": "ComCom Niederbronn 1",
         "Biodéchets": null
       }
     },
@@ -11063,29 +20655,7 @@ var enseignement = {
         "Effectifs": 89.0,
         "Lambert abscisse": 1038941.9,
         "Lambert ordonnée": 6877488.6,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.604233274645277,
-          48.65522843147309
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670107C",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Kochersberg",
-        "Adresse": "1 RUE PEREZ, 67370 TRUCHTERSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 664.0,
-        "Lambert abscisse": 1038943.2,
-        "Lambert ordonnée": 6849335.3,
-        "Structure": "Sur place",
+        "Structure": "ComCom Niederbronn 2",
         "Biodéchets": null
       }
     },
@@ -11107,7 +20677,7 @@ var enseignement = {
         "Effectifs": 106.0,
         "Lambert abscisse": 1038966.4,
         "Lambert ordonnée": 6816407.9,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Huttenheim",
         "Biodéchets": null
       }
     },
@@ -11248,28 +20818,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.60001300183868,
-          48.58083404408428
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90808798400021,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUTINS DES CHATEAUX",
-        "Adresse": "1 RUE ALBERT SCHWEITZER, 67112 BREUSCHWICKERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1039114.41,
-        "Lambert ordonnée": 6841060.64,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.581033235710926,
           48.358174202371714
         ]
@@ -11283,51 +20831,7 @@ var enseignement = {
         "Effectifs": 149.0,
         "Lambert abscisse": 1039151.9,
         "Lambert ordonnée": 6816270.3,
-        "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.584603999999994,
-          48.373715000000004
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89504153100016,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ATELIER DU NIDO",
-        "Adresse": "25 AVENUE DE LA GARE, 67230 BENFELD",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1039315.7254955972,
-        "Lambert ordonnée": 6818010.09368239,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.636131020519615,
-          48.957237826033605
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671738A",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Charles Munch",
-        "Adresse": "4 RUE DES SOEURS, 67110 NIEDERBRONN-LES-BAINS",
-        "Restauration": 1.0,
-        "Effectifs": 371.0,
-        "Lambert abscisse": 1039318.2,
-        "Lambert ordonnée": 6882995.3,
-        "Structure": "Sur place",
+        "Structure": "CC Erstein Huttenheim",
         "Biodéchets": null
       }
     },
@@ -11371,8 +20875,8 @@ var enseignement = {
         "Effectifs": 256.0,
         "Lambert abscisse": 1039388.1,
         "Lambert ordonnée": 6882861.9,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 5",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -11393,29 +20897,7 @@ var enseignement = {
         "Effectifs": 62.0,
         "Lambert abscisse": 1039390.2,
         "Lambert ordonnée": 6817816.0,
-        "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.622427999999998,
-          48.786744999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 92278399800011,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAISON D'ASSISTANTES MATERNELLES LA BEL'ESCALE",
-        "Adresse": "20 RUE HAUTE, 67270 MINVERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1039425.5964523214,
-        "Lambert ordonnée": 6864010.753772053,
-        "Structure": null,
+        "Structure": "CC Erstein Kertzfeld",
         "Biodéchets": null
       }
     },
@@ -11490,28 +20972,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6337119999999965,
-          48.907288999999984
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82187314800018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITES POMMES",
-        "Adresse": "3 RUE DE LA FORET, 67110 GUMBRECHTSHOFFEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1039467.1167498383,
-        "Lambert ordonnée": 6877440.024561599,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.590043167083863,
           48.396747872266694
         ]
@@ -11547,8 +21007,8 @@ var enseignement = {
         "Effectifs": 90.0,
         "Lambert abscisse": 1039580.1,
         "Lambert ordonnée": 6882826.6,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 5",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -11622,28 +21082,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.592202999999998,
-          48.370933999999984
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90296647200018,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE LA SAVANE",
-        "Adresse": "3 RUE DU GENERAL LECLERC, 67230 BENFELD",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1039895.475727547,
-        "Lambert ordonnée": 6817734.18758833,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.592204013776029,
           48.36868196093671
         ]
@@ -11666,28 +21104,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.604779999999998,
-          48.50457199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88407501100012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS PANDAS",
-        "Adresse": "14 RUE DU MARECHAL FOCH, 67113 BLAESHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1039959.5419673248,
-        "Lambert ordonnée": 6832617.839161125,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.639274985721138,
           48.87965958480908
         ]
@@ -11701,30 +21117,8 @@ var enseignement = {
         "Effectifs": 55.0,
         "Lambert abscisse": 1040054.6,
         "Lambert ordonnée": 6874396.9,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.585627999999998,
-          48.267515
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75341276600051,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE P'TIT HOME D'ALSACE",
-        "Adresse": "4 RUE DE LA GARE, 67820 WITTISHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1040076.5285727351,
-        "Lambert ordonnée": 6806230.64338996,
-        "Structure": null,
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 5",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -11768,29 +21162,7 @@ var enseignement = {
         "Lambert abscisse": 1040185.8,
         "Lambert ordonnée": 6838714.2,
         "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.608071994588774,
-          48.50637904338729
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88407501100020,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES KOALAS",
-        "Adresse": "14 RUE DU MARECHAL FOCH, 67113 BLAESHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1040190.59,
-        "Lambert ordonnée": 6832832.55,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -11878,29 +21250,7 @@ var enseignement = {
         "Lambert abscisse": 1040348.3,
         "Lambert ordonnée": 6838805.3,
         "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.649811999999995,
-          48.947589
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 49097180100033,
-        "Type_etablissement": "Crèche",
-        "Nom": "AU JARDIN D'ALBIN",
-        "Adresse": "40 AVENUE FOCH, 67110 NIEDERBRONN-LES-BAINS",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1040381.5025518764,
-        "Lambert ordonnée": 6881983.0410003895,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -11922,28 +21272,6 @@ var enseignement = {
         "Lambert abscisse": 1040395.8,
         "Lambert ordonnée": 6846756.9,
         "Structure": "Les champs d'escale",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.599434885788695,
-          48.37166720676742
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670003P",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Robert Schuman",
-        "Adresse": "6 RUE DU LUXEMBOURG, 67230 BENFELD",
-        "Restauration": 1.0,
-        "Effectifs": 707.0,
-        "Lambert abscisse": 1040425.4,
-        "Lambert ordonnée": 6817846.7,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -11974,28 +21302,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.647923,
-          48.90484899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95141794800019,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE LE PARADIS DES DOUDOUS",
-        "Adresse": "8 RUE DES HIRONDELLES, 67110 GUNDERSHOFFEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1040522.9798006136,
-        "Lambert ordonnée": 6877230.354456228,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.639317619869529,
           48.80205813971378
         ]
@@ -12011,50 +21317,6 @@ var enseignement = {
         "Lambert ordonnée": 6865783.2,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.623874999999998,
-          48.62751000000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79408859100035,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA JOYEUSE TRIBU",
-        "Adresse": "1 RUE DU MOULIN, 67370 STUTZHEIM-OFFENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1040567.8344835448,
-        "Lambert ordonnée": 6846343.496175349,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.603841,
-          48.37404000000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83032171700027,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE LA LUCIOLE",
-        "Adresse": "19 RUE D'OBERNAI, 67230 BENFELD",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1040735.7791147276,
-        "Lambert ordonnée": 6818128.994339962,
-        "Structure": null,
-        "Biodéchets": null
       }
     },
     {
@@ -12097,51 +21359,7 @@ var enseignement = {
         "Effectifs": 90.0,
         "Lambert abscisse": 1040820.0,
         "Lambert ordonnée": 6823172.4,
-        "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.639387969331905,
-          48.76121699564356
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 93965694800014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITES LOUTRES",
-        "Adresse": "30 RUE DE LA LIBERTE, 67670 MOMMENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1040836.21,
-        "Lambert ordonnée": 6861250.31,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.623867240162896,
-          48.582316763289626
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671686U",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Paul Wernert",
-        "Adresse": "4 RUE DU COLLÈGE, 67204 ACHENHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 479.0,
-        "Lambert abscisse": 1040861.3,
-        "Lambert ordonnée": 6841327.9,
-        "Structure": "Sur place",
+        "Structure": "CC Erstein Uttenheim",
         "Biodéchets": null
       }
     },
@@ -12207,8 +21425,8 @@ var enseignement = {
         "Effectifs": 179.0,
         "Lambert abscisse": 1040991.0,
         "Lambert ordonnée": 6877471.9,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 3",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -12230,138 +21448,6 @@ var enseignement = {
         "Lambert abscisse": 1041018.6,
         "Lambert ordonnée": 6801325.2,
         "Structure": "AGF67",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.657190645894618,
-          48.9284305942498
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671595V",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Françoise Dolto",
-        "Adresse": "14 RUE DU CERF, 67110 REICHSHOFFEN",
-        "Restauration": 1.0,
-        "Effectifs": 474.0,
-        "Lambert abscisse": 1041046.6,
-        "Lambert ordonnée": 6879888.1,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.645799000000003,
-          48.80061200000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90983620700011,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES JEUNES POUSSES",
-        "Adresse": "8 RUE DE DAUCHINGEN, 67270 HUTTENDORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041049.0933664468,
-        "Lambert ordonnée": 6865650.656263825,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64235,
-          48.758745
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 92360942400018,
-        "Type_etablissement": "Crèche",
-        "Nom": "1,2,3 SOLEIL",
-        "Adresse": "27 RUE DE LA REPUBLIQUE, 67670 MOMMENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041069.7168062284,
-        "Lambert ordonnée": 6860988.724274713,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.642134999999996,
-          48.75619
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82068687100014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE MOMMENHEIM",
-        "Adresse": "2 RUE DE LA GARE, 67670 MOMMENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041070.6302325624,
-        "Lambert ordonnée": 6860704.208056304,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6424840000000005,
-          48.756667
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 85049724900019,
-        "Type_etablissement": "Crèche",
-        "Nom": "AU PAYS DES MERVEILLES",
-        "Adresse": "40 RUE DU GENERAL LECLERC, 67670 MOMMENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041093.1263478042,
-        "Lambert ordonnée": 6860758.65926871,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.658470999999998,
-          48.931042000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91848597000019,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITES CIGOGNES",
-        "Adresse": "36 RUE DU GENERAL KOENIG, 67110 REICHSHOFFEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041123.1294953246,
-        "Lambert ordonnée": 6880183.520187271,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -12405,30 +21491,8 @@ var enseignement = {
         "Effectifs": 120.0,
         "Lambert abscisse": 1041127.6,
         "Lambert ordonnée": 6879831.0,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.658295999999999,
-          48.925573
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91876097600012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE NID'ANGES",
-        "Adresse": "10 RUE DES FORGES, 67110 REICHSHOFFEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041146.1869173156,
-        "Lambert ordonnée": 6879575.656872908,
-        "Structure": null,
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 7",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -12480,28 +21544,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.629936000000001,
-          48.580435
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83265334900031,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS PRODIGES",
-        "Adresse": "45 RUE BOURGEND, 67204 ACHENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041320.4220704236,
-        "Lambert ordonnée": 6841145.280650259,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.65256149728074,
           48.82849284236414
         ]
@@ -12537,8 +21579,8 @@ var enseignement = {
         "Effectifs": 82.0,
         "Lambert abscisse": 1041391.7,
         "Lambert ordonnée": 6877604.7,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 3",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -12647,7 +21689,7 @@ var enseignement = {
         "Effectifs": 46.0,
         "Lambert abscisse": 1041654.5,
         "Lambert ordonnée": 6811595.3,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Witternheim",
         "Biodéchets": null
       }
     },
@@ -12669,30 +21711,8 @@ var enseignement = {
         "Effectifs": 216.0,
         "Lambert abscisse": 1041664.3,
         "Lambert ordonnée": 6880490.0,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.605469999999999,
-          48.24878799999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75341276600077,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE P'TIT HOME D'ALSACE",
-        "Adresse": "24 RUE DU TRAMWAY, 67920 SUNDHOUSE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041667.6986394472,
-        "Lambert ordonnée": 6804238.478077859,
-        "Structure": null,
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 8",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -12713,7 +21733,7 @@ var enseignement = {
         "Effectifs": 95.0,
         "Lambert abscisse": 1041828.4,
         "Lambert ordonnée": 6824198.2,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Schaeffersheim",
         "Biodéchets": "SUEZ"
       }
     },
@@ -12744,72 +21764,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.608600995838591,
-          48.24974670416463
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670106B",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège du Grand Ried",
-        "Adresse": "5 RUE DU COLLÈGE, 67920 SUNDHOUSE",
-        "Restauration": 1.0,
-        "Effectifs": 458.0,
-        "Lambert abscisse": 1041893.5,
-        "Lambert ordonnée": 6804358.4,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6663079417668305,
-          48.89984397391703
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 98847696600011,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA CABANE DES DOUDOUS",
-        "Adresse": "36 RUE DES MINIERES, 67110 GUNDERSHOFFEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041901.23,
-        "Lambert ordonnée": 6876754.21,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.666307999999997,
-          48.89984400000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82404542100222,
-        "Type_etablissement": "Crèche",
-        "Nom": "INFANS GUNDERSHOFFEN",
-        "Adresse": "36 RUE DES MINIERES, 67110 GUNDERSHOFFEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041901.234090486,
-        "Lambert ordonnée": 6876754.213147493,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.616702363212289,
           48.33865525314587
         ]
@@ -12824,28 +21778,6 @@ var enseignement = {
         "Lambert abscisse": 1041916.4,
         "Lambert ordonnée": 6814258.3,
         "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.622284301199218,
-          48.39485140959735
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671604E",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé Saint-Joseph",
-        "Adresse": "1 RUE E MERTIAN, 67150 MATZENHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 374.0,
-        "Lambert abscisse": 1041963.9,
-        "Lambert ordonnée": 6820518.0,
-        "Structure": "Alsacienne de restauration",
         "Biodéchets": null
       }
     },
@@ -12898,28 +21830,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.649456000000001,
-          48.70019500000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79755683400050,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE DE L'EVEIL",
-        "Adresse": "1 RUE DE MITTELHAUSEN, 67170 MITTELSCHAEFFOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1041974.2699228711,
-        "Lambert ordonnée": 6854520.983249789,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.645923031040744,
           48.65888248532635
         ]
@@ -12956,28 +21866,6 @@ var enseignement = {
         "Lambert abscisse": 1042143.2,
         "Lambert ordonnée": 6820526.9,
         "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.639587000000001,
-          48.558482000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81169815800011,
-        "Type_etablissement": "Crèche",
-        "Nom": "BABY'BULLES",
-        "Adresse": "25 RUE DE L'ANGLE, 67810 HOLTZHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042174.3904770432,
-        "Lambert ordonnée": 6838750.787770417,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -13045,28 +21933,6 @@ var enseignement = {
         "Lambert ordonnée": 6856247.0,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.640562964026344,
-          48.556861023526864
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83778344800025,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ILL DES ENFANTS",
-        "Adresse": "17 RUE DE L'ECOLE, 67810 HOLTZHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042256.87,
-        "Lambert ordonnée": 6838575.13,
-        "Structure": null,
-        "Biodéchets": null
       }
     },
     {
@@ -13184,94 +22050,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.654380999999999,
-          48.701814
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88364555800015,
-        "Type_etablissement": "Crèche",
-        "Nom": "BRINS D'EVEIL",
-        "Adresse": "7 RUE PRINCIPALE, 67170 MITTELSCHAEFFOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042325.4876271482,
-        "Lambert ordonnée": 6854722.011535008,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.660017,
-          48.752906999999986
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90468704300011,
-        "Type_etablissement": "Crèche",
-        "Nom": "GRAINE DE MALICE",
-        "Adresse": "4 RUE DE ROME, 67670 MOMMENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042404.4774069118,
-        "Lambert ordonnée": 6860417.211381416,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.642908000000002,
-          48.558681
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82493635500034,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES ANGES DE HOLTZHEIM",
-        "Adresse": "21 RUE DU LIEUTENANT LESPAGNOL, 67810 HOLTZHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042417.7354597732,
-        "Lambert ordonnée": 6838787.268020871,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.647470040038867,
-          48.58577004142522
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 94458628800010,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ILE DES ENFANTS",
-        "Adresse": "63 RUE DU GENERAL DE GAULLE, 67203 OBERSCHAEFFOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042576.66,
-        "Lambert ordonnée": 6841813.28,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.637502305733933,
           48.46936461686214
         ]
@@ -13285,8 +22063,8 @@ var enseignement = {
         "Effectifs": 49.0,
         "Lambert abscisse": 1042602.3,
         "Lambert ordonnée": 6828852.3,
-        "Structure": "Limersheim",
-        "Biodéchets": null
+        "Structure": "CC Erstein Limersheim",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -13338,50 +22116,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.649240990694821,
-          48.589499970853446
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 93958107000025,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'AMIRAL DES CHERUBINS",
-        "Adresse": "17 RUE DES PEUPLIERS, 67203 OBERSCHAEFFOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042682.65,
-        "Lambert ordonnée": 6842234.9,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.657176999999999,
-          48.6781
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84521361000015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA BULLE DES PETITS OURS",
-        "Adresse": "9 RUE DE LA CANARDIERE, 67370 BERSTETT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042686.3017771676,
-        "Lambert ordonnée": 6852102.226492345,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.639056974284194,
           48.46860180924321
         ]
@@ -13395,8 +22129,8 @@ var enseignement = {
         "Effectifs": 103.0,
         "Lambert abscisse": 1042722.0,
         "Lambert ordonnée": 6828774.4,
-        "Structure": "Limersheim",
-        "Biodéchets": null
+        "Structure": "CC Erstein Limersheim",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -13461,30 +22195,8 @@ var enseignement = {
         "Effectifs": 29.0,
         "Lambert abscisse": 1042769.5,
         "Lambert ordonnée": 6875703.9,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.647206052592004,
-          48.53838401398767
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79482166000022,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS AVIATEURS",
-        "Adresse": "3 ALLEE DES FORGERONS, 67960 ENTZHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042867.07,
-        "Lambert ordonnée": 6836553.49,
-        "Structure": null,
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 9",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -13505,7 +22217,7 @@ var enseignement = {
         "Effectifs": 67.0,
         "Lambert abscisse": 1042891.6,
         "Lambert ordonnée": 6815581.3,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Witternheim",
         "Biodéchets": null
       }
     },
@@ -13536,116 +22248,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6385070000000015,
-          48.421956
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79845122500014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES BOUTS EN TRAIN",
-        "Adresse": "4 RUE DE L'EXPANSION, 67150 ERSTEIN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042985.824264248,
-        "Lambert ordonnée": 6823595.957168564,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.653104000000003,
-          48.58656300000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88833678100016,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ETOILE DES CHERUBINS",
-        "Adresse": "19 RUE DU GENERAL DE GAULLE, 67203 OBERSCHAEFFOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042986.2811257005,
-        "Lambert ordonnée": 6841925.737168809,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.64728499591145,
-          48.520010016574524
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564203601573,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS CHOUX AGF",
-        "Adresse": "17 RUE DES ARTISANS, 67118 GEISPOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1042993.03,
-        "Lambert ordonnée": 6834514.84,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.649522,
-          48.53846300000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80487904700012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS D'ENTZHEIM",
-        "Adresse": "14 RUE DU CORDONNIER, 67960 ENTZHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1043037.2245171288,
-        "Lambert ordonnée": 6836572.313957455,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.679274999999999,
-          48.863325
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 44781860001067,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE TIPI DES PETITS",
-        "Adresse": "8 PLACE DE LA LIBERTE, 67580 MERTZWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1043090.719098975,
-        "Lambert ordonnée": 6872756.742687074,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.643114986126474,
           48.45331676580405
         ]
@@ -13659,30 +22261,8 @@ var enseignement = {
         "Effectifs": 66.0,
         "Lambert abscisse": 1043121.3,
         "Lambert ordonnée": 6827095.9,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Limersheim",
         "Biodéchets": "SUEZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.643509,
-          48.45679799999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90489277500019,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE VOYAGE DU KOALA",
-        "Adresse": "10 RUE DU VIN, 67150 LIMERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1043127.6406348834,
-        "Lambert ordonnée": 6827483.909102801,
-        "Structure": null,
-        "Biodéchets": null
       }
     },
     {
@@ -13712,28 +22292,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.679717999999999,
-          48.839668
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 85261004700015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE NEUBOURG",
-        "Adresse": "2 RUE DE LA GARE, 67350 DAUENDORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1043278.9696814034,
-        "Lambert ordonnée": 6870132.757547541,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.6515193080275266,
           48.519793371991724
         ]
@@ -13756,28 +22314,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.651548947615875,
-          48.517972806391406
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671824U",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Jean de la Fontaine",
-        "Adresse": "1 RUE DU COLLÈGE, 67400 GEISPOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 613.0,
-        "Lambert abscisse": 1043320.7,
-        "Lambert ordonnée": 6834307.3,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.641399385648681,
           48.40161097421119
         ]
@@ -13791,30 +22327,8 @@ var enseignement = {
         "Effectifs": 59.0,
         "Lambert abscisse": 1043332.3,
         "Lambert ordonnée": 6821351.0,
-        "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.655636999999998,
-          48.545429
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79482166000014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE MONDE DES LUTINS",
-        "Adresse": "1C RUE PEGASE, 67960 ENTZHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1043442.2297976108,
-        "Lambert ordonnée": 6837371.928400086,
-        "Structure": null,
-        "Biodéchets": null
+        "Structure": "CC Erstein Mittelholz",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -13857,8 +22371,8 @@ var enseignement = {
         "Effectifs": 115.0,
         "Lambert abscisse": 1043536.4,
         "Lambert ordonnée": 6873034.2,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 4",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -13879,30 +22393,8 @@ var enseignement = {
         "Effectifs": 177.0,
         "Lambert abscisse": 1043538.7,
         "Lambert ordonnée": 6873080.8,
-        "Structure": "ComCom Niederbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.66082,
-          48.586580999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75163456900014,
-        "Type_etablissement": "Crèche",
-        "Nom": "COCCI'BULLES",
-        "Adresse": "2 ALLEE DES ROMAINS, 67202 WOLFISHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1043554.2592369644,
-        "Lambert ordonnée": 6841961.278184251,
-        "Structure": null,
-        "Biodéchets": null
+        "Structure": "ComCom Niederbronn 4",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -13932,72 +22424,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.687912995537176,
-          48.86705735016937
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671912P",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Jacques Tati",
-        "Adresse": "12 RUE LOUIS PASTEUR, 67580 MERTZWILLER",
-        "Restauration": 1.0,
-        "Effectifs": 264.0,
-        "Lambert abscisse": 1043698.7,
-        "Lambert ordonnée": 6873208.6,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.648082262873614,
-          48.420691680783186
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671779V",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel agricole d'Erstein",
-        "Adresse": "33 AVENUE DE LA GARE, 67150 ERSTEIN",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1043701.3,
-        "Lambert ordonnée": 6823497.3,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.668283918731713,
-          48.639406341943506
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672193V",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège de la Souffel",
-        "Adresse": "4 RUE DE GRIESHEIM SUR SOUFFEL, 67370 PFULGRIESHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 497.0,
-        "Lambert abscisse": 1043756.8,
-        "Lambert ordonnée": 6847856.2,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.667999584849327,
           48.632294562046425
         ]
@@ -14012,28 +22438,6 @@ var enseignement = {
         "Lambert abscisse": 1043782.6,
         "Lambert ordonnée": 6847065.7,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6786509999999994,
-          48.748783
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79755683400043,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MICRO-CRECHES DE L'EVEIL",
-        "Adresse": "7 RUE D’OSLO, 67170 BERNOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1043799.2024648824,
-        "Lambert ordonnée": 6860040.454519801,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -14086,50 +22490,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6501597588427215,
-          48.424076214914116
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672677W",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Marguerite Yourcenar",
-        "Adresse": "RUE VICTOR SCHOELCHER, 67150 ERSTEIN",
-        "Restauration": 1.0,
-        "Effectifs": 829.0,
-        "Lambert abscisse": 1043832.6,
-        "Lambert ordonnée": 6823881.9,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.670015000000002,
-          48.63218700000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81285506200046,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE 1,2,3 SOLEIL",
-        "Adresse": "24 RUE LE CORBUSIER, 67370 DINGSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1043931.5623557068,
-        "Lambert ordonnée": 6847062.539364631,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.66881684984387,
           48.5902845212299
         ]
@@ -14144,95 +22504,7 @@ var enseignement = {
         "Lambert abscisse": 1044118.7,
         "Lambert ordonnée": 6842407.1,
         "Structure": "Tribu des petits chefs",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6689549999999995,
-          48.59059800000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81114185200038,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE PETIT A PETON",
-        "Adresse": "4 RUE CHARLES ADOLPHE WURTZ, 67202 WOLFISHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1044126.8111959996,
-        "Lambert ordonnée": 6842442.490478297,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.654459936141609,
-          48.422424897777724
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670017E",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Romain Rolland",
-        "Adresse": "4 RUE DE WISSEMBOURG, 67150 ERSTEIN",
-        "Restauration": 1.0,
-        "Effectifs": 765.0,
-        "Lambert abscisse": 1044161.0,
-        "Lambert ordonnée": 6823717.4,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.673337,
-          48.629746999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84331152300016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS PAS DE DINGSHEIM",
-        "Adresse": "26 RUE DE MITTELHAUSBERGEN, 67370 DINGSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1044191.9764623533,
-        "Lambert ordonnée": 6846806.225971279,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6705919999999965,
-          48.584559000000006
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83087888000012,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ARCHE A BOUTCHOU",
-        "Adresse": "21 RUE DE LA MAIRIE, 67202 WOLFISHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1044287.0130616516,
-        "Lambert ordonnée": 6841779.448305493,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -14276,51 +22548,7 @@ var enseignement = {
         "Lambert abscisse": 1044305.6,
         "Lambert ordonnée": 6841779.0,
         "Structure": "Tribu des petits chefs",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.685079981764324,
-          48.73715496140985
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79755683400076,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MICRO-CRECHES DE L'EVEIL (MCE)",
-        "Adresse": "3 RUE DES BERGERS, 67170 KRAUTWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1044347.73,
-        "Lambert ordonnée": 6858777.89,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.675648999999999,
-          48.630807000000004
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79951712300011,
-        "Type_etablissement": "Crèche",
-        "Nom": "CHOU A LA CRECHE",
-        "Adresse": "29 RUE DE FIRMINY, 67370 DINGSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1044355.082735754,
-        "Lambert ordonnée": 6846933.943426353,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -14364,7 +22592,7 @@ var enseignement = {
         "Lambert abscisse": 1044408.4,
         "Lambert ordonnée": 6831229.7,
         "Structure": "OPAL",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -14386,29 +22614,7 @@ var enseignement = {
         "Lambert abscisse": 1044433.7,
         "Lambert ordonnée": 6831204.9,
         "Structure": "OPAL",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.688892000000001,
-          48.756948000000015
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79755683400035,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MICRO-CRECHES DE L'EVEIL",
-        "Adresse": "44 RUE PRINCIPALE, 67170 BERNOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1044496.9774254533,
-        "Lambert ordonnée": 6860991.316075602,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -14452,95 +22658,7 @@ var enseignement = {
         "Lambert abscisse": 1044616.9,
         "Lambert ordonnée": 6823937.7,
         "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6671539999999965,
-          48.48990499999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83483584500019,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA GRANGE DES CHERUBINS",
-        "Adresse": "8 RUE DE L'ANDLAU, 67640 LIPSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1044655.4430933476,
-        "Lambert ordonnée": 6831260.640737664,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.678837999999997,
-          48.607878
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400474,
-        "Type_etablissement": "Crèche",
-        "Nom": "ESPACE TOUT PETIT",
-        "Adresse": "37 RUE DES VIGNES, 67205 OBERHAUSBERGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1044740.627336903,
-        "Lambert ordonnée": 6844403.260485965,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.692575999999999,
-          48.74401
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79755683400027,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MICRO-CRECHES DE L'EVEIL",
-        "Adresse": "6 RUE DES FRERES LUMIERE, 67170 BRUMATH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1044852.7626614096,
-        "Lambert ordonnée": 6859571.42816442,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.678782999999999,
-          48.5864
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91753224400014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE ROYAUME A BOUTCHOU",
-        "Adresse": "23 RUE DU MAGNOLIA, 67201 ECKBOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1044877.9766821756,
-        "Lambert ordonnée": 6842019.496702992,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -14614,28 +22732,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.694928999999999,
-          48.74324699999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79755683400068,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MICRO-CRECHES DE L'EVEIL",
-        "Adresse": "7 RUE DES GRAVIERES, 67170 BRUMATH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045030.5195604292,
-        "Lambert ordonnée": 6859497.023566429,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.6780743035535615,
           48.552535795250016
         ]
@@ -14680,50 +22776,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.686994020583033,
-          48.647797988992785
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564203601540,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES ALISIERS",
-        "Adresse": "4 RUE DES ALISIERS, 67450 LAMPERTHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045077.59,
-        "Lambert ordonnée": 6848869.11,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6816039320966265,
-          48.583247983354894
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75163456900022,
-        "Type_etablissement": "Crèche",
-        "Nom": "MILLE ET UNE BULLES",
-        "Adresse": "2 IMPASSE DES HORTICULTEURS, 67201 ECKBOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045106.43,
-        "Lambert ordonnée": 6841682.03,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.668948476719202,
           48.42468833836361
         ]
@@ -14737,7 +22789,7 @@ var enseignement = {
         "Effectifs": 166.0,
         "Lambert abscisse": 1045216.2,
         "Lambert ordonnée": 6824031.8,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Mittelholz",
         "Biodéchets": "SUEZ"
       }
     },
@@ -14759,52 +22811,8 @@ var enseignement = {
         "Effectifs": 189.0,
         "Lambert abscisse": 1045219.8,
         "Lambert ordonnée": 6826612.7,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Nordhouse",
         "Biodéchets": "SUEZ"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.681001000000001,
-          48.556557000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670267000144,
-        "Type_etablissement": "Crèche",
-        "Nom": "MULTI ACCUEIL LES PETITS JARDINS",
-        "Adresse": "104 RUE DU MARECHAL FOCH, 67380 LINGOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045237.8318929072,
-        "Lambert ordonnée": 6838717.43053062,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.681478392463369,
-          48.561141802175435
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671690Y",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Maxime Alexandre",
-        "Adresse": "31 RUE DU TRAVAIL, 67380 LINGOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 604.0,
-        "Lambert abscisse": 1045242.8,
-        "Lambert ordonnée": 6839228.3,
-        "Structure": "Sur place",
-        "Biodéchets": null
       }
     },
     {
@@ -14856,28 +22864,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.678348000000001,
-          48.522525
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91498193100019,
-        "Type_etablissement": "Crèche",
-        "Nom": "BABY'S HOME LE COLIBRI",
-        "Adresse": "13 RUE ALFRED KLEM, 67118 GEISPOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045266.4073632238,
-        "Lambert ordonnée": 6834929.303873701,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7028476389639,
           48.79374062263657
         ]
@@ -14900,50 +22886,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.68625602888034,
-          48.605231985913484
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95172155400040,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES BUBBELE D'OBER",
-        "Adresse": "65 ROUTE DE SAVERNE, 67205 OBERHAUSBERGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045304.0,
-        "Lambert ordonnée": 6844142.03,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.686137999999998,
-          48.603199999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79408859100027,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA JOYEUSE TRIBU D'OBER",
-        "Adresse": "3 RUE D'ENTZHEIM, 67205 OBERHAUSBERGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045308.7116671688,
-        "Lambert ordonnée": 6843916.013921246,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.674175804457512,
           48.46683364117751
         ]
@@ -14957,7 +22899,7 @@ var enseignement = {
         "Effectifs": 126.0,
         "Lambert abscisse": 1045325.1,
         "Lambert ordonnée": 6828731.2,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Hipsheim",
         "Biodéchets": "SUEZ"
       }
     },
@@ -14979,95 +22921,7 @@ var enseignement = {
         "Effectifs": 52.0,
         "Lambert abscisse": 1045345.7,
         "Lambert ordonnée": 6876718.7,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.686959,
-          48.605715
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83278540600014,
-        "Type_etablissement": "Crèche",
-        "Nom": "M.A.M. D'KINDERKUTSCH",
-        "Adresse": "37 RUE DES VIGNES, 67205 OBERHAUSBERGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045352.5517493788,
-        "Lambert ordonnée": 6844198.706916384,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.698646,
-          48.735710999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81006461800046,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA COURTE ECHELLE",
-        "Adresse": "4 RUE DE LA SCIERIE, 67170 BRUMATH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045353.1880941069,
-        "Lambert ordonnée": 6858676.875496147,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.680341,
-          48.521355
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564203600112,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAISON DE L ENFANT AGF",
-        "Adresse": " RUE DE PARIS, 67118 GEISPOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045421.0249573352,
-        "Lambert ordonnée": 6834808.187331824,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.688259999999997,
-          48.604105000000004
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83116123700019,
-        "Type_etablissement": "Crèche",
-        "Nom": "IL ETAIT UNE FOIS CHEZ NOUS - IEUFCN",
-        "Adresse": "3 RUE NEUVE, 67205 OBERHAUSBERGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045458.9223015176,
-        "Lambert ordonnée": 6844025.727987466,
-        "Structure": null,
+        "Structure": "FDMJC Hegeney",
         "Biodéchets": null
       }
     },
@@ -15098,28 +22952,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.684715,
-          48.55792900000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 44886840601348,
-        "Type_etablissement": "Crèche",
-        "Nom": "SCHNIPP-SCHNAPP",
-        "Adresse": "65 RUE DU MARECHAL FOCH, 67380 LINGOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045502.3856825968,
-        "Lambert ordonnée": 6838885.92748165,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.684378382534594,
           48.553436339581395
         ]
@@ -15142,28 +22974,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6868810000000005,
-          48.579886
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 85253395900015,
-        "Type_etablissement": "Crèche",
-        "Nom": "AU BONHEUR DES CHERUBINS",
-        "Adresse": "4 RUE DU GENERAL LECLERC, 67201 ECKBOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045517.1457006092,
-        "Lambert ordonnée": 6841332.016976163,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.686931574144999,
           48.57929001391902
         ]
@@ -15178,7 +22988,7 @@ var enseignement = {
         "Lambert abscisse": 1045524.8,
         "Lambert ordonnée": 6841266.1,
         "Structure": "AGES",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -15230,28 +23040,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6854169999999975,
-          48.55789599999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87973700500014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE LINGOLSHEIM",
-        "Adresse": "59 RUE DU MARECHAL FOCH, 67380 LINGOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045554.3156584784,
-        "Lambert ordonnée": 6838885.337287228,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.696961766420935,
           48.681870695030725
         ]
@@ -15266,29 +23054,7 @@ var enseignement = {
         "Lambert abscisse": 1045585.4,
         "Lambert ordonnée": 6852694.1,
         "Structure": "Arc en ciel",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.6903219999999965,
-          48.604987
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91986264900010,
-        "Type_etablissement": "Crèche",
-        "Nom": "UN DEUX TROIS LILAS",
-        "Adresse": "6 RUE DES LILAS, 67205 OBERHAUSBERGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045604.863197104,
-        "Lambert ordonnée": 6844132.630971351,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -15340,50 +23106,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6804679999999985,
-          48.490270999999986
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670137500083,
-        "Type_etablissement": "Crèche",
-        "Nom": "MULTI-ACCUEIL LA MARELLE",
-        "Adresse": "5 RUE AUGUSTE EHRHARD, 67640 FEGERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045635.0821230774,
-        "Lambert ordonnée": 6831359.449846387,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.680751999999999,
-          48.49187500000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89503942800019,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS OURSONS",
-        "Adresse": "47 RUE DE LYON, 67640 FEGERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045645.466669535,
-        "Lambert ordonnée": 6831538.681706178,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.687066299248359,
           48.560642156780695
         ]
@@ -15420,29 +23142,7 @@ var enseignement = {
         "Lambert abscisse": 1045667.9,
         "Lambert ordonnée": 6841271.7,
         "Structure": "AGES",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.691854999999999,
-          48.61182199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 53287164700014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE JARDIN DES CHERUBINS",
-        "Adresse": "10 RUE AUGUSTE RODIN, 67206 MITTELHAUSBERGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045672.5657237668,
-        "Lambert ordonnée": 6844897.856239367,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -15494,50 +23194,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.6962660191765595,
-          48.651694960219025
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564203601557,
-        "Type_etablissement": "Crèche",
-        "Nom": "BIDIBULE",
-        "Adresse": "1 PLACE DU GENERAL DE GAULLE, 67450 LAMPERTHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045733.68,
-        "Lambert ordonnée": 6849342.15,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.68732785528159,
-          48.54962892691025
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672765S",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Galilée",
-        "Adresse": "1 RUE JEAN ROSTAND, 67380 LINGOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 477.0,
-        "Lambert abscisse": 1045749.6,
-        "Lambert ordonnée": 6837976.3,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.72285769923542,
           48.9421821549877
         ]
@@ -15551,7 +23207,7 @@ var enseignement = {
         "Effectifs": 40.0,
         "Lambert abscisse": 1045758.3,
         "Lambert ordonnée": 6881700.2,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Woerth",
         "Biodéchets": null
       }
     },
@@ -15574,50 +23230,6 @@ var enseignement = {
         "Lambert abscisse": 1045760.9,
         "Lambert ordonnée": 6838409.8,
         "Structure": "Dupont restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.704591999999997,
-          48.73645
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90928563700015,
-        "Type_etablissement": "Crèche",
-        "Nom": "COUCOU P'TITS BOUTS",
-        "Adresse": "40 RUE DES TUILES, 67170 BRUMATH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045784.8131313096,
-        "Lambert ordonnée": 6858784.916174438,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.690375925464217,
-          48.57621738177706
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670016D",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Katia et Maurice Krafft",
-        "Adresse": "6 RUE DU COLLÈGE, 67201 ECKBOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 431.0,
-        "Lambert abscisse": 1045798.7,
-        "Lambert ordonnée": 6840940.2,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -15662,7 +23274,7 @@ var enseignement = {
         "Lambert abscisse": 1045859.3,
         "Lambert ordonnée": 6841922.7,
         "Structure": "API",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -15692,28 +23304,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.692725392558048,
-          48.583958120470896
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672806L",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Marcel Rudloff",
-        "Adresse": "AVENUE FRANÇOIS MITTERRAND, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 1138.0,
-        "Lambert abscisse": 1045920.6,
-        "Lambert ordonnée": 6841809.5,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7199020219479815,
           48.88094034790785
         ]
@@ -15727,29 +23317,7 @@ var enseignement = {
         "Effectifs": 51.0,
         "Lambert abscisse": 1045949.0,
         "Lambert ordonnée": 6874889.3,
-        "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.692992999999999,
-          48.58223399999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81770083400028,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUTINS DES ROMAINS",
-        "Adresse": "240 ROUTE DES ROMAINS, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1045951.6880213402,
-        "Lambert ordonnée": 6841619.342135282,
-        "Structure": null,
+        "Structure": "FDMJC Hegeney",
         "Biodéchets": null
       }
     },
@@ -15824,50 +23392,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.694596000000001,
-          48.587035
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400342,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAISON DE L'ENFANCE DES POTERIES",
-        "Adresse": "10 RUE JEAN-GEOFFROY CONRATH, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046038.0035574108,
-        "Lambert ordonnée": 6842159.146199874,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.692365999999997,
-          48.562033
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670267000193,
-        "Type_etablissement": "Crèche",
-        "Nom": "MULTI ACCUEIL  MIESELE : LES PETITES SOURIS",
-        "Adresse": " RUE DE LA BIBLIOTHEQUE, 67380 LINGOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046038.8951410616,
-        "Lambert ordonnée": 6839374.85543273,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.692244207172739,
           48.55691703506452
         ]
@@ -15882,50 +23406,6 @@ var enseignement = {
         "Lambert abscisse": 1046063.7,
         "Lambert ordonnée": 6838806.6,
         "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.708058,
-          48.73232200000002
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88519269000026,
-        "Type_etablissement": "Crèche",
-        "Nom": "IL ETAIT UNE FOIS",
-        "Adresse": "51 RUE DES REMPARTS, 67170 BRUMATH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046066.6093361718,
-        "Lambert ordonnée": 6858341.951716455,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.696410288760468,
-          48.59942538187309
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671825V",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège François Truffaut",
-        "Adresse": "30 BOULEVARD RONSARD, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 597.0,
-        "Lambert abscisse": 1046089.7,
-        "Lambert ordonnée": 6843542.1,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -15969,95 +23449,7 @@ var enseignement = {
         "Effectifs": 43.0,
         "Lambert abscisse": 1046099.0,
         "Lambert ordonnée": 6811280.8,
-        "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.701539,
-          48.649003
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81244950200101,
-        "Type_etablissement": "Crèche",
-        "Nom": "HAPILI LAMPERTHEIM",
-        "Adresse": "18 RUE DE MUNDOLSHEIM, 67450 LAMPERTHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046139.2211454333,
-        "Lambert ordonnée": 6849066.501825643,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.708948999999999,
-          48.730796
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81006461800020,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAISON DE L'ENFANCE",
-        "Adresse": "11 RUE JACQUES KABLE, 67170 BRUMATH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046142.1368117352,
-        "Lambert ordonnée": 6858176.493747699,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.703319000000001,
-          48.667
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84358388100019,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE VENDENHEIM",
-        "Adresse": "21 RUE ALBERT JACQUARD, 67550 VENDENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046151.0072496132,
-        "Lambert ordonnée": 6851071.589094578,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.709601934106068,
-          48.7327870226791
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 98417409400032,
-        "Type_etablissement": "Crèche",
-        "Nom": "PETITES ETOILES FILANTES",
-        "Adresse": "16 RUE DU GENERAL DE GAULLE, 67170 BRUMATH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046176.88,
-        "Lambert ordonnée": 6858400.33,
-        "Structure": null,
+        "Structure": "CC Erstein Witternheim",
         "Biodéchets": null
       }
     },
@@ -16080,28 +23472,6 @@ var enseignement = {
         "Lambert abscisse": 1046193.1,
         "Lambert ordonnée": 6843394.9,
         "Structure": "Collège Sophie Germain",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.717390999999998,
-          48.816399999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88378365600019,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PTITS LOUPS",
-        "Adresse": "6 RUE MARANO, 67590 SCHWEIGHOUSE-SUR-MODER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046193.6574071734,
-        "Lambert ordonnée": 6867714.590742902,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -16145,7 +23515,7 @@ var enseignement = {
         "Effectifs": 91.0,
         "Lambert abscisse": 1046264.9,
         "Lambert ordonnée": 6884527.2,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Woerth",
         "Biodéchets": null
       }
     },
@@ -16168,28 +23538,6 @@ var enseignement = {
         "Lambert abscisse": 1046266.8,
         "Lambert ordonnée": 6843048.5,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.698417999999999,
-          48.593241
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87760689700032,
-        "Type_etablissement": "Crèche",
-        "Nom": "WEEKEND & KID 3",
-        "Adresse": "15 AVENUE CERVANTES, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046278.3629687284,
-        "Lambert ordonnée": 6842864.599677448,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -16264,28 +23612,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.699310999999996,
-          48.591577999999984
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400086,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE HAUTEPIERRE",
-        "Adresse": "19 RUE GIOBERTI, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046355.0963331131,
-        "Lambert ordonnée": 6842683.968110246,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.697203311143325,
           48.566012748035604
         ]
@@ -16308,28 +23634,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.706393880230152,
-          48.666553313013885
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672658A",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège La pierre polie",
-        "Adresse": "RUE DU VIGNOBLE, 67550 VENDENHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 274.0,
-        "Lambert abscisse": 1046380.0,
-        "Lambert ordonnée": 6851035.5,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.697101978672995,
           48.56281049995077
         ]
@@ -16344,7 +23648,7 @@ var enseignement = {
         "Lambert abscisse": 1046382.6,
         "Lambert ordonnée": 6839481.9,
         "Structure": "API",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -16366,7 +23670,7 @@ var enseignement = {
         "Lambert abscisse": 1046399.8,
         "Lambert ordonnée": 6842013.0,
         "Structure": "API",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -16388,29 +23692,7 @@ var enseignement = {
         "Lambert abscisse": 1046401.2,
         "Lambert ordonnée": 6839432.0,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.691143999999998,
-          48.49249399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83032171700035,
-        "Type_etablissement": "Crèche",
-        "Nom": "SUR MON NUAGE",
-        "Adresse": "7 RUE LOUIS PASTEUR, 67640 FEGERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046407.8660065988,
-        "Lambert ordonnée": 6831652.908627812,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -16462,72 +23744,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.700695999999997,
-          48.59627100000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 52524288900075,
-        "Type_etablissement": "Crèche",
-        "Nom": "AUTEUIL PETITE ENFANCE",
-        "Adresse": "6 ALLEE CHARLES PERRAULT, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046426.0148380684,
-        "Lambert ordonnée": 6843210.840344726,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.70079616635562,
-          48.59189984860678
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672459J",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Erasme",
-        "Adresse": "40 BOULEVARD VICTOR HUGO, 67000 STRASBOURG",
-        "Restauration": 0.0,
-        "Effectifs": 432.0,
-        "Lambert abscisse": 1046462.3,
-        "Lambert ordonnée": 6842726.2,
-        "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.698149999999998,
-          48.55857399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 85126716100012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUTINS DE LINGO",
-        "Adresse": "3 RUE OLYMPE DE GOUGES, 67380 LINGOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046487.7987809576,
-        "Lambert ordonnée": 6839016.372525461,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.69984330941933,
           48.57672560138069
         ]
@@ -16563,7 +23779,7 @@ var enseignement = {
         "Effectifs": 81.0,
         "Lambert abscisse": 1046502.7,
         "Lambert ordonnée": 6813790.9,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Rhinau",
         "Biodéchets": null
       }
     },
@@ -16594,28 +23810,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.714005979166217,
-          48.73186935937816
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670009W",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège",
-        "Adresse": "3 RUE DU COLLÈGE, 67170 BRUMATH",
-        "Restauration": 1.0,
-        "Effectifs": 599.0,
-        "Lambert abscisse": 1046506.3,
-        "Lambert ordonnée": 6858317.8,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7022268566260905,
           48.59565141132618
         ]
@@ -16630,50 +23824,6 @@ var enseignement = {
         "Lambert abscisse": 1046542.8,
         "Lambert ordonnée": 6843148.8,
         "Structure": "CNRS",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.700981999999999,
-          48.581392
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77885938900026,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE LILIANE OEHLER",
-        "Adresse": "45 RUE VIRGILE, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046545.4843011769,
-        "Lambert ordonnée": 6841560.935111891,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.70315,
-          48.603378000000006
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400573,
-        "Type_etablissement": "Crèche",
-        "Nom": "MULTI ACCUEIL OBERHAUSBERGEN",
-        "Adresse": "1 ALLEE SAINT-SAUVEUR-LE-VICOMTE, 67205 OBERHAUSBERGEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046559.6214959174,
-        "Lambert ordonnée": 6844010.296842056,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -16740,7 +23890,7 @@ var enseignement = {
         "Lambert abscisse": 1046645.5,
         "Lambert ordonnée": 6847518.7,
         "Structure": "L'ile aux enfants",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -16763,28 +23913,6 @@ var enseignement = {
         "Lambert ordonnée": 6858605.7,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.708655161305476,
-          48.64423517431012
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672013Z",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Paul-Emile Victor",
-        "Adresse": "2 RUE DU CERF, 67450 MUNDOLSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 498.0,
-        "Lambert abscisse": 1046694.1,
-        "Lambert ordonnée": 6848568.6,
-        "Structure": "Sur place",
-        "Biodéchets": null
       }
     },
     {
@@ -16836,28 +23964,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7002510000000015,
-          48.548894
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82493635500091,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES ANGES DE OSTWALD",
-        "Adresse": "62 RUE DE LINGOLSHEIM, 67540 OSTWALD",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046706.5807455556,
-        "Lambert ordonnée": 6837951.409819418,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.680874689745746,
           48.33183969377672
         ]
@@ -16871,51 +23977,7 @@ var enseignement = {
         "Effectifs": 53.0,
         "Lambert abscisse": 1046708.4,
         "Lambert ordonnée": 6813781.9,
-        "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.703534000000001,
-          48.579173
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79208376800012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE BATEAU DE PAPIER",
-        "Adresse": "13 RUE CESAR JULIEN, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046748.0747477048,
-        "Lambert ordonnée": 6841325.892388581,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.703853999999999,
-          48.579255999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79497597900012,
-        "Type_etablissement": "Crèche",
-        "Nom": "PETIT BOURGEON",
-        "Adresse": "12 RUE CESAR JULIEN, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046771.0881443302,
-        "Lambert ordonnée": 6841336.5082795285,
-        "Structure": null,
+        "Structure": "CC Erstein Rhinau",
         "Biodéchets": null
       }
     },
@@ -16960,73 +24022,7 @@ var enseignement = {
         "Lambert abscisse": 1046773.4,
         "Lambert ordonnée": 6851204.0,
         "Structure": "OPAL",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.712097999999998,
-          48.66699299999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79145032300054,
-        "Type_etablissement": "Crèche",
-        "Nom": "PREMIERS PAS",
-        "Adresse": "22 RUE CHARLES GOUNOD, 67550 VENDENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046796.3968667616,
-        "Lambert ordonnée": 6851109.332980094,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.707275000000002,
-          48.613119000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79145032300021,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITES ETOILES",
-        "Adresse": "10 RUE DE LA HAYE, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046798.7001599896,
-        "Lambert ordonnée": 6845109.404343593,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.72683623441636,
-          48.824650640963114
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671960S",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Bois Fleuri",
-        "Adresse": "RUE DES SPORTS, 67590 SCHWEIGHOUSE-SUR-MODER",
-        "Restauration": 1.0,
-        "Effectifs": 428.0,
-        "Lambert abscisse": 1046831.1,
-        "Lambert ordonnée": 6868671.8,
-        "Structure": "Sur place",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17047,28 +24043,6 @@ var enseignement = {
         "Effectifs": 147.0,
         "Lambert abscisse": 1046833.5,
         "Lambert ordonnée": 6842521.6,
-        "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.707387532602196,
-          48.60591461315388
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672602P",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel privé Charles de Foucauld",
-        "Adresse": "ALLÉE D'ATHÈNES, 67300 SCHILTIGHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 516.0,
-        "Lambert abscisse": 1046854.7,
-        "Lambert ordonnée": 6844310.4,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": null
       }
@@ -17114,7 +24088,7 @@ var enseignement = {
         "Lambert abscisse": 1046863.3,
         "Lambert ordonnée": 6839286.0,
         "Structure": "API",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17136,7 +24110,7 @@ var enseignement = {
         "Lambert abscisse": 1046864.1,
         "Lambert ordonnée": 6851185.5,
         "Structure": "OPAL",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17158,7 +24132,7 @@ var enseignement = {
         "Lambert abscisse": 1046875.5,
         "Lambert ordonnée": 6841350.8,
         "Structure": "API",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17180,29 +24154,7 @@ var enseignement = {
         "Lambert abscisse": 1046880.7,
         "Lambert ordonnée": 6839386.1,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7055771967708315,
-          48.581034141559925
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671508A",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Jacques Twinger",
-        "Adresse": "10 RUE OVIDE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 654.0,
-        "Lambert abscisse": 1046886.2,
-        "Lambert ordonnée": 6841541.4,
-        "Structure": "Sur place",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17224,73 +24176,7 @@ var enseignement = {
         "Lambert abscisse": 1046888.8,
         "Lambert ordonnée": 6841416.6,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.706341000000001,
-          48.58727199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 47918275001202,
-        "Type_etablissement": "Crèche",
-        "Nom": "SAUTE MOUTON",
-        "Adresse": "23 RUE JACOBI-NETTER, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046901.1323184673,
-        "Lambert ordonnée": 6842236.981081138,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7072449999999995,
-          48.596700999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91265467000021,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE LE JARDIN D'ALICE",
-        "Adresse": "10 RUE DE SCHNERSHEIM, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046905.2353418712,
-        "Lambert ordonnée": 6843287.310517222,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.707240999999998,
-          48.592727000000004
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 26670057400293,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE HAUTEPIERRE",
-        "Adresse": "1 AVENUE MOLIERE, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046931.262000576,
-        "Lambert ordonnée": 6842846.288145859,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17312,28 +24198,6 @@ var enseignement = {
         "Lambert abscisse": 1046958.7,
         "Lambert ordonnée": 6867914.6,
         "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.706959,
-          48.582785
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81404292500010,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE KOENIGSHOFFEN",
-        "Adresse": "39 RUE DE L'ENGELBREIT, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1046976.3475521829,
-        "Lambert ordonnée": 6841741.766410328,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -17364,94 +24228,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.740014645773035,
-          48.940914962810474
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671596W",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Maréchal de Mac Mahon",
-        "Adresse": "2 RUE VICTOR HUGO, 67360 WOERTH",
-        "Restauration": 1.0,
-        "Effectifs": 439.0,
-        "Lambert abscisse": 1047021.3,
-        "Lambert ordonnée": 6881634.8,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.710420999999998,
-          48.612748999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81244950200077,
-        "Type_etablissement": "Crèche",
-        "Nom": "HAPILI",
-        "Adresse": "2 RUE DE DUBLIN, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047032.652586524,
-        "Lambert ordonnée": 6845082.165661848,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7084649999999995,
-          48.590941
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87760689700016,
-        "Type_etablissement": "Crèche",
-        "Nom": "WEEKEND & KID",
-        "Adresse": "45 BOULEVARD LA FONTAINE, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047033.1981493656,
-        "Lambert ordonnée": 6842653.470365465,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.699403999999999,
-          48.486296999999986
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87838173000018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE JARDIN DES MERVEILLES",
-        "Adresse": "9 RUE CAMILLE CLAUDEL, 67640 FEGERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047058.0620594964,
-        "Lambert ordonnée": 6831001.53429419,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.713756618934039,
           48.64058204726219
         ]
@@ -17466,7 +24242,7 @@ var enseignement = {
         "Lambert abscisse": 1047093.5,
         "Lambert ordonnée": 6848185.6,
         "Structure": "L'ile aux enfants",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17488,29 +24264,7 @@ var enseignement = {
         "Lambert abscisse": 1047152.4,
         "Lambert ordonnée": 6848219.5,
         "Structure": "L'ile aux enfants",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.710317999999997,
-          48.591681
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564203600971,
-        "Type_etablissement": "Crèche",
-        "Nom": "3 BRIGANDS",
-        "Adresse": "2 ALLEE MARGUERITE THIEBOLD, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047164.7054060776,
-        "Lambert ordonnée": 6842743.734986461,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17540,50 +24294,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.717551,
-          48.666743999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87883402700012,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ILE AUX ENFANTS",
-        "Adresse": "13 RUE DE LA GARE, 67550 VENDENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047198.8970323332,
-        "Lambert ordonnée": 6851105.662335021,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.711977999999999,
-          48.604484000000014
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600280,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS CRONENBOURG - RESTAURANT UNIVERSITAIRE CRONENBOURG",
-        "Adresse": "RUE DU LOESS, 67200 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1047202.0233049542,
-        "Lambert ordonnée": 6844171.814606073,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7368286498137975,
           48.875324965848364
         ]
@@ -17597,29 +24307,7 @@ var enseignement = {
         "Effectifs": 86.0,
         "Lambert abscisse": 1047225.6,
         "Lambert ordonnée": 6874340.3,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.742875999999997,
-          48.938458999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84042885800038,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE JARDIN MAGIQUE",
-        "Adresse": "2 RUE D’ELSASSHAUSEN, 67360 WŒRTH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047246.9253164568,
-        "Lambert ordonnée": 6881374.759728213,
-        "Structure": null,
+        "Structure": "FDMJC Hegeney",
         "Biodéchets": null
       }
     },
@@ -17641,7 +24329,7 @@ var enseignement = {
         "Effectifs": 115.0,
         "Lambert abscisse": 1047271.2,
         "Lambert ordonnée": 6816951.2,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Obenheim",
         "Biodéchets": null
       }
     },
@@ -17707,51 +24395,7 @@ var enseignement = {
         "Effectifs": 53.0,
         "Lambert abscisse": 1047322.2,
         "Lambert ordonnée": 6876985.5,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.709293999999998,
-          48.55545899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 26670065700031,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CROCOD'ILL",
-        "Adresse": "3 RUE ALBERT GERIG, 67540 OSTWALD",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047329.3334756946,
-        "Lambert ordonnée": 6838719.662104683,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.689250999999999,
-          48.330875999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 49097180100074,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUCIOLES",
-        "Adresse": "11 RUE DE DAUBENSAND, 67860 BOOFZHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047334.4544898324,
-        "Lambert ordonnée": 6813711.788449979,
-        "Structure": null,
+        "Structure": "FDMJC Hegeney",
         "Biodéchets": null
       }
     },
@@ -17774,7 +24418,7 @@ var enseignement = {
         "Lambert abscisse": 1047348.2,
         "Lambert ordonnée": 6840117.6,
         "Structure": "API",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17795,7 +24439,7 @@ var enseignement = {
         "Effectifs": 49.0,
         "Lambert abscisse": 1047352.7,
         "Lambert ordonnée": 6876045.5,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Hegeney",
         "Biodéchets": null
       }
     },
@@ -17862,7 +24506,7 @@ var enseignement = {
         "Lambert abscisse": 1047395.2,
         "Lambert ordonnée": 6841561.1,
         "Structure": "API",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17884,51 +24528,7 @@ var enseignement = {
         "Lambert abscisse": 1047396.1,
         "Lambert ordonnée": 6840107.4,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.739588978731261,
-          48.87664399893988
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81946654100029,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES BEBES D'ESCHBACH",
-        "Adresse": "15 RUE DES VERGERS, 67360 ESCHBACH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047418.9,
-        "Lambert ordonnée": 6874498.85,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.709658,
-          48.543241
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 47918275004271,
-        "Type_etablissement": "Crèche",
-        "Nom": "GINKGO",
-        "Adresse": "1 PLACE DU GENERAL DE GAULLE, 67540 OSTWALD",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047437.1104057006,
-        "Lambert ordonnée": 6837365.453344816,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -17980,28 +24580,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.713080930646206,
-          48.578350634845
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671619W",
-        "Type_etablissement": "Collège",
-        "Nom": "Ecole privée Michaël - Pédagogie R Steiner - Collège",
-        "Adresse": "2C RUE DU SCHNOKELOCH, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 68.0,
-        "Lambert abscisse": 1047456.5,
-        "Lambert ordonnée": 6841276.6,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.699183883164964,
           48.42331742815642
         ]
@@ -18015,7 +24593,7 @@ var enseignement = {
         "Effectifs": 39.0,
         "Lambert abscisse": 1047458.2,
         "Lambert ordonnée": 6824012.3,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein - Krafft",
         "Biodéchets": "SUEZ"
       }
     },
@@ -18046,28 +24624,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.712599000000001,
-          48.57169899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79420326500010,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE PETIT BOIS CAROTTE",
-        "Adresse": "114 ROUTE DE SCHIRMECK, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047465.1187511856,
-        "Lambert ordonnée": 6840536.345623183,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.715501528005522,
           48.60360167896823
         ]
@@ -18082,50 +24638,6 @@ var enseignement = {
         "Lambert abscisse": 1047467.2,
         "Lambert ordonnée": 6844089.4,
         "Structure": "Collège Sophie Germain",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.710147999999998,
-          48.54411900000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87973700500022,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS D'OSTWALD",
-        "Adresse": "7 RUE DU GENERAL LECLERC, 67540 OSTWALD",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047467.3967850416,
-        "Lambert ordonnée": 6837465.039104445,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.715092000000001,
-          48.597676000000014
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83265334900023,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS PRODIGES",
-        "Adresse": "144 ROUTE DE MITTELHAUSBERGEN, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047476.372600336,
-        "Lambert ordonnée": 6843430.011169899,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -18222,50 +24734,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.715883,
-          48.596473
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82192412300028,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LOUPIOTS",
-        "Adresse": "135 ROUTE DE MITTELHAUSBERGEN, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047542.5781228936,
-        "Lambert ordonnée": 6843299.992949801,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.714414999999996,
-          48.578650999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 38471777300046,
-        "Type_etablissement": "Crèche",
-        "Nom": "JARDIN D ENFANTS RUDOLF STEINER",
-        "Adresse": "3 RUE DU SCHNOKELOCH, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047552.7406168762,
-        "Lambert ordonnée": 6841315.802757714,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.747390306111995,
           48.93849484275874
         ]
@@ -18279,29 +24747,7 @@ var enseignement = {
         "Effectifs": 132.0,
         "Lambert abscisse": 1047576.8,
         "Lambert ordonnée": 6881398.6,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.743145,
-          48.88940100000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83501412700012,
-        "Type_etablissement": "Crèche",
-        "Nom": "M.A.M. A MALICE",
-        "Adresse": "1 RUE DES ORMES, 67360 HEGENEY",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047594.0895156612,
-        "Lambert ordonnée": 6875930.492019461,
-        "Structure": null,
+        "Structure": "FDMJC Woerth",
         "Biodéchets": null
       }
     },
@@ -18324,73 +24770,7 @@ var enseignement = {
         "Lambert abscisse": 1047617.0,
         "Lambert ordonnée": 6841334.2,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.719986000000002,
-          48.62267700000002
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90093011600018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS D'HOENHEIM",
-        "Adresse": "13 RUE DU DEPOT, 67800 HŒNHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047670.5644153344,
-        "Lambert ordonnée": 6846225.990942885,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.717803000000003,
-          48.59482200000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80127084400070,
-        "Type_etablissement": "Crèche",
-        "Nom": "TAM-TAM",
-        "Adresse": "1 RUE JACOB, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047694.8660444354,
-        "Lambert ordonnée": 6843125.230979723,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.722124999999999,
-          48.64257399999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 92409833800016,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE FAMILIALE",
-        "Adresse": "3 RUE DES PIVOINES, 67450 MUNDOLSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047695.729072415,
-        "Lambert ordonnée": 6848443.475386436,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -18433,51 +24813,7 @@ var enseignement = {
         "Effectifs": 66.0,
         "Lambert abscisse": 1047720.1,
         "Lambert ordonnée": 6881256.7,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.714336246323835,
-          48.551988158925674
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672072N",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Martin Schongauer",
-        "Adresse": "1 RUE ALBERT GERIG, 67540 OSTWALD",
-        "Restauration": 0.0,
-        "Effectifs": 515.0,
-        "Lambert abscisse": 1047723.8,
-        "Lambert ordonnée": 6838356.7,
-        "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.719251489407021,
-          48.60107034312517
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671590P",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Sophie Germain",
-        "Adresse": "50 RUE DU RIETH, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 640.0,
-        "Lambert abscisse": 1047760.0,
-        "Lambert ordonnée": 6843825.0,
-        "Structure": "Sur place",
+        "Structure": "FDMJC Woerth",
         "Biodéchets": null
       }
     },
@@ -18530,50 +24866,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.712984,
-          48.52857900000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400631,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE FAMILIALE DE L'ILL",
-        "Adresse": "1 AVENUE MESSMER, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047779.4069846396,
-        "Lambert ordonnée": 6835753.098304091,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.719893999999997,
-          48.59187399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82192412300036,
-        "Type_etablissement": "Crèche",
-        "Nom": "A PAS DE LOUPS",
-        "Adresse": "7 ROUTE D'OBERHAUSBERGEN, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047868.3639727668,
-        "Lambert ordonnée": 6842807.296809582,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.720965728897915,
           48.6023305611481
         ]
@@ -18588,50 +24880,6 @@ var enseignement = {
         "Lambert abscisse": 1047877.8,
         "Lambert ordonnée": 6843972.4,
         "Structure": "Collège Sophie Germain",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.718020925078198,
-          48.56944055937947
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671907J",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Hans Arp",
-        "Adresse": "16 RUE VAN EYCK, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 592.0,
-        "Lambert abscisse": 1047879.4,
-        "Lambert ordonnée": 6840309.6,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.714092999999998,
-          48.52415800000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90191504100015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA PETITE SYMPHONIE",
-        "Adresse": "24 RUE DE L'ESPERANCE, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047890.4674917306,
-        "Lambert ordonnée": 6835267.40339902,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -18662,28 +24910,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7154043002504284,
-          48.53272296019726
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671956M",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège du Parc",
-        "Adresse": "5 RUE DU PARC, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": 1.0,
-        "Effectifs": 415.0,
-        "Lambert abscisse": 1047930.3,
-        "Lambert ordonnée": 6836223.6,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.721709262379899,
           48.602424494969
         ]
@@ -18698,28 +24924,6 @@ var enseignement = {
         "Lambert abscisse": 1047931.9,
         "Lambert ordonnée": 6843986.1,
         "Structure": "Collège Sophie Germain",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.701567999999997,
-          48.37651699999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 49097180100025,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LIBELLULES",
-        "Adresse": "13 RUE DE DAUBENSAND, 67150 GERSTHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1047943.8274282764,
-        "Lambert ordonnée": 6818830.005658476,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -18772,28 +24976,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.722604999999999,
-          48.60136799999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100408,
-        "Type_etablissement": "Crèche",
-        "Nom": "AGES MULTI ACCUEIL CRONENBOURG",
-        "Adresse": "87 RUE DE HOCHFELDEN, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048004.8464971094,
-        "Lambert ordonnée": 6843872.806022078,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.715619617800064,
           48.519906848077866
         ]
@@ -18816,72 +24998,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.713176000000002,
-          48.48732500000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87838263900010,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE JARDIN ENCHANTE",
-        "Adresse": "4 RUE DU COLLEGE, 67114 ESCHAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048067.1218434176,
-        "Lambert ordonnée": 6831176.223351866,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.713202597069939,
-          48.48656852251228
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671687V",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Sébastien Brant",
-        "Adresse": "5 RUE DU COLLÈGE, 67114 ESCHAU",
-        "Restauration": 1.0,
-        "Effectifs": 649.0,
-        "Lambert abscisse": 1048074.1,
-        "Lambert ordonnée": 6831092.4,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.713306999999998,
-          48.48303700000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 94976214000018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUTINS D'ESCHAU",
-        "Adresse": "77 RUE DE LA 1ERE DIVISION BLINDEE, 67114 ESCHAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048105.2195553916,
-        "Lambert ordonnée": 6830700.994536658,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.713556928338188,
           48.48571452124008
         ]
@@ -18896,139 +25012,7 @@ var enseignement = {
         "Lambert abscisse": 1048105.9,
         "Lambert ordonnée": 6830999.2,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.723214999999996,
-          48.592911
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83265334900015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS PRODIGES",
-        "Adresse": "40 ROUTE DE MITTELHAUSBERGEN, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048105.9466979651,
-        "Lambert ordonnée": 6842937.009477091,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.745023000000001,
-          48.830512999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 44886840601322,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE CHÂTEAU DE SABLE",
-        "Adresse": "2 RUE DE LA SABLIERE, 67590 SCHWEIGHOUSE-SUR-MODER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048124.801026726,
-        "Lambert ordonnée": 6869402.507769068,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.718379999999997,
-          48.532377999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82493635500059,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ILL DES ANGES",
-        "Adresse": "156 ROUTE DE LYON, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048151.8934137208,
-        "Lambert ordonnée": 6836198.43702423,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.704268183089503,
-          48.37307495698584
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672135G",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège",
-        "Adresse": "8 RUE DES CIGOGNES, 67150 GERSTHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 332.0,
-        "Lambert abscisse": 1048166.2,
-        "Lambert ordonnée": 6818460.0,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.722300999999999,
-          48.572117
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100093,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE FAMILIALE MONTAGNE VERTE",
-        "Adresse": "14 QUAI DU BRULIG, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048176.8284157622,
-        "Lambert ordonnée": 6840625.467159175,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.722409999999997,
-          48.57205400000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100028,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECT MONTAGNE VERTE",
-        "Adresse": "12 QUAI DU BRULIG, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048185.2740431768,
-        "Lambert ordonnée": 6840618.956729193,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -19226,29 +25210,7 @@ var enseignement = {
         "Lambert abscisse": 1048319.1,
         "Lambert ordonnée": 6831054.8,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7074739999999995,
-          48.383857
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81441364700011,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PAPILLONS DES CHERUBINS",
-        "Adresse": " RUE LA BRIGADE ALSACE LORRAINE, 67150 GERSTHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048331.7792993884,
-        "Lambert ordonnée": 6819670.447658234,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -19278,50 +25240,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.720025000000001,
-          48.518787
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100192,
-        "Type_etablissement": "Crèche",
-        "Nom": "HALTE GARDERIE LA MAISONELLE",
-        "Adresse": "20 RUE DES ROSEAUX, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048363.384089987,
-        "Lambert ordonnée": 6834697.562395839,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.724852999999998,
-          48.567468999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77885977700022,
-        "Type_etablissement": "Crèche",
-        "Nom": "ALEF ELSAU",
-        "Adresse": "6 RUE MATHIAS GRUNEWALD, 67200 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048395.6633027416,
-        "Lambert ordonnée": 6840120.94003744,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7034808398406875,
           48.32122138815262
         ]
@@ -19335,29 +25253,7 @@ var enseignement = {
         "Effectifs": 154.0,
         "Lambert abscisse": 1048451.1,
         "Lambert ordonnée": 6812703.3,
-        "Structure": "CC Erstein",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7215295178245755,
-          48.5207128298964
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672194W",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège des Roseaux",
-        "Adresse": "2A RUE DES ROSEAUX, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": 1.0,
-        "Effectifs": 603.0,
-        "Lambert abscisse": 1048461.5,
-        "Lambert ordonnée": 6834917.9,
-        "Structure": "Sur place",
+        "Structure": "CC Erstein Rhinau",
         "Biodéchets": null
       }
     },
@@ -19379,29 +25275,7 @@ var enseignement = {
         "Effectifs": 24.0,
         "Lambert abscisse": 1048463.4,
         "Lambert ordonnée": 6879983.0,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.719242999999998,
-          48.48985399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87880348500027,
-        "Type_etablissement": "Crèche",
-        "Nom": "TERRE D'EVEIL LES ARBUSTES",
-        "Adresse": "36 RUE DES JARDINS, 67114 ESCHAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048497.8437348512,
-        "Lambert ordonnée": 6831483.607026714,
-        "Structure": null,
+        "Structure": "FDMJC Preuschdorf",
         "Biodéchets": null
       }
     },
@@ -19424,29 +25298,7 @@ var enseignement = {
         "Lambert abscisse": 1048531.5,
         "Lambert ordonnée": 6839892.1,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.722925000000001,
-          48.52409599999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100135,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE LES VIGNES",
-        "Adresse": "2 RUE GEORGE SAND, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048541.8863916596,
-        "Lambert ordonnée": 6835299.471744246,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -19468,7 +25320,7 @@ var enseignement = {
         "Lambert abscisse": 1048566.8,
         "Lambert ordonnée": 6839955.5,
         "Structure": "API",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -19490,50 +25342,6 @@ var enseignement = {
         "Lambert abscisse": 1048575.6,
         "Lambert ordonnée": 6844662.6,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.723863605637903,
-          48.52895144749273
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672198A",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Le Corbusier",
-        "Adresse": "15 RUE LIXENBUHL, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": 1.0,
-        "Effectifs": 1279.0,
-        "Lambert abscisse": 1048578.8,
-        "Lambert ordonnée": 6835842.4,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.731105515288077,
-          48.60901317851837
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670065G",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Leclerc",
-        "Adresse": "9 AVENUE DU 23 NOVEMBRE, 67300 SCHILTIGHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 547.0,
-        "Lambert abscisse": 1048579.6,
-        "Lambert ordonnée": 6844758.7,
-        "Structure": "Sur place",
         "Biodéchets": null
       }
     },
@@ -19577,7 +25385,7 @@ var enseignement = {
         "Effectifs": 87.0,
         "Lambert abscisse": 1048621.0,
         "Lambert ordonnée": 6812316.1,
-        "Structure": "CC Erstein",
+        "Structure": "CC Erstein Rhinau",
         "Biodéchets": null
       }
     },
@@ -19608,72 +25416,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.732506999999998,
-          48.60787999999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600371,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS GALLIA - RESTAURANT UNIVERSITAIRE GALLIA",
-        "Adresse": "QUAI DU MAIRE DIETRICH, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1048690.2810319178,
-        "Lambert ordonnée": 6844639.137081172,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.733026000000005,
-          48.60861499999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 34777042200033,
-        "Type_etablissement": "Crèche",
-        "Nom": "ASSOCIATION LA RIBAMBELLE",
-        "Adresse": "11 RUE KELLERMANN, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048723.580222851,
-        "Lambert ordonnée": 6844722.993172036,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.733808999999997,
-          48.607934
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91144866000025,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES 3 LUCIOLES",
-        "Adresse": "11 RUE KLEBER, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048785.7375448602,
-        "Lambert ordonnée": 6844650.879831879,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.734665845299294,
           48.61720964189987
         ]
@@ -19688,50 +25430,6 @@ var enseignement = {
         "Lambert abscisse": 1048787.0,
         "Lambert ordonnée": 6845684.0,
         "Structure": "Ville / AELF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.731420999999998,
-          48.580771999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79453825600015,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ARBRE A VOILES",
-        "Adresse": "19 BOULEVARD DE NANCY, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048790.8267590643,
-        "Lambert ordonnée": 6841626.154914268,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.726929003564346,
-          48.530203765041676
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672616E",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Gutenberg",
-        "Adresse": "22 RUE LIXENBUHL, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": 1.0,
-        "Effectifs": 365.0,
-        "Lambert abscisse": 1048796.4,
-        "Lambert ordonnée": 6835994.9,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -19798,72 +25496,6 @@ var enseignement = {
         "Lambert abscisse": 1048834.2,
         "Lambert ordonnée": 6837286.8,
         "Structure": "Ville d'Illkirch",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.732544999999999,
-          48.580431
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 34826364100014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE PETIT PRINCE",
-        "Adresse": "4 RUE DE MUTZIG, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048875.8572049062,
-        "Lambert ordonnée": 6841593.27993654,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.729068000000001,
-          48.541577
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 43910814300033,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ILL AUX ENFANTS",
-        "Adresse": "8 RUE DES IRIS, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048878.3722583672,
-        "Lambert ordonnée": 6837266.386274966,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.732855000000001,
-          48.58098799999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 34193478400016,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE PARENTALE LES PITCHOUN'S",
-        "Adresse": "5 RUE DE ROSHEIM, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048894.9733504157,
-        "Lambert ordonnée": 6841656.459426917,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -19951,51 +25583,7 @@ var enseignement = {
         "Effectifs": 69.0,
         "Lambert abscisse": 1048934.7,
         "Lambert ordonnée": 6882866.4,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.736455948139962,
-          48.61245800098573
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32368669101035,
-        "Type_etablissement": "Crèche",
-        "Nom": "CENTRE SOCIAL LEO LAGRANGE",
-        "Adresse": "4 RUE VICTOR HUGO, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048950.38,
-        "Lambert ordonnée": 6845164.61,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.735865999999996,
-          48.60473000000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84103615500015,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'OASIS DES CHERUBINS",
-        "Adresse": "3 RUE DE MOLSHEIM, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1048958.4652343444,
-        "Lambert ordonnée": 6844304.416168664,
-        "Structure": null,
+        "Structure": "FDMJC Woerth",
         "Biodéchets": null
       }
     },
@@ -20017,29 +25605,7 @@ var enseignement = {
         "Effectifs": 60.0,
         "Lambert abscisse": 1048976.1,
         "Lambert ordonnée": 6878921.1,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.738769162394281,
-          48.63190937337042
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672254L",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège les sept Arpents",
-        "Adresse": "RUE DU COLLÈGE, 67460 SOUFFELWEYERSHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 504.0,
-        "Lambert abscisse": 1048990.9,
-        "Lambert ordonnée": 6847333.4,
-        "Structure": "Sur place",
+        "Structure": "FDMJC Durrenbach",
         "Biodéchets": null
       }
     },
@@ -20114,28 +25680,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.737823568239103,
-          48.61387048231138
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671822S",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Lamartine",
-        "Adresse": "9 RUE LAMARTINE, 67800 BISCHHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 316.0,
-        "Lambert abscisse": 1049041.6,
-        "Lambert ordonnée": 6845327.4,
-        "Structure": "Collège Sophie Germain",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.724542742831457,
           48.466225725452176
         ]
@@ -20172,7 +25716,7 @@ var enseignement = {
         "Lambert abscisse": 1049075.1,
         "Lambert ordonnée": 6831329.9,
         "Structure": "API",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -20194,28 +25738,6 @@ var enseignement = {
         "Lambert abscisse": 1049082.8,
         "Lambert ordonnée": 6847456.4,
         "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.726958000000001,
-          48.48514300000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 87880348500019,
-        "Type_etablissement": "Crèche",
-        "Nom": "TERRE D'EVEIL",
-        "Adresse": "3 RUE DE L'INDUSTRIE, 67114 ESCHAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049098.2168183753,
-        "Lambert ordonnée": 6830994.94582584,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -20290,72 +25812,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.740394,
-          48.630651
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82875524900012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES BOU'T CHOU",
-        "Adresse": "11 RUE DES SEPT-ARPENTS, 67460 SOUFFELWEYERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049118.8123543176,
-        "Lambert ordonnée": 6847200.93697627,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.730764999999996,
-          48.52410699999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80521755100029,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS D'ILLKIRCH",
-        "Adresse": "6 RUE EUGENIE BRAZIER, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049119.6967748422,
-        "Lambert ordonnée": 6835335.326953499,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7312836084532055,
-          48.52743041022505
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670087F",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent hôtelier Alexandre Dumas",
-        "Adresse": "75 ROUTE DU RHIN, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": 1.0,
-        "Effectifs": 998.0,
-        "Lambert abscisse": 1049135.8,
-        "Lambert ordonnée": 6835706.4,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.741383837101931,
           48.634057106702656
         ]
@@ -20378,160 +25834,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.713448769301128,
-          48.31945449750006
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671963V",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège",
-        "Adresse": "31 RUE DE LA CHASSE, 67860 RHINAU",
-        "Restauration": 1.0,
-        "Effectifs": 286.0,
-        "Lambert abscisse": 1049200.4,
-        "Lambert ordonnée": 6812551.3,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.737684,
-          48.58509799999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 47918275003794,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES BOUT'EN TRAIN",
-        "Adresse": "15 RUE THIERGARTEN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049223.1314103892,
-        "Lambert ordonnée": 6842133.889382975,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.740498999999997,
-          48.612451
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79145032300120,
-        "Type_etablissement": "Crèche",
-        "Nom": "LEA ET LEO",
-        "Adresse": "6 RUE GABRIELLE COLETTE, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049247.93391811,
-        "Lambert ordonnée": 6845181.707734081,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.737636267600344,
-          48.57539455457328
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670082A",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Louis Pasteur",
-        "Adresse": "24 RUE HUMANN, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 1031.0,
-        "Lambert abscisse": 1049284.3,
-        "Lambert ordonnée": 6841056.9,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.738545000000006,
-          48.584503
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 33827890600015,
-        "Type_etablissement": "Crèche",
-        "Nom": "HALTE GARDERIE LES EXPLORATEURS",
-        "Adresse": "29 RUE KAGENECK, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049290.488081375,
-        "Lambert ordonnée": 6842071.671079517,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.738617999999999,
-          48.585038
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88193454100015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS FLIBUSTIERS DE STRASBOURG",
-        "Adresse": "18 RUE KUHN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049292.295598941,
-        "Lambert ordonnée": 6842131.362401696,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.739302999999999,
-          48.58725399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82138735400029,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'AVANCEE DES CHERUBINS",
-        "Adresse": "46 RUE DU FAUBOURG-DE-SAVERNE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049327.9505393407,
-        "Lambert ordonnée": 6842380.300140349,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.767639254909204,
           48.89770764969246
         ]
@@ -20545,95 +25847,7 @@ var enseignement = {
         "Effectifs": 104.0,
         "Lambert abscisse": 1049331.2,
         "Lambert ordonnée": 6876960.6,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7384544785391665,
-          48.57336226156931
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672129A",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Louis Pasteur",
-        "Adresse": "RUE DE LA PLAINE DES BOUCHERS, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 604.0,
-        "Lambert abscisse": 1049358.1,
-        "Lambert ordonnée": 6840835.0,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.736973000000002,
-          48.54958700000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 85126716100020,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUTINS DE LA MEINAU",
-        "Adresse": "1 RUE DU RHONE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049407.4646570857,
-        "Lambert ordonnée": 6838190.176427682,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.741151000000002,
-          48.59166000000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81244950200069,
-        "Type_etablissement": "Crèche",
-        "Nom": "HAPILI",
-        "Adresse": "23 RUE ADELE RITON, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049434.6083365916,
-        "Lambert ordonnée": 6842877.407487924,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.740904999999996,
-          48.58806399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80836384000022,
-        "Type_etablissement": "Crèche",
-        "Nom": "APPLE TREE",
-        "Adresse": "5 PLACE DES HALLES, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049440.486826297,
-        "Lambert ordonnée": 6842477.273472811,
-        "Structure": null,
+        "Structure": "FDMJC Durrenbach",
         "Biodéchets": null
       }
     },
@@ -20656,94 +25870,6 @@ var enseignement = {
         "Lambert abscisse": 1049461.3,
         "Lambert ordonnée": 6847218.2,
         "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7414629999999995,
-          48.589290000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 38351559000016,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE PARENTALE LA PETITE JUNGLE",
-        "Adresse": "9 RUE DE BOUXWILLER, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049473.387077729,
-        "Lambert ordonnée": 6842615.79109887,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.737545999999999,
-          48.54507099999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95322179300011,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE BABY'S HOUSE ILLKIRCH",
-        "Adresse": "27 AVENUE DE STRASBOURG, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049479.7815369577,
-        "Lambert ordonnée": 6837691.590945615,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.742669999999997,
-          48.600638999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90210410800029,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA BULLE DE PAPOU",
-        "Adresse": "5 ALLEE FREDERIQUE KLEINKNECHT, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049486.5097999196,
-        "Lambert ordonnée": 6843880.5272850655,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.742075000000001,
-          48.590988
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83398310900020,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS PRECIEUX",
-        "Adresse": "20 RUE DE WISSEMBOURG, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049507.1113093405,
-        "Lambert ordonnée": 6842806.92552977,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -20818,72 +25944,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.738432000000001,
-          48.546634
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 53409475000021,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES JARDINS D'ISIS",
-        "Adresse": "5 RUE FIN DE BANLIEUE, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049534.6412535366,
-        "Lambert ordonnée": 6837868.951740406,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.738897,
-          48.550705000000015
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 31049821701240,
-        "Type_etablissement": "Crèche",
-        "Nom": "ALEF MICRO CRECHE DU BARTISCH",
-        "Adresse": "7 RUE BARTISCH, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049541.7575470123,
-        "Lambert ordonnée": 6838322.751636898,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.731529,
-          48.46745899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81304413800010,
-        "Type_etablissement": "Crèche",
-        "Nom": "TROIS PETITS PANDAS",
-        "Adresse": "8 RUE DE LA DEMI-LUNE, 67115 PLOBSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049553.112554978,
-        "Lambert ordonnée": 6829052.947977679,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.75507532489302,
           48.722901988685315
         ]
@@ -20898,72 +25958,6 @@ var enseignement = {
         "Lambert abscisse": 1049581.5,
         "Lambert ordonnée": 6857503.6,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.737484901849596,
-          48.5289210325419
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600124,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS ILLKIRCH - RESTAURANT UNIVERSITAIRE ILLKIRCH",
-        "Adresse": "ROUTE DU RHIN, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1049582.927745897,
-        "Lambert ordonnée": 6835899.242660733,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.748282999999996,
-          48.64663099999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 26670080600034,
-        "Type_etablissement": "Crèche",
-        "Nom": "HALTE-GARDERIE LA COCCINELLE",
-        "Adresse": " PLACE DES VIOLETTES, 67116 REICHSTETT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049592.3523493744,
-        "Lambert ordonnée": 6849009.195677021,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.742212978063253,
-          48.577749698961036
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672306T",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé Le Gymnase Lucie Berger Jean Sturm",
-        "Adresse": "8 PLACE DES ÉTUDIANTS, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 728.0,
-        "Lambert abscisse": 1049605.6,
-        "Lambert ordonnée": 6841338.5,
-        "Structure": "Sodexo",
         "Biodéchets": null
       }
     },
@@ -21038,28 +26032,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.743535061431642,
-          48.58769078019634
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672899M",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé Notre Dame",
-        "Adresse": "6 RUE DES BONNES GENS, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 365.0,
-        "Lambert abscisse": 1049636.6,
-        "Lambert ordonnée": 6842447.5,
-        "Structure": "Scolarest",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.743733371101853,
           48.589278809956376
         ]
@@ -21104,94 +26076,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.743832757234927,
-          48.58800782238096
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671610L",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée privé Notre-Dame",
-        "Adresse": "6 RUE DES BONNES GENS, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 417.0,
-        "Lambert abscisse": 1049656.4,
-        "Lambert ordonnée": 6842484.0,
-        "Structure": "Scolarest",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7441279440644895,
-          48.59120495839771
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89491592500024,
-        "Type_etablissement": "Crèche",
-        "Nom": "KANGOUROU KIDS",
-        "Adresse": "10 RUE DE HAGUENAU, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049656.79,
-        "Lambert ordonnée": 6842840.09,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.745289999999999,
-          48.601551999999984
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88101670300012,
-        "Type_etablissement": "Crèche",
-        "Nom": "PREMIERS PAS",
-        "Adresse": "54 ROUTE DE BISCHWILLER, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049673.2487757031,
-        "Lambert ordonnée": 6843993.442074005,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.744384000000001,
-          48.590153
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81240776500013,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECH' AND DO",
-        "Adresse": "2 PLACE DU FAUBOURG-DE-PIERRE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049682.6617442602,
-        "Lambert ordonnée": 6842724.489081736,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.743720510265297,
           48.580012732600096
         ]
@@ -21206,28 +26090,6 @@ var enseignement = {
         "Lambert abscisse": 1049701.5,
         "Lambert ordonnée": 6841596.3,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.746004999999997,
-          48.60411
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79145032300047,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MOUSSAILLONS",
-        "Adresse": "6 RUE DE SAINTE MARIE AUX MINES, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049708.7906571238,
-        "Lambert ordonnée": 6844280.469824629,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -21294,7 +26156,7 @@ var enseignement = {
         "Lambert abscisse": 1049725.4,
         "Lambert ordonnée": 6848968.4,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -21316,50 +26178,6 @@ var enseignement = {
         "Lambert abscisse": 1049731.0,
         "Lambert ordonnée": 6841303.8,
         "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.743876999999993,
-          48.57729400000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91789644100016,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE NATURE DES DIACONESSES DE STRASBOURG",
-        "Adresse": "3 RUE SAINTE-ELISABETH, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049731.169147981,
-        "Lambert ordonnée": 6841295.300784718,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.746842,
-          48.608789999999985
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82493635500026,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE LES ANGES DE SCHILICK",
-        "Adresse": "9 RUE DE LAUTERBOURG, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049739.1326725406,
-        "Lambert ordonnée": 6844803.517836715,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -21404,95 +26222,7 @@ var enseignement = {
         "Lambert abscisse": 1049767.8,
         "Lambert ordonnée": 6849024.5,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.745621999999999,
-          48.58896
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 33044765700017,
-        "Type_etablissement": "Crèche",
-        "Nom": "ASSOCIATION LA LUCIOLE",
-        "Adresse": "36 RUE DU FAUBOURG-DE-PIERRE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049781.7640411905,
-        "Lambert ordonnée": 6842597.586434635,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.747615,
-          48.60518499999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81114185200020,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE PETIT A PETON",
-        "Adresse": "52 ROUTE DE BISCHWILLER, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049820.099216418,
-        "Lambert ordonnée": 6844406.894171446,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.746580999999996,
-          48.59170499999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 52857022901995,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS CHAPERONS ROUGES STRASBOURG",
-        "Adresse": "2 RUE DE VENDENHEIM, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049834.030413231,
-        "Lambert ordonnée": 6842906.444350341,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.746640000000001,
-          48.589128
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 51954471200010,
-        "Type_etablissement": "Crèche",
-        "Nom": "L ILE AUX LUTINS",
-        "Adresse": "31 RUE DU FOSSE DES TREIZE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049855.584547347,
-        "Lambert ordonnée": 6842620.739114181,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -21544,182 +26274,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.766041456276199,
-          48.79990099922033
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670023L",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel Xavier Nessel",
-        "Adresse": "123 ROUTE DE STRASBOURG, 67500 HAGUENAU",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1049870.3,
-        "Lambert ordonnée": 6866097.8,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.745962089162593,
-          48.57926733971299
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32582607100012,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS - LE STIFT",
-        "Adresse": "QUAI SAINT-THOMAS, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1049871.52505686,
-        "Lambert ordonnée": 6841523.514954755,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.747128,
-          48.590599000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80836384000030,
-        "Type_etablissement": "Crèche",
-        "Nom": "ORANGE TREE",
-        "Adresse": "75 AVENUE DES VOSGES, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049881.684376767,
-        "Lambert ordonnée": 6842786.1363747865,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.748653999999996,
-          48.604123
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 47918275001103,
-        "Type_etablissement": "Crèche",
-        "Nom": "BERGAMOTE",
-        "Adresse": "18 RUE DE LA MAIRIE, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049903.659733483,
-        "Lambert ordonnée": 6844293.647588299,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.746480613374142,
-          48.578444464943054
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671737Z",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Cassin Frey - Pôle Frey",
-        "Adresse": "3 QUAI CHARLES FREY, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1049915.2,
-        "Lambert ordonnée": 6841434.5,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.74114,
-          48.518592
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79145032300062,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ARBRE A BULLES",
-        "Adresse": " RUE BENJAMIN BAILLAUD, 67400 ILLKIRCH-GRAFFENSTADEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049921.217065292,
-        "Lambert ordonnée": 6834769.28704264,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.746691000000001,
-          48.577221
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600389,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS - CAFETERIA DU CARDO",
-        "Adresse": "RUE DE L'ECARLATE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1049938.862346113,
-        "Lambert ordonnée": 6841299.667274722,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.744650999999999,
-          48.55324899999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 53409475000013,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA CRECHE D'ISIS",
-        "Adresse": "269 AVENUE DE COLMAR, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049948.679957922,
-        "Lambert ordonnée": 6838630.534507199,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.779468353789644,
           48.93417069997695
         ]
@@ -21733,7 +26287,7 @@ var enseignement = {
         "Effectifs": 44.0,
         "Lambert abscisse": 1049951.6,
         "Lambert ordonnée": 6881060.3,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Preuschdorf",
         "Biodéchets": null
       }
     },
@@ -21830,72 +26384,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7497549999999995,
-          48.603576
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 47918275001558,
-        "Type_etablissement": "Crèche",
-        "Nom": "TROTTINETTE",
-        "Adresse": "5 SQUARE DU CHATEAU, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049988.3445167546,
-        "Lambert ordonnée": 6844237.826512827,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.753485999999997,
-          48.64423200000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81285506200038,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE 1 2 3 SOLEIL",
-        "Adresse": "65 RUE DU GENERAL DE GAULLE, 67116 REICHSTETT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1049991.006581713,
-        "Lambert ordonnée": 6848766.018769896,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.748074431778835,
-          48.583676935192464
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671552Y",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée privé Gymnase Jean Sturm",
-        "Adresse": "8 PLACE DES ÉTUDIANTS, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 753.0,
-        "Lambert abscisse": 1049997.6,
-        "Lambert ordonnée": 6842022.2,
-        "Structure": "Sodexo",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.753412618956578,
           48.64176659495377
         ]
@@ -21984,72 +26472,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.754736,
-          48.650726
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81244950200275,
-        "Type_etablissement": "Crèche",
-        "Nom": "HAPILI",
-        "Adresse": "16 RUE NORDFELD, 67116 REICHSTETT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050039.4834617053,
-        "Lambert ordonnée": 6849492.220919885,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.751146,
-          48.60904800000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84877580500049,
-        "Type_etablissement": "Crèche",
-        "Nom": "BIOBULLE NIDA",
-        "Adresse": "3 RUE DE HAGUENAU, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050054.136605636,
-        "Lambert ordonnée": 6844851.219956905,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.748527000000002,
-          48.580025000000006
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89490720300026,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES JARDINS D'ATHENA 2",
-        "Adresse": "2 RUE DE L'EPINE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050055.3197937808,
-        "Lambert ordonnée": 6841618.958583104,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.750553759793104,
           48.602293962756484
         ]
@@ -22064,226 +26486,6 @@ var enseignement = {
         "Lambert abscisse": 1050055.7,
         "Lambert ordonnée": 6844099.1,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.750922,
-          48.604642
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82800963900018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PAPILLONS",
-        "Adresse": "51 RUE PRINCIPALE, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050067.1058276205,
-        "Lambert ordonnée": 6844361.293379736,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.74594502892675,
-          48.548353143727084
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670105A",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Lezay Marnésia",
-        "Adresse": "16 RUE DU POITOU, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 535.0,
-        "Lambert abscisse": 1050076.7,
-        "Lambert ordonnée": 6838093.0,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.748552000000001,
-          48.57549000000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 97877203600023,
-        "Type_etablissement": "Crèche",
-        "Nom": "MINIDO",
-        "Adresse": "2 RUE MARIE HAMM, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050087.4601875665,
-        "Lambert ordonnée": 6841115.831768232,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.749004000000002,
-          48.579184999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77885938900018,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE STENGER BACHMANN FONDATION",
-        "Adresse": "2 RUE DE LA DOUANE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050096.0540417405,
-        "Lambert ordonnée": 6841527.860505225,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.747392956243667,
-          48.56114972622028
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670085D",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Louis Couffignal",
-        "Adresse": "11 ROUTE DE LA FÉDÉRATION, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 1483.0,
-        "Lambert abscisse": 1050097.9,
-        "Lambert ordonnée": 6839519.4,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.749938999999997,
-          48.58865799999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80127084400062,
-        "Type_etablissement": "Crèche",
-        "Nom": "FLICK-FLACK",
-        "Adresse": "7 RUE DU GENERAL DE CASTELNAU, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050101.5883496404,
-        "Lambert ordonnée": 6842583.205777974,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.748992999999999,
-          48.577253
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 26670057400269,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE HOPITAL CIVIL",
-        "Adresse": "1 PLACE DE L'HOPITAL, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050108.1535544784,
-        "Lambert ordonnée": 6841313.422502557,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.769448955689145,
-          48.800264074567465
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671509B",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Alphonse Heinrich",
-        "Adresse": "123 ROUTE DE STRASBOURG, 67500 HAGUENAU",
-        "Restauration": 1.0,
-        "Effectifs": 1271.0,
-        "Lambert abscisse": 1050117.7,
-        "Lambert ordonnée": 6866153.2,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.747316999999997,
-          48.55722699999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600132,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS PAUL APPELL - RESTAURANT UNIVERSITAIRE PAUL APPELL",
-        "Adresse": "RUE DU JURA, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1050118.507002546,
-        "Lambert ordonnée": 6839083.774216059,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.752592945513101,
-          48.615337021245125
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81299132100033,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PAPILLONS",
-        "Adresse": "41 ROUTE DE BISCHWILLER, 67800 BISCHHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050118.56,
-        "Lambert ordonnée": 6845555.53,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -22336,72 +26538,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.74990752251427,
-          48.58313239341022
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671608J",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé Institution La Providence",
-        "Adresse": "3 RUE DU SANGLIER, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 1121.0,
-        "Lambert abscisse": 1050136.2,
-        "Lambert ordonnée": 6841969.9,
-        "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.752895999999999,
-          48.61574499999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88101670300020,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE PREMIERS PAS",
-        "Adresse": "49 ROUTE DE BISCHWILLER, 67800 BISCHHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050138.1303404064,
-        "Lambert ordonnée": 6845602.147417519,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.750662913844539,
-          48.59064491071205
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671636P",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée privé ORT",
-        "Adresse": "14 RUE SELLÉNICK, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 466.0,
-        "Lambert abscisse": 1050141.6,
-        "Lambert ordonnée": 6842806.9,
-        "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7536958728635375,
           48.622111588152364
         ]
@@ -22416,28 +26552,6 @@ var enseignement = {
         "Lambert abscisse": 1050154.4,
         "Lambert ordonnée": 6846312.2,
         "Structure": "Tribu des petits chefs",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7522027764665555,
-          48.60411327636224
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670062D",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel Aristide Briand",
-        "Adresse": "12 RUE DU BARRAGE, 67300 SCHILTIGHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 490.0,
-        "Lambert abscisse": 1050164.9,
-        "Lambert ordonnée": 6844308.3,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -22468,50 +26582,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7500449999999965,
-          48.57723699999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32464400400032,
-        "Type_etablissement": "Crèche",
-        "Nom": "BABY BOOM",
-        "Adresse": "41 RUE DES BOUCHERS, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050185.723109824,
-        "Lambert ordonnée": 6841316.311956972,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.751281866512909,
-          48.588605186854934
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671958P",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Foch",
-        "Adresse": "7 RUE DU GÉNÉRAL FRÈRE, 67000 STRASBOURG",
-        "Restauration": 0.0,
-        "Effectifs": 476.0,
-        "Lambert abscisse": 1050200.8,
-        "Lambert ordonnée": 6842583.3,
-        "Structure": "Lycée CASSIN",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.749438771083769,
           48.56807640405556
         ]
@@ -22526,7 +26596,7 @@ var enseignement = {
         "Lambert abscisse": 1050202.3,
         "Lambert ordonnée": 6840297.1,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -22548,7 +26618,7 @@ var enseignement = {
         "Lambert abscisse": 1050205.9,
         "Lambert ordonnée": 6840283.6,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -22570,94 +26640,6 @@ var enseignement = {
         "Lambert abscisse": 1050212.2,
         "Lambert ordonnée": 6845470.4,
         "Structure": "Ville / AELF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.754874000000002,
-          48.622209
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80127084400054,
-        "Type_etablissement": "Crèche",
-        "Nom": "TATU-TATA",
-        "Adresse": "41 RUE DE LA REPUBLIQUE, 67800 HŒNHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050240.4235128704,
-        "Lambert ordonnée": 6846328.234872837,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.752652033574989,
-          48.591052935585225
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671616T",
-        "Type_etablissement": "Lycée",
-        "Nom": "Centre privé Eshel - Lycée",
-        "Adresse": "19 RUE SCHWEIGHAEUSER, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 57.0,
-        "Lambert abscisse": 1050285.3,
-        "Lambert ordonnée": 6842861.0,
-        "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.752661653638768,
-          48.59100929543728
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672519Z",
-        "Type_etablissement": "Collège",
-        "Nom": "Centre privé Eshel - Collège",
-        "Adresse": "19 RUE SCHWEIGHAEUSER, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 52.0,
-        "Lambert abscisse": 1050286.3,
-        "Lambert ordonnée": 6842856.2,
-        "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.751265,
-          48.57508599999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670482501397,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE MUNICIPALE STOLTZ",
-        "Adresse": "7 RUE ALOISE STOLTZ, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050289.9357733326,
-        "Lambert ordonnée": 6841083.032848365,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -22688,160 +26670,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.755681,
-          48.620977
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82800963900026,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PAPILLONS",
-        "Adresse": "24 RUE DE LA REPUBLIQUE, 67800 HŒNHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050308.0386262983,
-        "Lambert ordonnée": 6846195.098514694,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.752138660677819,
-          48.581931181382345
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670079X",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Fustel de Coulanges",
-        "Adresse": "1 PLACE DU CHÂTEAU, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 1098.0,
-        "Lambert abscisse": 1050308.5,
-        "Lambert ordonnée": 6841846.5,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.752443043576792,
-          48.584639624094045
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671611M",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée privé La Doctrine Chrétienne",
-        "Adresse": "14 RUE BRÛLÉE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 332.0,
-        "Lambert abscisse": 1050312.8,
-        "Lambert ordonnée": 6842148.4,
-        "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.754963999999996,
-          48.61234299999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 35213526300023,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS SCHTROUMPFS",
-        "Adresse": "8 RUE DU CYGNE, 67800 BISCHHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050313.053469049,
-        "Lambert ordonnée": 6845233.798589706,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.752478292738727,
-          48.58451926140539
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672303P",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé La Doctrine Chrétienne",
-        "Adresse": "14 RUE BRULÉE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 395.0,
-        "Lambert abscisse": 1050316.2,
-        "Lambert ordonnée": 6842135.2,
-        "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.753082,
-          48.59048299999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 45353623700028,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE NID DES GEANTS",
-        "Adresse": "11 RUE OBERLIN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050320.763159934,
-        "Lambert ordonnée": 6842799.662677057,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.751141999999994,
-          48.569118
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82493635500109,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES ANGES DE NEUDORF",
-        "Adresse": "62 ROUTE DE L'HOPITAL, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050320.7739439935,
-        "Lambert ordonnée": 6840420.237472646,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.753081850181406,
           48.58980296749229
         ]
@@ -22856,116 +26684,6 @@ var enseignement = {
         "Lambert abscisse": 1050325.3,
         "Lambert ordonnée": 6842724.2,
         "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.753180799745095,
-          48.589755755726635
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671615S",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée privé Aquiba",
-        "Adresse": "4 RUE BALDUNG GRIEN, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 158.0,
-        "Lambert abscisse": 1050332.9,
-        "Lambert ordonnée": 6842719.4,
-        "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.753253984609503,
-          48.589723992553374
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672304R",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé Aquiba",
-        "Adresse": "4 RUE BALDUNG GRIEN, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 192.0,
-        "Lambert abscisse": 1050338.5,
-        "Lambert ordonnée": 6842716.2,
-        "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.755080999999999,
-          48.607898
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84877580500056,
-        "Type_etablissement": "Crèche",
-        "Nom": "BIOBULLE ADELE",
-        "Adresse": "61 RUE D'ADELSHOFFEN, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050351.402705618,
-        "Lambert ordonnée": 6844741.056500409,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756338999999998,
-          48.620853000000004
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670204300110,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE FAMILIALE LES TATILOUS",
-        "Adresse": "7 RUE DU MARECHAL LECLERC, 67800 HŒNHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050357.2787754796,
-        "Lambert ordonnée": 6846184.257483287,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.752346999999998,
-          48.57589999999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84146598200012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CANAILLOUX",
-        "Adresse": "4 RUE SPIELMANN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050364.167659783,
-        "Lambert ordonnée": 6841178.160439785,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -22996,94 +26714,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.750825999999998,
-          48.551253
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 33453768500045,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE LA CHENILLE",
-        "Adresse": "1 RUE DE CHAMPAGNE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050416.9187479652,
-        "Lambert ordonnée": 6838436.432685582,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.754822074857131,
-          48.59470687215251
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670080Y",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Kléber",
-        "Adresse": "25 PLACE DE BORDEAUX, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 2047.0,
-        "Lambert abscisse": 1050420.6,
-        "Lambert ordonnée": 6843276.1,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.750697999999997,
-          48.548162999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400151,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE DE LA CANARDIERE",
-        "Adresse": "53 RUE DE LA CANARDIERE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050428.143005743,
-        "Lambert ordonnée": 6838092.983393405,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.754818,
-          48.590105
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 39125484400015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA FLUTE ENCHANTEE",
-        "Adresse": "5 RUE STRAUSS-DURKHEIM, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050451.0873848677,
-        "Lambert ordonnée": 6842765.419983552,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.75741343112629,
           48.61851161082607
         ]
@@ -23106,28 +26736,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.775197999999997,
-          48.81193399999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81327974200015,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE SAINT VINCENT",
-        "Adresse": "34 RUE SAINT VINCENT, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050460.791626829,
-        "Lambert ordonnée": 6867473.913509722,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.754154259191395,
           48.58003292995721
         ]
@@ -23142,28 +26750,6 @@ var enseignement = {
         "Lambert abscisse": 1050469.6,
         "Lambert ordonnée": 6841644.8,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.754461999999998,
-          48.582964999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77883684100016,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS - FEC",
-        "Adresse": "PLACE SAINT-ETIENNE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1050472.6443795778,
-        "Lambert ordonnée": 6841971.52995677,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -23216,50 +26802,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.755473999999999,
-          48.59162100000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 37859907000026,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA TOUPIE",
-        "Adresse": "36 RUE OBERLIN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050489.2353268329,
-        "Lambert ordonnée": 6842936.559289862,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.755378999999999,
-          48.589025
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82002745600012,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE TOM ET LILI",
-        "Adresse": "6 AVENUE DE LA PAIX-SIMONE VEIL, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050499.61178951,
-        "Lambert ordonnée": 6842648.064524046,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.751644916122878,
           48.54779003288389
         ]
@@ -23274,50 +26816,6 @@ var enseignement = {
         "Lambert abscisse": 1050500.4,
         "Lambert ordonnée": 6838055.8,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.753048931756253,
-          48.56129597002351
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600470,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS - CAFETERIA INSPE",
-        "Adresse": "AVENUE DE COLMAR, 67100 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1050513.52,
-        "Lambert ordonnée": 6839560.72,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.775598999999999,
-          48.808369
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75264833700034,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES BEBES JOYEUX",
-        "Adresse": "18 ROUTE DE WINTERSHOUSE, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050514.1449107386,
-        "Lambert ordonnée": 6867080.024307779,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -23348,50 +26846,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.755969999999998,
-          48.59191
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83219786700019,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE TIM ET LILOU",
-        "Adresse": "40 RUE OBERLIN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050523.813511916,
-        "Lambert ordonnée": 6842970.830784428,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.778189999999999,
-          48.835134
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88358245400012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA PETITE FERME",
-        "Adresse": "15 RUE DE LA FERME HUND, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050524.1073076988,
-        "Lambert ordonnée": 6870062.123547696,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.752430882665035,
           48.55173913621948
         ]
@@ -23406,51 +26860,7 @@ var enseignement = {
         "Lambert abscisse": 1050531.9,
         "Lambert ordonnée": 6838497.5,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.754092999999999,
-          48.56944800000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82493635500075,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES ANGES DU NEUFELD",
-        "Adresse": "2 RUE DU NEUFELD, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050535.8927478476,
-        "Lambert ordonnée": 6840469.95265753,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756524935125098,
-          48.59496768226151
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670133F",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Kléber",
-        "Adresse": "25 PLACE DE BORDEAUX, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 578.0,
-        "Lambert abscisse": 1050544.2,
-        "Lambert ordonnée": 6843312.6,
-        "Structure": "Sur place",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -23480,28 +26890,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7580249999999955,
-          48.609435
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83778344800017,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS BOO",
-        "Adresse": "15 RUE DE LA ZORN, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050557.762416863,
-        "Lambert ordonnée": 6844924.68301149,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.752605768575595,
           48.549194396062084
         ]
@@ -23516,160 +26904,6 @@ var enseignement = {
         "Lambert abscisse": 1050561.8,
         "Lambert ordonnée": 6838215.9,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.755598579882173,
-          48.57994991894016
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670129B",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel Jean Geiler",
-        "Adresse": "14 RUE DES BATELIERS, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 431.0,
-        "Lambert abscisse": 1050576.5,
-        "Lambert ordonnée": 6841642.0,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.755982480011762,
-          48.58311297467814
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672301M",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé Saint-Etienne",
-        "Adresse": "2 RUE DE LA PIERRE LARGE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 773.0,
-        "Lambert abscisse": 1050583.6,
-        "Lambert ordonnée": 6841994.7,
-        "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756001032506194,
-          48.583257320080044
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671609K",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée privé Saint-Etienne",
-        "Adresse": "2 RUE DE LA PIERRE LARGE, 67000 STRASBOURG",
-        "Restauration": 0.0,
-        "Effectifs": 763.0,
-        "Lambert abscisse": 1050584.0,
-        "Lambert ordonnée": 6842010.8,
-        "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.754986999999999,
-          48.570909
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88185738700016,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE TAMAÏTI",
-        "Adresse": "1 RUE DE NOMENY, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050591.9562866376,
-        "Lambert ordonnée": 6840636.043474866,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.755617675420176,
-          48.57775390783902
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671742E",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Fustel de Coulanges",
-        "Adresse": "4 RUE JACQUES PEIROTES, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 568.0,
-        "Lambert abscisse": 1050592.6,
-        "Lambert ordonnée": 6841398.4,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756331500838524,
-          48.58468145632318
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670081Z",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée International des Pontonniers",
-        "Adresse": "1 RUE DES PONTONNIERS, 67000 STRASBOURG",
-        "Restauration": 0.0,
-        "Effectifs": 1033.0,
-        "Lambert abscisse": 1050598.8,
-        "Lambert ordonnée": 6842170.3,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756966986953364,
-          48.5914489935165
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 94540933200018,
-        "Type_etablissement": "Crèche",
-        "Nom": "TIPOUCE",
-        "Adresse": "20 AVENUE DE LA PAIX-SIMONE VEIL, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050600.29,
-        "Lambert ordonnée": 6842924.1,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -23722,28 +26956,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.757223,
-          48.593537999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400409,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE FAMILIALE CENTRE VILLE NORD",
-        "Adresse": "72 RUE JACQUES KABLE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050605.15308327,
-        "Lambert ordonnée": 6843157.049841433,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7587397973738454,
           48.60954893553857
         ]
@@ -23766,28 +26978,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.755821999999999,
-          48.57651899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32508018200026,
-        "Type_etablissement": "Crèche",
-        "Nom": "ASSOCIATION LA PETITE BULLE",
-        "Adresse": "16 RUE DE GENEVE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050615.9083429903,
-        "Lambert ordonnée": 6841262.273403597,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.754997286440598,
           48.56593370538195
         ]
@@ -23802,7 +26992,7 @@ var enseignement = {
         "Lambert abscisse": 1050626.0,
         "Lambert ordonnée": 6840084.0,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -23823,29 +27013,7 @@ var enseignement = {
         "Effectifs": 135.0,
         "Lambert abscisse": 1050626.5,
         "Lambert ordonnée": 6888745.8,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756177999999999,
-          48.57837800000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100127,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE SAINT-GOTHARD",
-        "Adresse": "3 RUE DE L'ARDECHE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050629.6817302788,
-        "Lambert ordonnée": 6841470.141547792,
-        "Structure": null,
+        "Structure": "FDMJC Lembach",
         "Biodéchets": null
       }
     },
@@ -23868,7 +27036,7 @@ var enseignement = {
         "Lambert abscisse": 1050643.2,
         "Lambert ordonnée": 6840137.5,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -23890,51 +27058,7 @@ var enseignement = {
         "Lambert abscisse": 1050654.5,
         "Lambert ordonnée": 6838482.3,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.75666,
-          48.57876600000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 85204272000015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES JARDINS D'ATHENA",
-        "Adresse": "3 RUE DU SAINT-GOTHARD, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050662.5754473992,
-        "Lambert ordonnée": 6841515.337112684,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756198000000002,
-          48.57229
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 47918275003422,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ILE AUX ETOILES",
-        "Adresse": "17 ROUTE DE VIENNE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050671.895390923,
-        "Lambert ordonnée": 6840794.665444771,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -23956,117 +27080,7 @@ var enseignement = {
         "Lambert abscisse": 1050673.1,
         "Lambert ordonnée": 6837799.7,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756666999999999,
-          48.576796999999985
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400367,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE BELIN",
-        "Adresse": "11 RUE DE GENEVE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050676.2687794848,
-        "Lambert ordonnée": 6841296.874526244,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756013000000002,
-          48.56848000000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82814394100031,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES BERCEAUX DU NEUHOF",
-        "Adresse": "10 RUE DE MULHOUSE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050683.7674488355,
-        "Lambert ordonnée": 6840371.062610029,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.762830999999998,
-          48.64317700000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79420326500028,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS PUTTINI",
-        "Adresse": "4 RUE DE L'ARTISANAT, 67116 REICHSTETT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050685.2993733897,
-        "Lambert ordonnée": 6848690.404153777,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756448999999999,
-          48.571117000000015
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88392583600016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES TILIONCEAUX",
-        "Adresse": "13 ROUTE DU POLYGONE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050698.2292285587,
-        "Lambert ordonnée": 6840665.616701769,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.761612,
-          48.62491199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 98386853000012,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE SWEET BABY",
-        "Adresse": "28 RUE FRANCOIS MAURIAC, 67800 HŒNHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050718.028369897,
-        "Lambert ordonnée": 6846658.096066463,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -24088,95 +27102,7 @@ var enseignement = {
         "Lambert abscisse": 1050725.0,
         "Lambert ordonnée": 6837722.0,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.756654999999999,
-          48.56444900000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84877580500031,
-        "Type_etablissement": "Crèche",
-        "Nom": "BIOBULLE LEONIE",
-        "Adresse": "9 AVENUE LEON DACHEUX, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050758.0258676286,
-        "Lambert ordonnée": 6839926.61085649,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7600409999999975,
-          48.60062599999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 35213526300015,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE MUNICIPALE WACKEN",
-        "Adresse": "4 RUE DU JASMIN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050765.1146625413,
-        "Lambert ordonnée": 6843956.109068842,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.758482999999998,
-          48.57948600000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80425075100018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS CRECHE ET GARDERIE",
-        "Adresse": "51 RUE DE ZURICH, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050791.9843449364,
-        "Lambert ordonnée": 6841603.330468538,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7800379999999985,
-          48.815042000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88982412400016,
-        "Type_etablissement": "Crèche",
-        "Nom": "MINIATURE",
-        "Adresse": "11 RUE DU MOULIN NEUF, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050794.6674144822,
-        "Lambert ordonnée": 6867840.353637372,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -24199,50 +27125,6 @@ var enseignement = {
         "Lambert ordonnée": 6868533.1,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.758582999999999,
-          48.577731000000014
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 52477730700025,
-        "Type_etablissement": "Crèche",
-        "Nom": "GIVING TREE",
-        "Adresse": "1 RUE DE L'HOPITAL MILITAIRE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050811.0977584722,
-        "Lambert ordonnée": 6841409.028106285,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.759841999999998,
-          48.58925299999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32407937500014,
-        "Type_etablissement": "Crèche",
-        "Nom": "JARDIN D'ENFANTS LA BUISSONNIERE DE L'AAR",
-        "Adresse": "11 QUAI ZORN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050826.636031724,
-        "Lambert ordonnée": 6842693.184838537,
-        "Structure": null,
-        "Biodéchets": null
       }
     },
     {
@@ -24308,116 +27190,6 @@ var enseignement = {
         "Lambert abscisse": 1050868.3,
         "Lambert ordonnée": 6843333.5,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7582790000000035,
-          48.565391000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79145032300112,
-        "Type_etablissement": "Crèche",
-        "Nom": "LEA ET LEO",
-        "Adresse": "6 RUE SIMONIS, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050871.328858405,
-        "Lambert ordonnée": 6840038.355561497,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.759662999999998,
-          48.57966199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670482501405,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE MUNICIPALE FRITZ",
-        "Adresse": "11 RUE FRITZ, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050877.68908244,
-        "Lambert ordonnée": 6841628.103430414,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.763287842598953,
-          48.61927408766835
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670004R",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège le Ried",
-        "Adresse": "4 RUE DU GUIRBADEN, 67800 BISCHHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 593.0,
-        "Lambert abscisse": 1050879.1,
-        "Lambert ordonnée": 6846039.9,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.760044936471628,
-          48.58166439474584
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670127Z",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel Jean Frédéric Oberlin",
-        "Adresse": "4 RUE DE L'ACADÉMIE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 586.0,
-        "Lambert abscisse": 1050892.4,
-        "Lambert ordonnée": 6841852.0,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.776108,
-          48.753307999999976
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95309969400028,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MALICETTES",
-        "Adresse": "93 RUE PRINCIPALE, 67500 WEITBRUCH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050921.5325298938,
-        "Lambert ordonnée": 6860971.38266167,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -24536,28 +27308,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7614719999999995,
-          48.583257
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 34327914700015,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE PARENTALE LA TROTTINETTE",
-        "Adresse": "16 BOULEVARD DE LA VICTOIRE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1050986.8005627147,
-        "Lambert ordonnée": 6842035.068883274,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.781508451220387,
           48.79986096796333
         ]
@@ -24573,28 +27323,6 @@ var enseignement = {
         "Lambert ordonnée": 6866162.0,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.765934,
-          48.629428999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81285506200012,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE 1,2,3, SOLEIL",
-        "Adresse": "2 AVENUE DE L'ENERGIE, 67800 BISCHHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051005.689205687,
-        "Lambert ordonnée": 6847178.555158353,
-        "Structure": null,
-        "Biodéchets": null
       }
     },
     {
@@ -24624,50 +27352,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.777684999999996,
-          48.755404
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88856838300036,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUCIOLES",
-        "Adresse": "73 RUE PRINCIPALE, 67500 WEITBRUCH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051023.1683199676,
-        "Lambert ordonnée": 6861211.009476852,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.761884019243005,
-          48.58233690181525
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670084C",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Jean Rostand",
-        "Adresse": "5 RUE EDMOND LABBE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 2225.0,
-        "Lambert abscisse": 1051023.3,
-        "Lambert ordonnée": 6841934.8,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.789716973953476,
           48.88574846696222
         ]
@@ -24682,50 +27366,6 @@ var enseignement = {
         "Lambert abscisse": 1051027.5,
         "Lambert ordonnée": 6875731.1,
         "Structure": "Scolarest",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.762908999999999,
-          48.592909000000006
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100416,
-        "Type_etablissement": "Crèche",
-        "Nom": "AGES MICRO CRECHE DES CONTADES",
-        "Adresse": "17 RUE DU GENERAL DUCROT, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051027.9159087727,
-        "Lambert ordonnée": 6843112.51292434,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.760328000000003,
-          48.564297
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88488157400013,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA P'TITE CABANE",
-        "Adresse": "114 ROUTE DU POLYGONE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051029.5646367,
-        "Lambert ordonnée": 6839926.066201473,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -24778,28 +27418,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.760543844398476,
-          48.56363439829508
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671620X",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé Sainte-Anne",
-        "Adresse": "128 ROUTE DU POLYGONE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 476.0,
-        "Lambert abscisse": 1051049.9,
-        "Lambert ordonnée": 6839853.5,
-        "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7913501034569395,
           48.89870087232551
         ]
@@ -24822,50 +27440,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.790348286629226,
-          48.88588354992282
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672302N",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé Séminaire des jeunes",
-        "Adresse": "60 GRAND'RUE, 67360 WALBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 393.0,
-        "Lambert abscisse": 1051072.8,
-        "Lambert ordonnée": 6875748.9,
-        "Structure": "Scolarest",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.764953000000001,
-          48.60744199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79145032300039,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUTINS DU MARAIS",
-        "Adresse": "3 RUE DE NORMANDIE, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051080.9405759447,
-        "Lambert ordonnée": 6844734.3015580345,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.763102592995221,
           48.58589095614162
         ]
@@ -24880,160 +27454,6 @@ var enseignement = {
         "Lambert abscisse": 1051089.2,
         "Lambert ordonnée": 6842334.6,
         "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.790627836624986,
-          48.885774147571425
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671618V",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée privé Séminaire de jeunes",
-        "Adresse": "60 GRAND'RUE, 67360 WALBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 239.0,
-        "Lambert abscisse": 1051094.0,
-        "Lambert ordonnée": 6875738.0,
-        "Structure": "Scolarest",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.761179925343656,
-          48.56379095132419
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0673083M",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée privé Sainte-Anne",
-        "Adresse": "128 ROUTE DU POLYGONE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 38.0,
-        "Lambert abscisse": 1051095.7,
-        "Lambert ordonnée": 6839873.7,
-        "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.766227317625634,
-          48.617077398173215
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672604S",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Marc Bloch",
-        "Adresse": "ALLÉE BLAISE PASCAL, 67800 BISCHHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 1276.0,
-        "Lambert abscisse": 1051110.1,
-        "Lambert ordonnée": 6845809.2,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.783400144712632,
-          48.803529816127735
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671734W",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Kléber",
-        "Adresse": "22 RUE KLEBER, 67500 HAGUENAU",
-        "Restauration": 1.0,
-        "Effectifs": 641.0,
-        "Lambert abscisse": 1051118.6,
-        "Lambert ordonnée": 6866577.6,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.784357999999999,
-          48.812471
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84933538500019,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA CABANE A JOUER",
-        "Adresse": "16 BOULEVARD NESSEL, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051128.623630622,
-        "Lambert ordonnée": 6867574.207262364,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.761715999999999,
-          48.56294999999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83267570600010,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ODYSSEE DES P'TITS BOUTS",
-        "Adresse": "2 RUE DU LAZARET, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051140.8170573371,
-        "Lambert ordonnée": 6839782.767469369,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.767238999999999,
-          48.622263
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670204300102,
-        "Type_etablissement": "Crèche",
-        "Nom": "HALTE GARDERIE LES P'TITS BOUTS",
-        "Adresse": "7 AVENUE DU RIED, 67800 HŒNHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051149.7524064402,
-        "Lambert ordonnée": 6846389.143810162,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -25100,7 +27520,7 @@ var enseignement = {
         "Lambert abscisse": 1051189.5,
         "Lambert ordonnée": 6838666.1,
         "Structure": "API",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -25174,28 +27594,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.761622999999997,
-          48.552776
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 33310065900015,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAISON QUARTIER ZIEGELWASSER",
-        "Adresse": "5 RUE DE BERGERAC, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051202.1285473786,
-        "Lambert ordonnée": 6838653.399931485,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.765668432739566,
           48.59719508324908
         ]
@@ -25240,50 +27638,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.785371999999999,
-          48.811263
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80364851800022,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE HAGUENAU",
-        "Adresse": "8 BD DU 2E REGIMENT DE DRAGONS, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051211.086065141,
-        "Lambert ordonnée": 6867444.645147724,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.785906999999995,
-          48.816147
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 52857022903405,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS CHAPERONS ROUGES HAGUENAU",
-        "Adresse": "30 RUE DU MAIRE ANDRE TRABAND, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051217.4086408855,
-        "Lambert ordonnée": 6867989.083323967,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7858809619359075,
           48.814884980021255
         ]
@@ -25299,50 +27653,6 @@ var enseignement = {
         "Lambert ordonnée": 6867848.9,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.786548999999996,
-          48.82110199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81240233700016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PAPILLONS",
-        "Adresse": "10 RUE DES MOINES, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051231.087371139,
-        "Lambert ordonnée": 6868541.879704705,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.766954000000001,
-          48.60682
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 30663974100033,
-        "Type_etablissement": "Crèche",
-        "Nom": "HALTE GARDERIE DU MARAIS",
-        "Adresse": "8 RUE DE TOURAINE, 67300 SCHILTIGHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051232.3667550534,
-        "Lambert ordonnée": 6844674.177744489,
-        "Structure": null,
-        "Biodéchets": null
       }
     },
     {
@@ -25385,29 +27695,7 @@ var enseignement = {
         "Effectifs": 45.0,
         "Lambert abscisse": 1051235.9,
         "Lambert ordonnée": 6875794.7,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.763312999999998,
-          48.56567699999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84877580500023,
-        "Type_etablissement": "Crèche",
-        "Nom": "BIOBULLE CELESTE",
-        "Adresse": "37 RUE DE SELESTAT, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051240.1647155397,
-        "Lambert ordonnée": 6840092.47209579,
-        "Structure": null,
+        "Structure": "FDMJC Durrenbach",
         "Biodéchets": null
       }
     },
@@ -25438,28 +27726,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.762290999999998,
-          48.553517
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 38218693000022,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE LA HALT'JEUX",
-        "Adresse": "21 RUE DES CANONNIERS, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051246.3733056767,
-        "Lambert ordonnée": 6838738.595633834,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.798317308273537,
           48.946523138508965
         ]
@@ -25473,29 +27739,7 @@ var enseignement = {
         "Effectifs": 88.0,
         "Lambert abscisse": 1051246.6,
         "Lambert ordonnée": 6882515.1,
-        "Structure": "fdmjc",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.767637496535721,
-          48.61086962614842
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670089H",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Emile Mathis",
-        "Adresse": "1 RUE DU DAUPHINÉ, 67300 SCHILTIGHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 940.0,
-        "Lambert abscisse": 1051255.5,
-        "Lambert ordonnée": 6845126.6,
-        "Structure": null,
+        "Structure": "FDMJC Preuschdorf",
         "Biodéchets": null
       }
     },
@@ -25526,28 +27770,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.763229999999999,
-          48.56200900000002
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89352386000011,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE BABY'S HOUSE POLYGONE",
-        "Adresse": "159 ROUTE DU POLYGONE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051258.6341882355,
-        "Lambert ordonnée": 6839685.083233581,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.763500795535513,
           48.56333385262617
         ]
@@ -25562,161 +27784,7 @@ var enseignement = {
         "Lambert abscisse": 1051269.7,
         "Lambert ordonnée": 6839833.3,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.764963989615029,
-          48.578385016780764
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600405,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS - CAFETERIA LE PATIO",
-        "Adresse": "RUE RENE DESCARTES, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1051276.56,
-        "Lambert ordonnée": 6841509.97,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.763878000000001,
-          48.56421300000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32091524200251,
-        "Type_etablissement": "Crèche",
-        "Nom": "APEDI - MULTIACCUEIL",
-        "Adresse": "60 RUE DE LA GROSSAU, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051291.5893205835,
-        "Lambert ordonnée": 6839932.532630484,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.766308883211685,
-          48.589969100715976
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671607H",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé Notre Dame de Sion",
-        "Adresse": "8 BOULEVARD DE LA DORDOGNE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 667.0,
-        "Lambert abscisse": 1051297.9,
-        "Lambert ordonnée": 6842801.4,
-        "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.762684469825641,
-          48.54743712909448
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671692A",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Solignac",
-        "Adresse": "16 RUE LOUIS BRAILLE, 67000 STRASBOURG",
-        "Restauration": 0.0,
-        "Effectifs": 371.0,
-        "Lambert abscisse": 1051316.1,
-        "Lambert ordonnée": 6838065.7,
-        "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.768346112428026,
-          48.60889382264041
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670066H",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Rouget de Lisle",
-        "Adresse": "1 RUE DU BÉARN, 67300 SCHILTIGHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 784.0,
-        "Lambert abscisse": 1051320.9,
-        "Lambert ordonnée": 6844910.5,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7659639999999985,
-          48.58177199999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600116,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS ESPLANADE - RESTAURANT UNIVERSITAIRE ESPLANADE",
-        "Adresse": "BOULEVARD DE LA VICTOIRE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1051327.4796118694,
-        "Lambert ordonnée": 6841890.259958959,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.787217,
-          48.811703000000016
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84108216700039,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS POUSSINS D'ISIS",
-        "Adresse": "7 RUE NEUVE, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051343.3653121097,
-        "Lambert ordonnée": 6867501.686911277,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -25738,72 +27806,6 @@ var enseignement = {
         "Lambert abscisse": 1051361.0,
         "Lambert ordonnée": 6855327.3,
         "Structure": "/",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.782271000000002,
-          48.75403900000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81283655900011,
-        "Type_etablissement": "Crèche",
-        "Nom": "MA MAM A MOI",
-        "Adresse": "1 RUE DE LA FORET, 67500 WEITBRUCH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051368.8822658723,
-        "Lambert ordonnée": 6861079.916788905,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.767007,
-          48.586276
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80127084400047,
-        "Type_etablissement": "Crèche",
-        "Nom": "PLITSCH-PLATSCH",
-        "Adresse": "9 RUE SLEIDAN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051374.062417618,
-        "Lambert ordonnée": 6842394.69423547,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.768001,
-          48.590704
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 39445575200029,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA SOURIS VERTE",
-        "Adresse": "61 ALLEE DE LA ROBERTSAU, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051417.5346410673,
-        "Lambert ordonnée": 6842890.47899613,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -25856,72 +27858,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.788928999999999,
-          48.816138999999986
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80364851800014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA DECAPOLE DES CHERUBINS",
-        "Adresse": "5 RUE DES CHAUDRONNIERS, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051438.9624263176,
-        "Lambert ordonnée": 6868001.641233376,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.789207999999999,
-          48.81659899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82146297500011,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE PETIT ROYAUME",
-        "Adresse": "3 PLACE BARBEROUSSE, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051456.3116247728,
-        "Lambert ordonnée": 6868053.936835345,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.789400999999997,
-          48.81817999999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 33340197400014,
-        "Type_etablissement": "Crèche",
-        "Nom": "HALTE GARDERIE",
-        "Adresse": "4 RUE DES ROSES, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051459.8015218354,
-        "Lambert ordonnée": 6868230.265767696,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.766655798443756,
           48.56825036351175
         ]
@@ -25936,29 +27872,7 @@ var enseignement = {
         "Lambert abscisse": 1051469.1,
         "Lambert ordonnée": 6840392.9,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.763942488940322,
-          48.53822958103367
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671691Z",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Stockfeld",
-        "Adresse": "71 RUE DES JESUITES, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 586.0,
-        "Lambert abscisse": 1051470.5,
-        "Lambert ordonnée": 6837049.6,
-        "Structure": "Sur place",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -25980,28 +27894,6 @@ var enseignement = {
         "Lambert abscisse": 1051476.2,
         "Lambert ordonnée": 6838911.0,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.767793033525395,
-          48.57892996621862
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600397,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS - CAFETERIA FACULTE DE DROIT",
-        "Adresse": "PLACE D'ATHENES, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1051481.21,
-        "Lambert ordonnée": 6841583.03,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -26032,50 +27924,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7684219999999975,
-          48.584582000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32306860100042,
-        "Type_etablissement": "Crèche",
-        "Nom": "HALTE GARDERIE RECHIT HOCHMA",
-        "Adresse": "42 AVENUE DE LA FORET-NOIRE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051489.6001480112,
-        "Lambert ordonnée": 6842213.014482906,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.768136059711173,
-          48.58035601589305
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600413,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS - CAFETERIA LA MISHA",
-        "Adresse": "ALLEE DU GENERAL ROUVILLOIS, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1051496.9,
-        "Lambert ordonnée": 6841742.8,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.767196740956546,
           48.5681367428825
         ]
@@ -26090,29 +27938,7 @@ var enseignement = {
         "Lambert abscisse": 1051509.7,
         "Lambert ordonnée": 6840382.7,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.767808999999998,
-          48.573656
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89833114500018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS BATEAUX",
-        "Adresse": "9 RUE DE L'ELBE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051517.7651936002,
-        "Lambert ordonnée": 6840997.87149361,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -26142,94 +27968,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.789990268686853,
-          48.81139908662876
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672298J",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé Sainte Philomène",
-        "Adresse": "19A BOULEVARD HANAUER, 67500 HAGUENAU",
-        "Restauration": 1.0,
-        "Effectifs": 504.0,
-        "Lambert abscisse": 1051548.7,
-        "Lambert ordonnée": 6867480.3,
-        "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.789990268686853,
-          48.81139908662876
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672299K",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel privé Sainte-Philomène",
-        "Adresse": "19A BOULEVARD HANAUER, 67500 HAGUENAU",
-        "Restauration": 1.0,
-        "Effectifs": 78.0,
-        "Lambert abscisse": 1051548.7,
-        "Lambert ordonnée": 6867480.3,
-        "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.789990268686853,
-          48.81139908662876
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671602C",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée privé Sainte-Philomène",
-        "Adresse": "19A BOULEVARD HANAUER, 67500 HAGUENAU",
-        "Restauration": 1.0,
-        "Effectifs": 386.0,
-        "Lambert abscisse": 1051548.7,
-        "Lambert ordonnée": 6867480.3,
-        "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.771868999999997,
-          48.612907
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400078,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE DE L'ILL",
-        "Adresse": "35 RUE DE L'ILL, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051553.1969818843,
-        "Lambert ordonnée": 6845371.51627951,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.76830858846778,
           48.57278459674181
         ]
@@ -26244,29 +27982,7 @@ var enseignement = {
         "Lambert abscisse": 1051560.4,
         "Lambert ordonnée": 6840903.4,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.767275999999999,
-          48.560044999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83070462300016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE NID DES CHERUBINS",
-        "Adresse": "13 RUE D'ALTKIRCH, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051569.8126649612,
-        "Lambert ordonnée": 6839485.155082883,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -26289,28 +28005,6 @@ var enseignement = {
         "Lambert ordonnée": 6868245.8,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.780118000000002,
-          48.700246
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 33120499000021,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUTINS",
-        "Adresse": "1 RUE DE L’ECOLE, 67720 HŒRDT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051572.7257830205,
-        "Lambert ordonnée": 6855100.461873188,
-        "Structure": null,
-        "Biodéchets": null
       }
     },
     {
@@ -26354,51 +28048,7 @@ var enseignement = {
         "Lambert abscisse": 1051601.6,
         "Lambert ordonnée": 6845901.2,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.780241000000003,
-          48.697124
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80790910600070,
-        "Type_etablissement": "Crèche",
-        "Nom": "MES 1ERS COPAINS",
-        "Adresse": "22 RUE DU TRAINEAU, 67720 HŒRDT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051602.7613796245,
-        "Lambert ordonnée": 6854754.542535724,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.767677947330515,
-          48.55920702949091
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82793556000025,
-        "Type_etablissement": "Crèche",
-        "Nom": "BABY ZEN (MAISON D'ASSISTANTES MATERNELLES)",
-        "Adresse": "7 RUE DE GUEBWILLER, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051605.04,
-        "Lambert ordonnée": 6839393.96,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -26420,7 +28070,7 @@ var enseignement = {
         "Lambert abscisse": 1051616.4,
         "Lambert ordonnée": 6845855.4,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -26472,116 +28122,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.768549000000001,
-          48.564364
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100374,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE FAMILIALE NEUDORF",
-        "Adresse": "146 RUE DE BALE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051634.6002968792,
-        "Lambert ordonnée": 6839970.079004314,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.770650000000001,
-          48.585838
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80127084400088,
-        "Type_etablissement": "Crèche",
-        "Nom": "TICK TACK",
-        "Adresse": "9 RUE DE VERDUN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051645.1997533413,
-        "Lambert ordonnée": 6842362.308085373,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7704186853259225,
-          48.58267507410079
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670086E",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Cassin Frey - Pôle Cassin",
-        "Adresse": "4 RUE SCHOCH, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 1688.0,
-        "Lambert abscisse": 1051649.4,
-        "Lambert ordonnée": 6842010.3,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.779293,
-          48.679543
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81244950200168,
-        "Type_etablissement": "Crèche",
-        "Nom": "HAPILI",
-        "Adresse": "1 RUE SOPHIE GERMAIN, 67720 HŒRDT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051651.352083079,
-        "Lambert ordonnée": 6852799.268837581,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.767426,
-          48.549258999999985
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100291,
-        "Type_etablissement": "Crèche",
-        "Nom": "AGES CRECHE FAMILIALE DU NEUHOF",
-        "Adresse": "7 RUE DE CLAIRVIVRE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051653.2103153935,
-        "Lambert ordonnée": 6838288.967036976,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.766998629936708,
           48.540913301706716
         ]
@@ -26596,72 +28136,6 @@ var enseignement = {
         "Lambert abscisse": 1051677.7,
         "Lambert ordonnée": 6837361.0,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7695039708550935,
-          48.567707117103936
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671593T",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Louise Weiss",
-        "Adresse": "68 RUE SAINT ALOÏSE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 668.0,
-        "Lambert abscisse": 1051682.5,
-        "Lambert ordonnée": 6840345.3,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7704059999999995,
-          48.57565399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100366,
-        "Type_etablissement": "Crèche",
-        "Nom": "ASSOC GESTION EQUIPEMENTS SOCIAUX",
-        "Adresse": "7 RUE D'ISTANBUL, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051695.59155569,
-        "Lambert ordonnée": 6841231.144539069,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.791810297053498,
-          48.80874645270509
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 98996211300019,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAM LE COIN DES REVEURS",
-        "Adresse": "25 ROUTE DE WEITBRUCH, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051700.0,
-        "Lambert ordonnée": 6867194.0,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -26692,72 +28166,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.771270000000001,
-          48.58254999999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84809364700016,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE DE L'OBSERVATOIRE",
-        "Adresse": "11 BOULEVARD LEBLOIS, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051712.9175682329,
-        "Lambert ordonnée": 6842000.212585558,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.771719193500615,
-          48.587418929092664
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672305S",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel privé Sainte-Clotilde",
-        "Adresse": "19 RUE DE VERDUN, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 377.0,
-        "Lambert abscisse": 1051713.3,
-        "Lambert ordonnée": 6842542.5,
-        "Structure": "Scolarest",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.771032999999997,
-          48.579812000000004
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100051,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE ESPLANADE",
-        "Adresse": "5 RUE DE COPENHAGUE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051713.8483638868,
-        "Lambert ordonnée": 6841695.332312058,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.771772447131671,
           48.58728792365123
         ]
@@ -26772,94 +28180,6 @@ var enseignement = {
         "Lambert abscisse": 1051718.1,
         "Lambert ordonnée": 6842528.2,
         "Structure": "Scolarest",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.771790423670927,
-          48.587470140313805
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671639T",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée privé Sainte-Clotilde",
-        "Adresse": "19 RUE DE VERDUN, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 815.0,
-        "Lambert abscisse": 1051718.2,
-        "Lambert ordonnée": 6842548.5,
-        "Structure": "Scolarest",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.781167999999999,
-          48.688866000000004
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82493635500067,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES ANGES DE HOERDT",
-        "Adresse": "23 RUE DU MANEGE, 67720 HŒRDT",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051726.419913845,
-        "Lambert ordonnée": 6853842.236156201,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.769814466147959,
-          48.56345546488167
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670078W",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Jean Monnet",
-        "Adresse": "2 PLACE ALBERT SCHWEITZER, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 1056.0,
-        "Lambert abscisse": 1051733.9,
-        "Lambert ordonnée": 6839874.9,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.767786999999998,
-          48.53992499999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82814394100023,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES BERCEAUX DU NEUHOF",
-        "Adresse": "38 ROUTE D'ALTENHEIM, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051742.4196936567,
-        "Lambert ordonnée": 6837254.847016428,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -26904,7 +28224,7 @@ var enseignement = {
         "Lambert abscisse": 1051762.3,
         "Lambert ordonnée": 6841742.5,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -26948,95 +28268,7 @@ var enseignement = {
         "Lambert abscisse": 1051765.8,
         "Lambert ordonnée": 6841719.7,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.771000514394565,
-          48.56352319979184
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672128Z",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Jean Monnet",
-        "Adresse": "2 PLACE ALBERT SCHWEITZER, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 409.0,
-        "Lambert abscisse": 1051820.8,
-        "Lambert ordonnée": 6839887.7,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.772983,
-          48.58304399999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 18670644600306,
-        "Type_etablissement": "CROUS",
-        "Nom": "CROUS - CAFETERIA DU P.E.G.E",
-        "Adresse": "AVENUE DE LA FORET-NOIRE, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": null,
-        "Lambert abscisse": 1051835.7195830657,
-        "Lambert ordonnée": 6842062.66111049,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.794060855059172,
-          48.812597165636085
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672136H",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Foch",
-        "Adresse": "13 RUE DU MARÉCHAL FOCH, 67500 HAGUENAU",
-        "Restauration": 1.0,
-        "Effectifs": 684.0,
-        "Lambert abscisse": 1051839.0,
-        "Lambert ordonnée": 6867631.4,
-        "Structure": "Lycée Robert Schuman",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.772841000000003,
-          48.58085
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77886984200014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES TOUTS PETITS D'ALSACE",
-        "Adresse": "21 RUE VAUBAN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051839.998632789,
-        "Lambert ordonnée": 6841818.569386515,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -27059,72 +28291,6 @@ var enseignement = {
         "Lambert ordonnée": 6867439.1,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.772757637302859,
-          48.578074383750355
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670083B",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Marie Curie",
-        "Adresse": "7 RUE DE LEICESTER, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 772.0,
-        "Lambert abscisse": 1051852.5,
-        "Lambert ordonnée": 6841510.2,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.794134999999997,
-          48.810734000000004
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 31251933300057,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PREMIERS PAS",
-        "Adresse": " PASSAGE FRANCOISE DOLTO, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051857.0050496408,
-        "Lambert ordonnée": 6867424.945675994,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.773555999999999,
-          48.582185
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670482501629,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE MUNICI¨PALE FORET NOIRE",
-        "Adresse": "76 AVENUE DE LA FORET-NOIRE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051883.6756811647,
-        "Lambert ordonnée": 6841969.894756037,
-        "Structure": null,
-        "Biodéchets": null
       }
     },
     {
@@ -27168,29 +28334,7 @@ var enseignement = {
         "Lambert abscisse": 1051905.8,
         "Lambert ordonnée": 6836784.1,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.772670999999999,
-          48.56686599999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 98420926200018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE JOYAU DES CHERUBINS",
-        "Adresse": "92 AVENUE JEAN JAURES, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051921.3868283671,
-        "Lambert ordonnée": 6840266.075815167,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -27211,73 +28355,7 @@ var enseignement = {
         "Effectifs": 37.0,
         "Lambert abscisse": 1051923.2,
         "Lambert ordonnée": 6891342.4,
-        "Structure": "AGF67",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.795434199626829,
-          48.81429630110739
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670020H",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée Robert Schuman",
-        "Adresse": "2 QUAI DES PÊCHEURS, 67500 HAGUENAU",
-        "Restauration": 1.0,
-        "Effectifs": 1478.0,
-        "Lambert abscisse": 1051928.2,
-        "Lambert ordonnée": 6867826.1,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.795640168684194,
-          48.81570352516574
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670024M",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel André Siegfried",
-        "Adresse": "12 RUE DES DOMINICAINS, 67500 HAGUENAU",
-        "Restauration": 1.0,
-        "Effectifs": 641.0,
-        "Lambert abscisse": 1051933.8,
-        "Lambert ordonnée": 6867983.2,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.776082913293106,
-          48.60093789388693
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0673017R",
-        "Type_etablissement": "Collège",
-        "Nom": "Ecole européenne de Strasbourg",
-        "Adresse": "70 BOULEVARD D'ANVERS, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 323.0,
-        "Lambert abscisse": 1051943.7,
-        "Lambert ordonnée": 6844062.1,
-        "Structure": "Alsacienne de restauration",
+        "Structure": "FDMJC Lembach",
         "Biodéchets": null
       }
     },
@@ -27308,94 +28386,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.776082913293106,
-          48.60093789388693
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0673050B",
-        "Type_etablissement": "Lycée",
-        "Nom": "Ecole Européenne de Strasbourg",
-        "Adresse": "2 RUE PETER SCHWARBER, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 192.0,
-        "Lambert abscisse": 1051943.7,
-        "Lambert ordonnée": 6844062.1,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7743689999999965,
-          48.581390000000006
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670482501389,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE MUNICIPALE FLANDRE",
-        "Adresse": "8 RUE DE FLANDRE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051948.873587341,
-        "Lambert ordonnée": 6841885.300353573,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.774154909512343,
-          48.57774430701548
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671915T",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Esplanade",
-        "Adresse": "20 RUE DE LONDRES, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 814.0,
-        "Lambert abscisse": 1051957.6,
-        "Lambert ordonnée": 6841479.8,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.775808999999999,
-          48.595226
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100267,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE CONSEIL DE L'EUROPE",
-        "Adresse": "1 QUAI JACOUTOT, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1051961.9225272597,
-        "Lambert ordonnée": 6843427.047255659,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.770111201489004,
           48.52923841596042
         ]
@@ -27410,29 +28400,7 @@ var enseignement = {
         "Lambert abscisse": 1051985.4,
         "Lambert ordonnée": 6836079.4,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.796894000000001,
-          48.815781
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 44886840601314,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA BAC A SABLE",
-        "Adresse": "31 RUE DES DOMINICAINS, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052025.1777088477,
-        "Lambert ordonnée": 6867997.387635131,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -27454,29 +28422,7 @@ var enseignement = {
         "Lambert abscisse": 1052031.6,
         "Lambert ordonnée": 6836076.0,
         "Structure": "API",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7759399999999985,
-          48.584292999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80127084400021,
-        "Type_etablissement": "Crèche",
-        "Nom": "RATZ-FATZ",
-        "Adresse": "11 RUE DE BRUXELLES, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052045.033086108,
-        "Lambert ordonnée": 6842214.436970953,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -27586,29 +28532,7 @@ var enseignement = {
         "Lambert abscisse": 1052108.1,
         "Lambert ordonnée": 6841541.0,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.7752719999999975,
-          48.56733
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400169,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE MUSAU RISLER",
-        "Adresse": "16 AVENUE ARISTIDE BRIAND, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052109.82487556,
-        "Lambert ordonnée": 6840329.158581424,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -27682,28 +28606,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.775993999999999,
-          48.570178
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88526385500029,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITES PERLES",
-        "Adresse": "122 AVENUE DU RHIN, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052143.8593876276,
-        "Lambert ordonnée": 6840648.404891455,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.776716209066091,
           48.57783244749986
         ]
@@ -27718,73 +28620,7 @@ var enseignement = {
         "Lambert abscisse": 1052145.6,
         "Lambert ordonnée": 6841501.0,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.778734999999999,
-          48.59949000000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 51996340900049,
-        "Type_etablissement": "Crèche",
-        "Nom": "NATURABULLE",
-        "Adresse": "41 RUE BOECKLIN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052148.6258300135,
-        "Lambert ordonnée": 6843913.255487209,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.776120999999999,
-          48.567733999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670482501454,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE MUNICIPALE TUILERIE",
-        "Adresse": "13 QUAI DE LA TUILERIE, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052169.635578567,
-        "Lambert ordonnée": 6840377.774338651,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.777625194332288,
-          48.581957576079255
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671909L",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Vauban",
-        "Adresse": "70 BOULEVARD D'ANVERS, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 520.0,
-        "Lambert abscisse": 1052184.8,
-        "Lambert ordonnée": 6841962.8,
-        "Structure": "Sur place",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -27806,7 +28642,7 @@ var enseignement = {
         "Lambert abscisse": 1052189.4,
         "Lambert ordonnée": 6841510.7,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -27902,50 +28738,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.778458,
-          48.58218899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 33944402800015,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE PARENTALE LA FARANDOLE",
-        "Adresse": "87 BOULEVARD D'ANVERS, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052244.5597523716,
-        "Lambert ordonnée": 6841992.194803463,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.798601760567853,
-          48.80179440509586
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671603D",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège privé des Missions Africaines",
-        "Adresse": "1 RUE DES MISSIONS AFRICAINES, 67500 HAGUENAU",
-        "Restauration": 1.0,
-        "Effectifs": 575.0,
-        "Lambert abscisse": 1052244.8,
-        "Lambert ordonnée": 6866452.7,
-        "Structure": "Ansamble",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.778379107751056,
           48.58096210428809
         ]
@@ -27990,72 +28782,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.777686,
-          48.568367000000016
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81273754200017,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS LOU D'ISIS",
-        "Adresse": "5 RUE DE SOULTZ, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052280.6356546504,
-        "Lambert ordonnée": 6840454.995635941,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.781099999999998,
-          48.604853000000006
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 85256936700018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITES COCCINELLES DES CHERUBINS 2",
-        "Adresse": "112 RUE BOECKLIN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052286.613727731,
-        "Lambert ordonnée": 6844518.921054171,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.778069000000001,
-          48.56813700000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77886335700035,
-        "Type_etablissement": "Crèche",
-        "Nom": "JARDIN D'ENFANTS L'ENVOL",
-        "Adresse": "7 RUE DE SOULTZ, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052310.3877464312,
-        "Lambert ordonnée": 6840431.182654621,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.782187478663612,
           48.61032872451009
         ]
@@ -28070,29 +28796,7 @@ var enseignement = {
         "Lambert abscisse": 1052329.8,
         "Lambert ordonnée": 6845131.4,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.781742035063705,
-          48.603257160376
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671594U",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Robertsau",
-        "Adresse": "115 RUE BOECKLIN, 67000 STRASBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 453.0,
-        "Lambert abscisse": 1052344.6,
-        "Lambert ordonnée": 6844344.7,
-        "Structure": "Sur place",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -28114,50 +28818,6 @@ var enseignement = {
         "Lambert abscisse": 1052346.1,
         "Lambert ordonnée": 6842291.3,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.790725453974179,
-          48.700429438485806
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672012Y",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Baldung Grien",
-        "Adresse": "6 RUE DES ALOUETTES, 67720 HOERDT",
-        "Restauration": 1.0,
-        "Effectifs": 433.0,
-        "Lambert abscisse": 1052350.7,
-        "Lambert ordonnée": 6855168.1,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.799686,
-          48.797834999999985
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81285506200020,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE 1, 2, 3, SOLEIL",
-        "Adresse": "1 RUE MAURICE KOECHLIN, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052351.034817943,
-        "Lambert ordonnée": 6866018.106474078,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -28210,72 +28870,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.782180020203446,
-          48.60085604281966
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 83267570600028,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ODYSSEE ENCHANTEE",
-        "Adresse": "3 RUE DES JARDINIERS, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052392.99,
-        "Lambert ordonnée": 6844080.21,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.801244,
-          48.805389999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88419235200018,
-        "Type_etablissement": "Crèche",
-        "Nom": "ASSOCIATION LES COCCINELLES",
-        "Adresse": "17 RUE DES MOUTONS, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052414.2223505464,
-        "Lambert ordonnée": 6866863.544542979,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.800991999999999,
-          48.800358999999986
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88776123700015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA CABANE D'ACHILLE ET CAMILLE HAGU",
-        "Adresse": "65 ROUTE DE MARIENTHAL, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052429.7390036804,
-        "Lambert ordonnée": 6866304.058232911,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.815521425663905,
           48.9565587685345
         ]
@@ -28289,73 +28883,7 @@ var enseignement = {
         "Effectifs": 45.0,
         "Lambert abscisse": 1052436.4,
         "Lambert ordonnée": 6883705.7,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.782987999999995,
-          48.602067
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100101,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE BOECKLIN",
-        "Adresse": "84 RUE BOECKLIN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052444.3066974003,
-        "Lambert ordonnée": 6844218.19210679,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.783896999999999,
-          48.603251
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 26670057400301,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE ROBERTSAU",
-        "Adresse": "6 RUE MELANIE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052503.2366496157,
-        "Lambert ordonnée": 6844353.634404348,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.794361,
-          48.71680200000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82768615500025,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE LES P'TITS TEO",
-        "Adresse": "16 RUE DE LA CERAMIQUE, 67720 WEYERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052507.3045923002,
-        "Lambert ordonnée": 6857001.285498517,
-        "Structure": null,
+        "Structure": "FDMJC Preuschdorf",
         "Biodéchets": null
       }
     },
@@ -28386,28 +28914,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.7845809999999975,
-          48.599249
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 34826369000011,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES FRIPOUILLES",
-        "Adresse": "27 RUE DES JARDINIERS, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052580.5174164474,
-        "Lambert ordonnée": 6843912.599896286,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.78511908615069,
           48.60084134953042
         ]
@@ -28422,29 +28928,7 @@ var enseignement = {
         "Lambert abscisse": 1052609.4,
         "Lambert ordonnée": 6844091.7,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.783775020000139,
-          48.584552026267794
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 97838565600019,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE BABY'S HOUSE ESPLANADE",
-        "Adresse": "46 RUE D'YPRES, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052620.12,
-        "Lambert ordonnée": 6842278.14,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -28466,28 +28950,6 @@ var enseignement = {
         "Lambert abscisse": 1052692.6,
         "Lambert ordonnée": 6846630.5,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.787604999999999,
-          48.611904
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84108216700021,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS BOUTS D'ISIS",
-        "Adresse": "30 RUE DE LA RENAISSANCE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052717.8377497,
-        "Lambert ordonnée": 6845330.390540335,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -28532,51 +28994,7 @@ var enseignement = {
         "Lambert abscisse": 1052845.2,
         "Lambert ordonnée": 6839689.6,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.800105,
-          48.71783100000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81793699000016,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE LESLOUPIOTS",
-        "Adresse": "85 RUE DE LA REPUBLIQUE, 67720 WEYERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052922.1640383124,
-        "Lambert ordonnée": 6857141.137775685,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.785944,
-          48.56030499999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564203600419,
-        "Type_etablissement": "Crèche",
-        "Nom": "AU RENDEZ VOUS DES PETITS",
-        "Adresse": "38 RUE DE WATTWILLER, 67100 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052943.07819553,
-        "Lambert ordonnée": 6839597.284706882,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -28628,28 +29046,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.792069999999997,
-          48.61936600000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 42294878600013,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA PETITE TABLE RONDE",
-        "Adresse": "255 ROUTE DE LA WANTZENAU, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1052996.0708270022,
-        "Lambert ordonnée": 6846178.382160274,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.801888152744892,
           48.71883834366828
         ]
@@ -28672,50 +29068,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.791291,
-          48.603181
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400110,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE LOVISA",
-        "Adresse": "66 RUE MELANIE, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1053047.8699008592,
-        "Lambert ordonnée": 6844378.900449388,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.81027,
-          48.80384300000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84139183200018,
-        "Type_etablissement": "Crèche",
-        "Nom": "O CLAIR DE LA LUNE",
-        "Adresse": "77 ROUTE DE BISCHWILLER, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1053086.3893951825,
-        "Lambert ordonnée": 6866732.174305144,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.803464086390725,
           48.71455139371373
         ]
@@ -28730,28 +29082,6 @@ var enseignement = {
         "Lambert abscisse": 1053191.0,
         "Lambert ordonnée": 6856792.2,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.805351000000003,
-          48.71362800000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88038889700014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA MAM DE WIRSCHE",
-        "Adresse": "18 RUE BALDUNG GRIEN, 67720 WEYERSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1053335.814318356,
-        "Lambert ordonnée": 6856698.167743633,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -28795,95 +29125,7 @@ var enseignement = {
         "Effectifs": 85.0,
         "Lambert abscisse": 1053483.9,
         "Lambert ordonnée": 6881566.0,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.794668000000002,
-          48.572045000000024
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82947632400019,
-        "Type_etablissement": "Crèche",
-        "Nom": "O COMME 3 POMMES",
-        "Adresse": "14 RUE DE L'ABBE FRANCOIS XAVIER SCHERER, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1053506.4476165797,
-        "Lambert ordonnée": 6840939.014642136,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.811738,
-          48.7558
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88856838300028,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PAPILLONS",
-        "Adresse": "39 CHEMIN DE HAGUENAU, 67240 GRIES",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1053519.3216840464,
-        "Lambert ordonnée": 6861406.876546088,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.8151079999999995,
-          48.785953
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79400040600049,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LIBELLULES",
-        "Adresse": "22 RUE DE LA FERME ROEHRI, 67500 HAGUENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1053562.294981548,
-        "Lambert ordonnée": 6864768.346412622,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.797638999999999,
-          48.573885
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 21670482501546,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE DU PORT DU RHIN",
-        "Adresse": "172 ROUTE DU RHIN, 67000 STRASBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1053712.806725248,
-        "Lambert ordonnée": 6841156.491341672,
-        "Structure": null,
+        "Structure": "FDMJC Preuschdorf",
         "Biodéchets": null
       }
     },
@@ -28950,29 +29192,7 @@ var enseignement = {
         "Lambert abscisse": 1053730.8,
         "Lambert ordonnée": 6841049.9,
         "Structure": "Alsacienne de restauration",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.814649993069333,
-          48.755995014009834
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88856838300051,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES COCCINELLES",
-        "Adresse": "1 RUE DES BRIQUES, 67240 GRIES",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1053731.68,
-        "Lambert ordonnée": 6861441.56,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -29002,28 +29222,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.821196,
-          48.75769899999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 91391963500056,
-        "Type_etablissement": "Crèche",
-        "Nom": "LILY & PABLO LES OURSONS",
-        "Adresse": "28 RUE DU STADE, 67240 GRIES",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1054200.4563505976,
-        "Lambert ordonnée": 6861660.009338541,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.845189936761186,
           48.96397137525459
         ]
@@ -29037,7 +29235,7 @@ var enseignement = {
         "Effectifs": 42.0,
         "Lambert abscisse": 1054554.5,
         "Lambert ordonnée": 6884661.3,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Preuschdorf",
         "Biodéchets": null
       }
     },
@@ -29082,29 +29280,7 @@ var enseignement = {
         "Lambert abscisse": 1054961.7,
         "Lambert ordonnée": 6878586.7,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.834977,
-          48.790669
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84933538500027,
-        "Type_etablissement": "Crèche",
-        "Nom": "CABANE A JOUER",
-        "Adresse": "28 RUE PRINCIPALE, 67240 KALTENHOUSE",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1054987.3224546756,
-        "Lambert ordonnée": 6865380.876296918,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -29126,7 +29302,7 @@ var enseignement = {
         "Lambert abscisse": 1055055.2,
         "Lambert ordonnée": 6878722.9,
         "Structure": "ALEF",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -29149,28 +29325,6 @@ var enseignement = {
         "Lambert ordonnée": 6865518.4,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.835254000000002,
-          48.770962
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81040098600016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA CLE DES CHAMPS",
-        "Adresse": "3 RUE DES MOISSONS, 67240 BISCHWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1055141.726822314,
-        "Lambert ordonnée": 6863195.05588038,
-        "Structure": null,
-        "Biodéchets": null
       }
     },
     {
@@ -29244,72 +29398,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.8266079999999985,
-          48.660819
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 51423519100038,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES ANGES GARDIENS",
-        "Adresse": "18 RUE DU STADE SAINT-PAUL, 67610 LA WANTZENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1055255.54886042,
-        "Lambert ordonnée": 6850933.233417581,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.826942000000004,
-          48.65856600000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 53385487300023,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES PETITS PAS",
-        "Adresse": "24 RUE DES HEROS, 67610 LA WANTZENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1055295.4039923197,
-        "Lambert ordonnée": 6850684.724519216,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.827382999999998,
-          48.651045999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100283,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE COLLECTIVE LA WANTZENAU",
-        "Adresse": "17 RUE DE PERIGUEUX, 67610 LA WANTZENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1055378.903713469,
-        "Lambert ordonnée": 6849852.230824193,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.827460434725089,
           48.651075023547996
         ]
@@ -29332,50 +29420,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.8288210000000005,
-          48.66020699999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 32069482100168,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAISON DE L'ENFANT DE LA WANTZENAU",
-        "Adresse": "4 RUE DES JARDINS, 67610 LA WANTZENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1055422.388761015,
-        "Lambert ordonnée": 6850875.279518569,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.829557456117059,
-          48.66063780215728
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671689X",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège André Malraux",
-        "Adresse": "4 RUE DES JARDINS, 67610 LA WANTZENAU",
-        "Restauration": 1.0,
-        "Effectifs": 518.0,
-        "Lambert abscisse": 1055473.6,
-        "Lambert ordonnée": 6850926.4,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.855077065049783,
           48.933267619449474
         ]
@@ -29389,29 +29433,7 @@ var enseignement = {
         "Effectifs": 65.0,
         "Lambert abscisse": 1055486.9,
         "Lambert ordonnée": 6881297.8,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.829827999999998,
-          48.656017
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 98506770100013,
-        "Type_etablissement": "Crèche",
-        "Nom": "MA CRAPA'HUTTE DES EXPLORATEURS",
-        "Adresse": "1 PLACE DE LA POSTE, 67610 LA WANTZENAU",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1055524.8909789613,
-        "Lambert ordonnée": 6850414.857039381,
-        "Structure": null,
+        "Structure": "FDMJC Preuschdorf",
         "Biodéchets": null
       }
     },
@@ -29442,50 +29464,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.846375773465604,
-          48.77865693527279
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670005S",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée André Maurois",
-        "Adresse": "1 RUE DU LYCÉE, 67240 BISCHWILLER",
-        "Restauration": 1.0,
-        "Effectifs": 679.0,
-        "Lambert abscisse": 1055905.1,
-        "Lambert ordonnée": 6864099.1,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.847541941802112,
-          48.77894026322285
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672130B",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège André Maurois",
-        "Adresse": "1 RUE DU LYCÉE, 67240 BISCHWILLER",
-        "Restauration": 1.0,
-        "Effectifs": 946.0,
-        "Lambert abscisse": 1055988.7,
-        "Lambert ordonnée": 6864135.8,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.8705419159211365,
           48.98899275675351
         ]
@@ -29500,29 +29478,7 @@ var enseignement = {
         "Lambert abscisse": 1056235.8,
         "Lambert ordonnée": 6887552.7,
         "Structure": "FDMJC Drachenbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.852001836136256,
-          48.77555834842311
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670006T",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée professionnel Philippe Charles Goulden",
-        "Adresse": "2 RUE DE LA PISCINE, 67240 BISCHWILLER",
-        "Restauration": 1.0,
-        "Effectifs": 389.0,
-        "Lambert abscisse": 1056338.9,
-        "Lambert ordonnée": 6863780.6,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -29545,50 +29501,6 @@ var enseignement = {
         "Lambert ordonnée": 6863313.1,
         "Structure": "Alsacienne de restauration",
         "Biodéchets": "APOIN"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.854481999999998,
-          48.791068
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81072743800048,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO-CRECHE GRAINES DE CHERUBINS",
-        "Adresse": "1 PLACE CHERIFI, 67240 OBERHOFFEN-SUR-MODER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1056414.8661567676,
-        "Lambert ordonnée": 6865513.020929472,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.870675040886143,
-          48.959632115477696
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672742S",
-        "Type_etablissement": "Ecole",
-        "Nom": "Ecole maternelle",
-        "Adresse": "36 RUE PRINCIPALE , 67250 MEMMELSHOFFEN",
-        "Restauration": 0.0,
-        "Effectifs": 15.0,
-        "Lambert abscisse": 1056446.8,
-        "Lambert ordonnée": 6884294.4,
-        "Structure": "FDMJC",
-        "Biodéchets": null
       }
     },
     {
@@ -29684,72 +29596,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.879391000000003,
-          48.976151
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89329210200017,
-        "Type_etablissement": "Crèche",
-        "Nom": "INFANS BIRLENBACH",
-        "Adresse": "1 RUE DE L'ECOLE BIRLENBACH, 67160 DRACHENBRONN-BIRLENBACH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1056970.3985475749,
-        "Lambert ordonnée": 6886167.279282196,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.860633999999998,
-          48.768414000000014
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 34423750800033,
-        "Type_etablissement": "Crèche",
-        "Nom": "DU COCON AU PAPILLON",
-        "Adresse": "6 RUE DU CHATEAU, 67240 BISCHWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1057020.9266506345,
-        "Lambert ordonnée": 6863026.737729952,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.860633999999998,
-          48.768414000000014
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 34423750800025,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE FAMILIALE BISCHWILLER ET ENVIRONS",
-        "Adresse": "6 RUE DU CHATEAU, 67240 BISCHWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1057020.9266506345,
-        "Lambert ordonnée": 6863026.737729952,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.863523607827809,
           48.782558417796004
         ]
@@ -29816,50 +29662,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.864607,
-          48.78325699999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81072743800022,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE AU PARADIS DES BAMBINS",
-        "Adresse": "17 RUE DE L’HIVER, 67240 OBERHOFFEN-SUR-MODER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1057210.7723218726,
-        "Lambert ordonnée": 6864691.926990852,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.881827965362859,
-          48.964530579020256
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670608X",
-        "Type_etablissement": "Ecole",
-        "Nom": "Ecole primaire",
-        "Adresse": "2 RUE DU BERGER , 67250 KEFFENACH",
-        "Restauration": 0.0,
-        "Effectifs": 19.0,
-        "Lambert abscisse": 1057228.3,
-        "Lambert ordonnée": 6884888.5,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.863177930329359,
           48.765118287500634
         ]
@@ -29896,29 +29698,7 @@ var enseignement = {
         "Lambert abscisse": 1057230.5,
         "Lambert ordonnée": 6877803.9,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.881866738727634,
-          48.94996679373954
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670629V",
-        "Type_etablissement": "Ecole",
-        "Nom": "Ecole primaire",
-        "Adresse": "1 RUE DE L'ECOLE , 67250 RETSCHWILLER",
-        "Restauration": 0.0,
-        "Effectifs": 13.0,
-        "Lambert abscisse": 1057331.2,
-        "Lambert ordonnée": 6883272.2,
-        "Structure": "ALEF",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -29940,7 +29720,7 @@ var enseignement = {
         "Lambert abscisse": 1057414.0,
         "Lambert ordonnée": 6882103.9,
         "Structure": "ALEF",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -29962,7 +29742,7 @@ var enseignement = {
         "Lambert abscisse": 1057433.7,
         "Lambert ordonnée": 6882054.6,
         "Structure": "ALEF",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -30028,95 +29808,7 @@ var enseignement = {
         "Lambert abscisse": 1057600.8,
         "Lambert ordonnée": 6889165.4,
         "Structure": "FDMJC Drachenbronn",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.869068999999996,
-          48.772821
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 92465239900016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS LOUPS",
-        "Adresse": "14 RUE DE BISCHWILLER, 67240 OBERHOFFEN-SUR-MODER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1057609.5096843522,
-        "Lambert ordonnée": 6863553.976572186,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.88767,
-          48.936278
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 53141381300019,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE PRIVEE POMME D'ANOURES",
-        "Adresse": "30 RUE DU FROHNACKER, 67250 SOULTZ-SOUS-FORETS",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1057849.5957318214,
-        "Lambert ordonnée": 6881779.146499147,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.873982999999999,
-          48.785382
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 51518921500012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS PANDAS",
-        "Adresse": "48 RUE DU DOCTEUR SCHWEITZER, 67240 OBERHOFFEN-SUR-MODER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1057883.8085685,
-        "Lambert ordonnée": 6864970.207264163,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.893503239550828,
-          48.93005309530008
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671827X",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège de l'Outre forêt",
-        "Adresse": "40 RUE DE SELTZ, 67250 SOULTZ-SOUS-FORÊTS",
-        "Restauration": 1.0,
-        "Effectifs": 652.0,
-        "Lambert abscisse": 1058319.0,
-        "Lambert ordonnée": 6881114.7,
-        "Structure": "Sur place",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -30138,7 +29830,7 @@ var enseignement = {
         "Lambert abscisse": 1058735.5,
         "Lambert ordonnée": 6893306.9,
         "Structure": "FDMJC - La ruche",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -30160,72 +29852,6 @@ var enseignement = {
         "Lambert abscisse": 1058776.9,
         "Lambert ordonnée": 6891459.8,
         "Structure": "FDMJC - Les raisins",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.896957000000001,
-          48.898683000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 89229352300015,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAM CHEZ LES P'TITS POTIERS",
-        "Adresse": "41 RUE DES POTIERS, 67660 BETSCHDORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1058787.7696740571,
-        "Lambert ordonnée": 6877648.702626397,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.879722999999997,
-          48.69169500000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84042885800012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE JARDIN MAGIQUE",
-        "Adresse": "93 ROUTE NATIONALE, 67760 GAMBSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1058948.0511951623,
-        "Lambert ordonnée": 6854599.678055439,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.900294,
-          48.902086
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79506813900034,
-        "Type_etablissement": "Crèche",
-        "Nom": "A PETITS PAS",
-        "Adresse": "10 RUE DE L'ANGLE, 67660 BETSCHDORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1059008.48086192,
-        "Lambert ordonnée": 6878041.553587177,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -30278,94 +29904,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.893008000000001,
-          48.80234200000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75009581200020,
-        "Type_etablissement": "Crèche",
-        "Nom": "WALDHASLE",
-        "Adresse": "20 RUE DE LA CLAIRIERE, 67240 SCHIRRHEIN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1059162.2006712118,
-        "Lambert ordonnée": 6866938.745615297,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.902257999999999,
-          48.894779
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88354135100010,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAM LES CIGOGNEAUX",
-        "Adresse": "8 RUE DES POTIERS, 67660 BETSCHDORF",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1059202.5962093628,
-        "Lambert ordonnée": 6877239.517428289,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.906579999999999,
-          48.92640300000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 77564176400623,
-        "Type_etablissement": "Crèche",
-        "Nom": "CRECHE DE HOHWILLER",
-        "Adresse": "6 RUE DE L’ECOLE, 67250 SOULTZ-SOUS-FORETS",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1059300.4995255528,
-        "Lambert ordonnée": 6880769.0038801655,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.912311999999998,
-          48.94986799999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82124359900056,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE PETIT PRINCE",
-        "Adresse": "12 RUE DU TILLEUL, 67250 SCHŒNENBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1059557.475752725,
-        "Lambert ordonnée": 6883399.438846801,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.913268151741284,
           48.95006627918289
         ]
@@ -30379,7 +29917,7 @@ var enseignement = {
         "Effectifs": 62.0,
         "Lambert abscisse": 1059626.0,
         "Lambert ordonnée": 6883425.8,
-        "Structure": "ALEF",
+        "Structure": "ALEF - Les papillons",
         "Biodéchets": null
       }
     },
@@ -30401,7 +29939,7 @@ var enseignement = {
         "Effectifs": 15.0,
         "Lambert abscisse": 1059646.6,
         "Lambert ordonnée": 6881885.3,
-        "Structure": "ALEF",
+        "Structure": "ALEF (Nouveau)",
         "Biodéchets": null
       }
     },
@@ -30424,28 +29962,6 @@ var enseignement = {
         "Lambert abscisse": 1059661.2,
         "Lambert ordonnée": 6890789.3,
         "Structure": "FDMJC - Les raisins",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.891965000000002,
-          48.699166
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88942819900026,
-        "Type_etablissement": "Crèche",
-        "Nom": "PLANETE EVEIL",
-        "Adresse": "3 RUE DES POMPIERS, 67760 GAMBSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1059795.9842153173,
-        "Lambert ordonnée": 6855484.424801187,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -30512,7 +30028,7 @@ var enseignement = {
         "Lambert abscisse": 1059942.8,
         "Lambert ordonnée": 6877613.9,
         "Structure": "ALEF",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -30556,51 +30072,7 @@ var enseignement = {
         "Lambert abscisse": 1060127.7,
         "Lambert ordonnée": 6877328.4,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.899881433823841,
-          48.730520084062405
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671911N",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège",
-        "Adresse": "1 RUE DU COLLÈGE, 67850 HERRLISHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 310.0,
-        "Lambert abscisse": 1060161.3,
-        "Lambert ordonnée": 6858999.8,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.903465999999998,
-          48.757429
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75264833700026,
-        "Type_etablissement": "Crèche",
-        "Nom": "AU MONDE DES BEUBIZ",
-        "Adresse": "2 RUE DES VERGERS, 67410 ROHRWILLER",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1060238.771652862,
-        "Lambert ordonnée": 6862002.228858,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -30644,72 +30116,6 @@ var enseignement = {
         "Lambert abscisse": 1060259.4,
         "Lambert ordonnée": 6859100.0,
         "Structure": "Collège Maxime Alexandre",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.908644999999998,
-          48.802129
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 98511951000016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE COCON DE MINA",
-        "Adresse": "50 RUE PRINCIPALE, 67240 SCHIRRHEIN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1060310.0004958443,
-        "Lambert ordonnée": 6866986.346651762,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.903268999999998,
-          48.72484899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90883098700016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LEZARTISTES",
-        "Adresse": "43 RUE DE GAMBSHEIM, 67850 HERRLISHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1060449.1079677574,
-        "Lambert ordonnée": 6858385.947118965,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.903928999999998,
-          48.72587399999998
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79122396900019,
-        "Type_etablissement": "Crèche",
-        "Nom": "LEZAR'TISTES",
-        "Adresse": " RUE DE GAMBSHEIM, 67850 HERRLISHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1060490.4905041496,
-        "Lambert ordonnée": 6858502.702126909,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -30762,28 +30168,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.906216999999998,
-          48.733214
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82240026300015,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS D'HERRLISHEIM",
-        "Adresse": "3 RUE DE BISCHWILLER, 67850 HERRLISHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1060607.7928650938,
-        "Lambert ordonnée": 6859327.655400817,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.907623730956754,
           48.73162903562785
         ]
@@ -30806,28 +30190,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.909437999999999,
-          48.690681000000005
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 80870563600013,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MOUSSAILLONS DU RHIN",
-        "Adresse": "1 ROUTE DE L’ILL, 67760 GAMBSHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1061138.055996055,
-        "Lambert ordonnée": 6854622.649820386,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.942811825036576,
           49.03825733692823
         ]
@@ -30842,7 +30204,7 @@ var enseignement = {
         "Lambert abscisse": 1061172.1,
         "Lambert ordonnée": 6893349.2,
         "Structure": "FDMJC - La ruche",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -30886,29 +30248,7 @@ var enseignement = {
         "Lambert abscisse": 1061287.9,
         "Lambert ordonnée": 6886121.1,
         "Structure": "FDMJC - Les cigogneaux",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.946795000000001,
-          49.03567
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79865778900011,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MARMOTTES EN HERBE",
-        "Adresse": "7 RUE DES ECOLES, 67160 WISSEMBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1061480.7853927384,
-        "Lambert ordonnée": 6893080.243549107,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -30930,29 +30270,7 @@ var enseignement = {
         "Lambert abscisse": 1061497.6,
         "Lambert ordonnée": 6893087.6,
         "Structure": "FDMJC - La ruche",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.926251999999998,
-          48.80889899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75009581200038,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHOUETTES",
-        "Adresse": "2 RUE DU FAUCON, 67240 SCHIRRHOFFEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1061553.8036282132,
-        "Lambert ordonnée": 6867818.12371641,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -30996,28 +30314,6 @@ var enseignement = {
         "Lambert abscisse": 1061661.2,
         "Lambert ordonnée": 6883906.6,
         "Structure": "FDMJC - Les papillons",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.949634999999998,
-          49.037732999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95382881100026,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LOUPI'DOUX",
-        "Adresse": "2 RUE DES FLEURS, 67160 WISSEMBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1061673.6707316872,
-        "Lambert ordonnée": 6893322.231565778,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -31092,28 +30388,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.942609000000001,
-          48.93040300000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81061677100012,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE BRIN D'EVEIL",
-        "Adresse": "3 RUE DU TILLEUL, 67250 HOFFEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1061907.5834196666,
-        "Lambert ordonnée": 6881377.484738351,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.942756276551112,
           48.92822558292593
         ]
@@ -31127,29 +30401,7 @@ var enseignement = {
         "Effectifs": 45.0,
         "Lambert abscisse": 1061933.5,
         "Lambert ordonnée": 6881136.5,
-        "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.9535162528357475,
-          49.036471537396025
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671984T",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Otfried",
-        "Adresse": "11 RUE DES QUATRE VENTS, 67160 WISSEMBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 680.0,
-        "Lambert abscisse": 1061965.7,
-        "Lambert ordonnée": 6893200.0,
-        "Structure": "Sur place",
+        "Structure": "ALEF (Nouveau)",
         "Biodéchets": null
       }
     },
@@ -31172,7 +30424,7 @@ var enseignement = {
         "Lambert abscisse": 1062209.6,
         "Lambert ordonnée": 6888349.2,
         "Structure": "FDMJC - Les cigogneaux",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31193,51 +30445,7 @@ var enseignement = {
         "Effectifs": 50.0,
         "Lambert abscisse": 1062381.6,
         "Lambert ordonnée": 6880581.9,
-        "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.960574129630334,
-          49.03523384618051
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670114K",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Stanislas",
-        "Adresse": "7 RUE DU LYCÉE ALTENSTADT, 67160 WISSEMBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 1499.0,
-        "Lambert abscisse": 1062489.4,
-        "Lambert ordonnée": 6893095.0,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.953458999999996,
-          48.90291899999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 92244092000010,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE RITTERSHOFFEN",
-        "Adresse": "85 RUE PRINCIPALE, 67690 RITTERSHOFFEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1062892.5990024686,
-        "Lambert ordonnée": 6878377.028692333,
-        "Structure": null,
+        "Structure": "ALEF (Nouveau)",
         "Biodéchets": null
       }
     },
@@ -31259,8 +30467,8 @@ var enseignement = {
         "Effectifs": 74.0,
         "Lambert abscisse": 1062907.5,
         "Lambert ordonnée": 6878453.2,
-        "Structure": "ALEF",
-        "Biodéchets": null
+        "Structure": "ALEF Hatten",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31282,29 +30490,7 @@ var enseignement = {
         "Lambert abscisse": 1063020.6,
         "Lambert ordonnée": 6892518.5,
         "Structure": "FDMJC - Les étoiles",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.956467999999998,
-          48.82997300000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95394701700026,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE MONDE FANTASTIQUE DES CHERUBINS",
-        "Adresse": "26 RUE DE HAGUENAU, 67620 SOUFFLENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1063621.5618236335,
-        "Lambert ordonnée": 6870295.531728103,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31334,28 +30520,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.950579999999999,
-          48.759635999999986
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 81100451400022,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE COCON DES CHERUBINS 2",
-        "Adresse": "6 RUE DES ECRIVAINS, 67410 DRUSENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1063680.1667178292,
-        "Lambert ordonnée": 6862463.105337206,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.954031016960187,
           48.75780747426887
         ]
@@ -31370,28 +30534,6 @@ var enseignement = {
         "Lambert abscisse": 1063946.1,
         "Lambert ordonnée": 6862276.1,
         "Structure": "Kiwini",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.961307000000001,
-          48.82871999999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88960749500013,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE SOUFFLENHEIM",
-        "Adresse": "9 RUE DE SCHIRRHEIN, 67620 SOUFFLENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1063984.8466576166,
-        "Lambert ordonnée": 6870178.777119168,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -31435,30 +30577,8 @@ var enseignement = {
         "Effectifs": 46.0,
         "Lambert abscisse": 1064034.1,
         "Lambert ordonnée": 6880538.8,
-        "Structure": "Aschbach",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.955564897822311,
-          48.75992098668574
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672074R",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège",
-        "Adresse": "4 RUE DU COLLÈGE, 67410 DRUSENHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 417.0,
-        "Lambert abscisse": 1064043.9,
-        "Lambert ordonnée": 6862517.7,
-        "Structure": "Sur place",
-        "Biodéchets": null
+        "Structure": "ALEF Aschbach",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31488,72 +30608,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.963504045593752,
-          48.83538011914308
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670076U",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Albert Camus",
-        "Adresse": "38 ROUTE DE BETSCHDORF, 67620 SOUFFLENHEIM",
-        "Restauration": 1.0,
-        "Effectifs": 585.0,
-        "Lambert abscisse": 1064099.3,
-        "Lambert ordonnée": 6870928.0,
-        "Structure": "Sur place",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.970886999999999,
-          48.82820300000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 75009581200012,
-        "Type_etablissement": "Crèche",
-        "Nom": "L'ILE AUX CALINS",
-        "Adresse": "41 RUE DE ROUNTZENHEIM, 67620 SOUFFLENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1064690.3692997124,
-        "Lambert ordonnée": 6870165.6070999205,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.978006,
-          48.90085400000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 82124359900031,
-        "Type_etablissement": "Crèche",
-        "Nom": "BULLES D'ANGES",
-        "Adresse": "1 RUE DU TEMPLE NEUF, 67690 HATTEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1064703.0126598394,
-        "Lambert ordonnée": 6878260.9490006,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.983425115759827,
           48.934861154096836
         ]
@@ -31568,29 +30622,7 @@ var enseignement = {
         "Lambert abscisse": 1064861.0,
         "Lambert ordonnée": 6882060.1,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.983859999999999,
-          48.934965999999996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84067823900012,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES P'TITS INDIENS",
-        "Adresse": "16 RUE NEUVE, 67250 ASCHBACH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1064892.06231697,
-        "Lambert ordonnée": 6882073.745511795,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31612,7 +30644,7 @@ var enseignement = {
         "Lambert abscisse": 1064977.0,
         "Lambert ordonnée": 6878329.6,
         "Structure": "ALEF",
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31634,51 +30666,7 @@ var enseignement = {
         "Lambert abscisse": 1065239.2,
         "Lambert ordonnée": 6886055.7,
         "Structure": "FDMJC Seebach",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.991784999999999,
-          48.96783700000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 92290140000015,
-        "Type_etablissement": "Crèche",
-        "Nom": "MAM LES PETITS FILOUS",
-        "Adresse": "37 RUE DES EGLISES, 67160 SEEBACH",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1065240.5859145052,
-        "Lambert ordonnée": 6885758.503473488,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.984862063826022,
-          48.79051699548201
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 99271146500011,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA CABANE DES REVES",
-        "Adresse": "1 RUE DES PEUPLIERS, 67770 SESSENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1065978.65,
-        "Lambert ordonnée": 6866048.27,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31765,7 +30753,7 @@ var enseignement = {
         "Effectifs": 23.0,
         "Lambert abscisse": 1066589.8,
         "Lambert ordonnée": 6880064.7,
-        "Structure": "Traiteur local",
+        "Structure": "FDMJC Niederoerden",
         "Biodéchets": null
       }
     },
@@ -31809,8 +30797,8 @@ var enseignement = {
         "Effectifs": 99.0,
         "Lambert abscisse": 1067466.5,
         "Lambert ordonnée": 6869344.3,
-        "Structure": "AFICEL",
-        "Biodéchets": null
+        "Structure": "AFICEL Routzenheim",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31831,30 +30819,8 @@ var enseignement = {
         "Effectifs": 61.0,
         "Lambert abscisse": 1067525.1,
         "Lambert ordonnée": 6868759.6,
-        "Structure": "AFICEL",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.018253999999999,
-          48.84042
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 92025290500012,
-        "Type_etablissement": "Crèche",
-        "Nom": "AU JARDIN DES CHTOUP'S",
-        "Adresse": "73 RUE PRINCIPALE, 67480 LEUTENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1068074.5292951472,
-        "Lambert ordonnée": 6871741.113758979,
-        "Structure": null,
-        "Biodéchets": null
+        "Structure": "AFICEL Routzenheim",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31875,7 +30841,7 @@ var enseignement = {
         "Effectifs": 121.0,
         "Lambert abscisse": 1068099.2,
         "Lambert ordonnée": 6882476.0,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Siegen",
         "Biodéchets": null
       }
     },
@@ -31919,8 +30885,8 @@ var enseignement = {
         "Effectifs": 40.0,
         "Lambert abscisse": 1068650.2,
         "Lambert ordonnée": 6873084.1,
-        "Structure": "AFICEL",
-        "Biodéchets": null
+        "Structure": "AFICEL Routzenheim",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31942,29 +30908,7 @@ var enseignement = {
         "Lambert abscisse": 1068731.6,
         "Lambert ordonnée": 6888314.0,
         "Structure": "FDMJC - Les libellules",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.029471999999998,
-          48.824002
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79984065700016,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES GIRAFONS",
-        "Adresse": "2 RUE IMMENLACH, 67480 RŒSCHWOOG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1069012.4250830386,
-        "Lambert ordonnée": 6869971.6056215735,
-        "Structure": null,
-        "Biodéchets": null
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -31985,8 +30929,8 @@ var enseignement = {
         "Effectifs": 40.0,
         "Lambert abscisse": 1069438.0,
         "Lambert ordonnée": 6873851.6,
-        "Structure": "AFICEL",
-        "Biodéchets": null
+        "Structure": "AFICEL Routzenheim",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -32038,28 +30982,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.041102000000004,
-          48.83023000000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79984065700024,
-        "Type_etablissement": "Crèche",
-        "Nom": "D'FELDMISLE",
-        "Adresse": "6 RUE DES CHAMPS, 67480 RŒSCHWOOG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1069820.3794252565,
-        "Lambert ordonnée": 6870717.111918896,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           8.049652868420475,
           48.90742011521301
         ]
@@ -32073,51 +30995,7 @@ var enseignement = {
         "Effectifs": 56.0,
         "Lambert abscisse": 1069898.3,
         "Lambert ordonnée": 6879322.9,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.049569,
-          48.90241499999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 90185677300022,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES MINI MOYS",
-        "Adresse": "3 RUE DU STADE, 67470 NIEDERRŒDERN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1069927.732546883,
-        "Lambert ordonnée": 6878767.076491921,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.05373,
-          48.84231400000003
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95253032700032,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE ROPPENHEIM",
-        "Adresse": "10 RUE PRINCIPALE, 67480 ROPPENHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1070659.581159911,
-        "Lambert ordonnée": 6872117.234103492,
-        "Structure": null,
+        "Structure": "FDMJC Niederoerden",
         "Biodéchets": null
       }
     },
@@ -32139,8 +31017,8 @@ var enseignement = {
         "Effectifs": 48.0,
         "Lambert abscisse": 1070779.8,
         "Lambert ordonnée": 6872238.2,
-        "Structure": "AFICEL",
-        "Biodéchets": null
+        "Structure": "AFICEL Routzenheim",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -32161,7 +31039,7 @@ var enseignement = {
         "Effectifs": 43.0,
         "Lambert abscisse": 1070949.5,
         "Lambert ordonnée": 6884136.0,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Oberlauterbach",
         "Biodéchets": null
       }
     },
@@ -32183,7 +31061,7 @@ var enseignement = {
         "Effectifs": 31.0,
         "Lambert abscisse": 1071036.0,
         "Lambert ordonnée": 6881774.7,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Oberlauterbach",
         "Biodéchets": null
       }
     },
@@ -32205,29 +31083,7 @@ var enseignement = {
         "Effectifs": 60.0,
         "Lambert abscisse": 1071238.2,
         "Lambert ordonnée": 6887246.0,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.084022999999998,
-          48.86265200000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95253032700040,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE BEINHEIM",
-        "Adresse": "29 RUE PRINCIPALE, 67930 BEINHEIM",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1072732.8167441525,
-        "Lambert ordonnée": 6874516.648788785,
-        "Structure": null,
+        "Structure": "FDMJC Oberlauterbach",
         "Biodéchets": null
       }
     },
@@ -32249,7 +31105,7 @@ var enseignement = {
         "Effectifs": 53.0,
         "Lambert abscisse": 1072886.8,
         "Lambert ordonnée": 6874268.9,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Beinheim",
         "Biodéchets": null
       }
     },
@@ -32271,7 +31127,7 @@ var enseignement = {
         "Effectifs": 29.0,
         "Lambert abscisse": 1073060.1,
         "Lambert ordonnée": 6886774.7,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Niederlauterbach",
         "Biodéchets": null
       }
     },
@@ -32293,7 +31149,7 @@ var enseignement = {
         "Effectifs": 23.0,
         "Lambert abscisse": 1073091.5,
         "Lambert ordonnée": 6886762.8,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Niederlauterbach",
         "Biodéchets": null
       }
     },
@@ -32315,7 +31171,7 @@ var enseignement = {
         "Effectifs": 84.0,
         "Lambert abscisse": 1073112.9,
         "Lambert ordonnée": 6874711.3,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Beinheim",
         "Biodéchets": null
       }
     },
@@ -32359,7 +31215,7 @@ var enseignement = {
         "Effectifs": 40.0,
         "Lambert abscisse": 1073258.1,
         "Lambert ordonnée": 6882809.1,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Niederoerden",
         "Biodéchets": null
       }
     },
@@ -32381,30 +31237,8 @@ var enseignement = {
         "Effectifs": 52.0,
         "Lambert abscisse": 1073471.8,
         "Lambert ordonnée": 6879733.2,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.104891044363912,
-          48.89485202719504
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95253032700065,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES CHERUBINS DE SELTZ",
-        "Adresse": "10 RUE DE LA GARE, 67470 SELTZ",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1074029.3,
-        "Lambert ordonnée": 6878188.43,
-        "Structure": null,
-        "Biodéchets": null
+        "Structure": "FDMJC Seltz",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -32425,52 +31259,8 @@ var enseignement = {
         "Effectifs": 215.0,
         "Lambert abscisse": 1074155.7,
         "Lambert ordonnée": 6878111.5,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.109510000000004,
-          48.89289799999999
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79360231900014,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE LES ANOLIS",
-        "Adresse": "12 RUE DU PONT DU RHIN, 67470 SELTZ",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1074381.3034413557,
-        "Lambert ordonnée": 6877993.488267392,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.111954856057821,
-          48.90272456895932
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671597X",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Charles de Gaulle",
-        "Adresse": "3 RUE DU GÉNÉRAL DE GAULLE, 67470 SELTZ",
-        "Restauration": 1.0,
-        "Effectifs": 537.0,
-        "Lambert abscisse": 1074489.5,
-        "Lambert ordonnée": 6879095.5,
-        "Structure": "Sur place",
-        "Biodéchets": null
+        "Structure": "FDMJC Seltz",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -32491,8 +31281,8 @@ var enseignement = {
         "Effectifs": 97.0,
         "Lambert abscisse": 1074617.7,
         "Lambert ordonnée": 6879017.7,
-        "Structure": "FDMJC",
-        "Biodéchets": null
+        "Structure": "FDMJC Seltz",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -32513,7 +31303,7 @@ var enseignement = {
         "Effectifs": 38.0,
         "Lambert abscisse": 1075122.6,
         "Lambert ordonnée": 6884849.7,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Niederlauterbach",
         "Biodéchets": null
       }
     },
@@ -32535,29 +31325,7 @@ var enseignement = {
         "Effectifs": 44.0,
         "Lambert abscisse": 1075559.6,
         "Lambert ordonnée": 6887302.4,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.135167999999998,
-          48.97702600000001
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 84103656900017,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LUTINS DU PONT",
-        "Adresse": "32 RUE DES TIRAILLEURS TUNISIENS, 67630 SCHEIBENHARD",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1075650.6846620291,
-        "Lambert ordonnée": 6887450.95258224,
-        "Structure": null,
+        "Structure": "FDMJC Niederlauterbach",
         "Biodéchets": null
       }
     },
@@ -32579,8 +31347,8 @@ var enseignement = {
         "Effectifs": 60.0,
         "Lambert abscisse": 1076936.7,
         "Lambert ordonnée": 6881190.6,
-        "Structure": "FDMJC",
-        "Biodéchets": null
+        "Structure": "FDMJC Seltz",
+        "Biodéchets": "SUEZ"
       }
     },
     {
@@ -32601,7 +31369,7 @@ var enseignement = {
         "Effectifs": 95.0,
         "Lambert abscisse": 1077256.2,
         "Lambert ordonnée": 6882448.7,
-        "Structure": "FDMJC",
+        "Structure": "FDMJC Mothern",
         "Biodéchets": null
       }
     },
@@ -32623,29 +31391,7 @@ var enseignement = {
         "Effectifs": 47.0,
         "Lambert abscisse": 1077271.5,
         "Lambert ordonnée": 6882472.6,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.153268999999998,
-          48.931476
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 79360231900022,
-        "Type_etablissement": "Crèche",
-        "Nom": "MICRO CRECHE LES PETITS PIRATES DE MATRA",
-        "Adresse": "10 RUE DE LA MAIRIE, 67470 MOTHERN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1077303.285948868,
-        "Lambert ordonnée": 6882482.613804717,
-        "Structure": null,
+        "Structure": "FDMJC Mothern",
         "Biodéchets": null
       }
     },
@@ -32667,29 +31413,7 @@ var enseignement = {
         "Effectifs": 132.0,
         "Lambert abscisse": 1078667.8,
         "Lambert ordonnée": 6887429.9,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.181186999999998,
-          48.974352999999994
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 95382881100018,
-        "Type_etablissement": "Crèche",
-        "Nom": "LES LOUPI'DOUX",
-        "Adresse": "6 RUE DE LA CASERNE, 67630 LAUTERBOURG",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 1079031.771905591,
-        "Lambert ordonnée": 6887374.242679246,
-        "Structure": null,
+        "Structure": "FDMJC Lauterbourg",
         "Biodéchets": null
       }
     },
@@ -32711,29 +31435,7 @@ var enseignement = {
         "Effectifs": 59.0,
         "Lambert abscisse": 1079119.7,
         "Lambert ordonnée": 6887076.0,
-        "Structure": "FDMJC",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.182694859797936,
-          48.972683306949996
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0671688W",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Georges Holderith",
-        "Adresse": "8 RUE DES GLACIS, 67630 LAUTERBOURG",
-        "Restauration": 1.0,
-        "Effectifs": 318.0,
-        "Lambert abscisse": 1079154.1,
-        "Lambert ordonnée": 6887196.2,
-        "Structure": "Sur place",
+        "Structure": "FDMJC Lauterbourg",
         "Biodéchets": null
       }
     },
@@ -32800,50 +31502,6 @@ var enseignement = {
         "Lambert abscisse": 995790.8,
         "Lambert ordonnée": 6878047.7,
         "Structure": "ALEF",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.040233999999997,
-          48.934315999999995
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 88214950300014,
-        "Type_etablissement": "Crèche",
-        "Nom": "LA MAISON CITROUILLE",
-        "Adresse": "1 RUE VERTE, 67260 HARSKIRCHEN",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 995875.7713632344,
-        "Lambert ordonnée": 6878053.3429263495,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.044769030956678,
-          48.97305804664261
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": 92808231200010,
-        "Type_etablissement": "Crèche",
-        "Nom": "LE NID DES CIGOGNEAUX",
-        "Adresse": "1 RUE DU CASTEL, 67260 KESKASTEL",
-        "Restauration": null,
-        "Effectifs": null,
-        "Lambert abscisse": 995987.0,
-        "Lambert ordonnée": 6882373.0,
-        "Structure": null,
         "Biodéchets": null
       }
     },
@@ -33050,50 +31708,6 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.08953225954641,
-          48.937666698664515
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0670056X",
-        "Type_etablissement": "Collège",
-        "Nom": "Collège Pierre Claude",
-        "Adresse": "7 RUE DES ROSES, 67260 SARRE-UNION",
-        "Restauration": 1.0,
-        "Effectifs": 470.0,
-        "Lambert abscisse": 999463.5,
-        "Lambert ordonnée": 6878611.3,
-        "Structure": "Cantine",
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.089739416689254,
-          48.93686001371458
-        ]
-      },
-      "properties": {
-        "Identifiant / SIREN": "0672614C",
-        "Type_etablissement": "Lycée",
-        "Nom": "Lycée polyvalent Georges Imbert",
-        "Adresse": "2 RUE VINCENT D'INDY, 67260 SARRE-UNION",
-        "Restauration": 1.0,
-        "Effectifs": 494.0,
-        "Lambert abscisse": 999483.3,
-        "Lambert ordonnée": 6878522.5,
-        "Structure": null,
-        "Biodéchets": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.089994593323552,
           48.938852124760416
         ]
@@ -33160,20 +31774,1340 @@ var enseignement = {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.095719999999998,
-          48.932032
+          7.231456735086654,
+          48.484528626580925
         ]
       },
       "properties": {
-        "Identifiant / SIREN": 79458546300043,
-        "Type_etablissement": "Crèche",
-        "Nom": "1,2,3 SOLEIL",
-        "Adresse": "16 RUE VINCENT D'INDY, 67260 SARRE-UNION",
-        "Restauration": null,
+        "Identifiant / SIREN": "0670067J",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel Haute Bruche",
+        "Adresse": "18 RUE DES GRIVES, 67130 SCHIRMECK",
+        "Restauration": 1.0,
+        "Effectifs": 132.0,
+        "Lambert abscisse": 1012544.9,
+        "Lambert ordonnée": 6828850.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.312924520001162,
+          48.52262039756946
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672582T",
+        "Type_etablissement": "Lycée",
+        "Nom": "Cours privé Saint-Thomas d'Aquin - Lycée",
+        "Adresse": "LE MULLERHOF, 67280 URMATT",
+        "Restauration": 1.0,
+        "Effectifs": 22.0,
+        "Lambert abscisse": 1018325.2,
+        "Lambert ordonnée": 6833404.4,
+        "Structure": "Newrest",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.351727803102949,
+          48.730592430241835
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672534R",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent du Haut-Barr",
+        "Adresse": "4 RUE JEAN DE MANDERSCHEID, 67700 SAVERNE",
+        "Restauration": 1.0,
+        "Effectifs": 664.0,
+        "Lambert abscisse": 1019912.7,
+        "Lambert ordonnée": 6856647.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.360523616847585,
+          48.74086799429743
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670057Y",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Leclerc",
+        "Adresse": "8 RUE POINCARÉ, 67700 SAVERNE",
+        "Restauration": 1.0,
+        "Effectifs": 833.0,
+        "Lambert abscisse": 1020495.6,
+        "Lambert ordonnée": 6857823.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.370880115712275,
+          48.73524626865714
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670058Z",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel Jules Verne",
+        "Adresse": "31 RUE SAINT NICOLAS, 67700 SAVERNE",
+        "Restauration": 1.0,
+        "Effectifs": 423.0,
+        "Lambert abscisse": 1021290.6,
+        "Lambert ordonnée": 6857241.7,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.478156244113986,
+          48.82748174766205
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672118N",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel agricole privé Schattenmann",
+        "Adresse": "88 GRAND RUE, 67330 BOUXWILLER",
+        "Restauration": 0.0,
         "Effectifs": null,
-        "Lambert abscisse": 999948.688945653,
-        "Lambert ordonnée": 6878009.032165919,
+        "Lambert abscisse": 1028586.5,
+        "Lambert ordonnée": 6867922.5,
+        "Structure": "Dupont restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.483880626586566,
+          48.82567172142951
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670007U",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Adrien Zeller",
+        "Adresse": "4 PLACE DU CHÂTEAU, 67330 BOUXWILLER",
+        "Restauration": 1.0,
+        "Effectifs": 564.0,
+        "Lambert abscisse": 1029017.5,
+        "Lambert ordonnée": 6867745.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.457798657049757,
+          48.40911556724403
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670002N",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Edouard Schuré",
+        "Adresse": "2 RUE DU LYCÉE, 67140 BARR",
+        "Restauration": 1.0,
+        "Effectifs": 467.0,
+        "Lambert abscisse": 1029718.7,
+        "Lambert ordonnée": 6821401.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.448992731877997,
+          48.252313487437924
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671832C",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Jean Baptiste Schwilgué",
+        "Adresse": "1 RUE DU STADE, 67600 SÉLESTAT",
+        "Restauration": 1.0,
+        "Effectifs": 1133.0,
+        "Lambert abscisse": 1030049.5,
+        "Lambert ordonnée": 6803964.1,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.450056733757132,
+          48.26222520162036
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671696E",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel Economique",
+        "Adresse": "PLACE DU DOCTEUR FRANÇOIS KRETZ, 67600 SÉLESTAT",
+        "Restauration": 1.0,
+        "Effectifs": 500.0,
+        "Lambert abscisse": 1030066.3,
+        "Lambert ordonnée": 6805068.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4567860000074635,
+          48.26383427185267
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670071N",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Docteur Koeberlé",
+        "Adresse": "BOULEVARD CHARLEMAGNE, 67600 SÉLESTAT",
+        "Restauration": 1.0,
+        "Effectifs": 1278.0,
+        "Lambert abscisse": 1030554.8,
+        "Lambert ordonnée": 6805275.1,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.490760599432358,
+          48.5355854259969
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670041F",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Henri Meck",
+        "Adresse": "10 RUE HENRI MECK, 67120 MOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 1187.0,
+        "Lambert abscisse": 1031355.0,
+        "Lambert ordonnée": 6835575.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4869606488726905,
+          48.461157489578945
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670049P",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Freppel",
+        "Adresse": "25 RUE DU GÉNÉRAL GOURAUD, 67210 OBERNAI",
+        "Restauration": 1.0,
+        "Effectifs": 697.0,
+        "Lambert abscisse": 1031544.8,
+        "Lambert ordonnée": 6827298.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.496392727535987,
+          48.53950894726023
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670043H",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel Camille Schneider",
+        "Adresse": "13 AVENUE DE LA GARE, 67120 MOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 336.0,
+        "Lambert abscisse": 1031745.3,
+        "Lambert ordonnée": 6836034.1,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.490264123197592,
+          48.462460663827535
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670050R",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Paul Emile Victor",
+        "Adresse": "1A AVENUE DE GAIL, 67210 OBERNAI",
+        "Restauration": 1.0,
+        "Effectifs": 253.0,
+        "Lambert abscisse": 1031780.4,
+        "Lambert ordonnée": 6827457.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.500710960941873,
+          48.53686487354072
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672615D",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Louis Marchal",
+        "Adresse": "2 ROUTE DE LA HARDT, 67120 MOLSHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 802.0,
+        "Lambert abscisse": 1032080.3,
+        "Lambert ordonnée": 6835758.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.496901221346838,
+          48.46710384283478
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671685T",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée agricole d'Obernai",
+        "Adresse": "44 BOULEVARD DE L'EUROPE, 67210 OBERNAI",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1032240.9,
+        "Lambert ordonnée": 6828000.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.648082262873614,
+          48.420691680783186
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671779V",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel agricole d'Erstein",
+        "Adresse": "33 AVENUE DE LA GARE, 67150 ERSTEIN",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1043701.3,
+        "Lambert ordonnée": 6823497.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6501597588427215,
+          48.424076214914116
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672677W",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Marguerite Yourcenar",
+        "Adresse": "RUE VICTOR SCHOELCHER, 67150 ERSTEIN",
+        "Restauration": 1.0,
+        "Effectifs": 829.0,
+        "Lambert abscisse": 1043832.6,
+        "Lambert ordonnée": 6823881.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.692725392558048,
+          48.583958120470896
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672806L",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Marcel Rudloff",
+        "Adresse": "AVENUE FRANÇOIS MITTERRAND, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 1138.0,
+        "Lambert abscisse": 1045920.6,
+        "Lambert ordonnée": 6841809.5,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.707387532602196,
+          48.60591461315388
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672602P",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel privé Charles de Foucauld",
+        "Adresse": "ALLÉE D'ATHÈNES, 67300 SCHILTIGHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 516.0,
+        "Lambert abscisse": 1046854.7,
+        "Lambert ordonnée": 6844310.4,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.723863605637903,
+          48.52895144749273
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672198A",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Le Corbusier",
+        "Adresse": "15 RUE LIXENBUHL, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": 1.0,
+        "Effectifs": 1279.0,
+        "Lambert abscisse": 1048578.8,
+        "Lambert ordonnée": 6835842.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.726929003564346,
+          48.530203765041676
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672616E",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Gutenberg",
+        "Adresse": "22 RUE LIXENBUHL, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": 1.0,
+        "Effectifs": 365.0,
+        "Lambert abscisse": 1048796.4,
+        "Lambert ordonnée": 6835994.9,
+        "Structure": "Lycée Le Corbusier",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7312836084532055,
+          48.52743041022505
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670087F",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent hôtelier Alexandre Dumas",
+        "Adresse": "75 ROUTE DU RHIN, 67400 ILLKIRCH-GRAFFENSTADEN",
+        "Restauration": 1.0,
+        "Effectifs": 998.0,
+        "Lambert abscisse": 1049135.8,
+        "Lambert ordonnée": 6835706.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.737636267600344,
+          48.57539455457328
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670082A",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Louis Pasteur",
+        "Adresse": "24 RUE HUMANN, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 1031.0,
+        "Lambert abscisse": 1049284.3,
+        "Lambert ordonnée": 6841056.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.743832757234927,
+          48.58800782238096
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671610L",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée privé Notre-Dame",
+        "Adresse": "6 RUE DES BONNES GENS, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 417.0,
+        "Lambert abscisse": 1049656.4,
+        "Lambert ordonnée": 6842484.0,
+        "Structure": "Scolarest",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766041456276199,
+          48.79990099922033
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670023L",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel Xavier Nessel",
+        "Adresse": "123 ROUTE DE STRASBOURG, 67500 HAGUENAU",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1049870.3,
+        "Lambert ordonnée": 6866097.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.746480613374142,
+          48.578444464943054
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671737Z",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Cassin Frey - Pôle Frey",
+        "Adresse": "3 QUAI CHARLES FREY, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": null,
+        "Lambert abscisse": 1049915.2,
+        "Lambert ordonnée": 6841434.5,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.748074431778835,
+          48.583676935192464
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671552Y",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée privé Gymnase Jean Sturm",
+        "Adresse": "8 PLACE DES ÉTUDIANTS, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 753.0,
+        "Lambert abscisse": 1049997.6,
+        "Lambert ordonnée": 6842022.2,
+        "Structure": "Sodexo",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.747392956243667,
+          48.56114972622028
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670085D",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Louis Couffignal",
+        "Adresse": "11 ROUTE DE LA FÉDÉRATION, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 1483.0,
+        "Lambert abscisse": 1050097.9,
+        "Lambert ordonnée": 6839519.4,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.769448955689145,
+          48.800264074567465
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671509B",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Alphonse Heinrich",
+        "Adresse": "123 ROUTE DE STRASBOURG, 67500 HAGUENAU",
+        "Restauration": 1.0,
+        "Effectifs": 1271.0,
+        "Lambert abscisse": 1050117.7,
+        "Lambert ordonnée": 6866153.2,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.750662913844539,
+          48.59064491071205
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671636P",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée privé ORT",
+        "Adresse": "14 RUE SELLÉNICK, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 466.0,
+        "Lambert abscisse": 1050141.6,
+        "Lambert ordonnée": 6842806.9,
+        "Structure": "/",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7522027764665555,
+          48.60411327636224
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670062D",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel Aristide Briand",
+        "Adresse": "12 RUE DU BARRAGE, 67300 SCHILTIGHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 490.0,
+        "Lambert abscisse": 1050164.9,
+        "Lambert ordonnée": 6844308.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752652033574989,
+          48.591052935585225
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671616T",
+        "Type_etablissement": "Lycée",
+        "Nom": "Centre privé Eshel - Lycée",
+        "Adresse": "19 RUE SCHWEIGHAEUSER, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 57.0,
+        "Lambert abscisse": 1050285.3,
+        "Lambert ordonnée": 6842861.0,
+        "Structure": "/",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752138660677819,
+          48.581931181382345
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670079X",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Fustel de Coulanges",
+        "Adresse": "1 PLACE DU CHÂTEAU, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 1098.0,
+        "Lambert abscisse": 1050308.5,
+        "Lambert ordonnée": 6841846.5,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.752443043576792,
+          48.584639624094045
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671611M",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée privé La Doctrine Chrétienne",
+        "Adresse": "14 RUE BRÛLÉE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 332.0,
+        "Lambert abscisse": 1050312.8,
+        "Lambert ordonnée": 6842148.4,
+        "Structure": "/",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.753180799745095,
+          48.589755755726635
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671615S",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée privé Aquiba",
+        "Adresse": "4 RUE BALDUNG GRIEN, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 158.0,
+        "Lambert abscisse": 1050332.9,
+        "Lambert ordonnée": 6842719.4,
+        "Structure": "/",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.754822074857131,
+          48.59470687215251
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670080Y",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Kléber",
+        "Adresse": "25 PLACE DE BORDEAUX, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 2047.0,
+        "Lambert abscisse": 1050420.6,
+        "Lambert ordonnée": 6843276.1,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.755598579882173,
+          48.57994991894016
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670129B",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel Jean Geiler",
+        "Adresse": "14 RUE DES BATELIERS, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 431.0,
+        "Lambert abscisse": 1050576.5,
+        "Lambert ordonnée": 6841642.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756001032506194,
+          48.583257320080044
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671609K",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée privé Saint-Etienne",
+        "Adresse": "2 RUE DE LA PIERRE LARGE, 67000 STRASBOURG",
+        "Restauration": 0.0,
+        "Effectifs": 763.0,
+        "Lambert abscisse": 1050584.0,
+        "Lambert ordonnée": 6842010.8,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.756331500838524,
+          48.58468145632318
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670081Z",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée International des Pontonniers",
+        "Adresse": "1 RUE DES PONTONNIERS, 67000 STRASBOURG",
+        "Restauration": 0.0,
+        "Effectifs": 1033.0,
+        "Lambert abscisse": 1050598.8,
+        "Lambert ordonnée": 6842170.3,
         "Structure": null,
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.760044936471628,
+          48.58166439474584
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670127Z",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel Jean Frédéric Oberlin",
+        "Adresse": "4 RUE DE L'ACADÉMIE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 586.0,
+        "Lambert abscisse": 1050892.4,
+        "Lambert ordonnée": 6841852.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.761884019243005,
+          48.58233690181525
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670084C",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Jean Rostand",
+        "Adresse": "5 RUE EDMOND LABBE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 2225.0,
+        "Lambert abscisse": 1051023.3,
+        "Lambert ordonnée": 6841934.8,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.790627836624986,
+          48.885774147571425
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671618V",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée privé Séminaire de jeunes",
+        "Adresse": "60 GRAND'RUE, 67360 WALBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 239.0,
+        "Lambert abscisse": 1051094.0,
+        "Lambert ordonnée": 6875738.0,
+        "Structure": "Scolarest",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.761179925343656,
+          48.56379095132419
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0673083M",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée privé Sainte-Anne",
+        "Adresse": "128 ROUTE DU POLYGONE, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 38.0,
+        "Lambert abscisse": 1051095.7,
+        "Lambert ordonnée": 6839873.7,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.766227317625634,
+          48.617077398173215
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672604S",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Marc Bloch",
+        "Adresse": "ALLÉE BLAISE PASCAL, 67800 BISCHHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 1276.0,
+        "Lambert abscisse": 1051110.1,
+        "Lambert ordonnée": 6845809.2,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.767637496535721,
+          48.61086962614842
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670089H",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Emile Mathis",
+        "Adresse": "1 RUE DU DAUPHINÉ, 67300 SCHILTIGHEIM",
+        "Restauration": 1.0,
+        "Effectifs": 940.0,
+        "Lambert abscisse": 1051255.5,
+        "Lambert ordonnée": 6845126.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.789990268686853,
+          48.81139908662876
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672299K",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel privé Sainte-Philomène",
+        "Adresse": "19A BOULEVARD HANAUER, 67500 HAGUENAU",
+        "Restauration": 1.0,
+        "Effectifs": 78.0,
+        "Lambert abscisse": 1051548.7,
+        "Lambert ordonnée": 6867480.3,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.789990268686853,
+          48.81139908662876
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671602C",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée privé Sainte-Philomène",
+        "Adresse": "19A BOULEVARD HANAUER, 67500 HAGUENAU",
+        "Restauration": 1.0,
+        "Effectifs": 386.0,
+        "Lambert abscisse": 1051548.7,
+        "Lambert ordonnée": 6867480.3,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7704186853259225,
+          48.58267507410079
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670086E",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Cassin Frey - Pôle Cassin",
+        "Adresse": "4 RUE SCHOCH, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 1688.0,
+        "Lambert abscisse": 1051649.4,
+        "Lambert ordonnée": 6842010.3,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.771719193500615,
+          48.587418929092664
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672305S",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel privé Sainte-Clotilde",
+        "Adresse": "19 RUE DE VERDUN, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 377.0,
+        "Lambert abscisse": 1051713.3,
+        "Lambert ordonnée": 6842542.5,
+        "Structure": "Scolarest",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.771790423670927,
+          48.587470140313805
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0671639T",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée privé Sainte-Clotilde",
+        "Adresse": "19 RUE DE VERDUN, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 815.0,
+        "Lambert abscisse": 1051718.2,
+        "Lambert ordonnée": 6842548.5,
+        "Structure": "Scolarest",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.769814466147959,
+          48.56345546488167
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670078W",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Jean Monnet",
+        "Adresse": "2 PLACE ALBERT SCHWEITZER, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 1056.0,
+        "Lambert abscisse": 1051733.9,
+        "Lambert ordonnée": 6839874.9,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.772757637302859,
+          48.578074383750355
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670083B",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Marie Curie",
+        "Adresse": "7 RUE DE LEICESTER, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 772.0,
+        "Lambert abscisse": 1051852.5,
+        "Lambert ordonnée": 6841510.2,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.795434199626829,
+          48.81429630110739
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670020H",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée Robert Schuman",
+        "Adresse": "2 QUAI DES PÊCHEURS, 67500 HAGUENAU",
+        "Restauration": 1.0,
+        "Effectifs": 1478.0,
+        "Lambert abscisse": 1051928.2,
+        "Lambert ordonnée": 6867826.1,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.795640168684194,
+          48.81570352516574
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670024M",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel André Siegfried",
+        "Adresse": "12 RUE DES DOMINICAINS, 67500 HAGUENAU",
+        "Restauration": 1.0,
+        "Effectifs": 641.0,
+        "Lambert abscisse": 1051933.8,
+        "Lambert ordonnée": 6867983.2,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.776082913293106,
+          48.60093789388693
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0673050B",
+        "Type_etablissement": "Lycée",
+        "Nom": "Ecole Européenne de Strasbourg",
+        "Adresse": "2 RUE PETER SCHWARBER, 67000 STRASBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 192.0,
+        "Lambert abscisse": 1051943.7,
+        "Lambert ordonnée": 6844062.1,
+        "Structure": "Alsacienne de restauration",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.846375773465604,
+          48.77865693527279
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670005S",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée André Maurois",
+        "Adresse": "1 RUE DU LYCÉE, 67240 BISCHWILLER",
+        "Restauration": 1.0,
+        "Effectifs": 679.0,
+        "Lambert abscisse": 1055905.1,
+        "Lambert ordonnée": 6864099.1,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.852001836136256,
+          48.77555834842311
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670006T",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée professionnel Philippe Charles Goulden",
+        "Adresse": "2 RUE DE LA PISCINE, 67240 BISCHWILLER",
+        "Restauration": 1.0,
+        "Effectifs": 389.0,
+        "Lambert abscisse": 1056338.9,
+        "Lambert ordonnée": 6863780.6,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.960574129630334,
+          49.03523384618051
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0670114K",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Stanislas",
+        "Adresse": "7 RUE DU LYCÉE ALTENSTADT, 67160 WISSEMBOURG",
+        "Restauration": 1.0,
+        "Effectifs": 1499.0,
+        "Lambert abscisse": 1062489.4,
+        "Lambert ordonnée": 6893095.0,
+        "Structure": "Sur place",
+        "Biodéchets": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.089739416689254,
+          48.93686001371458
+        ]
+      },
+      "properties": {
+        "Identifiant / SIREN": "0672614C",
+        "Type_etablissement": "Lycée",
+        "Nom": "Lycée polyvalent Georges Imbert",
+        "Adresse": "2 RUE VINCENT D'INDY, 67260 SARRE-UNION",
+        "Restauration": 1.0,
+        "Effectifs": 494.0,
+        "Lambert abscisse": 999483.3,
+        "Lambert ordonnée": 6878522.5,
+        "Structure": "Sur place",
         "Biodéchets": null
       }
     }

@@ -20,23 +20,139 @@
     <!-- FIX BUG 3 : le <style> est dans <head>, les <div> sont dans <body> -->
     <style>
       html, body, #map {
-        margin: 0;
-        padding: 0;
-        height: 100%;
-        width: 100%;
+        margin: 0; padding: 0; height: 100%; width: 100%;
         font-family: Arial, sans-serif;
       }
 
-      /* Bouton fermeture de la barre */
+      #titre-carte {
+        position: absolute;
+        top: 12px; left: 50%;
+        transform: translateX(-50%);
+        z-index: 9999;
+        background: white;
+        padding: 8px 16px;
+        font-size: 17px;
+        font-weight: 600;
+        border-radius: 8px;
+        font-family: Arial, sans-serif;
+        white-space: nowrap;
+        box-shadow: 0 1px 5px rgba(0,0,0,0.3);
+      }
+
+      /* ===== BARRE DE FILTRES ===== */
+      #filterBar {
+        position: absolute;
+        bottom: 20px; left: 50%;
+        transform: translateX(-50%);
+        z-index: 9998;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0;
+        box-shadow: 0 -2px 12px rgba(0,0,0,0.25);
+        border-radius: 8px;
+      }
+
+      #filterBar.collapsed .panel,
+      #filterBar.collapsed #tabs {
+        display: none;
+      }
+
+      /* Onglets */
+      #tabs {
+        display: flex;
+        gap: 0;
+        background: #e8d5f5;
+        border-radius: 8px 8px 0 0;
+        overflow: hidden;
+        border-bottom: 1px solid #c9b0e0;
+        width: 100%;
+      }
+
+      #tabs button {
+        padding: 8px 16px;
+        border: none;
+        background: #e8d5f5;
+        cursor: pointer;
+        font-size: 13px;
+        font-family: Arial, sans-serif;
+        font-weight: 600;
+        color: #4a1a6b;
+        transition: background 0.15s;
+        flex: 1;
+      }
+
+      #tabs button:hover { background: #d5bfed; }
+
+      #tabs button.active {
+        background: white;
+        color: #4a1a6b;
+        border-bottom: 2px solid #4a1a6b;
+      }
+
+      #tabs button:disabled { display: none; }
+
+      /* Panels */
+      .panel {
+        background: white;
+        padding: 12px 14px 14px 14px;
+        border-radius: 0 0 8px 8px;
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        flex-wrap: wrap;
+        min-width: 340px;
+        font-family: Arial, sans-serif;
+        font-size: 13px;
+      }
+
+      .panel select, .panel input {
+        font-family: Arial, sans-serif;
+        font-size: 13px;
+        padding: 5px 8px;
+        border-radius: 6px;
+        border: 1px solid #c9b0e0;
+        outline: none;
+        accent-color: #4a1a6b;
+      }
+      .panel select:focus, .panel input:focus {
+        border-color: #4a1a6b;
+        box-shadow: 0 0 0 2px rgba(74,26,107,0.15);
+      }
+
+      /* Boutons communs */
+      .panel button {
+        padding: 6px 12px;
+        cursor: pointer;
+        border: none;
+        border-radius: 5px;
+        font-family: Arial, sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+      }
+      .btn-reset  { background: #eee; color: #333; }
+      .btn-reset:hover  { background: #ddd; }
+      .btn-export { background: #1a5276; color: white; }
+      .btn-export:hover { background: #154360; }
+
+      .compteur {
+        font-size: 11px;
+        color: #888;
+        width: 100%;
+        text-align: center;
+        margin-top: 4px;
+      }
+
+      .hidden { display: none !important; }
+
+      /* Fermeture & réouverture */
       #closeBar {
         position: absolute;
-        top: -10px;
-        right: -10px;
-        width: 20px;
-        height: 20px;
+        top: -10px; right: -10px;
+        width: 20px; height: 20px;
         border-radius: 50%;
         border: none;
-        background: #555;
+        background: #4a1a6b;
         color: white;
         font-size: 11px;
         line-height: 20px;
@@ -45,123 +161,65 @@
         z-index: 10000;
         padding: 0;
       }
-
-      #closeBar:hover { background: #222; }
-
-      #filterBar.collapsed .panel,
-      #filterBar.collapsed #tabs {
-        display: none;
-      }
+      #closeBar:hover { background: #3a1258; }
 
       #reopenBar {
         position: absolute;
-        bottom: 10px;
-        left: 50%;
+        bottom: 20px; left: 50%;
         transform: translateX(-50%);
         z-index: 9999;
-        background: white;
+        background: #4a1a6b;
+        color: white;
         border: none;
         border-radius: 8px;
-        padding: 6px 14px;
+        padding: 8px 16px;
         font-family: Arial, sans-serif;
         font-size: 13px;
-        cursor: pointer;
-        box-shadow: 0 1px 4px rgba(0,0,0,0.2);
-        display: none;
-      }
-
-      #reopenBar:hover { background: #f0f0f0; }
-
-      /* Barre de filtres : onglets au-dessus, contenu en dessous */
-      #filterBar {
-        position: absolute;
-        bottom: 10px;
-        left: 50%;
-        transform: translateX(-50%);
-        z-index: 9999;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 0;
-      }
-
-      #tabs {
-        display: flex;
-        gap: 0;
-        background: white;
-        border-radius: 10px 10px 0 0;
-        overflow: hidden;
-        border-bottom: 1px solid #ddd;
-      }
-
-      #tabs button {
-        padding: 6px 14px;
-        border: none;
-        background: #f5f5f5;
-        cursor: pointer;
-        font-size: 13px;
-        font-family: Arial, sans-serif;
-        transition: background 0.15s;
-      }
-
-      #tabs button:hover {
-        background: #e0e0e0;
-      }
-
-      #tabs button.active {
-        background: white;
         font-weight: 600;
-      }
-
-      #tabs button:disabled {
+        cursor: pointer;
+        box-shadow: 0 1px 5px rgba(0,0,0,0.3);
         display: none;
       }
+      #reopenBar:hover { background: #3a1258; }
 
-      .panel {
-        background: white;
-        padding: 10px;
-        border-radius: 0 0 10px 10px;
-        display: flex;
-        gap: 10px;
-        align-items: center;
-        flex-wrap: wrap;
-        min-width: 300px;
-        font-family: Arial, sans-serif;
-        font-size: 13px;
+      /* Filtres santé inline */
+      #santeFiltres {
+        max-height: 150px;
+        overflow-y: auto;
+        width: 100%;
+        margin-top: 6px;
+        font-size: 12px;
+        border: 1px solid #c9b0e0;
+        padding: 6px;
+        border-radius: 6px;
       }
-
-      .panel select, .panel input, .panel button {
-        font-family: Arial, sans-serif;
-        font-size: 13px;
+      .sante-section {
+        font-weight: 700;
+        margin-bottom: 3px;
+        font-size: 11px;
+        text-transform: uppercase;
+        color: #4a1a6b;
+        border-bottom: 1px solid #e0d0f0;
+        padding-bottom: 2px;
+        letter-spacing: 0.5px;
       }
-
-      .hidden {
-        display: none !important;
-      }
+      .sante-section + .sante-section,
+      label + .sante-section { margin-top: 6px; }
 
       #typeCheckboxes {
         max-height: 120px;
         overflow: auto;
-        border: 1px solid #ccc;
-        padding: 5px;
+        border: 1px solid #c9b0e0;
+        padding: 5px 8px;
+        border-radius: 6px;
+        width: 100%;
       }
- #titre-carte {
-            position: absolute;
-            top: 12px;
-            left: 50%;
-            transform: translateX(-50%);
-            z-index: 9999;
-            background: white;
-            padding: 8px 16px;
-            font-size: 17px;
-            font-weight: 600;
-            border-radius: 8px;
-            font-family: Arial, sans-serif;
-            white-space: nowrap;
-            box-shadow: 0 1px 5px rgba(0,0,0,0.3);
-        }
 
-
+      /* Légende clic uniquement */
+      .leaflet-control-layers:not(.leaflet-control-layers-expanded):hover .leaflet-control-layers-list {
+        display: none !important;
+      }
+      .leaflet-control-layers-toggle { cursor: pointer; }
     </style>
 <title>Producteurs de biodéchets – Vue d'ensemble – Bas-Rhin</title>
   </head>
@@ -196,9 +254,13 @@
           <option value="47">47 - Commerce détail</option>
           <option value="56">56 - Restauration</option>
         </select>
-        <button id="resetEtp">Reset</button>
-        <button id="exportEtp">Export CSV</button>
-        <span id="compteurEtp"></span>
+        <select id="SuezFilterEtp" style="margin-top:4px;">
+          <option value="all">Tous les gestionnaires</option>
+          <option value="Suez">Suez uniquement</option>
+        </select>
+        <button id="resetEtp" class="btn-reset">Reset</button>
+        <button id="exportEtp" class="btn-export">Export CSV</button>
+        <span id="compteurEtp" class="compteur"></span>
         <input id="searchType" placeholder="🔎 Rechercher une typologie">
         <div id="typeCheckboxes"></div>
       </div>
@@ -219,24 +281,30 @@
           <option value="false">Sans restauration</option>
           <option value="null">Non spécifié</option>
         </select>
-        <button id="resetEsgt">Reset</button>
-        <button id="exportEsgt">Export CSV</button>
-        <span id="compteurEsgt"></span>
+        <select id="SuezFilterEsgt" style="margin-top:4px;">
+          <option value="all">Tous les gestionnaires</option>
+          <option value="Suez">Suez uniquement</option>
+        </select>
+        <button id="resetEsgt" class="btn-reset">Reset</button>
+        <button id="exportEsgt" class="btn-export">Export CSV</button>
+        <span id="compteurEsgt" class="compteur"></span>
       </div>
 
       <!-- PANEL SANTÉ & SOCIAL -->
       <div id="panelSante" class="panel hidden" style="flex-direction:column; align-items:flex-start; max-width:380px;">
         <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap; width:100%;">
-          <button id="santeSelectAll">Tout cocher</button>
-          <button id="santeDeselectAll">Tout décocher</button>
-          <button id="resetSante">Reset</button>
-          <button id="exportSante">Export CSV</button>
-          <span id="compteurSante"></span>
+          <button id="resetSante" class="btn-reset">Reset</button>
+          <button id="exportSante" class="btn-export">Export CSV</button>
+          <span id="compteurSante" class="compteur"></span>
         </div>
-        <div id="santeFiltres" style="max-height:150px; overflow-y:auto; width:100%; margin-top:6px; font-size:12px; border:1px solid #ccc; padding:6px; border-radius:4px;">
-          <div style="font-weight:700; margin-bottom:3px; font-size:11px; text-transform:uppercase; border-bottom:1px solid #eee; padding-bottom:2px;">EHPAD</div>
+        <select id="SuezFilterSante" style="margin:6px 0; width:100%; padding:4px 6px; border-radius:5px; border:1px solid #ccc; font-size:12px;">
+          <option value="all">Tous les gestionnaires</option>
+          <option value="Suez">Suez uniquement</option>
+        </select>
+        <div id="santeFiltres">
+          <div class="sante-section">EHPAD</div>
           <label style="display:block; margin:2px 0;"><input type="checkbox" class="sante-cb" value="EHPAD" checked> EHPAD</label>
-          <div style="font-weight:700; margin:6px 0 3px; font-size:11px; text-transform:uppercase; border-bottom:1px solid #eee; padding-bottom:2px;">Hôpitaux &amp; foyers</div>
+          <div class="sante-section">Hôpitaux &amp; foyers</div>
           <label style="display:block; margin:2px 0;"><input type="checkbox" class="sante-cb" value="Centre Hospitalier (C.H.)" checked> Centre Hospitalier (C.H.)</label>
           <label style="display:block; margin:2px 0;"><input type="checkbox" class="sante-cb" value="Centre Hospitalier Régional (C.H.R.)" checked> Centre Hospitalier Régional (C.H.R.)</label>
           <label style="display:block; margin:2px 0;"><input type="checkbox" class="sante-cb" value="Centre Hospitalier Spécialisé lutte Maladies Mentales" checked> CH Spécialisé Maladies Mentales</label>
@@ -427,6 +495,8 @@
               '<td style="padding:3px 0">' + (p['Adresse'] || '—') + '</td></tr>' +
             '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">SIRET</th>' +
               '<td style="padding:3px 0">' + (p['SIRET'] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Gestionnaire biodéchets</th>' +
+              '<td style="padding:3px 0">' + (p['Biodéchets'] || '—') + '</td></tr>' +
             '</table>';
           layer.bindPopup(popupContent, { maxHeight: 400 });
         }
@@ -503,6 +573,8 @@
               '<td style="padding:3px 0">' + (p['Structure'] || '—') + '</td></tr>' +
             '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Effectifs</th>' +
               '<td style="padding:3px 0">' + (p['Effectifs'] !== null && p['Effectifs'] !== undefined ? p['Effectifs'] : '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Gestionnaire biodéchets</th>' +
+              '<td style="padding:3px 0">' + (p['Biodéchets'] || '—') + '</td></tr>' +
             '</table>';
           layer.bindPopup(popupContent, { maxHeight: 400 });
         }
@@ -609,14 +681,16 @@
 
         // ===================== SANTÉ & SOCIAL =====================
         function pop_EHPAD(feature, layer) {
-          var content = removeEmptyRowsFromPopupContent('<table>' +
-            '<tr><th scope="row">SIREN</th><td class="visible-with-data" id="SIREN">' + (feature.properties["SIREN"] !== null ? autolinker.link(String(feature.properties["SIREN"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">SIRET</th><td class=\"visible-with-data\" id=\"SIRET\">" + (feature.properties["SIRET"] !== null ? autolinker.link(String(feature.properties["SIRET"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">Nom</th><td class=\"visible-with-data\" id=\"Nom\">" + (feature.properties["Nom"] !== null ? autolinker.link(String(feature.properties["Nom"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">Adresse</th><td class=\"visible-with-data\" id=\"Adresse\">" + (feature.properties["Adresse"] !== null ? autolinker.link(String(feature.properties["Adresse"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">Code NAF</th><td class=\"visible-with-data\" id=\"Code NAF\">" + (feature.properties["Code NAF"] !== null ? autolinker.link(String(feature.properties["Code NAF"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">Prestataire (NAF 56)</th><td class=\"visible-with-data\" id=\"Prestataire (NAF 56)\">" + (feature.properties["Prestataire (NAF 56)"] !== null ? autolinker.link(String(feature.properties["Prestataire (NAF 56)"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "</table>", feature);
+          var p = feature.properties;
+          var content = '<table style="font-family:Arial,sans-serif;font-size:13px;border-collapse:collapse;">' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">SIREN</th><td style="padding:3px 0">' + (p["SIREN"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">SIRET</th><td style="padding:3px 0">' + (p["SIRET"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Nom</th><td style="padding:3px 0">' + (p["Nom"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Adresse</th><td style="padding:3px 0">' + (p["Adresse"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Code NAF</th><td style="padding:3px 0">' + (p["Code NAF"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Prestataire (NAF 56)</th><td style="padding:3px 0">' + (p["Prestataire (NAF 56)"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Gestionnaire biodéchets</th><td style="padding:3px 0">' + (p["Biodéchets"] || '—') + '</td></tr>' +
+            '</table>';
           layer.on("popupopen", function(e) { addClassToPopupIfMedia(content, e.popup); });
           layer.bindPopup(content, { maxHeight: 400 });
         }
@@ -637,15 +711,17 @@
         cluster_EHPAD.addTo(map);
 
         function pop_Hopitaux(feature, layer) {
-          var content = removeEmptyRowsFromPopupContent("<table>" +
-            "<tr><th scope=\"row\">FINESS</th><td class=\"visible-with-data\" id=\"FINESS\">" + (feature.properties["FINESS"] !== null ? autolinker.link(String(feature.properties["FINESS"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">SIRET</th><td class=\"visible-with-data\" id=\"SIRET\">" + (feature.properties["SIRET"] !== null ? autolinker.link(String(feature.properties["SIRET"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">Nom</th><td class=\"visible-with-data\" id=\"Nom\">" + (feature.properties["Nom"] !== null ? autolinker.link(String(feature.properties["Nom"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">Adresse</th><td class=\"visible-with-data\" id=\"Adresse\">" + (feature.properties["Adresse"] !== null ? autolinker.link(String(feature.properties["Adresse"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">Code NAF</th><td class=\"visible-with-data\" id=\"Code NAF\">" + (feature.properties["Code NAF"] !== null ? autolinker.link(String(feature.properties["Code NAF"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">Prestataire (NAF 56)</th><td class=\"visible-with-data\" id=\"Prestataire (NAF 56)\">" + (feature.properties["Prestataire (NAF 56)"] !== null ? autolinker.link(String(feature.properties["Prestataire (NAF 56)"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "<tr><th scope=\"row\">Activité FINESS</th><td class=\"visible-with-data\" id=\"Acivité FINESS\">" + (feature.properties["Acivité FINESS"] !== null ? autolinker.link(String(feature.properties["Acivité FINESS"]).replace(/\'/g, "\'").toLocaleString()) : "") + "</td></tr>" +
-            "</table>", feature);
+          var p = feature.properties;
+          var content = '<table style="font-family:Arial,sans-serif;font-size:13px;border-collapse:collapse;">' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">FINESS</th><td style="padding:3px 0">' + (p["FINESS"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">SIRET</th><td style="padding:3px 0">' + (p["SIRET"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Nom</th><td style="padding:3px 0">' + (p["Nom"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Adresse</th><td style="padding:3px 0">' + (p["Adresse"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Code NAF</th><td style="padding:3px 0">' + (p["Code NAF"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Prestataire (NAF 56)</th><td style="padding:3px 0">' + (p["Prestataire (NAF 56)"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Activité FINESS</th><td style="padding:3px 0">' + (p["Acivité FINESS"] || '—') + '</td></tr>' +
+            '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Gestionnaire biodéchets</th><td style="padding:3px 0">' + (p["Biodéchets"] || '—') + '</td></tr>' +
+            '</table>';
           layer.on("popupopen", function(e) { addClassToPopupIfMedia(content, e.popup); });
           layer.bindPopup(content, { maxHeight: 400 });
         }
@@ -979,12 +1055,14 @@
 
         function filterEtp(zoom = true) {
           let count = 0;
+          const suezVal = document.getElementById("SuezFilterEtp") ? document.getElementById("SuezFilterEtp").value : "all";
           cluster_QGISBDEntreprises.clearLayers();
           layer_QGISBDEntreprises.eachLayer(layer => {
             const p = layer.feature.properties;
             const okNAF = etpState.naf2 === "all" || String(p.NAF2) === String(etpState.naf2);
             const okType = etpState.types.size === 0 || etpState.types.has(p["LibelléNA"]);
-            if (okNAF && okType) {
+            const okSuez = suezVal === "all" || String(p["Biodéchets"] || "").toLowerCase().includes("suez");
+            if (okNAF && okType && okSuez) {
               cluster_QGISBDEntreprises.addLayer(layer);
               count++;
             }
@@ -1004,6 +1082,7 @@
         // Même logique : itérer sur le GeoJSON brut, pas sur le cluster
         function filterEsgt(zoom = true) {
           let count = 0;
+          const suezVal = document.getElementById("SuezFilterEsgt") ? document.getElementById("SuezFilterEsgt").value : "all";
           cluster_QGISBDEnseignement.clearLayers();
           layer_QGISBDEnseignement.eachLayer(layer => {
             const p = layer.feature.properties;
@@ -1014,7 +1093,8 @@
               || (esgtState.cantine === "null"  && _isNull)
               || (esgtState.cantine === "true"  && !_isNull && Number(_r) === 1)
               || (esgtState.cantine === "false" && !_isNull && Number(_r) === 0);
-            if (okNiveau && okCantine) {
+            const okSuez = suezVal === "all" || String(p["Biodéchets"] || "").toLowerCase().includes("suez");
+            if (okNiveau && okCantine && okSuez) {
               cluster_QGISBDEnseignement.addLayer(layer);
               count++;
             }
@@ -1029,13 +1109,16 @@
           buildTypes();   // reconstruire la liste filtrée des typologies
           filterEtp();
         };
+        document.getElementById("SuezFilterEtp").onchange = () => filterEtp();
         document.getElementById("FiltreNiveau").onchange = (e) => { esgtState.niveau = e.target.value; filterEsgt(); };
         document.getElementById("FiltreCantine").onchange = (e) => { esgtState.cantine = e.target.value; filterEsgt(); };
+        document.getElementById("SuezFilterEsgt").onchange = () => filterEsgt();
 
         document.getElementById("resetEtp").onclick = () => {
           etpState.naf2 = "all";
           etpState.types.clear();
           document.getElementById("FiltreNAF2").value = "all";
+          document.getElementById("SuezFilterEtp").value = "all";
           document.querySelectorAll("#typeCheckboxes input").forEach(cb => cb.checked = false);
           buildTypes();
           filterEtp(false);          // pas de zoom auto
@@ -1072,6 +1155,7 @@
           esgtState.cantine = "all";
           document.getElementById("FiltreNiveau").value = "all";
           document.getElementById("FiltreCantine").value = "all";
+          document.getElementById("SuezFilterEsgt").value = "all";
           filterEsgt(false);         // pas de zoom auto
           map.fitBounds(DEFAULT_BOUNDS);  // retour vue globale
         };
@@ -1128,13 +1212,20 @@
         function applyFiltersSante() {
           var checked = getCheckedSante();
           var showEHPAD = checked.indexOf("EHPAD") !== -1;
+          var suezVal = document.getElementById("SuezFilterSante") ? document.getElementById("SuezFilterSante").value : "all";
+
+          function matchesSuez(feature) {
+            if (suezVal === "all") return true;
+            return String(feature.properties["Biodéchets"] || "").toLowerCase().includes("suez");
+          }
 
           map.removeLayer(cluster_EHPAD);
           cluster_EHPAD.clearLayers();
           if (showEHPAD) {
             var geoEHPAD = new L.geoJson(santesocial1, {
               interactive: true, pane: "pane_EHPAD", onEachFeature: pop_EHPAD,
-              pointToLayer: function(feature, latlng) { return L.shapeMarker(latlng, style_EHPAD(feature)); }
+              pointToLayer: function(feature, latlng) { return L.shapeMarker(latlng, style_EHPAD(feature)); },
+              filter: matchesSuez
             });
             cluster_EHPAD.addLayer(geoEHPAD);
             cluster_EHPAD.addTo(map);
@@ -1146,17 +1237,20 @@
             interactive: true, pane: "pane_Hopitaux", onEachFeature: pop_Hopitaux,
             pointToLayer: function(feature, latlng) { return L.circleMarker(latlng, style_Hopitaux(feature)); },
             filter: function(feature) {
-              return checked.indexOf(String(feature.properties["Acivité FINESS"] || "")) !== -1;
+              return checked.indexOf(String(feature.properties["Acivité FINESS"] || "")) !== -1 && matchesSuez(feature);
             }
           });
           cluster_Hopitaux.addLayer(geoHop);
           cluster_Hopitaux.addTo(map);
 
-          var totalEHPAD = showEHPAD ? (santesocial1.features ? santesocial1.features.length : 0) : 0;
+          var totalEHPAD = 0;
+          if (showEHPAD && santesocial1 && santesocial1.features) {
+            santesocial1.features.forEach(function(f) { if (matchesSuez(f)) totalEHPAD++; });
+          }
           var totalHop = 0;
           if (santesocial2 && santesocial2.features) {
             santesocial2.features.forEach(function(f) {
-              if (checked.indexOf(String(f.properties["Acivité FINESS"] || "")) !== -1) totalHop++;
+              if (checked.indexOf(String(f.properties["Acivité FINESS"] || "")) !== -1 && matchesSuez(f)) totalHop++;
             });
           }
           document.getElementById("compteurSante").textContent = (totalEHPAD + totalHop) + " établissement(s)";
@@ -1165,17 +1259,11 @@
         document.querySelectorAll(".sante-cb").forEach(function(cb) {
           cb.onchange = applyFiltersSante;
         });
+        document.getElementById("SuezFilterSante").onchange = applyFiltersSante;
 
-        document.getElementById("santeSelectAll").onclick = function() {
-          document.querySelectorAll(".sante-cb").forEach(function(cb) { cb.checked = true; });
-          applyFiltersSante();
-        };
-        document.getElementById("santeDeselectAll").onclick = function() {
-          document.querySelectorAll(".sante-cb").forEach(function(cb) { cb.checked = false; });
-          applyFiltersSante();
-        };
         document.getElementById("resetSante").onclick = function() {
           document.querySelectorAll(".sante-cb").forEach(function(cb) { cb.checked = true; });
+          document.getElementById("SuezFilterSante").value = "all";
           applyFiltersSante();
           map.fitBounds(DEFAULT_BOUNDS);
         };
@@ -1211,6 +1299,9 @@
           initEtp();
           filterEsgt(false);
           applyFiltersSante();
+          // Panneau replié par défaut
+          filterBar.classList.add("collapsed");
+          reopenBar.style.display = "block";
         }, 300);
 
       }); // fin DOMContentLoaded

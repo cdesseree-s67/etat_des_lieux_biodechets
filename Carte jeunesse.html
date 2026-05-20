@@ -37,97 +37,103 @@ html, body, #map {
   text-align: center;
 }
 
-/* ===== BARRE DE FILTRES ===== */
+/* ===== PANNEAU FILTRES ===== */
 #FiltreEsgt {
   position: absolute;
   bottom: 20px; left: 50%;
   transform: translateX(-50%);
   z-index: 9998;
   background: white;
-  border-radius: 0 0 8px 8px;
-  box-shadow: 0 -2px 12px rgba(0,0,0,0.2);
+  border-radius: 8px 8px 8px 8px;
+  box-shadow: 0 -2px 12px rgba(0,0,0,0.25);
   font-family: Arial, sans-serif;
   font-size: 13px;
+  width: 340px;
+  max-height: calc(70vh);
   display: flex;
-  gap: 10px;
-  align-items: center;
-  flex-wrap: wrap;
-  padding: 10px 14px 14px 14px;
-  transition: all 0.25s ease;
-  max-width: 90vw;
+  flex-direction: column-reverse;
 }
-
-#FiltreEsgt.hidden {
-  transform: translateX(-50%) translateY(120%);
-  opacity: 0;
-  pointer-events: none;
+#FiltreEsgt.hidden { display: none; }
+#filtre-header {
+  background: #4a1a6b;
+  color: white;
+  padding: 10px 14px;
+  border-radius: 0 0 8px 8px;
+  font-weight: 700;
+  font-size: 14px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  user-select: none;
+  flex-shrink: 0;
+}
+#filtre-header:hover { background: #3a1258; }
+#filtre-toggle-icon { font-size: 11px; }
+#filtre-body {
+  overflow-y: auto;
+  padding: 10px 14px 14px 14px;
+  border-radius: 8px 8px 0 0;
 }
 
 /* Inputs & selects */
-#FiltreEsgt select,
-#FiltreEsgt input[type="text"] {
+#FiltreEsgt select {
   padding: 5px 8px;
   border-radius: 6px;
   border: 1px solid #c9b0e0;
   font-family: Arial, sans-serif;
   font-size: 13px;
   outline: none;
+  accent-color: #4a1a6b;
+  width: 100%;
+  box-sizing: border-box;
 }
-#FiltreEsgt select:focus,
-#FiltreEsgt input[type="text"]:focus {
+#FiltreEsgt select:focus {
   border-color: #4a1a6b;
   box-shadow: 0 0 0 2px rgba(74,26,107,0.15);
 }
 
-#FiltreNiveau { width: 180px; }
-#FiltreCantine { width: 180px; }
+.filter-section-title {
+  font-weight: 700;
+  color: #4a1a6b;
+  margin: 10px 0 6px 0;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid #e0d0f0;
+  padding-bottom: 3px;
+}
+.filter-section-title:first-child { margin-top: 4px; }
 
-/* ===== BOUTONS ===== */
-#FiltreEsgt button {
-  padding: 5px 12px;
-  cursor: pointer;
+/* ===== ACTIONS ===== */
+.filter-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+  padding-top: 10px;
+  border-top: 1px solid #e0d0f0;
+}
+.filter-btn {
+  flex: 1;
+  padding: 6px 10px;
   border: none;
-  border-radius: 6px;
-  font-family: Arial, sans-serif;
+  border-radius: 5px;
+  cursor: pointer;
   font-size: 12px;
   font-weight: 600;
+  font-family: Arial, sans-serif;
 }
-
-#resetFiltreEsgt {
-  background: #eee; color: #333;
-}
-#resetFiltreEsgt:hover { background: #ddd; }
-
-#exportCSV {
-  background: #4a1a6b; color: white;
-}
-#exportCSV:hover { background: #3a1258; }
-
-/* ===== TOGGLE ===== */
-#cacherFiltreEsgtBtn {
-  position: absolute;
-  bottom: 20px; left: 50%;
-  transform: translateX(200px);
-  z-index: 10000;
-  padding: 6px 12px;
-  border: none;
-  border-radius: 0 0 8px 8px;
-  background: #4a1a6b;
-  color: white;
-  cursor: pointer;
-  font-size: 13px;
-  font-weight: 600;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
-}
-#cacherFiltreEsgtBtn:hover { background: #3a1258; }
+.filter-btn-reset  { background: #eee; color: #333; }
+.filter-btn-reset:hover  { background: #ddd; }
+.filter-btn-export { background: #1a5276; color: white; }
+.filter-btn-export:hover { background: #154360; }
 
 /* ===== COMPTEUR ===== */
-#compteurEsgt {
-  font-size: 13px;
-  color: #4a1a6b;
-  font-weight: 600;
-  min-width: 100px;
-  text-align: right;
+.filter-count {
+  font-size: 11px;
+  color: #888;
+  margin-top: 8px;
+  text-align: center;
 }
 
 /* ===== LÉGENDE : clic uniquement ===== */
@@ -136,42 +142,50 @@ html, body, #map {
 }
 .leaflet-control-layers-toggle { cursor: pointer; }
 </style>
-<title>Carte des producteurs de biodéchets – Enseignement – Bas-Rhin</title>
+<title>Carte des producteurs de biodéchets – Jeunesse – Bas-Rhin</title>
 </head>
 <body>
-<div id="Titre-carte">Carte des producteurs de biodéchets – Enseignement – Bas-Rhin</div>
+<div id="Titre-carte">Carte des producteurs de biodéchets – Jeunesse – Bas-Rhin</div>
 <div id="map"></div>
 <div id="FiltreEsgt">
+  <div id="filtre-header" onclick="cacherFiltreEsgt()">
+    🔍 Filtrer les établissements
+    <span id="filtre-toggle-icon">▼</span>
+  </div>
+  <div id="filtre-body">
 
-<!-- FILTRE Niveau -->
-<select id="FiltreNiveau">
-<option value="all">Tous les niveaux</option>
-<option value="Ecole"> Écoles</option>
-<option value="Collège">Collèges</option>
-<option value="Lycée">Lycées</option>
-<option value="CROUS">CROUS</option>
-<option value="Crèche">Crèches</option>
-</select>
+    <div class="filter-section-title">Niveau</div>
+    <select id="FiltreNiveau">
+      <option value="all">Tous les niveaux</option>
+      <option value="Ecole">Écoles</option>
+      <option value="Collège">Collèges</option>
+      <option value="Lycée">Lycées</option>
+      <option value="CROUS">CROUS</option>
+      <option value="Crèche">Crèches</option>
+    </select>
 
-<select id="FiltreCantine">
-<option value="all">Tous</option>
-<option value="true"> Oui</option>
-<option value="false">Non</option>
-<option value="null">Non spécifié</option>
-</select>
+    <div class="filter-section-title" style="margin-top:10px;">Restauration</div>
+    <select id="FiltreCantine">
+      <option value="all">Tous</option>
+      <option value="true">Oui</option>
+      <option value="false">Non</option>
+      <option value="null">Non spécifié</option>
+    </select>
 
-<!-- RESET -->
-<button id="resetFiltreEsgt">Reset</button>
+    <div class="filter-section-title" style="margin-top:10px;">Gestionnaire biodéchets</div>
+    <select id="SuezFilter">
+      <option value="all">Tous les gestionnaires</option>
+      <option value="Suez">Suez uniquement</option>
+    </select>
 
-<!-- EXPORT -->
-<button id="exportCSV">Export CSV</button>
+    <div class="filter-actions">
+      <button class="filter-btn filter-btn-reset" id="resetFiltreEsgt">Reset</button>
+      <button class="filter-btn filter-btn-export" id="exportCSV">Export CSV</button>
+    </div>
+    <div class="filter-count" id="compteurEsgt"></div>
 
-<!-- COMPTEUR -->
-<span id="compteurEsgt"></span>
-
+  </div>
 </div>
-<!-- CACHER -->
-<button id="cacherFiltreEsgtBtn">▼</button>
 
 
         <script src="js/qgis2web_expressions.js"></script>
@@ -397,6 +411,8 @@ var osm = L.tileLayer(
                 '<td style="padding:3px 0">' + (p['Adresse'] || '—') + '</td></tr>' +
               '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Effectifs</th>' +
                 '<td style="padding:3px 0">' + (p['Effectifs'] !== null && p['Effectifs'] !== undefined ? p['Effectifs'] : '—') + '</td></tr>' +
+              '<tr><th style="text-align:left;padding:3px 8px 3px 0;white-space:nowrap">Gestionnaire biodéchets</th>' +
+                '<td style="padding:3px 0">' + (p['Biodéchets'] || '—') + '</td></tr>' +
               '</table>';
             layer.bindPopup(popupContent, { maxHeight: 400 });
         }
@@ -510,7 +526,7 @@ var osm = L.tileLayer(
             }
         });
         var overlaysTree = [
-        {label: '<b>Enseignement</b>',  selectAllCheckbox: true, children: [
+        {label: '<b>Jeunesse</b>',  selectAllCheckbox: true, children: [
             {label: 'Restauration scolaire<br /><table><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Ecole0.png" /></td><td>Ecole</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Collège1.png" /></td><td>Collège</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Lycée2.png" /></td><td>Lycée</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_CROUS3.png" /></td><td>CROUS</td></tr><tr><td style="text-align: center;"><img src="legend/Restaurationscolaire_14_Crèche4.png" /></td><td>Crèche</td></tr></table>', layer: cluster_Restaurationscolaire_14},]},
         {label: '<b>Géographie</b>', collapsed: true, selectAllCheckbox: true, children: [
             {label: '<img src="legend/DpartementduBasRhin_2.png" /> Département du Bas-Rhin', layer: layer_DpartementduBasRhin_2},
@@ -587,7 +603,8 @@ var fieldCantine = "Restauration";
 const stateEsgt = { 
   Niveau: "all", 
   Cantine: "all",
-  visible: true,
+  Suez: "all",
+  visible: false,
   filtered: []
 };
 
@@ -614,8 +631,12 @@ function filtrerEsgt() {
                       (stateEsgt.Cantine === "true"  && !_isNull && Number(_r) === 1) ||
                       (stateEsgt.Cantine === "false" && !_isNull && Number(_r) === 0);
 
+    // ===== SUEZ =====
+    const okSuez = stateEsgt.Suez === "all" ||
+                   String(p["Biodéchets"] || "").toLowerCase().includes("suez");
+
     // ===== RESULTAT =====
-    if (okNiveau && okCantine) {
+    if (okNiveau && okCantine && okSuez) {
       cluster_Restaurationscolaire_14.addLayer(layer);
       stateEsgt.filtered.push(p);
       count++;
@@ -640,32 +661,38 @@ function bindUIEsgt() {
       filtrerEsgt();
     });
 
+  document.getElementById("SuezFilter")
+    .addEventListener("change", e => {
+      stateEsgt.Suez = e.target.value;
+      filtrerEsgt();
+    });
+
   document.getElementById("resetFiltreEsgt")
     .addEventListener("click", () => {
       stateEsgt.Niveau = "all";
       stateEsgt.Cantine = "all";
+      stateEsgt.Suez = "all";
 
       document.getElementById("FiltreNiveau").value = "all";
       document.getElementById("FiltreCantine").value = "all";
+      document.getElementById("SuezFilter").value = "all";
 
       filtrerEsgt();
     });
-
-  document.getElementById("cacherFiltreEsgtBtn")
-    .addEventListener("click", cacherFiltreEsgt);
 }
 
 // ================= CACHER ========================
 function cacherFiltreEsgt() {
-  const panel = document.getElementById("FiltreEsgt"); 
+  const body = document.getElementById("filtre-body");
+  const icon = document.getElementById("filtre-toggle-icon");
   stateEsgt.visible = !stateEsgt.visible;
 
   if (stateEsgt.visible) {
-    panel.classList.remove("hidden");
-    document.getElementById("cacherFiltreEsgtBtn").textContent = "▼";
+    body.style.display = "";
+    icon.textContent = "▼";
   } else {
-    panel.classList.add("hidden");
-    document.getElementById("cacherFiltreEsgtBtn").textContent = "▲";
+    body.style.display = "none";
+    icon.textContent = "▲";
   }
 }
 
@@ -686,10 +713,10 @@ function exportCSV() {
     )
   ].join("\n");
 
-  const blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
+  const blob = new Blob(['\uFEFF' + csv], { type: "text/csv;charset=utf-8;" });
   const a = document.createElement("a");
   a.href = URL.createObjectURL(blob);
-  a.download = "export.csv";
+  a.download = "export_jeunesse.csv";
   a.click();
 }
 
@@ -697,6 +724,8 @@ function exportCSV() {
 map.whenReady(() => {
   bindUIEsgt();
   filtrerEsgt();
+  document.getElementById("filtre-body").style.display = "none";
+  document.getElementById("filtre-toggle-icon").textContent = "▲";
 });
 
 
